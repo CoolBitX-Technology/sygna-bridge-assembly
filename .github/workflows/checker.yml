@@ -1,0 +1,26 @@
+name: Sygna Assembly Checker
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+jobs:
+  checker:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.SYG_ACCT_SEMANTIC_RELEASE }}
+    steps:
+      - name: Checkout assembly handler
+        env:
+          ENV: ${{ github.head_ref }}
+        run: |
+          if [[ $ENV == "master" || $ENV == "test" ]]
+          then
+            git clone --branch $ENV --depth 1 https://${GITHUB_TOKEN}@github.com/CoolBitX-Technology/sygna-bridge-assembly-handler.git handler
+          else
+            git clone --branch dev --depth 1 https://${GITHUB_TOKEN}@github.com/CoolBitX-Technology/sygna-bridge-assembly-handler.git handler
+          fi
+      - name: Run checker
+        run: |
+          cd handler
+          npm ci
+          npm run start
+
