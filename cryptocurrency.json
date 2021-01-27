@@ -1,0 +1,17 @@
+{
+  "addr_extra_info": [
+
+  ],
+  "cmc_id": 1876,
+  "currency_id": "sygna:0x8000003c.0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6",
+  "currency_name": "Dentacoin",
+  "currency_symbol": "DCN",
+  "is_active": true,
+  "platform": {
+    "id": "sygna:0x8000003c",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "token_address": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6"
+  },
+  "updated_at": "2020-11-30T06:12:27.161Z"
+}
