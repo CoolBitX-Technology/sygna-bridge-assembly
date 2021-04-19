@@ -6,7 +6,7 @@ jobs:
   checker:
     runs-on: ubuntu-latest
     env:
-      GITHUB_TOKEN: ${{ secrets.SYG_ACCT_SEMANTIC_RELEASE }}
+      GITHUB_TOKEN: ${{ secrets.DEVOPS_CHANGELOG_TOKEN }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
