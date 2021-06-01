@@ -1,4 +1,21 @@
 
+## [1.2.0-beta.2]
+> 2021-06-01
+
+[382a428](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/382a428) Rename   sygna:0x64ff637fb478863b7468bc97d30a5bf3a428a1fd.json to sygna:0x800003f2.0x64ff637fb478863b7468bc97d30a5bf3a428a1fd.json
+
+[7cdd7c0](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/7cdd7c0) Create   sygna:0x800003f2.0xa71edc38d189767582c38a3145b5873052c3e47a.json
+
+[1964578](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/1964578) Create   sygna:0x64ff637fb478863b7468bc97d30a5bf3a428a1fd.json
+
+[d70604e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d70604e) Create   sygna:0x800003f2.0x66a79d23e58475d2738179ca52cd0b41d73f0bea.json
+
+[6d275aa](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/6d275aa) Create   sygna:0x800003f2.json
+
+
+[1.2.0-beta.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.2.0-beta.2
+
+
 ## [1.2.0-beta.1]
 > 2021-06-01
 
