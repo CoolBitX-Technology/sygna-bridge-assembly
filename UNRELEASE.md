@@ -1,4 +1,15 @@
 
+## [1.3.0-alpha.1]
+> 2022-04-18
+
+[312b4ab](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/312b4ab) fix:   revise currency name
+
+[d8387db](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d8387db) feat: [SYGN-209](https://app.clickup.com/t/25577573/SYGN-209)   add TerraUST
+
+
+[1.3.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.3.0-alpha.1
+
+
 ## [1.1.0-alpha.1]
 > 2021-04-12
 
@@ -18,5 +29,3 @@
 
 
 [1.1.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.1.0-alpha.1
-
-
