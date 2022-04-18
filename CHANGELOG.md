@@ -1,17 +1,8 @@
 
-## [1.3.0-alpha.1]
-> 2022-04-18
-
-[312b4ab](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/312b4ab) fix:   revise currency name
-
-[d8387db](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d8387db) feat: [SYGN-209](https://app.clickup.com/t/25577573/SYGN-209)   add TerraUST
+## [1.1.0]
+> 2021-04-22
 
 
-[1.3.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.3.0-alpha.1
-
-
-## [1.1.0-alpha.1]
-> 2021-04-12
 
 [65d27f4](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/65d27f4) feat: [SYG-605](https://coolbitx.atlassian.net/browse/SYG-605)   enable semantic-release
 
@@ -27,5 +18,9 @@
 
 [2e4cd40](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2e4cd40) Create   sygna:0x800002ca.BIDR-0E9.json
 
+[8490cfb](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/8490cfb) feat:   set up CI/CD
 
-[1.1.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.1.0-alpha.1
+
+[1.1.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.1.0
+
+
