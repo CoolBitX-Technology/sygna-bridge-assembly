@@ -1,4 +1,13 @@
 
+## [1.4.0]
+> 2022-06-15
+
+[2f645ec](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2f645ec) Create   sygna:0x8000014a Terra Classic (LUNC)
+
+
+[1.4.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.4.0
+
+
 ## [1.3.0]
 > 2022-04-18
 
