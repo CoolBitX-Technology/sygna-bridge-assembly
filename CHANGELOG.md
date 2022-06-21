@@ -1,4 +1,15 @@
 
+## [1.5.0]
+> 2022-06-21
+
+
+
+[60eb55c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/60eb55c) fix:   delete duplicated currency
+
+
+[1.5.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.5.0
+
+
 ## [1.4.0]
 > 2022-06-15
 
