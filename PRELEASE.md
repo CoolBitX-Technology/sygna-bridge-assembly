@@ -1,4 +1,19 @@
 
+## [1.5.0-beta.1]
+> 2022-06-20
+
+
+[60eb55c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/60eb55c) fix:   delete duplicated currency
+
+
+[2f645ec](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2f645ec) Create   sygna:0x8000014a Terra Classic (LUNC)
+
+[2d4c501](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2d4c501) Update   sygna:0x80000162.json
+
+
+[1.5.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.5.0-beta.1
+
+
 ## [1.3.0-beta.2]
 > 2022-04-18
 
