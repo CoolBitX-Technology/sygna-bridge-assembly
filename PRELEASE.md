@@ -1,4 +1,14 @@
 
+## [1.7.0-beta.1]
+> 2022-06-30
+
+
+[6ada659](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/6ada659) fix:   token address should be lowercase
+
+
+[1.7.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.7.0-beta.1
+
+
 ## [1.6.0-beta.1]
 > 2022-06-22
 
