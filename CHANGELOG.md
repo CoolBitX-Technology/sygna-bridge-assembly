@@ -1,4 +1,42 @@
 
+## [1.8.0]
+> 2022-11-24
+
+[9577376](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/9577376) Update   sygna:0x8000027d.json
+
+[46ca247](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/46ca247) Rename   sygna-0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json to sygna:0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json
+
+[a394243](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/a394243) Create   sygna-0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json
+
+[d8a3940](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d8a3940) Create   sygna:0x800003c6.json
+
+[99871de](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/99871de) Rename   sygna-0x800010f7.json to sygna:0x800010f7.json
+
+[153924a](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/153924a) Rename   sygna-0x8000027d.json to sygna:0x8000027d.json
+
+[780b703](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/780b703) Aptos   & Symbol
+
+
+[1.8.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.8.0
+
+
+## [1.7.0]
+> 2022-06-30
+
+
+
+[6ada659](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/6ada659) fix:   token address should be lowercase
+
+
+
+[7c88c8e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/7c88c8e) Update   sygna:0x8000003c.0xa47c8bf37f92abed4a126bda807a7b7498661acd.json
+
+[35e656a](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/35e656a) Update   sygna:0x8000003c.0xa693B19d2931d498c5B318dF961919BB4aee87a5.json
+
+
+[1.7.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.7.0
+
+
 ## [1.5.0]
 > 2022-06-21
 

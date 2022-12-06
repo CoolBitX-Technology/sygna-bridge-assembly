@@ -1,4 +1,26 @@
 
+## [1.7.0-beta.1]
+> 2022-06-30
+
+
+[6ada659](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/6ada659) fix:   token address should be lowercase
+
+
+[1.7.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.7.0-beta.1
+
+
+## [1.6.0-beta.1]
+> 2022-06-22
+
+
+[7c88c8e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/7c88c8e) Update   sygna:0x8000003c.0xa47c8bf37f92abed4a126bda807a7b7498661acd.json
+
+[35e656a](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/35e656a) Update   sygna:0x8000003c.0xa693B19d2931d498c5B318dF961919BB4aee87a5.json
+
+
+[1.6.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.6.0-beta.1
+
+
 ## [1.5.0-beta.1]
 > 2022-06-20
 
