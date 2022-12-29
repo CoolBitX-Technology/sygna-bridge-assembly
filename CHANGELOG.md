@@ -1,4 +1,21 @@
 
+## [1.9.0]
+> 2022-12-29
+
+
+
+[d794de2](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d794de2) feat:empty   push
+
+[618b56f](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/618b56f) Update   sygna:0x800010f7.json
+
+[effcc94](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/effcc94) Update   sygna:0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json
+
+[e2b7eb2](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/e2b7eb2) Update   sygna:0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json
+
+
+[1.9.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.9.0
+
+
 ## [1.8.0]
 > 2022-11-24
 
