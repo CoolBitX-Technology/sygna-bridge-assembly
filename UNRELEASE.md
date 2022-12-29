@@ -1,4 +1,34 @@
 
+## [1.9.0-alpha.1]
+> 2022-12-29
+
+[d794de2](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d794de2) feat:empty   push
+
+[618b56f](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/618b56f) Update   sygna:0x800010f7.json
+
+[effcc94](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/effcc94) Update   sygna:0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json
+
+[e2b7eb2](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/e2b7eb2) Update   sygna:0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json
+
+
+[9577376](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/9577376) Update   sygna:0x8000027d.json
+
+[46ca247](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/46ca247) Rename   sygna-0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json to sygna:0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json
+
+[a394243](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/a394243) Create   sygna-0x800003c6.0xc2132d05d31c914a87c6611c10748aeb04b58e8f.json
+
+[d8a3940](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d8a3940) Create   sygna:0x800003c6.json
+
+[99871de](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/99871de) Rename   sygna-0x800010f7.json to sygna:0x800010f7.json
+
+[153924a](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/153924a) Rename   sygna-0x8000027d.json to sygna:0x8000027d.json
+
+[780b703](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/780b703) Aptos   & Symbol
+
+
+[1.9.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.9.0-alpha.1
+
+
 ## [1.7.0-alpha.2]
 > 2022-06-29
 
