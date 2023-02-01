@@ -1,4 +1,15 @@
 
+## [1.10.0-alpha.1]
+> 2023-02-01
+
+[7eb357c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/7eb357c) feat:SYGN-1225  
+
+[cfb46b5](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/cfb46b5) Add   files via upload
+
+
+[1.10.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.10.0-alpha.1
+
+
 ## [1.9.0-alpha.1]
 > 2022-12-29
 
