@@ -1,4 +1,13 @@
 
+## [1.10.0-alpha.4]
+> 2023-02-03
+
+[a977d36](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/a977d36) fix:   currencies
+
+
+[1.10.0-alpha.4]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.10.0-alpha.4
+
+
 ## [1.10.0-alpha.3]
 > 2023-02-03
 
