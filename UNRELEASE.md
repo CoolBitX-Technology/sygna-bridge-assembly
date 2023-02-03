@@ -1,4 +1,13 @@
 
+## [1.10.0-alpha.3]
+> 2023-02-03
+
+[6290f0e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/6290f0e) fix:   0x80000100
+
+
+[1.10.0-alpha.3]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.10.0-alpha.3
+
+
 ## [1.10.0-alpha.2]
 > 2023-02-03
 
