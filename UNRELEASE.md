@@ -1,4 +1,13 @@
 
+## [1.10.0-alpha.2]
+> 2023-02-03
+
+[89bf042](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/89bf042) fix:   currency 0x8000022f
+
+
+[1.10.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.10.0-alpha.2
+
+
 ## [1.10.0-alpha.1]
 > 2023-02-01
 
