@@ -1,4 +1,13 @@
 
+## [1.10.0-alpha.5]
+> 2023-02-03
+
+[304ebd6](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/304ebd6) fix:   del NBX
+
+
+[1.10.0-alpha.5]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.10.0-alpha.5
+
+
 ## [1.10.0-alpha.4]
 > 2023-02-03
 
