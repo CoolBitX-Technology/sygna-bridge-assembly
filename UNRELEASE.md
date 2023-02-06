@@ -1,4 +1,15 @@
 
+## [1.10.0-alpha.6]
+> 2023-02-06
+
+[b4a7605](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/b4a7605) fix:   lower case
+
+[7f31738](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/7f31738) add   new currency
+
+
+[1.10.0-alpha.6]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.10.0-alpha.6
+
+
 ## [1.10.0-alpha.5]
 > 2023-02-03
 
