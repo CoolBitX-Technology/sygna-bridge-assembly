@@ -1,4 +1,36 @@
 
+## [1.10.0-beta.1]
+> 2023-03-10
+
+
+[bf19046](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/bf19046) test  
+
+
+[b4a7605](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/b4a7605) fix:   lower case
+
+[7f31738](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/7f31738) add   new currency
+
+
+[304ebd6](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/304ebd6) fix:   del NBX
+
+
+[a977d36](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/a977d36) fix:   currencies
+
+
+[6290f0e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/6290f0e) fix:   0x80000100
+
+
+[89bf042](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/89bf042) fix:   currency 0x8000022f
+
+
+[7eb357c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/7eb357c) feat:SYGN-1225  
+
+[cfb46b5](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/cfb46b5) Add   files via upload
+
+
+[1.10.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.10.0-beta.1
+
+
 ## [1.9.0-beta.1]
 > 2022-12-29
 
