@@ -1,4 +1,13 @@
 
+## [1.10.0-alpha.7]
+> 2023-03-10
+
+[bf19046](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/bf19046) test  
+
+
+[1.10.0-alpha.7]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.10.0-alpha.7
+
+
 ## [1.10.0-alpha.6]
 > 2023-02-06
 
