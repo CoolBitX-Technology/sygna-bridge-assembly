@@ -1,4 +1,13 @@
 
+## [1.11.0-alpha.2]
+> 2023-03-23
+
+[07c4c56](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/07c4c56) feat:   add new token
+
+
+[1.11.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.11.0-alpha.2
+
+
 ## [1.11.0-alpha.1]
 > 2023-03-16
 
