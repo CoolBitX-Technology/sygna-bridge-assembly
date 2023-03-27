@@ -1,4 +1,18 @@
 
+## [1.11.0]
+> 2023-03-27
+
+
+
+[07c4c56](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/07c4c56) feat:   add new token
+
+
+[25295b0](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/25295b0) feat:   0x8ca328bb08b0ab920e792e5c67b718de4330fc9d
+
+
+[1.11.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.11.0
+
+
 ## [1.10.0]
 > 2023-03-10
 
