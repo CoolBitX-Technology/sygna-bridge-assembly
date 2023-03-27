@@ -1,4 +1,14 @@
 
+## [1.11.1-beta.1]
+> 2023-03-27
+
+
+[d7ca464](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d7ca464) fix:   remove duplicate token
+
+
+[1.11.1-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.11.1-beta.1
+
+
 ## [1.11.0-beta.1]
 > 2023-03-27
 
