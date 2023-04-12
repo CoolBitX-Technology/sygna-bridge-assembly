@@ -1,4 +1,14 @@
 
+## [1.12.0-beta.1]
+> 2023-04-12
+
+
+[59442f5](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/59442f5) feat: [SYGN-3476](https://app.clickup.com/t/25577573/SYGN-3476)   add JASMY
+
+
+[1.12.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.12.0-beta.1
+
+
 ## [1.11.1-beta.1]
 > 2023-03-27
 
