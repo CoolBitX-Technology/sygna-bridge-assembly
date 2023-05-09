@@ -1,4 +1,15 @@
 
+## [1.13.0]
+> 2023-05-09
+
+
+
+[ec12a99](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/ec12a99) feat: [SYGN-3442](https://app.clickup.com/t/25577573/SYGN-3442)   add currencies
+
+
+[1.13.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.13.0
+
+
 ## [1.12.0]
 > 2023-04-12
 
