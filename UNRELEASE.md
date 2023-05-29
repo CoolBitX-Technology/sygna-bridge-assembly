@@ -1,4 +1,13 @@
 
+## [1.14.1-alpha.1]
+> 2023-05-29
+
+[2eba675](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2eba675) fix:   rename
+
+
+[1.14.1-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.14.1-alpha.1
+
+
 ## [1.14.0-alpha.1]
 > 2023-05-29
 
