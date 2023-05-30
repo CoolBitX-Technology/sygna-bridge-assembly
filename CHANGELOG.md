@@ -1,4 +1,18 @@
 
+## [1.15.0]
+> 2023-05-30
+
+
+
+[edfd52c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/edfd52c) feat: [SYGN-4881](https://app.clickup.com/t/25577573/SYGN-4881)   new assets
+
+
+[2eba675](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2eba675) fix:   rename
+
+
+[1.15.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.15.0
+
+
 ## [1.14.0]
 > 2023-05-29
 
