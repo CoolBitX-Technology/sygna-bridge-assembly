@@ -1,4 +1,13 @@
 
+## [1.16.0-alpha.2]
+> 2023-05-31
+
+[09df0d2](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/09df0d2) fix:   revert changes
+
+
+[1.16.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.16.0-alpha.2
+
+
 ## [1.16.0-alpha.1]
 > 2023-05-31
 
