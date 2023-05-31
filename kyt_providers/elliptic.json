@@ -1,0 +1,4028 @@
+[
+  {
+      "assetName": "Celo Dollar",
+      "blockchainName": "Celo",
+      "assetTicker": "CUSD",
+      "blockchainVariable": "celo"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Celo",
+      "assetTicker": "USDC",
+      "blockchainVariable": "celo"
+  },
+  {
+      "assetName": "Celo",
+      "blockchainName": "Celo",
+      "assetTicker": "CELO",
+      "blockchainVariable": "celo"
+  },
+  {
+      "assetName": "Ethereum Classic",
+      "blockchainName": "Ethereum Classic",
+      "assetTicker": "ETC",
+      "blockchainVariable": "ethereum classic"
+  },
+  {
+      "assetName": "Dai",
+      "blockchainName": "Fantom",
+      "assetTicker": "DAI",
+      "blockchainVariable": "fantom"
+  },
+  {
+      "assetName": "Fantom",
+      "blockchainName": "Fantom",
+      "assetTicker": "FTM",
+      "blockchainVariable": "fantom"
+  },
+  {
+      "assetName": "renBTC",
+      "blockchainName": "Fantom",
+      "assetTicker": "RENBTC",
+      "blockchainVariable": "fantom"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Fantom",
+      "assetTicker": "USDC",
+      "blockchainVariable": "fantom"
+  },
+  {
+      "assetName": "Tether",
+      "blockchainName": "Fantom",
+      "assetTicker": "USDT",
+      "blockchainVariable": "fantom"
+  },
+  {
+      "assetName": "Wrapped Bitcoin",
+      "blockchainName": "Fantom",
+      "assetTicker": "WBTC",
+      "blockchainVariable": "fantom"
+  },
+  {
+      "assetName": "WETH",
+      "blockchainName": "Fantom",
+      "assetTicker": "WETH",
+      "blockchainVariable": "fantom"
+  },
+  {
+      "assetName": "Tron",
+      "blockchainName": "Tron",
+      "assetTicker": "TRX",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "TrueUSD",
+      "blockchainName": "Tron",
+      "assetTicker": "TUSD",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Tron",
+      "assetTicker": "USDC",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "USDD",
+      "blockchainName": "Tron",
+      "assetTicker": "USDD",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "USDJ",
+      "blockchainName": "Tron",
+      "assetTicker": "USDJ",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "Tether",
+      "blockchainName": "Tron",
+      "assetTicker": "USDT",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "CelerToken",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "CELR",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Compound",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "COMP",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Curve DAO Token",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "CRV",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Dai Stablecoin",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "DAI",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Arbitrum",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "ETH",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "The Graph",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "GRT",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "ChainLink Token",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "LINK",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "LoopringCoin v2",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "LRC",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "SushiToken",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "SUSHI",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "TrueUSD",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "TUSD",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Uniswap",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "UNI",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "USDC",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Tether",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "USDT",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "TerraUSD",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "UST",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Wrapped BTC",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "WBTC",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Wrapped Ether",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "WETH",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Yearn Finance",
+      "blockchainName": "Arbitrum",
+      "assetTicker": "YFI",
+      "blockchainVariable": "arbitrum"
+  },
+  {
+      "assetName": "Avalanche",
+      "blockchainName": "Avalanche",
+      "assetTicker": "AVAX",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Binance USD Bridged",
+      "blockchainName": "Avalanche",
+      "assetTicker": "BUSD.e",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Ethereum",
+      "blockchainName": "Avalanche",
+      "assetTicker": "ETH",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Joe",
+      "blockchainName": "Avalanche",
+      "assetTicker": "JOE",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Pangolin",
+      "blockchainName": "Avalanche",
+      "assetTicker": "PNG",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "BENQI",
+      "blockchainName": "Avalanche",
+      "assetTicker": "QI",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Avalanche",
+      "assetTicker": "USDC",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "USD Coin Bridged",
+      "blockchainName": "Avalanche",
+      "assetTicker": "USDC.e",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Tether",
+      "blockchainName": "Avalanche",
+      "assetTicker": "USDT",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Tether bridged",
+      "blockchainName": "Avalanche",
+      "assetTicker": "USDT.e",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Wrapped AVAX",
+      "blockchainName": "Avalanche",
+      "assetTicker": "WAVAX",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Wrapped Bitcoin bridged",
+      "blockchainName": "Avalanche",
+      "assetTicker": "WBTC.e",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "WETH bridged",
+      "blockchainName": "Avalanche",
+      "assetTicker": "WETH.e",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Wirex Token",
+      "blockchainName": "Avalanche",
+      "assetTicker": "WXT",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Aave",
+      "blockchainName": "Polygon",
+      "assetTicker": "AAVE",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "BNB",
+      "blockchainName": "Polygon",
+      "assetTicker": "BNB",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Binance USD",
+      "blockchainName": "Polygon",
+      "assetTicker": "BUSD",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "DAI",
+      "blockchainName": "Polygon",
+      "assetTicker": "DAI",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "ChainLink",
+      "blockchainName": "Polygon",
+      "assetTicker": "LINK",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Decentraland",
+      "blockchainName": "Polygon",
+      "assetTicker": "MANA",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Mask Network",
+      "blockchainName": "Polygon",
+      "assetTicker": "MASK",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Polygon",
+      "blockchainName": "Polygon",
+      "assetTicker": "MATIC",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Mantra DAO",
+      "blockchainName": "Polygon",
+      "assetTicker": "OM",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Paxos Gold",
+      "blockchainName": "Polygon",
+      "assetTicker": "PAXG",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "PlayDapp",
+      "blockchainName": "Polygon",
+      "assetTicker": "PLA",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "renBTC",
+      "blockchainName": "Polygon",
+      "assetTicker": "RENBTC",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Sandbox",
+      "blockchainName": "Polygon",
+      "assetTicker": "SAND",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "SuperFarm",
+      "blockchainName": "Polygon",
+      "assetTicker": "SUPER",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Uniswap",
+      "blockchainName": "Polygon",
+      "assetTicker": "UNI",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Polygon",
+      "assetTicker": "USDC",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "USDT",
+      "blockchainName": "Polygon",
+      "assetTicker": "USDT",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "UST Token",
+      "blockchainName": "Polygon",
+      "assetTicker": "UST",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Wrapped BTC",
+      "blockchainName": "Polygon",
+      "assetTicker": "WBTC",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Wrapped ETH",
+      "blockchainName": "Polygon",
+      "assetTicker": "WETH",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Aave Token",
+      "blockchainName": "Optimism",
+      "assetTicker": "AAVE",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "BarnBridge Governance Token",
+      "blockchainName": "Optimism",
+      "assetTicker": "BOND",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Curve DAO Token",
+      "blockchainName": "Optimism",
+      "assetTicker": "CRV",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Dai stable coin",
+      "blockchainName": "Optimism",
+      "assetTicker": "DAI",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Dentacoin",
+      "blockchainName": "Optimism",
+      "assetTicker": "DCN",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "dForce",
+      "blockchainName": "Optimism",
+      "assetTicker": "DF",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "dHEDGE DAO Token",
+      "blockchainName": "Optimism",
+      "assetTicker": "DHT",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Ethereum Name Service",
+      "blockchainName": "Optimism",
+      "assetTicker": "ENS",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Ethereum",
+      "blockchainName": "Optimism",
+      "assetTicker": "ETH",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Chainlink",
+      "blockchainName": "Optimism",
+      "assetTicker": "LINK",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "LoopringCoin V2",
+      "blockchainName": "Optimism",
+      "assetTicker": "LRC",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Mask Network",
+      "blockchainName": "Optimism",
+      "assetTicker": "MASK",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Maker",
+      "blockchainName": "Optimism",
+      "assetTicker": "MKR",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Perpetual",
+      "blockchainName": "Optimism",
+      "assetTicker": "PERP",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Synthetic Bitcoin",
+      "blockchainName": "Optimism",
+      "assetTicker": "sBTC",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Synthetix",
+      "blockchainName": "Optimism",
+      "assetTicker": "SNX",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "SPANK",
+      "blockchainName": "Optimism",
+      "assetTicker": "SPANK",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Synthetix USD",
+      "blockchainName": "Optimism",
+      "assetTicker": "sUSD",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "UMA Voting Token v1",
+      "blockchainName": "Optimism",
+      "assetTicker": "UMA",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Uniswap",
+      "blockchainName": "Optimism",
+      "assetTicker": "UNI",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Optimism",
+      "assetTicker": "USDC",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Tether USD",
+      "blockchainName": "Optimism",
+      "assetTicker": "USDT",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "UST (Wormhole)",
+      "blockchainName": "Optimism",
+      "assetTicker": "UST",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "dForce USD",
+      "blockchainName": "Optimism",
+      "assetTicker": "USX",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Wrapped Bitcoin",
+      "blockchainName": "Optimism",
+      "assetTicker": "WBTC",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Wrapped Ether",
+      "blockchainName": "Optimism",
+      "assetTicker": "WETH",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "CryptoFranc",
+      "blockchainName": "Optimism",
+      "assetTicker": "XCHF",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Alchemy Pay",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ACH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Aleph.im",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ALEPH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "MyNeighborAlice",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ALICE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "ApeCoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "APE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "ArdCoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ARDX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Audius",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AUDIO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Badger DAO",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BADGER",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Bankless DAO",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BANK",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Biconomy",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BICO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "BitDAO",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BIT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "BitRewards",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BIT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "BarnBridge",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BOND",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Euro Coin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "cbETH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Chromia",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CHR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Clover Finance",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CLV",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "COTI",
+      "blockchainName": "Ethereum",
+      "assetTicker": "COTI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Cartesi",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CTSI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Somnium Space Cubes",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CUBE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound USD Coin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CUSDC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "DAO Maker",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DAO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Mines of Dalarnia",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DAR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "DEAPcoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DEP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Efinity Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EFI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Euro Coin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EUROC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Tether EURt",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EURT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "e-Radix",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EXRD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Harvest Finance",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FARM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Franklin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FLY",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ampleforth Governance Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FORTH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Frax",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FRAX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Frontier",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FRONT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Gala",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GALA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Aavegotchi",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GHST",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Gods Unchained",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GODS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Huobi BTC",
+      "blockchainName": "Ethereum",
+      "assetTicker": "HBTC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "IDEX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "IDEX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Immutable X",
+      "blockchainName": "Ethereum",
+      "assetTicker": "IMX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "JasmyCoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "JASMY",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Lido DAO Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LDO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Doge Killer",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LEASH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Tokenlon Network Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LON",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "LooksRare",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LOOKS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "MetisDAO",
+      "blockchainName": "Ethereum",
+      "assetTicker": "METIS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Magic Internet Money",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MIM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Mimo Governance Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MIMO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Minds",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MINDS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Maple",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MPL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Occam.Fi",
+      "blockchainName": "Ethereum",
+      "assetTicker": "OCC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "MantraDAO",
+      "blockchainName": "Ethereum",
+      "assetTicker": "OM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Orion Protocol",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ORN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Parachute",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PAR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Prometeus",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PROM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "SuperRare",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RARE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ribbon Finance",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RBN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Reef",
+      "blockchainName": "Ethereum",
+      "assetTicker": "REEF",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Request",
+      "blockchainName": "Ethereum",
+      "assetTicker": "REQ",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Revain",
+      "blockchainName": "Ethereum",
+      "assetTicker": "REV",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Rocket Pool",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RPL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Reserve Rights",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RSR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Spell Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SPELL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "SuperFarm",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SUPER",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Telcoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TEL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Alien Worlds",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TLM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Tokemak",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TOKE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Toncoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TON",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Tellor",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TRB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ultra",
+      "blockchainName": "Ethereum",
+      "assetTicker": "UOS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "USDD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "USDD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Neutrino USD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "USDN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "UTrust",
+      "blockchainName": "Ethereum",
+      "assetTicker": "UTK",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "VITE",
+      "blockchainName": "Ethereum",
+      "assetTicker": "VITE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "WOLVERINU",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WOLVERINU",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Chain",
+      "blockchainName": "Ethereum",
+      "assetTicker": "XCN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "DigitalBits",
+      "blockchainName": "Ethereum",
+      "assetTicker": "XDB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "DFI.Money",
+      "blockchainName": "Ethereum",
+      "assetTicker": "YFII",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Yield Guild Games",
+      "blockchainName": "Ethereum",
+      "assetTicker": "YGG",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Yield Optimization Platform & Protocol",
+      "blockchainName": "Ethereum",
+      "assetTicker": "YOP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Optimism",
+      "blockchainName": "Optimism",
+      "assetTicker": "OP",
+      "blockchainVariable": "optimism"
+  },
+  {
+      "assetName": "Filecoin",
+      "blockchainName": "Filecoin",
+      "assetTicker": "FIL",
+      "blockchainVariable": "filecoin"
+  },
+  {
+      "assetName": "BNB",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "BNB",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Binance USD",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "BUSD",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Pancake token",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "CAKE",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Binance-PegEthereum Token",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "ETH",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Mantra DAO",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "OM",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "PAX Gold",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "PAXG",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Binance-Peg SHIBA INU Token",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "SHIB",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "USDC",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Pax Dollar",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "USDP",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Tether",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "USDT",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "VITE",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "VITE",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Zilliqa",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "ZIL",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Cosmos",
+      "blockchainName": "Cosmos",
+      "assetTicker": "ATOM",
+      "blockchainVariable": "cosmos"
+  },
+  {
+      "assetName": "Binance USD",
+      "blockchainName": "Solana",
+      "assetTicker": "BUSD",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Coin98",
+      "blockchainName": "Solana",
+      "assetTicker": "C98",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Civic",
+      "blockchainName": "Solana",
+      "assetTicker": "CVC",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Kin",
+      "blockchainName": "Solana",
+      "assetTicker": "KIN",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Paxos Gold",
+      "blockchainName": "Solana",
+      "assetTicker": "PAXG",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Raydium",
+      "blockchainName": "Solana",
+      "assetTicker": "RAY",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Samoyed Coin",
+      "blockchainName": "Solana",
+      "assetTicker": "SAMO",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Saber",
+      "blockchainName": "Solana",
+      "assetTicker": "SBR",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Solana",
+      "blockchainName": "Solana",
+      "assetTicker": "SOL",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Serum",
+      "blockchainName": "Solana",
+      "assetTicker": "SRM",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Solana",
+      "assetTicker": "USDC",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "USDT",
+      "blockchainName": "Solana",
+      "assetTicker": "USDT",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Dogecoin",
+      "blockchainName": "Dogecoin",
+      "assetTicker": "DOGE",
+      "blockchainVariable": "doge"
+  },
+  {
+      "assetName": "ArcBlock",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ABT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Alpha Finance",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ALPHA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ankr",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ANKR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Axie Infinity",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AXS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Bitpanda Ecosystem Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BEST",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Cardstack",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CARD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound Ether",
+      "blockchainName": "Ethereum",
+      "assetTicker": "cETH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "CACHE Gold",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CGT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Cpay",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CPAY",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Celo Dollar",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CUSD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "dYdX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DYDX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ethereum Name Service",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ENS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Everex",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EVX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "GMO JPY",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GYEN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "HUSD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "HUSD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Rupiah Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "IDRT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Injective token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "INJ",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Keep Network token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "KEEP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Mirror Protocol",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MIR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "NuCypher",
+      "blockchainName": "Ethereum",
+      "assetTicker": "NU",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "OAX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "OAX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Origin Protocol",
+      "blockchainName": "Ethereum",
+      "assetTicker": "OGN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Pantos",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PAN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Perpetual Protocol",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PERP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Raiden",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RDN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "renBTC",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RENBTC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "THORChain",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RUNE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "SALT",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SALT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Shiba Inu",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SHIB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "SKALE Network",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SKL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Smooth Love Potion",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SLP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "SpiCE VC Security token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SPiCE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "sUSD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "sUSD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "TerraUSD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "UST",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Wirex Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WXT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Tether Gold",
+      "blockchainName": "Ethereum",
+      "assetTicker": "XAUT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Cardano",
+      "blockchainName": "Cardano",
+      "assetTicker": "ADA",
+      "blockchainVariable": "cardano"
+  },
+  {
+      "assetName": "Crypto.com",
+      "blockchainName": "Crypto.com",
+      "assetTicker": "CRO",
+      "blockchainVariable": "cryptocom"
+  },
+  {
+      "assetName": "Near",
+      "blockchainName": "Near",
+      "assetTicker": "NEAR",
+      "blockchainVariable": "near"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Stellar",
+      "assetTicker": "USDC",
+      "blockchainVariable": "stellar"
+  },
+  {
+      "assetName": "Tezos",
+      "blockchainName": "Tezos",
+      "assetTicker": "XTZ",
+      "blockchainVariable": "tezos"
+  },
+  {
+      "assetName": "Algorand",
+      "blockchainName": "Algorand",
+      "assetTicker": "ALGO",
+      "blockchainVariable": "algorand"
+  },
+  {
+      "assetName": "Polkadot",
+      "blockchainName": "Polkadot",
+      "assetTicker": "DOT",
+      "blockchainVariable": "polkadot"
+  },
+  {
+      "assetName": "1inch",
+      "blockchainName": "Ethereum",
+      "assetTicker": "1INCH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "SingularityNET",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AGI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Amp",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AMP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "AscendEX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ASD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Balancer",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BAL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "BandToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BAND",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Bytom",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BTM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound",
+      "blockchainName": "Ethereum",
+      "assetTicker": "COMP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Curve DAO Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CRV",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound USDT",
+      "blockchainName": "Ethereum",
+      "assetTicker": "cUSDT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Streamr DATAcoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DATA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "District0x",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DNT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "DODO bird",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DODO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Energy Web Token Bridged",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EWT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Golem Network Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GLM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "The Graph",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GRT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Hex",
+      "blockchainName": "Ethereum",
+      "assetTicker": "HEX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Kyber Network Crystal v2",
+      "blockchainName": "Ethereum",
+      "assetTicker": "KNCv2",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Livepeer Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LPT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "NKN",
+      "blockchainName": "Ethereum",
+      "assetTicker": "NKN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ocean Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "OCEAN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "HarmonyOne",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ONE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Pluton",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PLU",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Reputation",
+      "blockchainName": "Ethereum",
+      "assetTicker": "REPv2",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Sandbox",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SAND",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Serum",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SRM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "StormX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "STMX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "SushiToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SUSHI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Theta Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "THETA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Monolith",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TKN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Uma Voting Token v1",
+      "blockchainName": "Ethereum",
+      "assetTicker": "UMA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Uniswap",
+      "blockchainName": "Ethereum",
+      "assetTicker": "UNI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ok Coin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "USDK",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "VeChain",
+      "blockchainName": "Ethereum",
+      "assetTicker": "VEN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Voyager",
+      "blockchainName": "Ethereum",
+      "assetTicker": "VGX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "WAX Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WAX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "CryptoFranc",
+      "blockchainName": "Ethereum",
+      "assetTicker": "XCHF",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Yearn Finance",
+      "blockchainName": "Ethereum",
+      "assetTicker": "YFI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Aave",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AAVE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "LCX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LCX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "XIDR",
+      "blockchainName": "Ethereum",
+      "assetTicker": "XIDR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Aragon",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ANT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Aragon",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ANT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Aurora",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AOA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Bancor",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BNT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Bread",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BRD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Binance USD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BUSD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Celsius",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CEL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "CelerToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CELR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Centrality Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CENNZ",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "SwissBorg",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CHSB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "ChiliZ",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CHZ",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Crypto.com Coin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CRO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Crypterium",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CRPT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Crypterium",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CRPT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Civic",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CVC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Dai Stablecoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DAI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Dent",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DENT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "DigixDAO",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DGD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "DigitexFutures",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DGTX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Dragon",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DRG",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "DxChain Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "EDUCare",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EKT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Aelf",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ELF",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Enigma",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ENG",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "EnjinCoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ENJ",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ethos",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ETHOS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "STASIS EURS Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EURS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Fetch",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FET",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Foam Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FOAM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Fantom Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FTM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "FTX Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FTT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "FunFair",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FUN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Gnosis",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GNO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Golem",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GNT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Hedge",
+      "blockchainName": "Ethereum",
+      "assetTicker": "HEDG",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "HoloToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "HOT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "HuobiPoolToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "HPT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "HuobiToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "HT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Icon",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ICX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "IOSToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "IOST",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "KuCoin Shares",
+      "blockchainName": "Ethereum",
+      "assetTicker": "KCS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "KyberNetwork",
+      "blockchainName": "Ethereum",
+      "assetTicker": "KNC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Lambda",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LAMB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Bitfinex LEO Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LEO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "ChainLink Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LINK",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Loom",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LOOM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "LoopringCoin v2",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LRC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Decentraland",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MANA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Matic Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MATIC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "MCO",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MCO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Mainframe Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MFT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Mithril Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MITH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Maker",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MKR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Melon Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MLN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Molecular Future",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MOF",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Metal",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MTL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Nexo",
+      "blockchainName": "Ethereum",
+      "assetTicker": "NEXO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Numeraire",
+      "blockchainName": "Ethereum",
+      "assetTicker": "NMR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Pundi X Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "NPXS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "OKB",
+      "blockchainName": "Ethereum",
+      "assetTicker": "OKB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "OmiseGo",
+      "blockchainName": "Ethereum",
+      "assetTicker": "OMG",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Orbs",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ORBS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Orchid",
+      "blockchainName": "Ethereum",
+      "assetTicker": "OXT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Paxos Gold",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PAXG",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "TenXPay",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PAY",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Polymath",
+      "blockchainName": "Ethereum",
+      "assetTicker": "POLY",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "PowerLedger",
+      "blockchainName": "Ethereum",
+      "assetTicker": "POWR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Populous",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PPT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Quant",
+      "blockchainName": "Ethereum",
+      "assetTicker": "QNT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Qtum",
+      "blockchainName": "Ethereum",
+      "assetTicker": "QTUM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "RipioCreditNetwork",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RCN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Republic",
+      "blockchainName": "Ethereum",
+      "assetTicker": "REN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Reputation",
+      "blockchainName": "Ethereum",
+      "assetTicker": "REP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "RLC",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RLC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Sai Stablecoin v1.0",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SAI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "SeeleToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SEELE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "StatusNetwork",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SNT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Synthetix Network Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SNX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Storj",
+      "blockchainName": "Ethereum",
+      "assetTicker": "STORJ",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "STPT",
+      "blockchainName": "Ethereum",
+      "assetTicker": "STPT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Swipe",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SXP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "TrueUSD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TUSD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Wrapped BTC",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WBTC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Wrapped Ether",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WETH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Walton",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WTC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "ZBToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ZB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "ZCash",
+      "blockchainName": "ZCash",
+      "assetTicker": "ZEC",
+      "blockchainVariable": "zcash"
+  },
+  {
+      "assetName": "Horizen",
+      "blockchainName": "Horizen",
+      "assetTicker": "ZEN",
+      "blockchainVariable": "horizen"
+  },
+  {
+      "assetName": "Binance Chain",
+      "blockchainName": "Binance Chain",
+      "assetTicker": "BNB",
+      "blockchainVariable": "binance_chain"
+  },
+  {
+      "assetName": "Binance",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BNB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Stellar",
+      "blockchainName": "Stellar",
+      "assetTicker": "XLM",
+      "blockchainVariable": "stellar"
+  },
+  {
+      "assetName": "XSGD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "XSGD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "XSGD",
+      "blockchainName": "Zilliqa",
+      "assetTicker": "XSGD",
+      "blockchainVariable": "zilliqa"
+  },
+  {
+      "assetName": "Zilliqa",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ZIL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Zilliqa",
+      "blockchainName": "Zilliqa",
+      "assetTicker": "ZIL",
+      "blockchainVariable": "zilliqa"
+  },
+  {
+      "assetName": "Ripple",
+      "blockchainName": "Ripple",
+      "assetTicker": "XRP",
+      "blockchainVariable": "ripple"
+  },
+  {
+      "assetName": "Basic Attention Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BAT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "USDC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Pax Dollar",
+      "blockchainName": "Ethereum",
+      "assetTicker": "USDP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Tether",
+      "blockchainName": "Ethereum",
+      "assetTicker": "USDT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "0x",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ZRX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Litecoin",
+      "blockchainName": "Litecoin",
+      "assetTicker": "LTC",
+      "blockchainVariable": "litecoin"
+  },
+  {
+      "assetName": "Gemini Dollar",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GUSD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Bitcoin Cash",
+      "blockchainName": "Bitcoin Cash",
+      "assetTicker": "BCH",
+      "blockchainVariable": "bitcoin_cash"
+  },
+  {
+      "assetName": "Ethereum",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ETH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Bitcoin",
+      "blockchainName": "Bitcoin",
+      "assetTicker": "BTC",
+      "blockchainVariable": "bitcoin"
+  },
+  {
+      "assetName": "",
+      "blockchainName": "",
+      "assetTicker": "",
+      "blockchainVariable": ""
+  },
+  {
+      "assetName": "Sanctions Coverage Level Assets (Wallet screening only)",
+      "blockchainName": "",
+      "assetTicker": "",
+      "blockchainVariable": ""
+  },
+  {
+      "assetName": "You can read more about our Sanctions coverage level here.",
+      "blockchainName": "",
+      "assetTicker": "",
+      "blockchainVariable": ""
+  },
+  {
+      "assetName": "With Holistic Screening, Elliptic supports the entire cryptoasset at Sanctions Coverage Level, which means you can screen any crypto address, regardless of asset, and know whether or not it has been sanctioned.",
+      "blockchainName": "",
+      "assetTicker": "",
+      "blockchainVariable": ""
+  },
+  {
+      "assetName": "With single-asset screening, we only support certain assets at Sanctions Coverage level. See a full list below:",
+      "blockchainName": "",
+      "assetTicker": "",
+      "blockchainVariable": ""
+  },
+  {
+      "assetName": "Asset Name",
+      "blockchainName": "Blockchain Name",
+      "assetTicker": "Asset ticker",
+      "blockchainVariable": "Blockchain"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Algorand",
+      "assetTicker": "USDC",
+      "blockchainVariable": "algorand"
+  },
+  {
+      "assetName": "Alpha Quark Token",
+      "blockchainName": "Alpha Quark Token",
+      "assetTicker": "AQT",
+      "blockchainVariable": "alpha_quark_token"
+  },
+  {
+      "assetName": "Ardor",
+      "blockchainName": "Ardor",
+      "assetTicker": "ARDR",
+      "blockchainVariable": "ardor"
+  },
+  {
+      "assetName": "Ark",
+      "blockchainName": "Ark",
+      "assetTicker": "ARK",
+      "blockchainVariable": "ark"
+  },
+  {
+      "assetName": "Arweave",
+      "blockchainName": "Arweave",
+      "assetTicker": "AR",
+      "blockchainVariable": "arweave"
+  },
+  {
+      "assetName": "Wonderland",
+      "blockchainName": "Avalanche",
+      "assetTicker": "TIME",
+      "blockchainVariable": "avalanche"
+  },
+  {
+      "assetName": "Aergo",
+      "blockchainName": "Binance Chain",
+      "assetTicker": "AERGO",
+      "blockchainVariable": "binance_chain"
+  },
+  {
+      "assetName": "Ankr",
+      "blockchainName": "Binance Chain",
+      "assetTicker": "ANKR",
+      "blockchainVariable": "binance_chain"
+  },
+  {
+      "assetName": "Bitcoin BEP2",
+      "blockchainName": "Binance Chain",
+      "assetTicker": "BTCB",
+      "blockchainVariable": "binance_chain"
+  },
+  {
+      "assetName": "Trust Wallet Token",
+      "blockchainName": "Binance Chain",
+      "assetTicker": "TWT",
+      "blockchainVariable": "binance_chain"
+  },
+  {
+      "assetName": "Ankr",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "ANKR",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Automata Network",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "ATA",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Auto",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "AUTO",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "BakeryToken",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "BAKE",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Binance Beacon ETH",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "BETH",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Bitcoin BEP2",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "BTCB",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Coin98",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "C98",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Chromia",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "CHR",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Clover Finance",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "CLV",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "ForTube",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "FOR",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Frontier",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "FRONT",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Gala",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "GALA",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Metahero",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "HERO",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Mask Network",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "MASK",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "MOBOX",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "MBOX",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Mdex",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "MDX",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "MiL.k",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "MLK",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Opium",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "OPIUM",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Prometeus",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "PROM",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Radio Caca",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "RACA",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Reef",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "REEF",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "SafeMoon",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "SAFEMOON",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "SafePal",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "SFP",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "SuperFarm",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "SUPER",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Swipe",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "SXP",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Toko Token",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "TKO",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Alien Worlds",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "TLM",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "TROY",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "TROY",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Trust Wallet Token",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "TWT",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Unifi Protocol DAO",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "UNFI",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "TerraUSD",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "UST",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "VAI Stablecoin",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "VAI",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Venus BTC",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "vBTC",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Venus BUSD",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "vBUSD",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Venus ETH",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "vETH",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "VIDT Datalink",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "VIDT",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Venus USDC",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "vUSDC",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Venus USDT",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "vUSDT",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Wrapped BNB",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "WBNB",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "WINkLink",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "WIN",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Venus",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "XVS",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "DFI.Money",
+      "blockchainName": "Binance Smart Chain",
+      "assetTicker": "YFII",
+      "blockchainVariable": "binance_smart_chain"
+  },
+  {
+      "assetName": "Bitcoin Cash ABC",
+      "blockchainName": "Bitcoin Cash ABC",
+      "assetTicker": "BCHA",
+      "blockchainVariable": "bitcoin_cash_abc"
+  },
+  {
+      "assetName": "Bitcoin Gold",
+      "blockchainName": "Bitcoin Gold",
+      "assetTicker": "BTG",
+      "blockchainVariable": "bitcoin_gold"
+  },
+  {
+      "assetName": "Bitcoin SV",
+      "blockchainName": "Bitcoin SV",
+      "assetTicker": "BSV",
+      "blockchainVariable": "bitcoin_sv"
+  },
+  {
+      "assetName": "BitTorrent",
+      "blockchainName": "Bittorrent",
+      "assetTicker": "BTT",
+      "blockchainVariable": "bittorrent"
+  },
+  {
+      "assetName": "Boba",
+      "blockchainName": "Boba",
+      "assetTicker": "BOBA",
+      "blockchainVariable": "boba"
+  },
+  {
+      "assetName": "BORA",
+      "blockchainName": "BORA",
+      "assetTicker": "BORA",
+      "blockchainVariable": "bora"
+  },
+  {
+      "assetName": "Casper",
+      "blockchainName": "Casper",
+      "assetTicker": "CSPR",
+      "blockchainVariable": "casper"
+  },
+  {
+      "assetName": "Celo",
+      "blockchainName": "Celo",
+      "assetTicker": "CELO",
+      "blockchainVariable": "celo"
+  },
+  {
+      "assetName": "Celo Dollar",
+      "blockchainName": "Celo",
+      "assetTicker": "CUSD",
+      "blockchainVariable": "celo"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Celo",
+      "assetTicker": "USDC",
+      "blockchainVariable": "celo"
+  },
+  {
+      "assetName": "Chia Network",
+      "blockchainName": "Chia Network",
+      "assetTicker": "XCH",
+      "blockchainVariable": "chia_network"
+  },
+  {
+      "assetName": "Conflux",
+      "blockchainName": "Conflux",
+      "assetTicker": "CFX",
+      "blockchainVariable": "conflux"
+  },
+  {
+      "assetName": "Cortex",
+      "blockchainName": "Cortex",
+      "assetTicker": "CTXC",
+      "blockchainVariable": "cortex"
+  },
+  {
+      "assetName": "COTI",
+      "blockchainName": "COTI",
+      "assetTicker": "COTI",
+      "blockchainVariable": "coti"
+  },
+  {
+      "assetName": "Dapper Labs",
+      "blockchainName": "Dapper Labs",
+      "assetTicker": "FLOW",
+      "blockchainVariable": "dapper_labs"
+  },
+  {
+      "assetName": "Dash",
+      "blockchainName": "Dash",
+      "assetTicker": "DASH",
+      "blockchainVariable": "dash"
+  },
+  {
+      "assetName": "Decred",
+      "blockchainName": "Decred",
+      "assetTicker": "DCR",
+      "blockchainVariable": "decred"
+  },
+  {
+      "assetName": "DeFiChain",
+      "blockchainName": "Defichain",
+      "assetTicker": "DFI",
+      "blockchainVariable": "defichain"
+  },
+  {
+      "assetName": "Diem",
+      "blockchainName": "Diem",
+      "assetTicker": "DIEM",
+      "blockchainVariable": "diem"
+  },
+  {
+      "assetName": "DigiByte",
+      "blockchainName": "Digibyte",
+      "assetTicker": "DGB",
+      "blockchainVariable": "digibyte"
+  },
+  {
+      "assetName": "eCash",
+      "blockchainName": "eCash",
+      "assetTicker": "XEC",
+      "blockchainVariable": "ecash"
+  },
+  {
+      "assetName": "Edgeware",
+      "blockchainName": "Edgeware",
+      "assetTicker": "EDG",
+      "blockchainVariable": "edgeware"
+  },
+  {
+      "assetName": "Elrond",
+      "blockchainName": "Elrond",
+      "assetTicker": "EGLD",
+      "blockchainVariable": "elrond"
+  },
+  {
+      "assetName": "CarbonUSD",
+      "blockchainName": "EOS",
+      "assetTicker": "cUSD",
+      "blockchainVariable": "eos"
+  },
+  {
+      "assetName": "EOS",
+      "blockchainName": "EOS",
+      "assetTicker": "EOS",
+      "blockchainVariable": "eos"
+  },
+  {
+      "assetName": "Aergo",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AERGO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Adventure Gold",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AGLD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Alchemix",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ALCX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Amber",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AMB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ampleforth",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AMPL",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "ARPA Chain",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ARPA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Airswap",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AST",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Automata Network",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ATA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro Australian Dollar",
+      "blockchainName": "Ethereum",
+      "assetTicker": "AUDX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "ContentBox",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BOX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Bitspex Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "BPX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Coin98",
+      "blockchainName": "Ethereum",
+      "assetTicker": "C98",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro Canadian Dollar",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CADX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound Basic Attention Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "cBAT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound DAI",
+      "blockchainName": "Ethereum",
+      "assetTicker": "cDAI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro Swiss Franc",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CHFX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro Chinese Yuan",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CNYX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Carry",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CRE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound Augur",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CREP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound SAI",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CSAI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Convex Finance",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CVX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Convex CRV",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CVXCRV",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound Wrapped BTC",
+      "blockchainName": "Ethereum",
+      "assetTicker": "CWBTC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Compound ZRX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "cZRX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Decentralized Social",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DESO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Define",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DFA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Dragonchain",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DRGN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Data",
+      "blockchainName": "Ethereum",
+      "assetTicker": "DTA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Dogelon Mars",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ELON",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "EQUOS Origin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EQO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro United States Dollar",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ESDEX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro Euro",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EURX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Electric Vehicle Zone",
+      "blockchainName": "Ethereum",
+      "assetTicker": "EVZ",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "FirmaChain",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FCT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Fei Protocol",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FEI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "FLEX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FLEX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "ForTube",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FOR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Function X",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Frax Share",
+      "blockchainName": "Ethereum",
+      "assetTicker": "FXS",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro Pound Sterling",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GBPX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Gains Farm",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GFARM2",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "GoldFund",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GFUN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Goldex Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GLDX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "GateToken",
+      "blockchainName": "Ethereum",
+      "assetTicker": "GT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Hegic",
+      "blockchainName": "Ethereum",
+      "assetTicker": "HEGIC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "HUNT",
+      "blockchainName": "Ethereum",
+      "assetTicker": "HUNT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Iconomi",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ICN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Illuvium",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ILV",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Insight Protocol",
+      "blockchainName": "Ethereum",
+      "assetTicker": "INX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "JFIN Coin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "JFIN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro Japanese Yen",
+      "blockchainName": "Ethereum",
+      "assetTicker": "JPYX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Kublaicoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "KUB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Liquity USD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LUSD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "LUKSO Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "LYXE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Mask Network",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MASK",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Measurable Data Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MDT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Mobilecoin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MOB",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Moss Coin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MOC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Moonriver",
+      "blockchainName": "Ethereum",
+      "assetTicker": "MOVR",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "NXM",
+      "blockchainName": "Ethereum",
+      "assetTicker": "NXM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro New Zealand Dollar",
+      "blockchainName": "Ethereum",
+      "assetTicker": "NZDX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Olympus",
+      "blockchainName": "Ethereum",
+      "assetTicker": "OHM",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "PlayDapp",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PLAYD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Marlin",
+      "blockchainName": "Ethereum",
+      "assetTicker": "POND",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Pundi X[new]",
+      "blockchainName": "Ethereum",
+      "assetTicker": "PUNDIX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Qcash",
+      "blockchainName": "Ethereum",
+      "assetTicker": "QC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Quant",
+      "blockchainName": "Ethereum",
+      "assetTicker": "QNT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Quantstamp",
+      "blockchainName": "Ethereum",
+      "assetTicker": "QSP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "QuickSwap",
+      "blockchainName": "Ethereum",
+      "assetTicker": "QUICK",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Rai Reflex Index",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RAI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ramp",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RAMP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Rarible",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RARI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Raydium",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RAY",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Rari Governance Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RGT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Rally",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RLY",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro Russian Ruble",
+      "blockchainName": "Ethereum",
+      "assetTicker": "RUBX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Soma",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SCT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Sentinel Chain",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SENC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "eToro Silver",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SLVX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "stETH [Lido]",
+      "blockchainName": "Ethereum",
+      "assetTicker": "STETH",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Stratis",
+      "blockchainName": "Ethereum",
+      "assetTicker": "STRAX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Swerve",
+      "blockchainName": "Ethereum",
+      "assetTicker": "SWRV",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "TrueGBP",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TGBP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "TitanSwap",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TITAN",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "OriginTrail",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TRAC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Tribe",
+      "blockchainName": "Ethereum",
+      "assetTicker": "TRIBE",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "UFO Gaming",
+      "blockchainName": "Ethereum",
+      "assetTicker": "UFO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Unifi Protocol DAO",
+      "blockchainName": "Ethereum",
+      "assetTicker": "UNFI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Sentinel Protocol",
+      "blockchainName": "Ethereum",
+      "assetTicker": "UPP",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "USDEX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "USDEX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "VIDT Datalink",
+      "blockchainName": "Ethereum",
+      "assetTicker": "VIDT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Velas",
+      "blockchainName": "Ethereum",
+      "assetTicker": "VLX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Verasity",
+      "blockchainName": "Ethereum",
+      "assetTicker": "VRA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Wrapped AVAX",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WAVAX",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Wrapped LUNA Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WLUNA",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "WOO Network",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WOO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Wrapped ZEC",
+      "blockchainName": "Ethereum",
+      "assetTicker": "WZEC",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Xeno Token",
+      "blockchainName": "Ethereum",
+      "assetTicker": "XNO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "xSUSHI",
+      "blockchainName": "Ethereum",
+      "assetTicker": "XSUSHI",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "XYO Network",
+      "blockchainName": "Ethereum",
+      "assetTicker": "XYO",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Zipmex Toke",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ZMT",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "GMO USD",
+      "blockchainName": "Ethereum",
+      "assetTicker": "ZUSD",
+      "blockchainVariable": "ethereum"
+  },
+  {
+      "assetName": "Ethereum Classic",
+      "blockchainName": "Ethereum Classic",
+      "assetTicker": "ETC",
+      "blockchainVariable": "ethereum_classic"
+  },
+  {
+      "assetName": "Fantom",
+      "blockchainName": "Fantom",
+      "assetTicker": "FTM",
+      "blockchainVariable": "fantom"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Fantom",
+      "assetTicker": "USDC",
+      "blockchainVariable": "fantom"
+  },
+  {
+      "assetName": "Songbird",
+      "blockchainName": "Flare",
+      "assetTicker": "SGB",
+      "blockchainVariable": "flare"
+  },
+  {
+      "assetName": "Flare",
+      "blockchainName": "Flare",
+      "assetTicker": "SPARK",
+      "blockchainVariable": "flare"
+  },
+  {
+      "assetName": "GXChain",
+      "blockchainName": "GXChain",
+      "assetTicker": "GXC",
+      "blockchainVariable": "gxchain"
+  },
+  {
+      "assetName": "Harmony",
+      "blockchainName": "Harmony",
+      "assetTicker": "ONE",
+      "blockchainVariable": "harmonyone"
+  },
+  {
+      "assetName": "Hathor",
+      "blockchainName": "Hathor",
+      "assetTicker": "HTR",
+      "blockchainVariable": "hathor"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Hedera",
+      "assetTicker": "USDC",
+      "blockchainVariable": "hedera"
+  },
+  {
+      "assetName": "Hedera Hashgraph",
+      "blockchainName": "Hedera Hashgraph",
+      "assetTicker": "HBAR",
+      "blockchainVariable": "hedera_hashgraph"
+  },
+  {
+      "assetName": "Helium",
+      "blockchainName": "Helium",
+      "assetTicker": "HNT",
+      "blockchainVariable": "helium"
+  },
+  {
+      "assetName": "Hive",
+      "blockchainName": "Hive",
+      "assetTicker": "HIVE",
+      "blockchainVariable": "hive"
+  },
+  {
+      "assetName": "Icon",
+      "blockchainName": "Icon",
+      "assetTicker": "ICX",
+      "blockchainVariable": "icon"
+  },
+  {
+      "assetName": "Internet Computer",
+      "blockchainName": "Internet Computer",
+      "assetTicker": "ICP",
+      "blockchainVariable": "internet_computer"
+  },
+  {
+      "assetName": "Donnie Finance",
+      "blockchainName": "Iost",
+      "assetTicker": "DON",
+      "blockchainVariable": "iost"
+  },
+  {
+      "assetName": "IOST",
+      "blockchainName": "Iost",
+      "assetTicker": "IOST",
+      "blockchainVariable": "iost"
+  },
+  {
+      "assetName": "IOTA",
+      "blockchainName": "Iota",
+      "assetTicker": "MIOTA",
+      "blockchainVariable": "iota"
+  },
+  {
+      "assetName": "IoTeX",
+      "blockchainName": "Iotex",
+      "assetTicker": "IOTX",
+      "blockchainVariable": "iotex"
+  },
+  {
+      "assetName": "IrisNet",
+      "blockchainName": "IrisNet",
+      "assetTicker": "IRIS",
+      "blockchainVariable": "irisnet"
+  },
+  {
+      "assetName": "Kadena",
+      "blockchainName": "Kadena",
+      "assetTicker": "KDA",
+      "blockchainVariable": "kadena"
+  },
+  {
+      "assetName": "Kava",
+      "blockchainName": "Kava",
+      "assetTicker": "KAVA",
+      "blockchainVariable": "kava"
+  },
+  {
+      "assetName": "Klaytn",
+      "blockchainName": "Klaytn",
+      "assetTicker": "KLAY",
+      "blockchainVariable": "klaytn"
+  },
+  {
+      "assetName": "Komodo",
+      "blockchainName": "Komodo",
+      "assetTicker": "KMD",
+      "blockchainVariable": "komodo"
+  },
+  {
+      "assetName": "Kusama",
+      "blockchainName": "Kusama",
+      "assetTicker": "KSM",
+      "blockchainVariable": "kusama"
+  },
+  {
+      "assetName": "Lisk",
+      "blockchainName": "Lisk",
+      "assetTicker": "LSK",
+      "blockchainVariable": "lisk"
+  },
+  {
+      "assetName": "MediBloc",
+      "blockchainName": "MediBloc",
+      "assetTicker": "MED",
+      "blockchainVariable": "medibloc"
+  },
+  {
+      "assetName": "Mina",
+      "blockchainName": "Mina",
+      "assetTicker": "MINA",
+      "blockchainVariable": "mina"
+  },
+  {
+      "assetName": "Mobilecoin",
+      "blockchainName": "Mobilecoin",
+      "assetTicker": "MOB",
+      "blockchainVariable": "mobilecoin"
+  },
+  {
+      "assetName": "MonaCoin",
+      "blockchainName": "MonaCoin",
+      "assetTicker": "MONA",
+      "blockchainVariable": "monacoin"
+  },
+  {
+      "assetName": "Monero",
+      "blockchainName": "Monero",
+      "assetTicker": "XMR",
+      "blockchainVariable": "monero"
+  },
+  {
+      "assetName": "Nano",
+      "blockchainName": "Nano",
+      "assetTicker": "NANO",
+      "blockchainVariable": "nano"
+  },
+  {
+      "assetName": "NEM",
+      "blockchainName": "Nem",
+      "assetTicker": "XEM",
+      "blockchainVariable": "nem"
+  },
+  {
+      "assetName": "Gas",
+      "blockchainName": "Neo",
+      "assetTicker": "GAS",
+      "blockchainVariable": "neo"
+  },
+  {
+      "assetName": "Neo",
+      "blockchainName": "Neo",
+      "assetTicker": "NEO",
+      "blockchainVariable": "neo"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Nervos",
+      "assetTicker": "USDC",
+      "blockchainVariable": "nervos"
+  },
+  {
+      "assetName": "Nervos Network",
+      "blockchainName": "Nervos Network",
+      "assetTicker": "CKB",
+      "blockchainVariable": "nervos_network"
+  },
+  {
+      "assetName": "Oasis",
+      "blockchainName": "Oasis",
+      "assetTicker": "ROSE",
+      "blockchainVariable": "oasis"
+  },
+  {
+      "assetName": "Tether",
+      "blockchainName": "Omni",
+      "assetTicker": "USDT",
+      "blockchainVariable": "omni"
+  },
+  {
+      "assetName": "Ontology",
+      "blockchainName": "Ontology",
+      "assetTicker": "ONT",
+      "blockchainVariable": "ontology"
+  },
+  {
+      "assetName": "Wing Finance",
+      "blockchainName": "Ontology",
+      "assetTicker": "WING",
+      "blockchainVariable": "ontology"
+  },
+  {
+      "assetName": "Ontology Gas",
+      "blockchainName": "Ontology",
+      "assetTicker": "ONG",
+      "blockchainVariable": "ontology"
+  },
+  {
+      "assetName": "Osmosis",
+      "blockchainName": "Osmosis",
+      "assetTicker": "OSMO",
+      "blockchainVariable": "osmosis"
+  },
+  {
+      "assetName": "Permission Coin",
+      "blockchainName": "Permission Coin",
+      "assetTicker": "ASK",
+      "blockchainVariable": "permission_coin"
+  },
+  {
+      "assetName": "Sakura",
+      "blockchainName": "Polkadot",
+      "assetTicker": "SKU",
+      "blockchainVariable": "polkadot"
+  },
+  {
+      "assetName": "Gains Farm",
+      "blockchainName": "Polygon",
+      "assetTicker": "GFARM2",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Klima DAO",
+      "blockchainName": "Polygon",
+      "assetTicker": "KILMA",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "QuickSwap",
+      "blockchainName": "Polygon",
+      "assetTicker": "QUICK",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Sushi Token",
+      "blockchainName": "Polygon",
+      "assetTicker": "SUSHI",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Wrapped Matic",
+      "blockchainName": "Polygon",
+      "assetTicker": "WMATIC",
+      "blockchainVariable": "polygon"
+  },
+  {
+      "assetName": "Provenance",
+      "blockchainName": "Provenance",
+      "assetTicker": "HASH",
+      "blockchainVariable": "provenance"
+  },
+  {
+      "assetName": "Quantum",
+      "blockchainName": "Quantum",
+      "assetTicker": "Qtum",
+      "blockchainVariable": "quantum"
+  },
+  {
+      "assetName": "Radix",
+      "blockchainName": "Radix",
+      "assetTicker": "XRD",
+      "blockchainVariable": "radix"
+  },
+  {
+      "assetName": "RavenCoin",
+      "blockchainName": "RavenCoin",
+      "assetTicker": "RVN",
+      "blockchainVariable": "ravencoin"
+  },
+  {
+      "assetName": "Secret Network",
+      "blockchainName": "Secret Network",
+      "assetTicker": "SCRT",
+      "blockchainVariable": "secret_network"
+  },
+  {
+      "assetName": "Siacoin",
+      "blockchainName": "Siacoin",
+      "assetTicker": "SC",
+      "blockchainVariable": "siacoin"
+  },
+  {
+      "assetName": "Star Atlas",
+      "blockchainName": "Solana",
+      "assetTicker": "ATLAS",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Bonfida",
+      "blockchainName": "Solana",
+      "assetTicker": "FIDA",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Frontier",
+      "blockchainName": "Solana",
+      "assetTicker": "FRONT",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Mango",
+      "blockchainName": "Solana",
+      "assetTicker": "MNGO",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Marinade Staked SOL",
+      "blockchainName": "Solana",
+      "assetTicker": "mSOL",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Orca",
+      "blockchainName": "Solana",
+      "assetTicker": "ORCA",
+      "blockchainVariable": "solana"
+  },
+  {
+      "assetName": "Stacks",
+      "blockchainName": "Stacks",
+      "assetTicker": "STX",
+      "blockchainVariable": "stacks"
+  },
+  {
+      "assetName": "Steem",
+      "blockchainName": "Steem",
+      "assetTicker": "STEEM",
+      "blockchainVariable": "steem"
+  },
+  {
+      "assetName": "Steem Dollars",
+      "blockchainName": "Steem Dollars",
+      "assetTicker": "SBD",
+      "blockchainVariable": "steem_dollars"
+  },
+  {
+      "assetName": "ARST",
+      "blockchainName": "Stellar",
+      "assetTicker": "ARST",
+      "blockchainVariable": "stellar"
+  },
+  {
+      "assetName": "BRLT",
+      "blockchainName": "Stellar",
+      "assetTicker": "BRLT",
+      "blockchainVariable": "stellar"
+  },
+  {
+      "assetName": "GMO JPY",
+      "blockchainName": "Stellar",
+      "assetTicker": "GYEN",
+      "blockchainVariable": "stellar"
+  },
+  {
+      "assetName": "Six Network",
+      "blockchainName": "Stellar",
+      "assetTicker": "SIX",
+      "blockchainVariable": "stellar"
+  },
+  {
+      "assetName": "US Dollar Index",
+      "blockchainName": "Stellar",
+      "assetTicker": "USDX",
+      "blockchainVariable": "stellar"
+  },
+  {
+      "assetName": "GMO USD",
+      "blockchainName": "Stellar",
+      "assetTicker": "ZUSD",
+      "blockchainVariable": "stellar"
+  },
+  {
+      "assetName": "Anchor Protocol",
+      "blockchainName": "Terra",
+      "assetTicker": "ANC",
+      "blockchainVariable": "terra"
+  },
+  {
+      "assetName": "TerraKRW",
+      "blockchainName": "Terra",
+      "assetTicker": "KRT",
+      "blockchainVariable": "terra"
+  },
+  {
+      "assetName": "Terra",
+      "blockchainName": "Terra",
+      "assetTicker": "LUNA",
+      "blockchainVariable": "terra"
+  },
+  {
+      "assetName": "Mirror Protocol",
+      "blockchainName": "Terra",
+      "assetTicker": "MIR",
+      "blockchainVariable": "terra"
+  },
+  {
+      "assetName": "TerraSDT",
+      "blockchainName": "Terra",
+      "assetTicker": "SDT",
+      "blockchainVariable": "terra"
+  },
+  {
+      "assetName": "TerraUSD",
+      "blockchainName": "Terra",
+      "assetTicker": "UST",
+      "blockchainVariable": "terra"
+  },
+  {
+      "assetName": "Wrapped Bitcoin",
+      "blockchainName": "Tezos",
+      "assetTicker": "TZBTC",
+      "blockchainVariable": "tezos"
+  },
+  {
+      "assetName": "USD Coin",
+      "blockchainName": "Tezos",
+      "assetTicker": "USDC",
+      "blockchainVariable": "tezos"
+  },
+  {
+      "assetName": "Theta Fuel",
+      "blockchainName": "Theta",
+      "assetTicker": "TFUEL",
+      "blockchainVariable": "theta"
+  },
+  {
+      "assetName": "Theta",
+      "blockchainName": "Theta",
+      "assetTicker": "THETA",
+      "blockchainVariable": "theta"
+  },
+  {
+      "assetName": "THORChain",
+      "blockchainName": "THORchain",
+      "assetTicker": "RUNE",
+      "blockchainVariable": "thorchain"
+  },
+  {
+      "assetName": "TomoChain",
+      "blockchainName": "Tomochain",
+      "assetTicker": "TOMO",
+      "blockchainVariable": "tomochain"
+  },
+  {
+      "assetName": "Mrweb Finance",
+      "blockchainName": "Tron",
+      "assetTicker": "AMA",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "BitTorrent",
+      "blockchainName": "Tron",
+      "assetTicker": "BTT",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "JUST",
+      "blockchainName": "Tron",
+      "assetTicker": "JST",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "APENFT",
+      "blockchainName": "Tron",
+      "assetTicker": "NFT",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "Sun [New]",
+      "blockchainName": "Tron",
+      "assetTicker": "SUN",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "WINkLink",
+      "blockchainName": "Tron",
+      "assetTicker": "WIN",
+      "blockchainVariable": "tron"
+  },
+  {
+      "assetName": "Validity",
+      "blockchainName": "Validity",
+      "assetTicker": "VAL",
+      "blockchainVariable": "validity"
+  },
+  {
+      "assetName": "VeChain",
+      "blockchainName": "VeChain",
+      "assetTicker": "VET",
+      "blockchainVariable": "vechain"
+  },
+  {
+      "assetName": "VeThor Token",
+      "blockchainName": "VeChain",
+      "assetTicker": "VTHO",
+      "blockchainVariable": "vechain"
+  },
+  {
+      "assetName": "Verge",
+      "blockchainName": "Verge",
+      "assetTicker": "XVG",
+      "blockchainVariable": "verge"
+  },
+  {
+      "assetName": "Wanchain",
+      "blockchainName": "Wanchain",
+      "assetTicker": "WAN",
+      "blockchainVariable": "wanchain"
+  },
+  {
+      "assetName": "Waves",
+      "blockchainName": "Waves",
+      "assetTicker": "WAVES",
+      "blockchainVariable": "waves"
+  },
+  {
+      "assetName": "WAX",
+      "blockchainName": "WAX",
+      "assetTicker": "WAXP",
+      "blockchainVariable": "wax"
+  },
+  {
+      "assetName": "XDC Network",
+      "blockchainName": "XDC Network",
+      "assetTicker": "XDC",
+      "blockchainVariable": "xdc_network"
+  }
+]
