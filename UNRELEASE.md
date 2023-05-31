@@ -1,4 +1,13 @@
 
+## [1.16.0-alpha.1]
+> 2023-05-31
+
+[da399ec](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/da399ec) feat: [SYGN-5041](https://app.clickup.com/t/25577573/SYGN-5041)   add extra_info
+
+
+[1.16.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.16.0-alpha.1
+
+
 ## [1.15.0-alpha.1]
 > 2023-05-30
 
