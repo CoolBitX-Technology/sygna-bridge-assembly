@@ -1,4 +1,13 @@
 
+## [1.16.0-alpha.3]
+> 2023-06-01
+
+[c6274ad](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/c6274ad) feat:   add elliptic supports
+
+
+[1.16.0-alpha.3]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.16.0-alpha.3
+
+
 ## [1.16.0-alpha.2]
 > 2023-05-31
 
