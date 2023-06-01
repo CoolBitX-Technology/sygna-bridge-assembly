@@ -1,4 +1,13 @@
 
+## [1.16.0-alpha.4]
+> 2023-06-01
+
+[2e28fcc](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2e28fcc) fix: [SYGN-5041](https://app.clickup.com/t/25577573/SYGN-5041)   tag->memo
+
+
+[1.16.0-alpha.4]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.16.0-alpha.4
+
+
 ## [1.16.0-alpha.3]
 > 2023-06-01
 
