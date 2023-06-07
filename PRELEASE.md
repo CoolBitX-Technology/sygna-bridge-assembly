@@ -1,4 +1,26 @@
 
+## [1.16.0-beta.1]
+> 2023-06-07
+
+
+[4139161](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/4139161) feat: [SYGN-4881](https://app.clickup.com/t/25577573/SYGN-4881)   new currency
+
+
+[2e28fcc](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2e28fcc) fix: [SYGN-5041](https://app.clickup.com/t/25577573/SYGN-5041)   tag->memo
+
+
+[c6274ad](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/c6274ad) feat:   add elliptic supports
+
+
+[09df0d2](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/09df0d2) fix:   revert changes
+
+
+[da399ec](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/da399ec) feat: [SYGN-5041](https://app.clickup.com/t/25577573/SYGN-5041)   add extra_info
+
+
+[1.16.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.16.0-beta.1
+
+
 ## [1.15.0-beta.1]
 > 2023-05-30
 
