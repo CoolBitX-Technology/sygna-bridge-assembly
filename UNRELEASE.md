@@ -1,4 +1,13 @@
 
+## [1.16.0-alpha.5]
+> 2023-06-07
+
+[4139161](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/4139161) feat: [SYGN-4881](https://app.clickup.com/t/25577573/SYGN-4881)   new currency
+
+
+[1.16.0-alpha.5]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.16.0-alpha.5
+
+
 ## [1.16.0-alpha.4]
 > 2023-06-01
 
