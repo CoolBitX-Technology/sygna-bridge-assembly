@@ -1,4 +1,13 @@
 
+## [1.16.1-beta.1]
+> 2023-06-09
+
+[](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/)   
+
+
+[1.16.1-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.16.1-beta.1
+
+
 ## [1.16.0-beta.1]
 > 2023-06-07
 
