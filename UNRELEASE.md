@@ -1,4 +1,15 @@
 
+## [1.17.0-alpha.1]
+> 2023-06-20
+
+[40b0443](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/40b0443) feat: [SYGN-6028](https://app.clickup.com/t/25577573/SYGN-6028)  
+
+[1c001fe](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/1c001fe) feat: [SYGN-6015](https://app.clickup.com/t/25577573/SYGN-6015)   new crrenices
+
+
+[1.17.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.17.0-alpha.1
+
+
 ## [1.16.0-alpha.5]
 > 2023-06-07
 
