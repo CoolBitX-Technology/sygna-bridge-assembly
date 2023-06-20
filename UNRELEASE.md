@@ -1,4 +1,13 @@
 
+## [1.17.0-alpha.2]
+> 2023-06-20
+
+[](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/)   
+
+
+[1.17.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.17.0-alpha.2
+
+
 ## [1.17.0-alpha.1]
 > 2023-06-20
 
