@@ -1,4 +1,13 @@
 
+## [1.17.0-alpha.3]
+> 2023-06-20
+
+[c9941dd](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/c9941dd) fix: [SYGN-6028](https://app.clickup.com/t/25577573/SYGN-6028)  
+
+
+[1.17.0-alpha.3]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.17.0-alpha.3
+
+
 ## [1.17.0-alpha.2]
 > 2023-06-20
 
