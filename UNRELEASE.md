@@ -1,4 +1,13 @@
 
+## [1.17.0-alpha.4]
+> 2023-06-21
+
+[d30e14b](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d30e14b) feat: [SYGN-6028](https://app.clickup.com/t/25577573/SYGN-6028)  
+
+
+[1.17.0-alpha.4]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.17.0-alpha.4
+
+
 ## [1.17.0-alpha.3]
 > 2023-06-20
 
