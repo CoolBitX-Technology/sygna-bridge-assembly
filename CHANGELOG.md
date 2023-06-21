@@ -1,4 +1,27 @@
 
+## [1.17.0]
+> 2023-06-21
+
+
+
+[051d76b](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/051d76b) fix: [SYGN-6028](https://app.clickup.com/t/25577573/SYGN-6028)   SYGN-6015
+
+
+[d30e14b](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d30e14b) feat: [SYGN-6028](https://app.clickup.com/t/25577573/SYGN-6028)  
+
+
+[c9941dd](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/c9941dd) fix: [SYGN-6028](https://app.clickup.com/t/25577573/SYGN-6028)  
+
+
+
+[40b0443](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/40b0443) feat: [SYGN-6028](https://app.clickup.com/t/25577573/SYGN-6028)  
+
+[1c001fe](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/1c001fe) feat: [SYGN-6015](https://app.clickup.com/t/25577573/SYGN-6015)   new crrenices
+
+
+[1.17.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.17.0
+
+
 ## [1.16.0]
 > 2023-06-07
 
