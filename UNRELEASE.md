@@ -1,4 +1,13 @@
 
+## [1.18.0-alpha.1]
+> 2023-07-11
+
+[2dde6d4](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2dde6d4) feat: [SYGN-1474](https://app.clickup.com/t/25577573/SYGN-1474)  
+
+
+[1.18.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.18.0-alpha.1
+
+
 ## [1.17.0-alpha.5]
 > 2023-06-21
 
