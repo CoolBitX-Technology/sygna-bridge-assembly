@@ -1,4 +1,13 @@
 
+## [1.18.0-alpha.2]
+> 2023-08-02
+
+[12670a5](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/12670a5) feat: [SYGN-6684](https://app.clickup.com/t/25577573/SYGN-6684)   new currencies
+
+
+[1.18.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.18.0-alpha.2
+
+
 ## [1.18.0-alpha.1]
 > 2023-07-11
 
