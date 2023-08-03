@@ -1,4 +1,13 @@
 
+## [1.18.0-alpha.4]
+> 2023-08-03
+
+[2e5f95c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2e5f95c) fix  
+
+
+[1.18.0-alpha.4]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.18.0-alpha.4
+
+
 ## [1.18.0-alpha.3]
 > 2023-08-03
 
