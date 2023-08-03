@@ -1,4 +1,13 @@
 
+## [1.18.0-alpha.3]
+> 2023-08-03
+
+[a7a62ad](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/a7a62ad) feat:   modify name
+
+
+[1.18.0-alpha.3]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.18.0-alpha.3
+
+
 ## [1.18.0-alpha.2]
 > 2023-08-02
 
