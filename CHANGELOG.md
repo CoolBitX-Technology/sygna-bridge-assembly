@@ -1,4 +1,24 @@
 
+## [1.18.0]
+> 2023-08-04
+
+
+
+[2e5f95c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2e5f95c) fix  
+
+
+[a7a62ad](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/a7a62ad) feat:   modify name
+
+
+[12670a5](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/12670a5) feat: [SYGN-6684](https://app.clickup.com/t/25577573/SYGN-6684)   new currencies
+
+
+[2dde6d4](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2dde6d4) feat: [SYGN-1474](https://app.clickup.com/t/25577573/SYGN-1474)  
+
+
+[1.18.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.18.0
+
+
 ## [1.17.0]
 > 2023-06-21
 
