@@ -1,4 +1,14 @@
 
+## [1.19.0-beta.1]
+> 2023-08-25
+
+
+[2482f02](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/2482f02) feat: [SYGN-7123](https://app.clickup.com/t/25577573/SYGN-7123)   add currencies
+
+
+[1.19.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.19.0-beta.1
+
+
 ## [1.18.0-beta.1]
 > 2023-08-04
 
