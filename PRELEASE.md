@@ -1,4 +1,14 @@
 
+## [1.20.0-beta.1]
+> 2023-09-12
+
+
+[488e486](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/488e486) feat: [SYGN-8159](https://app.clickup.com/t/25577573/SYGN-8159)   add extra info
+
+
+[1.20.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.20.0-beta.1
+
+
 ## [1.19.0-beta.1]
 > 2023-08-25
 
