@@ -1,1 +1,1 @@
-{"currency_id":"sygna:0x80000076","currency_name":"Cosmos","currency_symbol":"ATOM","is_active":true,"addr_extra_info":[],"platform":null}
+{"currency_id":"sygna:0x80000076","currency_name":"Cosmos","currency_symbol":"ATOM","is_active":true,"addr_extra_info":["memo"],"platform":null}
