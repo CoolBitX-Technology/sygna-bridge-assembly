@@ -1,4 +1,13 @@
 
+## [1.21.0-alpha.1]
+> 2023-10-05
+
+[85aaaaa](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/85aaaaa) feat: [SYGN-8180](https://app.clickup.com/t/25577573/SYGN-8180)   new currencies
+
+
+[1.21.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.21.0-alpha.1
+
+
 ## [1.20.0-alpha.1]
 > 2023-09-11
 
