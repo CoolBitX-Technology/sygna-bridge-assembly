@@ -1,4 +1,22 @@
 
+## [1.21.0-alpha.3]
+> 2023-12-05
+
+[cccd0fb](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/cccd0fb) fix  
+
+
+[1.21.0-alpha.3]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.21.0-alpha.3
+
+
+## [1.21.0-alpha.2]
+> 2023-12-04
+
+[670eebe](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/670eebe) feat: [SYGN-10188](https://app.clickup.com/t/25577573/SYGN-10188)   modify APE
+
+
+[1.21.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.21.0-alpha.2
+
+
 ## [1.21.0-alpha.1]
 > 2023-10-05
 
