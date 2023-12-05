@@ -1,4 +1,21 @@
 
+## [1.21.0]
+> 2023-12-05
+
+
+
+[cccd0fb](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/cccd0fb) fix  
+
+
+[670eebe](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/670eebe) feat: [SYGN-10188](https://app.clickup.com/t/25577573/SYGN-10188)   modify APE
+
+
+[85aaaaa](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/85aaaaa) feat: [SYGN-8180](https://app.clickup.com/t/25577573/SYGN-8180)   new currencies
+
+
+[1.21.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.21.0
+
+
 ## [1.20.0]
 > 2023-09-12
 
