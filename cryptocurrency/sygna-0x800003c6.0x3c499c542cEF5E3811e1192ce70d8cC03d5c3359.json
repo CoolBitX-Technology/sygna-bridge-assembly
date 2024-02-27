@@ -1,0 +1,13 @@
+{
+  "currency_id": "sygna:0x800003c6.0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+  "currency_name": "USDC on Polygon",
+  "currency_symbol": "USDC",
+  "is_active": true,
+  "addr_extra_info": [],
+  "platform": {
+    "id": "sygna:0x800003c6",
+    "name": "Polygon",
+    "symbol": "Polygon",
+    "token_address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
+  }
+}

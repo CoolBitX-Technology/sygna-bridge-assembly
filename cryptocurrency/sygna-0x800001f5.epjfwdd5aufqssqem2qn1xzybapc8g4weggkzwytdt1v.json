@@ -1,0 +1,13 @@
+{
+  "currency_id": "sygna:0x800001f5.epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v",
+  "currency_name": "USDC on Solana",
+  "currency_symbol": "USDC",
+  "is_active": true,
+  "addr_extra_info": [],
+  "platform": {
+    "name": "Solana",
+    "symbol": "SOL",
+    "token_address": "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v",
+    "id": "sygna:0x800001f5"
+  }
+}
