@@ -1,4 +1,17 @@
 
+## [1.22.0]
+> 2024-03-08
+
+
+
+[6a19acc](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/6a19acc) feat: [SYGN-10910](https://app.clickup.com/t/25577573/SYGN-10910)   add USDC on Polkadot
+
+[9da6589](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/9da6589) feat: [SYGN-10910](https://app.clickup.com/t/25577573/SYGN-10910)   add another token of usdc
+
+
+[1.22.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.22.0
+
+
 ## [1.21.0]
 > 2023-12-05
 
