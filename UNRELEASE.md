@@ -1,4 +1,13 @@
 
+## [1.22.1-alpha.1]
+> 2024-03-13
+
+[08a5c29](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/08a5c29) fix: [SYGN-10908](https://app.clickup.com/t/25577573/SYGN-10908)   update coingecko_id
+
+
+[1.22.1-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.22.1-alpha.1
+
+
 ## [1.22.0-alpha.1]
 > 2024-02-27
 
