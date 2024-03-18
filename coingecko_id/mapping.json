@@ -8678,5 +8678,17 @@
     {
         "currency_id": "sygna:0x80776773",
         "coingecko_id": "observer-coin"
+    },
+    {
+        "currency_id": "sygna:ronin",
+        "coingecko_id": "ronin"
+    },
+    {
+        "currency_id": "sygna:ronin.0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+        "coingecko_id": "axie-infinity"
+    },
+    {
+        "currency_id": "sygna:0x800001f5.HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+        "coingecko_id": "pyth-network"
     }
 ]

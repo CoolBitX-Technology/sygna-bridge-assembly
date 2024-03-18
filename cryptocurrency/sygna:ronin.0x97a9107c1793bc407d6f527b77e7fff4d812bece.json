@@ -1,0 +1,13 @@
+{
+    "currency_id": "sygna:ronin.0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+    "currency_name": "Axie Infinity on Ronin",
+    "currency_symbol": "AXS",
+    "is_active": true,
+    "addr_extra_info": [],
+    "platform": {
+        "name": "Ronin",
+        "symbol": "RON",
+        "token_address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+        "id": "sygna:ronin"
+    }
+}
