@@ -1,4 +1,13 @@
 
+## [1.23.0-alpha.2]
+> 2024-03-19
+
+[c5c3c25](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/c5c3c25) feat: [SYGN-10934](https://app.clickup.com/t/25577573/SYGN-10934)   remove duplicated NIDT
+
+
+[1.23.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.23.0-alpha.2
+
+
 ## [1.23.0-alpha.1]
 > 2024-03-18
 
