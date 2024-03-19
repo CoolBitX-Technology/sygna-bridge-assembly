@@ -1,4 +1,21 @@
 
+## [1.23.0]
+> 2024-03-19
+
+
+
+[c5c3c25](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/c5c3c25) feat: [SYGN-10934](https://app.clickup.com/t/25577573/SYGN-10934)   remove duplicated NIDT
+
+
+[a0c9c92](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/a0c9c92) feat: [SYGN-10934](https://app.clickup.com/t/25577573/SYGN-10934)   add RON, AXS, PYTH, NIDT
+
+
+[08a5c29](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/08a5c29) fix: [SYGN-10908](https://app.clickup.com/t/25577573/SYGN-10908)   update coingecko_id
+
+
+[1.23.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.23.0
+
+
 ## [1.22.0]
 > 2024-03-08
 
