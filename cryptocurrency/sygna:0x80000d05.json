@@ -1,5 +1,5 @@
 {
-    "currency_id": "0x80000d05",
+    "currency_id": "sygna:0x80000d05",
     "currency_name": "Solar",
     "currency_symbol": "SXP",
     "is_active": true,

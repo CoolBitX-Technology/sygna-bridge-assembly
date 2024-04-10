@@ -8690,5 +8690,13 @@
     {
         "currency_id": "sygna:0x800001f5.HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
         "coingecko_id": "pyth-network"
+    },
+    {
+        "currency_id": "sygna:0x80000d05",
+        "coingecko_id": "swipe"
+    },
+    {
+        "currency_id": "sygna:0x8000003c.0x6D614686550B9E1c1DF4b2cD8f91C9D4df66C810",
+        "coingecko_id": "skeb"
     }
 ]
