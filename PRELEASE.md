@@ -1,4 +1,16 @@
 
+## [1.24.0-beta.1]
+> 2024-04-15
+
+
+[73edeae](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/73edeae) feat:   Add SXP-on-Solar and SKEB-on-Ethereum with coinGecko
+
+[878940b](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/878940b) feat:   Add SXP-on-Solar and SKEB-on-Ethereum
+
+
+[1.24.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.24.0-beta.1
+
+
 ## [1.23.0-beta.1]
 > 2024-03-19
 
