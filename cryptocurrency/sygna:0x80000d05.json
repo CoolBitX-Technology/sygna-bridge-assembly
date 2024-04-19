@@ -4,10 +4,5 @@
     "currency_symbol": "SXP",
     "is_active": true,
     "addr_extra_info": [],
-    "platform": {
-        "name": "Solar",
-        "symbol": "SXP",
-        "token_address": "",
-        "id": "sygna:0x80000d05"
-    }
+    "platform": null
 }
