@@ -8698,5 +8698,13 @@
     {
         "currency_id": "sygna:0x8000003c.0x6D614686550B9E1c1DF4b2cD8f91C9D4df66C810",
         "coingecko_id": "skeb"
-    }
+    },
+    {
+        "currency_id": "sygna:0x8000003c.0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+        "coingecko_id": "the-open-network"
+    },
+    {
+        "currency_id": "sygna:0x8000232e.0x76a797a59ba2c17726896976b7b3747bfd1d220f",
+        "coingecko_id": "the-open-network"
+    },
 ]
