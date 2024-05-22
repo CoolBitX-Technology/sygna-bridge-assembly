@@ -1,4 +1,21 @@
 
+## [1.26.0-alpha.1]
+> 2024-05-22
+
+[32280d3](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/32280d3) coingeko  
+
+[0a1a00b](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/0a1a00b) feat: [SYGN-12214](https://app.clickup.com/t/25577573/SYGN-12214)   new currencies
+
+[d1e4497](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d1e4497) feat: [SYGN-11670-add_SXP-on-Solar_SKEB-on-Ethereum](https://app.clickup.com/t/25577573/SYGN-11670-add_SXP-on-Solar_SKEB-on-Ethereum)  
+
+[25f932b](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/25f932b) feat:SYGN-11670-add_SXP-on-Solar_SKEB-on-Ethereum:   fix: SKEB currency name
+
+[32321ce](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/32321ce) feat:   Edit SXP-on-Solar
+
+
+[1.26.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.26.0-alpha.1
+
+
 ## [1.24.0-alpha.1]
 > 2024-04-10
 
