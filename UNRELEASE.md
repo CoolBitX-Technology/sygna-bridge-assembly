@@ -1,4 +1,13 @@
 
+## [1.26.0-alpha.2]
+> 2024-05-23
+
+[463d70e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/463d70e) fix:   json schema
+
+
+[1.26.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.26.0-alpha.2
+
+
 ## [1.26.0-alpha.1]
 > 2024-05-22
 
