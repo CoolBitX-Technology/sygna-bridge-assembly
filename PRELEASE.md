@@ -1,4 +1,19 @@
 
+## [1.26.0-beta.1]
+> 2024-06-03
+
+
+[463d70e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/463d70e) fix:   json schema
+
+
+[32280d3](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/32280d3) coingeko  
+
+[0a1a00b](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/0a1a00b) feat: [SYGN-12214](https://app.clickup.com/t/25577573/SYGN-12214)   new currencies
+
+
+[1.26.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.26.0-beta.1
+
+
 ## [1.25.0-beta.1]
 > 2024-04-19
 
