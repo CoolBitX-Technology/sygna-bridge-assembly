@@ -1,4 +1,15 @@
 
+## [1.27.0]
+> 2024-06-03
+
+
+
+[7c1d4cc](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/7c1d4cc) feat: [SYGN-12214](https://app.clickup.com/t/25577573/SYGN-12214)   rename Ton Crystal to Toncoin
+
+
+[1.27.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.27.0
+
+
 ## [1.26.0]
 > 2024-06-03
 
