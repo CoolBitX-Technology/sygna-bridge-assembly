@@ -1,4 +1,13 @@
 
+## [1.28.0-alpha.1]
+> 2024-06-26
+
+[a619af3](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/a619af3) feat: [SYGN-12295](https://app.clickup.com/t/25577573/SYGN-12295)   add extra info for TON
+
+
+[1.28.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.28.0-alpha.1
+
+
 ## [1.27.0-alpha.1]
 > 2024-06-03
 
