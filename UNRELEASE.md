@@ -1,4 +1,13 @@
 
+## [1.28.0-alpha.2]
+> 2024-07-10
+
+[0309024](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/0309024) feat:   sunset ARB on Arbitrum currency
+
+
+[1.28.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.28.0-alpha.2
+
+
 ## [1.28.0-alpha.1]
 > 2024-06-26
 
