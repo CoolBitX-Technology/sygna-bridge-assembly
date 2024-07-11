@@ -1,4 +1,13 @@
 
+## [1.28.0-alpha.3]
+> 2024-07-11
+
+[f85fb3e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/f85fb3e) feat: [SYGN-12289](https://app.clickup.com/t/25577573/SYGN-12289)   mapping Sygna currency_id to blockchain name
+
+
+[1.28.0-alpha.3]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.28.0-alpha.3
+
+
 ## [1.28.0-alpha.2]
 > 2024-07-10
 
