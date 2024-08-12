@@ -8706,5 +8706,13 @@
     {
         "currency_id": "sygna:0x8000232e.0x76a797a59ba2c17726896976b7b3747bfd1d220f",
         "coingecko_id": "the-open-network"
+    },
+    {
+        "currency_id": "sygna:0x800001f5.rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+        "coingecko_id": "render-token"
+    },
+    {
+        "currency_id": "sygna:0x800003c6.0x22737f5bbb7c5b5ba407b0c1c9a9cdf66cf25d7d",
+        "coingecko_id": "snpit-token"
     }
 ]
