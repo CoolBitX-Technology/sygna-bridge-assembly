@@ -1,0 +1,13 @@
+{
+    "currency_id": "sygna:0x800001f5.rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+    "currency_name": "RENDER on Solana",
+    "currency_symbol": "RNDR",
+    "is_active": true,
+    "addr_extra_info": [],
+    "platform": {
+        "name": "Solana",
+        "symbol": "SOL",
+        "token_address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+        "id": "sygna:0x800001f5"
+    }
+}
