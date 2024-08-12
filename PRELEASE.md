@@ -1,4 +1,14 @@
 
+## [1.29.0-beta.1]
+> 2024-08-12
+
+
+[75a1116](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/75a1116) feat: [SYGN-12834](https://app.clickup.com/t/25577573/SYGN-12834)   add RENDER on Solana, SNPIT on Polygon
+
+
+[1.29.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.29.0-beta.1
+
+
 ## [1.28.0-beta.1]
 > 2024-07-18
 
