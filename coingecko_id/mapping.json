@@ -7136,6 +7136,10 @@
         "coingecko_id": "fsw-token"
     },
     {
+        "currency_id": "sygna:0x8000003c.0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
+        "coingecko_id": "polygon-ecosystem-token"
+    },
+    {
         "currency_id": "sygna:0x8000003c",
         "coingecko_id": "ethereum"
     },
