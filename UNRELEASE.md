@@ -1,4 +1,13 @@
 
+## [1.30.0-alpha.1]
+> 2024-09-02
+
+[3fce2e2](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/3fce2e2) feat: [SYGN-12832](https://app.clickup.com/t/25577573/SYGN-12832)   MATIC -> POL
+
+
+[1.30.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.30.0-alpha.1
+
+
 ## [1.29.0-alpha.1]
 > 2024-08-12
 
