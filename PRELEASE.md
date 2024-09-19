@@ -1,4 +1,17 @@
 
+## [1.31.0-beta.1]
+> 2024-09-19
+
+
+[973f75b](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/973f75b) feat: [SYGN-13267](https://app.clickup.com/t/25577573/SYGN-13267)   Klaytn->Kaia
+
+
+[b07f825](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/b07f825) feat: [SYGN-13267](https://app.clickup.com/t/25577573/SYGN-13267)   Klay -> Kaia
+
+
+[1.31.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.31.0-beta.1
+
+
 ## [1.30.0-beta.1]
 > 2024-09-04
 
