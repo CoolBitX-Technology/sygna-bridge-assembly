@@ -8718,5 +8718,17 @@
     {
         "currency_id": "sygna:0x800003c6.0x22737f5bbb7c5b5ba407b0c1c9a9cdf66cf25d7d",
         "coingecko_id": "snpit-token"
+    },
+    {
+        "currency_id":"sygna:0x800001f5.8e5pw1g1nqpmgvyes1vzx8lokazvuzgl6g1uhr4ivbab",
+        "coingecko_id":"didi-duck"
+    },
+    {
+        "currency_id":"sygna:osmosis",
+        "coingecko_id":"osmosis"
+    },
+    {
+        "currency_id":"sygna:0x80000076.uosmo",
+        "coingecko_id":"osmosis"
     }
 ]

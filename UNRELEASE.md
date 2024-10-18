@@ -1,4 +1,22 @@
 
+## [1.32.1-alpha.1]
+> 2024-10-18
+
+[ff31ab4](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/ff31ab4) fix: [SYGN-13831](https://app.clickup.com/t/25577573/SYGN-13831)   modify currency's extra info
+
+
+[1.32.1-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.32.1-alpha.1
+
+
+## [1.32.0-alpha.1]
+> 2024-10-17
+
+[878aa06](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/878aa06) feat: [SYGN-13831](https://app.clickup.com/t/25577573/SYGN-13831)   new currencies
+
+
+[1.32.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.32.0-alpha.1
+
+
 ## [1.31.0-alpha.2]
 > 2024-09-18
 
