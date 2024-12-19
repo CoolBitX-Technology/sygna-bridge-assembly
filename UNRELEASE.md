@@ -1,4 +1,13 @@
 
+## [1.33.0-alpha.1]
+> 2024-12-19
+
+[67a842e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/67a842e) feat: [SYGN-14476](https://app.clickup.com/t/25577573/SYGN-14476)   new currencies
+
+
+[1.33.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.33.0-alpha.1
+
+
 ## [1.32.1-alpha.1]
 > 2024-10-18
 
