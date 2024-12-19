@@ -8730,5 +8730,9 @@
     {
         "currency_id":"sygna:0x80000076.uosmo",
         "coingecko_id":"osmosis"
+    },
+    {
+        "currency_id":"sygna:0x8000003c.0x6982508145454ce325ddbe47a25d4ec3d2311933",
+        "coingecko_id":"pepe"
     }
 ]
