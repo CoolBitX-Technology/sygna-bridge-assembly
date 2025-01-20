@@ -1,4 +1,13 @@
 
+## [1.34.0-alpha.1]
+> 2025-01-20
+
+[b112f39](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/b112f39) feat:   rename KLAY to Kaia
+
+
+[1.34.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.34.0-alpha.1
+
+
 ## [1.33.0-alpha.1]
 > 2024-12-19
 
