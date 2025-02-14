@@ -1,4 +1,13 @@
 
+## [1.35.0-alpha.1]
+> 2025-02-13
+
+[58349ba](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/58349ba) feat: [SYGN-14475](https://app.clickup.com/t/25577573/SYGN-14475)   remove unused asset
+
+
+[1.35.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.35.0-alpha.1
+
+
 ## [1.34.0-alpha.1]
 > 2025-01-20
 
