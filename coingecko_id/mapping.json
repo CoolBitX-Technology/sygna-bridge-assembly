@@ -8720,19 +8720,23 @@
         "coingecko_id": "snpit-token"
     },
     {
-        "currency_id":"sygna:0x800001f5.8e5pw1g1nqpmgvyes1vzx8lokazvuzgl6g1uhr4ivbab",
-        "coingecko_id":"didi-duck"
+        "currency_id": "sygna:0x800001f5.8e5pw1g1nqpmgvyes1vzx8lokazvuzgl6g1uhr4ivbab",
+        "coingecko_id": "didi-duck"
     },
     {
-        "currency_id":"sygna:osmosis",
-        "coingecko_id":"osmosis"
+        "currency_id": "sygna:osmosis",
+        "coingecko_id": "osmosis"
     },
     {
-        "currency_id":"sygna:0x80000076.uosmo",
-        "coingecko_id":"osmosis"
+        "currency_id": "sygna:0x80000076.uosmo",
+        "coingecko_id": "osmosis"
     },
     {
-        "currency_id":"sygna:0x8000003c.0x6982508145454ce325ddbe47a25d4ec3d2311933",
-        "coingecko_id":"pepe"
+        "currency_id": "sygna:0x8000003c.0x6982508145454ce325ddbe47a25d4ec3d2311933",
+        "coingecko_id": "pepe"
+    },
+    {
+        "currency_id": "sygna:0x8000003c.0x58b6a8a3302369daec383334672404ee733ab239",
+        "coingecko_id": "livepeer"
     }
 ]
