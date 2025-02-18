@@ -1,4 +1,15 @@
 
+## [1.36.0]
+> 2025-02-18
+
+
+
+[887af73](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/887af73) feat: [SYGN-15302](https://app.clickup.com/t/25577573/SYGN-15302)   new currencies
+
+
+[1.36.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.36.0
+
+
 ## [1.35.0]
 > 2025-02-14
 
