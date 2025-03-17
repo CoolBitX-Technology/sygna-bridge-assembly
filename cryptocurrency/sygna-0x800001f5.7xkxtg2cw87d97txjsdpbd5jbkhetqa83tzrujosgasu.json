@@ -5,8 +5,8 @@
     "is_active": true,
     "addr_extra_info": [],
     "platform": {
-        "name": "Samoyedcoin",
-        "symbol": "SAMO",
+        "name": "Solana",
+        "symbol": "SOL",
         "token_address": "7xkxtg2cw87d97txjsdpbd5jbkhetqa83tzrujosgasu",
         "id": "sygna:0x800001f5"
     }
