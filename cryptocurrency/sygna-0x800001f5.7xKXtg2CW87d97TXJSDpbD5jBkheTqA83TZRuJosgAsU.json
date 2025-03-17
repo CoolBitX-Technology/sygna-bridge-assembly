@@ -1,5 +1,5 @@
 {
-    "currency_id": "sygna:0x800001f5.7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+    "currency_id": "sygna:0x800001f5.7xkxtg2cw87d97txjsdpbd5jbkhetqa83tzrujosgasu",
     "currency_name": "Samoyedcoin",
     "currency_symbol": "SAMO",
     "is_active": true,
@@ -7,7 +7,7 @@
     "platform": {
         "name": "Samoyedcoin",
         "symbol": "SAMO",
-        "token_address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+        "token_address": "7xkxtg2cw87d97txjsdpbd5jbkhetqa83tzrujosgasu",
         "id": "sygna:0x800001f5"
     }
 }
