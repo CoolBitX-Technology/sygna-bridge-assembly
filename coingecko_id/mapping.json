@@ -328,6 +328,10 @@
         "coingecko_id": "stepn"
     },
     {
+        "currency_id": "sygna:0x800001f5.7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+        "coingecko_id": "samoyedcoin"
+    },
+    {
         "currency_id": "sygna:0x800001f5.8gc27rqf4nedyfyf5as8zmqjuum5gufowkgyrrba4enn",
         "coingecko_id": "fantom"
     },
