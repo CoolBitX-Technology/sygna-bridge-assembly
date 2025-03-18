@@ -1,4 +1,21 @@
 
+## [1.37.0-alpha.1]
+> 2025-03-18
+
+[db69a78](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/db69a78) fix   platform name
+
+[daea030](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/daea030) fix   : file name
+
+[f65cbaa](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/f65cbaa) fix   : file name
+
+[fde2824](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/fde2824) fix   : lowercase address
+
+[3d1c42e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/3d1c42e) feat   : SYGN-16027 add SAMO
+
+
+[1.37.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.37.0-alpha.1
+
+
 ## [1.36.0-alpha.1]
 > 2025-02-17
 
