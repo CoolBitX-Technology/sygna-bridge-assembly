@@ -865,5 +865,9 @@
     "sygna:0x85f5e0fe": "fluid_chains",
     "sygna:0xa4465644": "forumcoin",
     "sygna:ronin": "ronin",
-    "sygna:osmosis":"osmosis"
+    "sygna:osmosis":"osmosis",
+    "sygna:celestia":"celestia",
+    "sygna:akash":"akash",
+    "sygna:fetch.ai":"fetch.ai"
+
 }
