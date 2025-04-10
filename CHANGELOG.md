@@ -1,4 +1,30 @@
 
+## [1.38.0]
+> 2025-04-10
+
+
+
+[5020fd0](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/5020fd0) feat: [SYGN-16050](https://app.clickup.com/t/25577573/SYGN-16050)   add blockchain
+
+
+[d7a4966](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d7a4966) feat: [SYGN-16050](https://app.clickup.com/t/25577573/SYGN-16050)   new currencies
+
+
+
+[db69a78](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/db69a78) fix   platform name
+
+[daea030](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/daea030) fix   : file name
+
+[f65cbaa](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/f65cbaa) fix   : file name
+
+[fde2824](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/fde2824) fix   : lowercase address
+
+[3d1c42e](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/3d1c42e) feat   : SYGN-16027 add SAMO
+
+
+[1.38.0]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.38.0
+
+
 ## [1.36.0]
 > 2025-02-18
 
