@@ -1,4 +1,17 @@
 
+## [1.38.0-beta.1]
+> 2025-04-10
+
+
+[5020fd0](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/5020fd0) feat: [SYGN-16050](https://app.clickup.com/t/25577573/SYGN-16050)   add blockchain
+
+
+[d7a4966](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d7a4966) feat: [SYGN-16050](https://app.clickup.com/t/25577573/SYGN-16050)   new currencies
+
+
+[1.38.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.38.0-beta.1
+
+
 ## [1.37.0-beta.1]
 > 2025-03-18
 
