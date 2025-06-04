@@ -8808,11 +8808,15 @@
         "coingecko_id":"catizen"
     },
     {
-        "currency_id":"0x800001f5.6p6xghyf7aee6tzksmfsko444wqop15icusqi2jfgipn",
+        "currency_id":"sygna:0x800001f5.6p6xghyf7aee6tzksmfsko444wqop15icusqi2jfgipn",
         "coingecko_id":"official-trump"
     },
     {
-        "currency_id":"0x800001f5.fuafbo2jgks6gb4z4lfzkqszgznucisehqnnebarxm1p",
+        "currency_id":"sygna:0x800001f5.fuafbo2jgks6gb4z4lfzkqszgznucisehqnnebarxm1p",
         "coingecko_id":"melania-meme"
+    },
+    {
+        "currency_id":"sygna:fcrcoin",
+        "coingecko_id":"fcr-coin"
     }
 ]
