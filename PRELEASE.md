@@ -1,4 +1,16 @@
 
+## [1.39.0-beta.1]
+> 2025-06-04
+
+
+[c62b1d9](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/c62b1d9) feat   : fix format for typo
+
+[60191ba](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/60191ba) feat [SYGN-16144](https://app.clickup.com/t/25577573/SYGN-16144)   add FCR coin
+
+
+[1.39.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.39.0-beta.1
+
+
 ## [1.38.0-beta.1]
 > 2025-04-10
 
