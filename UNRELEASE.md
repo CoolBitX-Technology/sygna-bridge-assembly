@@ -1,4 +1,13 @@
 
+## [1.40.0-alpha.2]
+> 2025-07-17
+
+[f084c4c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/f084c4c) feat: [SYGN-16539](https://app.clickup.com/t/25577573/SYGN-16539)   add NCXC back and rename Hedera
+
+
+[1.40.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.40.0-alpha.2
+
+
 ## [1.40.0-alpha.1]
 > 2025-06-20
 
