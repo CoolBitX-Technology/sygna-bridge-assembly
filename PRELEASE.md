@@ -1,4 +1,17 @@
 
+## [1.40.0-beta.1]
+> 2025-07-18
+
+
+[f084c4c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/f084c4c) feat: [SYGN-16539](https://app.clickup.com/t/25577573/SYGN-16539)   add NCXC back and rename Hedera
+
+
+[8a502f9](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/8a502f9) feat: [SYGN-16152](https://app.clickup.com/t/25577573/SYGN-16152)   clean up the cryptocurrency list
+
+
+[1.40.0-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.40.0-beta.1
+
+
 ## [1.39.0-beta.1]
 > 2025-06-04
 
