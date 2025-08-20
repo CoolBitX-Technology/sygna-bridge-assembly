@@ -8830,5 +8830,9 @@
     {
         "currency_id": "sygna:0x80000009.17vlrv4y7g15knhcepyvgighhvrezbemrn",
         "coingecko_id": "storj"
+    },
+    {
+        "currency_id": "sygna:0x8000003c.0x56072c95faa701256059aa122697b133aded9279",
+        "coingecko_id": "sky"
     }
 ]
