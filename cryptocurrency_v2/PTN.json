@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fc6912a7-9c30-49e7-b031-1b494cb7180b",
+    "symbol": "PTN",
+    "name": "PalletOne",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfe76be9cec465ed3219a9972c21655d57d21aec6"
+      }
+    }
+  }
+]

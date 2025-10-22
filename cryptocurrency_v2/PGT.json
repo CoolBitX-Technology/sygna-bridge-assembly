@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e94e9197-373e-4ef8-b849-c4869d5ec466",
+    "symbol": "PGT",
+    "name": "Polyient Games Governance Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeaccb6e0f24d66cf4aa6cbda33971b9231d332a1"
+      }
+    }
+  }
+]

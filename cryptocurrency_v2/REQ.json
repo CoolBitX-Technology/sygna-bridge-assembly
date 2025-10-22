@@ -1,0 +1,12 @@
+[
+  {
+    "id": "09f494a4-1e63-495b-883c-b4a692d6e419",
+    "symbol": "REQ",
+    "name": "Request",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a"
+      }
+    }
+  }
+]

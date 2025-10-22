@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1de48319-95d9-4ae6-ab00-4d1fc56aea7f",
+    "symbol": "USDP",
+    "name": "USDP",
+    "platforms": {
+      "usdp": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fcce5c5d-5f0e-4a95-819f-223e8bd55a40",
+    "symbol": "TOR",
+    "name": "Torex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9ea20fbfaa44efbc60c6728fcdba17f01b7e04fe"
+      }
+    }
+  }
+]

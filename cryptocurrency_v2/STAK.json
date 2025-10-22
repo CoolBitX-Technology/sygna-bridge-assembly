@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6a448868-ea26-40f8-82c0-234228c28a05",
+    "symbol": "STAK",
+    "name": "STRAKS",
+    "platforms": {
+      "straks": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "54a93bb6-2800-4c64-aba2-99e4149cac9e",
+    "symbol": "ME",
+    "name": "All.me",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x76574c7b61b07ba14eace42e60cc73a08038da85"
+      }
+    }
+  }
+]

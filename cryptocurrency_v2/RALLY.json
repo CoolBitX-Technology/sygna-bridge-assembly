@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8a9cbe68-c8fe-4a15-9675-60d98665d280",
+    "symbol": "RALLY",
+    "name": "Rally",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe947b388fbe682784170b62f2bd4665f9719a285"
+      }
+    }
+  }
+]

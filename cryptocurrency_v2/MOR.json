@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9a00a5c6-01a9-4c69-8f15-47dff421692c",
+    "symbol": "MOR",
+    "name": "MorCrypto Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xae746520ffdb15d0505e32f1d6e9a2b4ab866572"
+      }
+    }
+  }
+]

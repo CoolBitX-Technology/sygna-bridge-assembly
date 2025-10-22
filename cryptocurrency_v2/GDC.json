@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7363813e-b945-44d8-966a-39cc75bbb4a5",
+    "symbol": "GDC",
+    "name": "Global Digital Content",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x301c755ba0fca00b1923768fffb3df7f4e63af31"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d6de6ea3-0c7d-45e6-81a6-b7d6bd5341c7",
+    "symbol": "VTC",
+    "name": "Vertcoin",
+    "platforms": {
+      "vertcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

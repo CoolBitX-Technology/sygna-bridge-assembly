@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a6d09974-5757-4aeb-a84c-377d06b53053",
+    "symbol": "SERO",
+    "name": "Super Zero Protocol",
+    "platforms": {
+      "super-zero-protocol": {
+        "token_address": "native"
+      }
+    }
+  }
+]

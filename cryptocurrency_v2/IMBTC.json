@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3376aaf5-b78b-4dd8-93d9-4e0057fca267",
+    "symbol": "IMBTC",
+    "name": "The Tokenized Bitcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3212b29e33587a00fb1c83346f5dbfa69a458923"
+      }
+    }
+  }
+]

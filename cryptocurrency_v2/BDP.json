@@ -1,0 +1,12 @@
+[
+  {
+    "id": "658794a1-e905-4940-b869-c88af6c195e3",
+    "symbol": "BDP",
+    "name": "BidiPass",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x593114f03a0a575aece9ed675e52ed68d2172b8c"
+      }
+    }
+  }
+]

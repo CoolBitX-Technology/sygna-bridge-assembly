@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c47a8a1e-f41b-4005-b7d9-8a912dbafcb4",
+    "symbol": "QBC",
+    "name": "Quebecoin",
+    "platforms": {
+      "quebecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

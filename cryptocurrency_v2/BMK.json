@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2f03e22e-119a-4573-9a33-b4873afe1bbe",
+    "symbol": "BMK",
+    "name": "Bitmark",
+    "platforms": {
+      "bitmark": {
+        "token_address": "native"
+      }
+    }
+  }
+]

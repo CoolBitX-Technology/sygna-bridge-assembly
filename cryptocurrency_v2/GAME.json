@@ -1,0 +1,15 @@
+[
+  {
+    "id": "c56fef95-6f1e-4d7f-bb83-6e461e794fec",
+    "symbol": "GAME",
+    "name": "GameCredits",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437"
+      },
+      "gamecredits": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6098f7ec-8548-421c-8a5e-0890a458631f",
+    "symbol": "DIS",
+    "name": "TosDis",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x220b71671b649c03714da9c621285943f3cbcdc6"
+      }
+    }
+  }
+]

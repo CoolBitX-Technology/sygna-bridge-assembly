@@ -1,0 +1,12 @@
+[
+  {
+    "id": "37ddc6ee-377d-48be-9979-9cc2233a0cf5",
+    "symbol": "USDN",
+    "name": "Neutrino USD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0"
+      }
+    }
+  }
+]

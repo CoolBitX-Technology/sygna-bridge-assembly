@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1c8ec873-c653-4766-a550-b35202ed94ef",
+    "symbol": "DAC",
+    "name": "Davinci Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaad54c9f27b876d2538455dda69207279ff673a5"
+      }
+    }
+  }
+]

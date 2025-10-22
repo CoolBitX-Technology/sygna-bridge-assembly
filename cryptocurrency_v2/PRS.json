@@ -1,0 +1,12 @@
+[
+  {
+    "id": "376b8595-1f2b-4cb2-90db-f69639fdcd05",
+    "symbol": "PRS",
+    "name": "PressOne",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe0d95530820aafc51b1d98023aa1ff000b78d8b2"
+      }
+    }
+  }
+]

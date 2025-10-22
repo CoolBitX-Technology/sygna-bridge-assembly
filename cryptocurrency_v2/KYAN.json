@@ -1,0 +1,12 @@
+[
+  {
+    "id": "932b06ad-e3bb-4fb1-94b5-331af3664f49",
+    "symbol": "KYAN",
+    "name": "Kyanite",
+    "platforms": {
+      "kyanite": {
+        "token_address": "native"
+      }
+    }
+  }
+]

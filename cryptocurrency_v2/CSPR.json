@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7fdbc00f-6197-4345-8bf2-95452030a544",
+    "symbol": "CSPR",
+    "name": "Casper",
+    "platforms": {
+      "casper": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9a2c7dd1-a608-418a-8e78-6856e0b16cc8",
+    "symbol": "GNX",
+    "name": "Genaro Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6ec8a24cabdc339a06a172f8223ea557055adaa5"
+      }
+    }
+  }
+]

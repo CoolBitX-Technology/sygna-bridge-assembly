@@ -1,0 +1,12 @@
+[
+  {
+    "id": "add535a3-9e84-41fd-818b-31da33aa911f",
+    "symbol": "POT",
+    "name": "PotCoin",
+    "platforms": {
+      "potcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

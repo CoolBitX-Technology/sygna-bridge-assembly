@@ -1,0 +1,12 @@
+[
+  {
+    "id": "66c203ac-407e-4662-8653-8777412346c1",
+    "symbol": "MYB",
+    "name": "MyBit",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc"
+      }
+    }
+  }
+]

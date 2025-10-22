@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38261c75-fce3-4780-942f-b68551867762",
+    "symbol": "OGC",
+    "name": "Onegram",
+    "platforms": {
+      "onegram": {
+        "token_address": "native"
+      }
+    }
+  }
+]

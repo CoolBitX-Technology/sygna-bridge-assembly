@@ -1,0 +1,12 @@
+[
+  {
+    "id": "43d94156-be1f-45a5-b4f3-a9715f77c6a6",
+    "symbol": "EQUAD",
+    "name": "QuadrantProtocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc28e931814725bbeb9e670676fabbcb694fe7df2"
+      }
+    }
+  }
+]

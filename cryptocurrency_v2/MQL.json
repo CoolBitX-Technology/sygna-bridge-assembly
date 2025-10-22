@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4ef8e406-1a1d-4334-8c88-8320127a2647",
+    "symbol": "MQL",
+    "name": "MiraQle",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x428dc22668e6f3468273634067e5545ed5417a3e"
+      }
+    }
+  }
+]

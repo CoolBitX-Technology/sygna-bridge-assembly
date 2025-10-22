@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c147235b-fc97-4c5c-947c-f3d87518958f",
+    "symbol": "ARA",
+    "name": "Aura",
+    "platforms": {
+      "aura": {
+        "token_address": "native"
+      }
+    }
+  }
+]

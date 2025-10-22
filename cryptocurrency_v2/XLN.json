@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cdea65da-06bc-47b9-b1a3-7cb3a82328f0",
+    "symbol": "XLN",
+    "name": "Lunarium",
+    "platforms": {
+      "lunarium": {
+        "token_address": "native"
+      }
+    }
+  }
+]

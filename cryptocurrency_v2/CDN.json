@@ -1,0 +1,12 @@
+[
+  {
+    "id": "85bc9d4f-65e1-467f-86eb-88f914adfc0d",
+    "symbol": "CDN",
+    "name": "Canada eCoin",
+    "platforms": {
+      "canada-ecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

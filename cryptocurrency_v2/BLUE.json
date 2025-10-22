@@ -1,0 +1,12 @@
+[
+  {
+    "id": "626f19c4-79ce-49a4-a5e3-c53b0db1652f",
+    "symbol": "BLUE",
+    "name": "Blue Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x539efe69bcdd21a83efd9122571a64cc25e0282b"
+      }
+    }
+  }
+]

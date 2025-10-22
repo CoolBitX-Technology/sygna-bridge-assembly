@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8307fdeb-c6a8-40a6-ad0e-584b28a24af8",
+    "symbol": "UTK",
+    "name": "Utrust",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c"
+      }
+    }
+  }
+]

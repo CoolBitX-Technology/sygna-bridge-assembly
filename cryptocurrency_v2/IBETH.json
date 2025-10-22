@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c4c2c087-dc88-494c-a47d-84987df2f41a",
+    "symbol": "IBETH",
+    "name": "Interest Bearing ETH",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a"
+      }
+    }
+  }
+]

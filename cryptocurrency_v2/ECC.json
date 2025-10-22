@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fec726c1-125d-4e07-b23d-6f4cc9ccb878",
+    "symbol": "ECC",
+    "name": "ECC",
+    "platforms": {
+      "ecc": {
+        "token_address": "native"
+      }
+    }
+  }
+]

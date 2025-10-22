@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4766747a-2be0-4bf2-a346-b139f568a6a4",
+    "symbol": "EMTRG",
+    "name": "Meter Governance mapped by Meter.io",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f"
+      }
+    }
+  }
+]

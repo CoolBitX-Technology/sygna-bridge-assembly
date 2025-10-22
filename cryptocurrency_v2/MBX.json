@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5b7c39c5-f8a4-4afa-832b-8e67a06f8d54",
+    "symbol": "MBX",
+    "name": "MARBLEX",
+    "platforms": {
+      "Kaia": {
+        "token_address": "0xd068c52d81f4409b9502da926ace3301cc41f623"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "825dd741-082d-477a-a924-12200ec1cf9a",
+    "symbol": "YOU",
+    "name": "YOU COIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x34364bee11607b1963d66bca665fde93fca666a8"
+      }
+    }
+  }
+]

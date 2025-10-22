@@ -1,0 +1,12 @@
+[
+  {
+    "id": "804dfcfe-a8f8-4665-915e-90fdcda4bca0",
+    "symbol": "PINK",
+    "name": "Pinkcoin",
+    "platforms": {
+      "pinkcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

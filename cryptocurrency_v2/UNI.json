@@ -1,0 +1,22 @@
+[
+  {
+    "id": "e356186c-7e4f-4fff-8ef6-0c2eb062c170",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+      }
+    }
+  },
+  {
+    "id": "0638635b-002d-4c16-b060-fb62c4698a22",
+    "symbol": "UNI",
+    "name": "UNICORN Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe6877ea9c28fbdec631ffbc087956d0023a76bf2"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d9e4acd4-ba47-4ff4-9fe8-846508b63a86",
+    "symbol": "CELO",
+    "name": "Celo",
+    "platforms": {
+      "celo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

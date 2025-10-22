@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c5d412c-11cb-4fab-a3aa-5d1cf40d79cb",
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "platforms": {
+      "bitcoin-cash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

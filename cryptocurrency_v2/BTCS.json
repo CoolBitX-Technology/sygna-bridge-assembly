@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cce6ee27-2ad4-4922-bdf9-e3e21d9aec0d",
+    "symbol": "BTCS",
+    "name": "Bitcoin Stake",
+    "platforms": {
+      "bitcoin-stake": {
+        "token_address": "native"
+      }
+    }
+  }
+]

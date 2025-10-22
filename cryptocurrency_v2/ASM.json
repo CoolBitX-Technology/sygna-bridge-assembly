@@ -1,0 +1,12 @@
+[
+  {
+    "id": "17d1159b-55d2-4f40-955d-f41a64c1ead8",
+    "symbol": "ASM",
+    "name": "Assemble Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2565ae0385659badcada1031db704442e1b69982"
+      }
+    }
+  }
+]

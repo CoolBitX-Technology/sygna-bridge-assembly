@@ -1,0 +1,12 @@
+[
+  {
+    "id": "641f0ec1-ab94-48f0-bb9a-5fe0ae74d536",
+    "symbol": "NXS",
+    "name": "Nexus",
+    "platforms": {
+      "nexus": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "77fa7e00-61f3-4164-8395-bd99083f1d69",
+    "symbol": "CAT",
+    "name": "Cat Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3"
+      }
+    }
+  },
+  {
+    "id": "25cbe509-16f1-4622-ace7-77da4ffb4bbf",
+    "symbol": "CAT",
+    "name": "BlockCAT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x56ba2ee7890461f463f7be02aac3099f6d5811a8"
+      }
+    }
+  }
+]

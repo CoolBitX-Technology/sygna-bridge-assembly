@@ -1,0 +1,12 @@
+[
+  {
+    "id": "43932efa-7dfe-4edd-94c3-f6574c652519",
+    "symbol": "INNBC",
+    "name": "Innovative Bioresearch Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb67718b98d52318240c52e71a898335da4a28c42"
+      }
+    }
+  }
+]

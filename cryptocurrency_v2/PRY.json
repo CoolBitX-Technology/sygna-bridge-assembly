@@ -1,0 +1,12 @@
+[
+  {
+    "id": "60325c8f-9897-45fe-a791-82ae57ca3443",
+    "symbol": "PRY",
+    "name": "Prophecy",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3c81d482172cc273c3b91dd9d8eb212023d00521"
+      }
+    }
+  }
+]

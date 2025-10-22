@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b0dd8e9b-5f7d-47d4-8434-faba46072f47",
+    "symbol": "LRC",
+    "name": "Loopring",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
+      }
+    }
+  }
+]

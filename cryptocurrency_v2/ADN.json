@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0cbd1076-9a0f-4e87-b0fc-28fddf2e6125",
+    "symbol": "ADN",
+    "name": "Aladdin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x95a41fb80ca70306e9ecf4e51cea31bd18379c18"
+      }
+    }
+  }
+]

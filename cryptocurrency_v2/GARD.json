@@ -1,0 +1,12 @@
+[
+  {
+    "id": "710e80c1-2c3f-4b4e-8583-c193f596fdc0",
+    "symbol": "GARD",
+    "name": "Hashgard",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5c64031c62061865e5fd0f53d3cdaef80f72e99d"
+      }
+    }
+  }
+]

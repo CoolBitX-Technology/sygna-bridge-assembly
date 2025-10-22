@@ -1,0 +1,15 @@
+[
+  {
+    "id": "e22faec9-b34b-4c44-a836-a9e3a96e4e79",
+    "symbol": "PHT",
+    "name": "Phoneum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbbd227e805b90b8fe8f4c01a3f4e48bdae0599af"
+      },
+      "tron": {
+        "token_address": "1003095"
+      }
+    }
+  }
+]

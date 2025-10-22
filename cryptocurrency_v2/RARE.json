@@ -1,0 +1,12 @@
+[
+  {
+    "id": "23b1fe6b-212d-4c08-9a89-63078bf4f197",
+    "symbol": "RARE",
+    "name": "Unique One",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8"
+      }
+    }
+  }
+]

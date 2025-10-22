@@ -1,0 +1,12 @@
+[
+  {
+    "id": "21c0c4e2-156c-4728-a9cc-e505fa478551",
+    "symbol": "SYLO",
+    "name": "Sylo",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf293d23bf2cdc05411ca0eddd588eb1977e8dcd4"
+      }
+    }
+  }
+]

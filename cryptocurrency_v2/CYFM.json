@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f34f48a4-14cd-4b23-99b9-be8db6495612",
+    "symbol": "CYFM",
+    "name": "CyberFM",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4a621d9f1b19296d1c0f87637b3a8d4978e9bf82"
+      }
+    }
+  }
+]

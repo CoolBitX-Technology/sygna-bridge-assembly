@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a560e831-72b2-45da-b88f-f5e21fdf7ea0",
+    "symbol": "MOVR",
+    "name": "Moonriver",
+    "platforms": {
+      "moonriver": {
+        "token_address": "native"
+      }
+    }
+  }
+]

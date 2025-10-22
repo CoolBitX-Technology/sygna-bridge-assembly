@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b834c8a3-cc1f-4e40-995e-63b8e80c1e7c",
+    "symbol": "CSC",
+    "name": "CasinoCoin",
+    "platforms": {
+      "casinocoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

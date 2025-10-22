@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eb07a4b5-b656-4b47-9baf-02c2ab5d2e71",
+    "symbol": "BRK",
+    "name": "Breakout Coin",
+    "platforms": {
+      "breakout-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

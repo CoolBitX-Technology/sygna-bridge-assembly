@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a361d4c3-ecc2-41de-bb77-4e7e8370957c",
+    "symbol": "BTB",
+    "name": "BitBall",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x06e0feb0d74106c7ada8497754074d222ec6bcdf"
+      }
+    }
+  }
+]

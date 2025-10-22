@@ -1,0 +1,12 @@
+[
+  {
+    "id": "312e913b-8dcd-442a-ad83-f66e0e868664",
+    "symbol": "DEXA",
+    "name": "DEXA COIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x725440512cb7b78bf56b334e50e31707418231cb"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a5f5202e-5089-48f6-acc5-48f72051c4d7",
+    "symbol": "EPS",
+    "name": "Epanus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x50ec35d1e18d439f02fa895746fc3e1bef311780"
+      }
+    }
+  }
+]

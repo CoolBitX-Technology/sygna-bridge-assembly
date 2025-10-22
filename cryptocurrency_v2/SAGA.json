@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aa716dda-4dc1-4d65-a348-f069aa19b180",
+    "symbol": "SAGA",
+    "name": "CryptoSaga",
+    "platforms": {
+      "cryptosaga": {
+        "token_address": "native"
+      }
+    }
+  }
+]

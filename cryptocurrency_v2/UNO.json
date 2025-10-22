@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d8c009b-6a12-41b8-a068-74fdfa737857",
+    "symbol": "UNO",
+    "name": "Unobtanium",
+    "platforms": {
+      "unobtanium": {
+        "token_address": "native"
+      }
+    }
+  }
+]

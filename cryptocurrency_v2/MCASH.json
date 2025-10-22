@@ -1,0 +1,12 @@
+[
+  {
+    "id": "003971ac-2f17-43f6-946c-f297ae364ca6",
+    "symbol": "MCASH",
+    "name": "Mcashchain",
+    "platforms": {
+      "mcashchain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

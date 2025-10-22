@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c09773bb-9ca0-400a-8231-3f6e0692e2db",
+    "symbol": "RAT",
+    "name": "RegistArtToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x77f57a6b9c9e307c90a9e9065d9cd7c6e92014b6"
+      }
+    }
+  }
+]

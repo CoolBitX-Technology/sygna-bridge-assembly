@@ -1,0 +1,12 @@
+[
+  {
+    "id": "715b98a4-eb2b-4896-bb84-83931cd99fba",
+    "symbol": "AIT",
+    "name": "AICHAIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x79650799e7899a802cb96c0bc33a6a8d4ce4936c"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "03dfde1a-369b-420b-8f04-6ade47f5ca46",
+    "symbol": "LAMB",
+    "name": "Lambda Storage Chain",
+    "platforms": {
+      "lambda-storage-chain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

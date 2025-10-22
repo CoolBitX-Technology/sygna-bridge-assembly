@@ -1,0 +1,22 @@
+[
+  {
+    "id": "959174d4-714e-478f-ac0e-7560ea3693d9",
+    "symbol": "DUCK",
+    "name": "Unit Protocol Duck",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5"
+      }
+    }
+  },
+  {
+    "id": "cecf7a7c-434a-412f-b491-d54dd0c863a3",
+    "symbol": "DUCK",
+    "name": "Duck DAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f"
+      }
+    }
+  }
+]

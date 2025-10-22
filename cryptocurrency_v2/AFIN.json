@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cdc7c539-0429-4db1-8e67-b7024e409433",
+    "symbol": "AFIN",
+    "name": "Asian Fintech",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xee9e5eff401ee921b138490d00ca8d1f13f67a72"
+      }
+    }
+  }
+]

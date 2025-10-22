@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5cfc691f-8acc-4b77-bcc8-d05334aa411d",
+    "symbol": "LOOP",
+    "name": "LOOPREX",
+    "platforms": {
+      "tron": {
+        "token_address": "tvn3esve2tz22k3uukc7qpwhof98izyztx"
+      }
+    }
+  }
+]

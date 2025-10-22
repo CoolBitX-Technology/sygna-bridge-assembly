@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fd9b3207-fc8d-4404-a3cf-bdc4527c2bfa",
+    "symbol": "REN",
+    "name": "Ren",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x408e41876cccdc0f92210600ef50372656052a38"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d85d0a8a-c5ba-4b72-8b7a-ce7b70e592c7",
+    "symbol": "XCT",
+    "name": "xCrypt Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd2bb16cf38ca086cab5128d5c25de9477ebd596b"
+      }
+    }
+  }
+]

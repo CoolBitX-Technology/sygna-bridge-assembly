@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e2a099eb-d0f1-411a-9eb5-e9f5e75675c6",
+    "symbol": "UFT",
+    "name": "UniLend",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1"
+      }
+    }
+  }
+]

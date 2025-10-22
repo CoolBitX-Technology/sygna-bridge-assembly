@@ -1,0 +1,12 @@
+[
+  {
+    "id": "71fbe679-a1b5-44e0-ad56-caed0b6b3aeb",
+    "symbol": "DVP",
+    "name": "Decentralized Vulnerability Platform",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8e30ea2329d95802fd804f4291220b0e2f579812"
+      }
+    }
+  }
+]

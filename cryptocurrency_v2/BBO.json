@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dd337074-b157-4d3c-9e7e-d88999d0af41",
+    "symbol": "BBO",
+    "name": "Bigbom",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x84f7c44b6fed1080f647e354d552595be2cc602f"
+      }
+    }
+  }
+]

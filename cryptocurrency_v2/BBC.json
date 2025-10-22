@@ -1,0 +1,25 @@
+[
+  {
+    "id": "089ded7a-51a9-4fce-89a9-4c6cca8c0d67",
+    "symbol": "BBC",
+    "name": "Blue Baikal",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x675ce995953136814cb05aaaa5d02327e7dc8c93"
+      }
+    }
+  },
+  {
+    "id": "e7a68ea1-6e03-4b97-9d37-0a19d9be67f8",
+    "symbol": "BBC",
+    "name": "BigBang Core",
+    "platforms": {
+      "bigbang-core": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0xe7d3e4413e29ae35b0893140f4500965c74365e5"
+      }
+    }
+  }
+]

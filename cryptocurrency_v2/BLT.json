@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f0603c8d-e832-4a41-ad09-b0c417178b76",
+    "symbol": "BLT",
+    "name": "Bloom",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e"
+      }
+    }
+  }
+]

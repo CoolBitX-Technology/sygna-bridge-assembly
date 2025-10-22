@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ca760f13-1540-4cc1-95c3-5cab54a6e826",
+    "symbol": "ZB",
+    "name": "ZB Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbd0793332e9fb844a52a205a233ef27a5b34b927"
+      }
+    }
+  }
+]

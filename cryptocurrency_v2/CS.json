@@ -1,0 +1,15 @@
+[
+  {
+    "id": "8fc9e949-31d7-4cf3-8805-be352234a386",
+    "symbol": "CS",
+    "name": "Credits",
+    "platforms": {
+      "credits": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0x46b9ad944d1059450da1163511069c718f699d31"
+      }
+    }
+  }
+]

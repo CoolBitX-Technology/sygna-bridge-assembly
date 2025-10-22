@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f7ee053a-55dc-49d1-9955-dae6c8876f06",
+    "symbol": "GEN",
+    "name": "DAOstack",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x543ff227f64aa17ea132bf9886cab5db55dcaddf"
+      }
+    }
+  }
+]

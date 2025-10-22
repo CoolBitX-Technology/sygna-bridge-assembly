@@ -1,0 +1,12 @@
+[
+  {
+    "id": "35dc9ce0-1b47-4352-bf38-fccd6772b1c8",
+    "symbol": "CAPP",
+    "name": "Cappasity",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x04f2e7221fdb1b52a68169b25793e51478ff0329"
+      }
+    }
+  }
+]

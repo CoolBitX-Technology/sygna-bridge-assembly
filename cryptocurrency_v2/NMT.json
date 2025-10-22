@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ccaaf1f6-7793-4adf-96b2-801c36546997",
+    "symbol": "NMT",
+    "name": "NovaDeFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd9a6803f41a006cbf389f21e55d7a6079dfe8df3"
+      }
+    }
+  }
+]

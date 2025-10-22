@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dc9f0397-5839-4550-a49a-8657820f665d",
+    "symbol": "BART",
+    "name": "BarterTrade",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba"
+      }
+    }
+  }
+]

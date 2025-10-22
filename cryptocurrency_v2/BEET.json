@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2dd26535-3837-4af0-bf0f-2c499cccf4c6",
+    "symbol": "BEET",
+    "name": "Beetle Coin",
+    "platforms": {
+      "beetle-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

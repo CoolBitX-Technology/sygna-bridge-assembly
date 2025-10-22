@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9ff33382-9c33-411e-9e84-cbfe9b1edf9c",
+    "symbol": "DAM",
+    "name": "Datamine",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf80d589b3dbe130c270a69f1a69d050f268786df"
+      }
+    }
+  }
+]

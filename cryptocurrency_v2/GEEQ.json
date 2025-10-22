@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d9e52c55-f8c4-471f-95d1-662743e4bb8c",
+    "symbol": "GEEQ",
+    "name": "Geeq",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6b9f031d718dded0d681c20cb754f97b3bb81b78"
+      }
+    }
+  }
+]

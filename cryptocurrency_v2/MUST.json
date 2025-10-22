@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f43fa48f-0af9-433e-8504-afe786ac075c",
+    "symbol": "MUST",
+    "name": "Cometh",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f"
+      }
+    }
+  }
+]

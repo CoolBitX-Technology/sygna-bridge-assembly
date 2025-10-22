@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ab5e7e66-13f7-4017-8771-59a44afb423b",
+    "symbol": "DRAGON",
+    "name": "Dragon Ball",
+    "platforms": {
+      "tron": {
+        "token_address": "tylptevanesovwekkzbdfnfuikdarnkpmb"
+      }
+    }
+  }
+]

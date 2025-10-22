@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7cca8e34-69a3-41c6-80ed-6f4d16fadf91",
+    "symbol": "MYX",
+    "name": "MYX Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2129ff6000b95a973236020bcd2b2006b0d8e019"
+      }
+    }
+  }
+]

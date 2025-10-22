@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d42c0084-95b9-42d9-9fae-a8c7b7defba9",
+    "symbol": "BTCP",
+    "name": "Bitcoin Private",
+    "platforms": {
+      "bitcoin-private": {
+        "token_address": "native"
+      }
+    }
+  }
+]

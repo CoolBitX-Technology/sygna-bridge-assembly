@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4c030125-74b7-42bf-96b8-3773844cbb0a",
+    "symbol": "XOR",
+    "name": "Sora",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677"
+      }
+    }
+  }
+]

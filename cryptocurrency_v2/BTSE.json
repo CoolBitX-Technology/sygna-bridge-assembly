@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f9ce3f85-5188-4822-932c-3feaca0a9663",
+    "symbol": "BTSE",
+    "name": "BTSE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x666d875c600aa06ac1cf15641361dec3b00432ef"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fb60c77e-dfca-4583-808c-3d6229ee5876",
+    "symbol": "$ANRX",
+    "name": "AnRKey X",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0"
+      }
+    }
+  }
+]

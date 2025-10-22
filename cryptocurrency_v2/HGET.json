@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e32d3130-27b2-4c8c-a645-972553a5472f",
+    "symbol": "HGET",
+    "name": "Hedget",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7968bc6a03017ea2de509aaa816f163db0f35148"
+      }
+    }
+  }
+]

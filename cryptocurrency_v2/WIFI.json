@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c8dcbefe-e250-42a4-86a1-4b5875269282",
+    "symbol": "WIFI",
+    "name": "Wifi Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe202873079913858f9ba8795ba957a4ad561ca24"
+      }
+    }
+  }
+]

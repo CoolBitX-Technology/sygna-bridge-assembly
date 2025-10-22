@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e9bb7089-5e52-41da-80f0-b75a0fffa9cc",
+    "symbol": "DCR",
+    "name": "Decred",
+    "platforms": {
+      "decred": {
+        "token_address": "native"
+      }
+    }
+  }
+]

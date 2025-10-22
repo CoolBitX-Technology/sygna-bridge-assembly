@@ -1,0 +1,12 @@
+[
+  {
+    "id": "67052915-6843-4ef9-b863-e31d92d2d044",
+    "symbol": "FST",
+    "name": "1irstcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x310c93dfc1c5e34cdf51678103f63c41762089cd"
+      }
+    }
+  }
+]

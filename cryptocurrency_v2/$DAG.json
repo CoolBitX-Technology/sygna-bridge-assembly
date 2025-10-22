@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e3915027-2a51-4698-8018-557e59650cfb",
+    "symbol": "$DAG",
+    "name": "Constellation Labs",
+    "platforms": {
+      "constellation-labs": {
+        "token_address": "native"
+      }
+    }
+  }
+]

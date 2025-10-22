@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4ff4d7ac-0913-4853-95e1-a286640d2180",
+    "symbol": "CCT",
+    "name": "Coupon Chain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfc4b9e2d71a7795102eb0c0e8b5da992946a62de"
+      }
+    }
+  }
+]

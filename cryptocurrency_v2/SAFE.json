@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5ff48641-3b95-4523-b358-6928db927145",
+    "symbol": "SAFE",
+    "name": "Safe",
+    "platforms": {
+      "safe": {
+        "token_address": "native"
+      }
+    }
+  }
+]

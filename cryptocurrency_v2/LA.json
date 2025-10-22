@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d92e032a-1cdf-4ece-a06d-e2ed81c19cd3",
+    "symbol": "LA",
+    "name": "LATOKEN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+      }
+    }
+  }
+]

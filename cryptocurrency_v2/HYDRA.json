@@ -1,0 +1,12 @@
+[
+  {
+    "id": "93da2854-ef77-41f0-a0d6-4ed071b8657a",
+    "symbol": "HYDRA",
+    "name": "HYDRA",
+    "platforms": {
+      "hydra": {
+        "token_address": "native"
+      }
+    }
+  }
+]

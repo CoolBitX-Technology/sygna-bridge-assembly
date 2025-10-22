@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d7e3852-87dc-40ad-9b8d-7efdd86c40de",
+    "symbol": "MUSIC",
+    "name": "Musicoin",
+    "platforms": {
+      "musicoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

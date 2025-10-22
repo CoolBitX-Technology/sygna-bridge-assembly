@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1d03fc47-e98f-4bb4-8d68-436f12efdb25",
+    "symbol": "FTX",
+    "name": "FintruX Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd559f20296ff4895da39b5bd9add54b442596a61"
+      }
+    }
+  }
+]

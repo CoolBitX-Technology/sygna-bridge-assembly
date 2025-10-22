@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d86bb47b-5186-4323-a35a-c4f7e2858119",
+    "symbol": "OP",
+    "name": "Optimism",
+    "platforms": {
+      "optimism": {
+        "token_address": "0x4200000000000000000000000000000000000042"
+      }
+    }
+  }
+]

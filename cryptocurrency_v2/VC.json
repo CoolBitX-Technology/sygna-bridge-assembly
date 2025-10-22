@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7d702bca-e311-408c-873f-d14aa67c4587",
+    "symbol": "VC",
+    "name": "Vcash",
+    "platforms": {
+      "vcash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

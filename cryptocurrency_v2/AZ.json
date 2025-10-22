@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c8cc78c-0cd8-4d56-a871-b39b47b411e3",
+    "symbol": "AZ",
+    "name": "Azbit",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99"
+      }
+    }
+  }
+]

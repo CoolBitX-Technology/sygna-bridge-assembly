@@ -1,0 +1,12 @@
+[
+  {
+    "id": "df0d0cc8-adb6-4d2f-b6ec-6a2a48413289",
+    "symbol": "MFT",
+    "name": "Mainframe",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428"
+      }
+    }
+  }
+]

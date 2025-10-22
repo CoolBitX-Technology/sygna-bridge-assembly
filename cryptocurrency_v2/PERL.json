@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0caf0dd0-3a59-459f-8ada-0fafbf88ca04",
+    "symbol": "PERL",
+    "name": "Perlin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeca82185adce47f39c684352b0439f030f860318"
+      }
+    }
+  }
+]

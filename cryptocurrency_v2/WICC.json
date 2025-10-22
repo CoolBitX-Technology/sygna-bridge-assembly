@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2c0a102b-7609-4894-9975-8ca4cd9281b0",
+    "symbol": "WICC",
+    "name": "WaykiChain",
+    "platforms": {
+      "waykichain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

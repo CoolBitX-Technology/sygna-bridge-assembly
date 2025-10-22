@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0718b5ec-cbd2-48d0-a382-a73ece143816",
+    "symbol": "SASHIMI",
+    "name": "Sashimi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc28e27870558cf22add83540d2126da2e4b464c2"
+      }
+    }
+  }
+]

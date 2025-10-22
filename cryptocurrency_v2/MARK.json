@@ -1,0 +1,12 @@
+[
+  {
+    "id": "06b4276c-7d95-4e1d-87cf-4f6ff569c18e",
+    "symbol": "MARK",
+    "name": "Benchmark Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x67c597624b17b16fb77959217360b7cd18284253"
+      }
+    }
+  }
+]

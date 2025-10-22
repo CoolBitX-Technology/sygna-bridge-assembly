@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ae865fae-625b-4fcd-9432-ee575e235505",
+    "symbol": "BPS",
+    "name": "BitcoinPoS",
+    "platforms": {
+      "bitcoinpos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

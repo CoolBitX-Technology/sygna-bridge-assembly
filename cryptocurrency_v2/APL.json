@@ -1,0 +1,12 @@
+[
+  {
+    "id": "518d7a5a-7f6c-4467-ad22-15d7dcb56c69",
+    "symbol": "APL",
+    "name": "Apollo",
+    "platforms": {
+      "apollo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

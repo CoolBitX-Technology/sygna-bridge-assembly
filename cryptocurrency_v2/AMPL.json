@@ -1,0 +1,12 @@
+[
+  {
+    "id": "01c94712-2c11-4701-aee7-cd888f2a1f07",
+    "symbol": "AMPL",
+    "name": "Ampleforth",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+      }
+    }
+  }
+]

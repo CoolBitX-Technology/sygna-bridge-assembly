@@ -1,0 +1,12 @@
+[
+  {
+    "id": "33c8da04-94d9-4dee-ba43-aea8a2f7f5b8",
+    "symbol": "CPX",
+    "name": "Apex",
+    "platforms": {
+      "neo": {
+        "token_address": "45d493a6f73fa5f404244a5fb8472fc014ca5885"
+      }
+    }
+  }
+]

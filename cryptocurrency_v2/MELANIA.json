@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7533d5a7-0b2d-4ef3-824b-ae3248974404",
+    "symbol": "MELANIA",
+    "name": "Official Melania Meme",
+    "platforms": {
+      "solana": {
+        "token_address": "fuafbo2jgks6gb4z4lfzkqszgznucisehqnnebarxm1p"
+      }
+    }
+  }
+]

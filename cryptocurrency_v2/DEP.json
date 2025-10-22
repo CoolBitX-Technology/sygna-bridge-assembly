@@ -1,0 +1,12 @@
+[
+  {
+    "id": "725151ad-3265-4a39-9ba4-edbf4fc86e77",
+    "symbol": "DEP",
+    "name": "DEAPcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163"
+      }
+    }
+  }
+]

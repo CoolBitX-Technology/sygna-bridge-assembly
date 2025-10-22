@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e1bd71bb-ef61-4d41-9c12-70f5115b63f5",
+    "symbol": "BTSC",
+    "name": "BTS Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xba9ecaa4d6f22d3a69c41daa0584ac0e2418925e"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aab044a4-dd6b-4374-acb5-c8390425aa3d",
+    "symbol": "SNB",
+    "name": "SynchroBitcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x179e31fb25e433441a2839389a7b8ec9c4654b7b"
+      }
+    }
+  }
+]

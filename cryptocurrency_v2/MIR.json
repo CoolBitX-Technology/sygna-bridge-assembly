@@ -1,0 +1,12 @@
+[
+  {
+    "id": "31ac7e23-946a-49ed-a6b7-d9865d4b18ad",
+    "symbol": "MIR",
+    "name": "Mirror Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x09a3ecafa817268f77be1283176b946c4ff2e608"
+      }
+    }
+  }
+]

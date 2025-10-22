@@ -1,0 +1,12 @@
+[
+  {
+    "id": "345eee63-a3b7-4479-aa21-88e1e0d926ec",
+    "symbol": "XDNA",
+    "name": "extraDNA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8e57c27761ebbd381b0f9d09bb92ceb51a358abb"
+      }
+    }
+  }
+]

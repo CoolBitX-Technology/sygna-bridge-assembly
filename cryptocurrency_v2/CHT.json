@@ -1,0 +1,12 @@
+[
+  {
+    "id": "277cffbb-8d8b-4bd5-8192-47d961231747",
+    "symbol": "CHT",
+    "name": "CoinHe Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3277dd536471a3cbeb0c9486acad494c95a31e73"
+      }
+    }
+  }
+]

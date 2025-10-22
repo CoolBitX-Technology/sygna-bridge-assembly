@@ -1,0 +1,12 @@
+[
+  {
+    "id": "93d1ef7f-e629-47f4-87c7-7a3a4170082d",
+    "symbol": "BERRY",
+    "name": "Rentberry",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "153dc19f-b5b0-4e8c-8676-b0ad2536cb07",
+    "symbol": "ETHM",
+    "name": "Ethereum Meta",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x340ef83ec8560892168d4062720f030460468656"
+      }
+    }
+  }
+]

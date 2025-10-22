@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7bd22680-4f78-402c-abad-a19b89716242",
+    "symbol": "FLS",
+    "name": "Flits",
+    "platforms": {
+      "flits": {
+        "token_address": "native"
+      }
+    }
+  }
+]

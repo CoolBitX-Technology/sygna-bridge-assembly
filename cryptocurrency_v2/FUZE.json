@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4edcc3fd-f58c-408c-ade7-22be11b3dca3",
+    "symbol": "FUZE",
+    "name": "FUZE Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x187d1018e8ef879be4194d6ed7590987463ead85"
+      }
+    }
+  }
+]

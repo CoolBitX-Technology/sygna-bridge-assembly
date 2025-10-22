@@ -1,0 +1,12 @@
+[
+  {
+    "id": "393d0857-4e48-4b54-9a18-9da33ae66587",
+    "symbol": "FRONT",
+    "name": "Frontier",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf8c3527cc04340b208c854e985240c02f7b7793f"
+      }
+    }
+  }
+]

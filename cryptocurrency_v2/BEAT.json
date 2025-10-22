@@ -1,0 +1,12 @@
+[
+  {
+    "id": "620187bf-1f09-410c-812d-0015b3b5a5b4",
+    "symbol": "BEAT",
+    "name": "BEAT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2fb12bccf6f5dd338b76be784a93ade072425690"
+      }
+    }
+  }
+]

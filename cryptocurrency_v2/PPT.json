@@ -1,0 +1,12 @@
+[
+  {
+    "id": "67cd1b23-06af-41aa-988b-958ab837c656",
+    "symbol": "PPT",
+    "name": "Populous",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a"
+      }
+    }
+  }
+]

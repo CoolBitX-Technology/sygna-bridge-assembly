@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c577d89f-3e22-4714-a77a-fe04b890f522",
+    "symbol": "GAS",
+    "name": "Gas",
+    "platforms": {
+      "neo": {
+        "token_address": "602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7"
+      }
+    }
+  }
+]

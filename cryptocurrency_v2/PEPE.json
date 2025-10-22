@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f69deb80-ce85-4a78-8f7b-0f57d4d932ce",
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+      }
+    }
+  }
+]

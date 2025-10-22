@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c4fbec9d-f460-4e40-a4f6-9f45770b7b71",
+    "symbol": "FLOW",
+    "name": "Flow",
+    "platforms": {
+      "dapper-labs": {
+        "token_address": "native"
+      }
+    }
+  }
+]

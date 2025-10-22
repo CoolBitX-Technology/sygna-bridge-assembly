@@ -1,0 +1,12 @@
+[
+  {
+    "id": "be659ae7-82c0-41cc-b106-ac74538780ea",
+    "symbol": "COIL",
+    "name": "COIL",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3936ad01cf109a36489d93cabda11cf062fd3d48"
+      }
+    }
+  }
+]

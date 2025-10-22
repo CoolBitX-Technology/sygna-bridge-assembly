@@ -1,0 +1,12 @@
+[
+  {
+    "id": "18a59b94-63d6-48ff-a4d4-ff380d6901bc",
+    "symbol": "DFS",
+    "name": "Fantasy Sports",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcec38306558a31cdbb2a9d6285947c5b44a24f3e"
+      }
+    }
+  }
+]

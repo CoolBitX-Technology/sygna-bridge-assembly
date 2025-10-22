@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d59e4db0-702c-4a26-94a7-7e1e55cf39dd",
+    "symbol": "ASKO",
+    "name": "ASKO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeeee2a622330e6d2036691e983dee87330588603"
+      }
+    }
+  }
+]

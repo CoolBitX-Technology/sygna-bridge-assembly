@@ -1,0 +1,12 @@
+[
+  {
+    "id": "13045d2d-16a1-49c3-80c2-0908f65a7503",
+    "symbol": "BZRX",
+    "name": "bZx Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x56d811088235f11c8920698a204a5010a788f4b3"
+      }
+    }
+  }
+]

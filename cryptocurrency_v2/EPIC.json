@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bf6722fc-ef25-46c6-aabe-51cd3e3fc56d",
+    "symbol": "EPIC",
+    "name": "Epic",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbcd9e216200369803ed059b7744f6fb4cf3887c7"
+      }
+    }
+  }
+]

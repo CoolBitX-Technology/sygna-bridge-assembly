@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fd0e9d27-0aa7-4008-808a-e48b620b9872",
+    "symbol": "AWC",
+    "name": "Atomic Wallet Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xad22f63404f7305e4713ccbd4f296f34770513f4"
+      }
+    }
+  }
+]

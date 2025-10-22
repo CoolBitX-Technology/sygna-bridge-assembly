@@ -1,0 +1,12 @@
+[
+  {
+    "id": "02b97023-1686-460e-bed1-0379b58011c9",
+    "symbol": "FJC",
+    "name": "FujiCoin",
+    "platforms": {
+      "fujicoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

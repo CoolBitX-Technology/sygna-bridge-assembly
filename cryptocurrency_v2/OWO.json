@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1ec8614f-0826-4db0-8424-7a3994c75fcb",
+    "symbol": "OWO",
+    "name": "OneWorld Coin",
+    "platforms": {
+      "oneworld-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

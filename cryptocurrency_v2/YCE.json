@@ -1,0 +1,12 @@
+[
+  {
+    "id": "902657ce-2d69-4db5-aae1-09367ede998f",
+    "symbol": "YCE",
+    "name": "MYCE",
+    "platforms": {
+      "myce": {
+        "token_address": "native"
+      }
+    }
+  }
+]

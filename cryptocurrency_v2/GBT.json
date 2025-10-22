@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8474b499-8e7b-4f33-b97a-0020f58a7406",
+    "symbol": "GBT",
+    "name": "GoldBean Token",
+    "platforms": {
+      "goldbean-token": {
+        "token_address": "native"
+      }
+    }
+  }
+]

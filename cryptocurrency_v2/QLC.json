@@ -1,0 +1,12 @@
+[
+  {
+    "id": "caf7bb62-7a58-4925-8e90-aedbeafec3a5",
+    "symbol": "QLC",
+    "name": "QLC Chain",
+    "platforms": {
+      "neo": {
+        "token_address": "0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5"
+      }
+    }
+  }
+]

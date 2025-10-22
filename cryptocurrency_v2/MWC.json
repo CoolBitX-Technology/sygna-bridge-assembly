@@ -1,0 +1,12 @@
+[
+  {
+    "id": "42940fa7-1607-4caa-aa8d-93f7e254b1da",
+    "symbol": "MWC",
+    "name": "MimbleWimbleCoin",
+    "platforms": {
+      "mimblewimblecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

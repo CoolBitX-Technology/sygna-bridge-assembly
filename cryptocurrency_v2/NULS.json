@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ea978c96-ce0a-48b3-94bb-977e76202aed",
+    "symbol": "NULS",
+    "name": "NULS",
+    "platforms": {
+      "nuls": {
+        "token_address": "native"
+      }
+    }
+  }
+]

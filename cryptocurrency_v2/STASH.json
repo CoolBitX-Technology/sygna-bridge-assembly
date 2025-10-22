@@ -1,0 +1,12 @@
+[
+  {
+    "id": "038b348a-30b6-4a3a-a4a2-d1dbc8eedcc6",
+    "symbol": "STASH",
+    "name": "BitStash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x965f109d31ccb77005858defae0ebaf7b4381652"
+      }
+    }
+  }
+]

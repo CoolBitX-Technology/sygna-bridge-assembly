@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b34d2c53-167a-48eb-b116-8223116a8fd5",
+    "symbol": "ZBC",
+    "name": "ZooBC",
+    "platforms": {
+      "zoobc": {
+        "token_address": "native"
+      }
+    }
+  }
+]

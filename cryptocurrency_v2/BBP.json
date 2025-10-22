@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cb2f7632-1b24-41f0-aaf4-0f46cf5debcf",
+    "symbol": "BBP",
+    "name": "Bitbot Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbb0a009ba1eb20c5062c790432f080f6597662af"
+      }
+    }
+  }
+]

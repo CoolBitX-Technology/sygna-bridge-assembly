@@ -1,0 +1,12 @@
+[
+  {
+    "id": "405f660d-3063-4962-8707-f686c539923e",
+    "symbol": "LCH",
+    "name": "LiteCash",
+    "platforms": {
+      "litecash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

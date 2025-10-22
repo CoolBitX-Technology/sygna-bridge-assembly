@@ -1,0 +1,12 @@
+[
+  {
+    "id": "437f0d39-2ad7-46f1-929e-5c05f6a18996",
+    "symbol": "SAMA",
+    "name": "Exosama Network",
+    "platforms": {
+      "exosama-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

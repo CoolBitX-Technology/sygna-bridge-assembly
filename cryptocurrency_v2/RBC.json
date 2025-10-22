@@ -1,0 +1,22 @@
+[
+  {
+    "id": "3e5d7ce2-2afe-43f0-963f-f3011925c832",
+    "symbol": "RBC",
+    "name": "Rubic",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3"
+      }
+    }
+  },
+  {
+    "id": "cc60310b-08fb-46f1-8e4e-794c6ef003bf",
+    "symbol": "RBC",
+    "name": "Roti Bank Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf5078213b8d39e0eec2011d9486c17ddf07ea003"
+      }
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "8e2df726-971d-4571-b28b-b8f34b2d7c43",
+    "symbol": "POLIS",
+    "name": "Star Atlas DAO",
+    "platforms": {
+      "solana": {
+        "token_address": "poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk"
+      }
+    }
+  },
+  {
+    "id": "1b2ab19f-7163-4e93-a2e6-d69fb8bb6e70",
+    "symbol": "POLIS",
+    "name": "Polis",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626"
+      },
+      "polis": {
+        "token_address": "native"
+      }
+    }
+  }
+]

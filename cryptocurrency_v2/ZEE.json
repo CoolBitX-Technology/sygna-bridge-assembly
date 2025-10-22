@@ -1,0 +1,12 @@
+[
+  {
+    "id": "58bf3398-42ff-4d88-8e78-64060f2f023a",
+    "symbol": "ZEE",
+    "name": "ZeroSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5"
+      }
+    }
+  }
+]

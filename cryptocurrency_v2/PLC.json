@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cce8230b-ea6c-466e-bd14-587e9103d707",
+    "symbol": "PLC",
+    "name": "PLATINCOIN",
+    "platforms": {
+      "platincoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

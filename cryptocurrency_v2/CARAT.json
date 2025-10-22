@@ -1,0 +1,12 @@
+[
+  {
+    "id": "90ec7a64-4cfe-4e39-b3c8-09e28202e1ac",
+    "symbol": "CARAT",
+    "name": "CARAT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x19ea630bcbc1a511a16e65b6ecd447c92e1c087c"
+      }
+    }
+  }
+]

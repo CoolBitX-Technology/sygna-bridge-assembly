@@ -1,0 +1,12 @@
+[
+  {
+    "id": "da8761b0-2b16-4749-bd05-418bfa09ea11",
+    "symbol": "NLC2",
+    "name": "NoLimitCoin",
+    "platforms": {
+      "nolimitcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "097abbef-814c-4e1e-a306-ce679aca56fc",
+    "symbol": "ILV",
+    "name": "Illuvium",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
+      },
+      "solana": {
+        "token_address": "8ujbtpseubdvky53rk7d61hnykkvouicczb2xmuwig4g"
+      }
+    }
+  }
+]

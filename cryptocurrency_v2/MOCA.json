@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7789aca3-ac02-43ef-8aa1-beaba28ca23d",
+    "symbol": "MOCA",
+    "name": "Moca Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf944e35f95e819e752f3ccb5faf40957d311e8c5"
+      }
+    }
+  }
+]

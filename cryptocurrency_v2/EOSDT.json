@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7d616c02-edcf-4f62-ae16-684d410f7f91",
+    "symbol": "EOSDT",
+    "name": "EOSDT",
+    "platforms": {
+      "eos": {
+        "token_address": "eosdtsttoken"
+      }
+    }
+  }
+]

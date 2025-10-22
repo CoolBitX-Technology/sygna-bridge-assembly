@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a5a2bffd-b3bc-4777-85f9-1b9fe9975312",
+    "symbol": "ETT",
+    "name": "EncryptoTel [ETH]",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe0c72452740414d861606a44ccd5ea7f96488278"
+      }
+    }
+  }
+]

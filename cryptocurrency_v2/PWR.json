@@ -1,0 +1,12 @@
+[
+  {
+    "id": "64d13935-a069-4060-a315-919f1249bee1",
+    "symbol": "PWR",
+    "name": "PWR Coin",
+    "platforms": {
+      "pwr-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

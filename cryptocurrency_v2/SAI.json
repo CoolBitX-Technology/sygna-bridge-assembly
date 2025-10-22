@@ -1,0 +1,12 @@
+[
+  {
+    "id": "31742111-5fcb-4ee0-b80f-f77530052438",
+    "symbol": "SAI",
+    "name": "Single Collateral Dai",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+      }
+    }
+  }
+]

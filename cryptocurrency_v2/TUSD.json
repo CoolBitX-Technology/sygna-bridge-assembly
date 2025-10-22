@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b5fb3fd1-b85f-43bc-8f59-3c14e15367b4",
+    "symbol": "TUSD",
+    "name": "TrueUSD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0000000000085d4780b73119b644ae5ecd22b376"
+      }
+    }
+  }
+]

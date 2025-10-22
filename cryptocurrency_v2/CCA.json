@@ -1,0 +1,12 @@
+[
+  {
+    "id": "86a69a03-1ecd-48a3-909a-9969cccdf344",
+    "symbol": "CCA",
+    "name": "Counos Coin",
+    "platforms": {
+      "counos-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

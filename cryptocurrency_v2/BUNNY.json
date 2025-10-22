@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bf8dd01f-517a-4740-9be0-d9fa2694942d",
+    "symbol": "BUNNY",
+    "name": "PancakeBunny",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51"
+      }
+    }
+  }
+]

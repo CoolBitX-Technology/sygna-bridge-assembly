@@ -1,0 +1,12 @@
+[
+  {
+    "id": "31c0dc54-0d11-48e4-a072-2477e4560fbc",
+    "symbol": "LN",
+    "name": "LINK",
+    "platforms": {
+      "link": {
+        "token_address": "native"
+      }
+    }
+  }
+]

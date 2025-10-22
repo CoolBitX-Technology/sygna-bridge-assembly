@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8712ea82-7f74-496a-8d30-68d51fe0bbdb",
+    "symbol": "EGT",
+    "name": "Egretia",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8e1b448ec7adfc7fa35fc2e885678bd323176e34"
+      }
+    }
+  }
+]

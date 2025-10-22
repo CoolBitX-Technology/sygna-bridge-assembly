@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2de568d5-f20c-4034-af73-92b9b67e1d47",
+    "symbol": "SMBSWAP",
+    "name": "Simbcoin Swap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x53bd789f2cdb846b227d8ffc7b46ed4263231fdf"
+      }
+    }
+  }
+]

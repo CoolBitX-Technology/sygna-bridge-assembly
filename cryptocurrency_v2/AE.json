@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38ff252d-c1d2-4aa7-bb33-3a9b50a35909",
+    "symbol": "AE",
+    "name": "Aeternity",
+    "platforms": {
+      "aeternity": {
+        "token_address": "native"
+      }
+    }
+  }
+]

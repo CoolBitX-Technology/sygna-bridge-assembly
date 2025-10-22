@@ -1,0 +1,12 @@
+[
+  {
+    "id": "62e59f64-1490-4678-8c68-11ada5a28a2c",
+    "symbol": "BYTE",
+    "name": "BTC Network Demand Set II",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xac8ea871e2d5f4be618905f36f73c760f8cfdc8e"
+      }
+    }
+  }
+]

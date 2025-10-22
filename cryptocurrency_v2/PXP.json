@@ -1,0 +1,12 @@
+[
+  {
+    "id": "efce2db8-5198-4d19-8f47-579323b4998d",
+    "symbol": "PXP",
+    "name": "PointPay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8f179114235842978d8917e08721541072c46584"
+      }
+    }
+  }
+]

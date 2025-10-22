@@ -1,0 +1,12 @@
+[
+  {
+    "id": "05816ab4-2039-42bd-8324-3e56ad6cfb85",
+    "symbol": "RAK",
+    "name": "Rake Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa8b0f154a688c22142e361707df64277e0a0be66"
+      }
+    }
+  }
+]

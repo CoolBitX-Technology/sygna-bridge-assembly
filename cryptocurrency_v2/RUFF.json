@@ -1,0 +1,12 @@
+[
+  {
+    "id": "37741095-bfb6-42e0-954d-7eac4a822c77",
+    "symbol": "RUFF",
+    "name": "Ruff",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf278c1ca969095ffddded020290cf8b5c424ace2"
+      }
+    }
+  }
+]

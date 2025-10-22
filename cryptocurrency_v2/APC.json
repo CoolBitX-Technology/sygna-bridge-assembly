@@ -1,0 +1,12 @@
+[
+  {
+    "id": "02fa709a-f87a-4790-8cf9-44ab94a6b12d",
+    "symbol": "APC",
+    "name": "Alpha Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829"
+      }
+    }
+  }
+]

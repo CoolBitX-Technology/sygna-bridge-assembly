@@ -1,0 +1,12 @@
+[
+  {
+    "id": "940db05c-1af5-4536-adef-c6a8396c397e",
+    "symbol": "TRISM",
+    "name": "Trism",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x56b4f8c39e07d4d5d91692acf9d0f6d4d3493763"
+      }
+    }
+  }
+]

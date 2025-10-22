@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9c4265f1-b3a9-414c-84ec-1f4fd527b296",
+    "symbol": "ASTR-EVM",
+    "name": "Astar Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x67f6b5bc5670fd29bcc8af3d6633b2840aba2f30"
+      }
+    }
+  }
+]

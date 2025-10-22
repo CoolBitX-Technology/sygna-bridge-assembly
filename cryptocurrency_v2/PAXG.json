@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c4a91002-3903-4965-8a20-74c543bbe7da",
+    "symbol": "PAXG",
+    "name": "PAX Gold",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+      }
+    }
+  }
+]

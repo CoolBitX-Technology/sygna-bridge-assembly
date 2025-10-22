@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8d97d1ae-7038-4853-8eb5-86bfa1c5fc98",
+    "symbol": "SETH",
+    "name": "sETH",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb"
+      }
+    }
+  }
+]

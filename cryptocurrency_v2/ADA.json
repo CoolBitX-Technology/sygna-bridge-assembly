@@ -1,0 +1,12 @@
+[
+  {
+    "id": "66bda945-625b-46e7-bed9-9304d423ca15",
+    "symbol": "ADA",
+    "name": "Cardano",
+    "platforms": {
+      "cardano": {
+        "token_address": "native"
+      }
+    }
+  }
+]

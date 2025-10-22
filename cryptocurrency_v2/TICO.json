@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c84aa73-d3bb-4e75-b64b-afac0a8b3da3",
+    "symbol": "TICO",
+    "name": "TICOEX Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x36b60a425b82483004487abc7adcb0002918fc56"
+      }
+    }
+  }
+]

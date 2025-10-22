@@ -1,0 +1,12 @@
+[
+  {
+    "id": "53862953-cd32-4133-ba72-34064d30fa83",
+    "symbol": "HP",
+    "name": "HeartBout Pay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xab55bdef7057b76482914e79f037999f4ebb6bf1"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2c2cdc9a-609a-4ffe-97c8-15d344ed967d",
+    "symbol": "CET",
+    "name": "CoinEx Token",
+    "platforms": {
+      "coinex-token": {
+        "token_address": "native"
+      }
+    }
+  }
+]

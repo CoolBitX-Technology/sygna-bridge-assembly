@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4e569ac8-e446-472f-b5ed-e29818d1f2cd",
+    "symbol": "OKB",
+    "name": "OKB",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x75231f58b43240c9718dd58b4967c5114342a86c"
+      }
+    }
+  }
+]

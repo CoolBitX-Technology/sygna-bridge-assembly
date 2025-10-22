@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fda303c8-fc89-4314-ab24-70df9ec8f489",
+    "symbol": "WINR",
+    "name": "JustBet",
+    "platforms": {
+      "tron": {
+        "token_address": "tkeuuexkeh9fbdnzhzeyi6k7rznx7zqpuk"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e3efcaf5-02ac-42b2-96fb-e6ce25b608ba",
+    "symbol": "NWC",
+    "name": "Newscrypto",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed"
+      }
+    }
+  }
+]

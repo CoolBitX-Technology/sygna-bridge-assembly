@@ -1,0 +1,12 @@
+[
+  {
+    "id": "645e9ab5-850c-4ff3-80b2-f1bfce2b3731",
+    "symbol": "GRC",
+    "name": "GridCoin",
+    "platforms": {
+      "gridcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

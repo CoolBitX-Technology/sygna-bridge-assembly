@@ -1,0 +1,12 @@
+[
+  {
+    "id": "93d0e029-934e-41a9-8d7d-62c91cfbb0fc",
+    "symbol": "EQ",
+    "name": "EQ",
+    "platforms": {
+      "eq": {
+        "token_address": "native"
+      }
+    }
+  }
+]

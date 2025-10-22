@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f52d42b1-e958-461a-b736-6f3f23320e2f",
+    "symbol": "NEAR",
+    "name": "NEAR Protocol",
+    "platforms": {
+      "near": {
+        "token_address": "native"
+      }
+    }
+  }
+]

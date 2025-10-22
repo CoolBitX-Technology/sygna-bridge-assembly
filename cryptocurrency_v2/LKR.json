@@ -1,0 +1,12 @@
+[
+  {
+    "id": "65cc846e-b286-4e54-9f01-303a3bcdf71e",
+    "symbol": "LKR",
+    "name": "Lkrcoin",
+    "platforms": {
+      "lkrcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

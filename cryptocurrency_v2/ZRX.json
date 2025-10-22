@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7a2cd6c6-f1bd-4c77-a3d8-1cefa8d9235d",
+    "symbol": "ZRX",
+    "name": "0x",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe41d2489571d322189246dafa5ebde1f4699f498"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "791d3a8f-7e70-4911-8db2-251720b04234",
+    "symbol": "VALOR",
+    "name": "Valor Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "27bf2ba8-310c-4ce3-abda-fe2eb7f45978",
+    "symbol": "QNT",
+    "name": "Quant",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4a220e6096b25eadb88358cb44068a3248254675"
+      }
+    }
+  }
+]

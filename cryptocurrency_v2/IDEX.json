@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8dcec0b7-5401-44c0-9cee-39a36c935e07",
+    "symbol": "IDEX",
+    "name": "IDEX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae"
+      }
+    }
+  }
+]

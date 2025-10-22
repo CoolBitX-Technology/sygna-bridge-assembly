@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7539ec7e-49e8-4d89-8e71-1349dd731feb",
+    "symbol": "SMOL",
+    "name": "Smol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2216e873ea4282ebef7a02ac5aea220be6391a7c"
+      }
+    }
+  }
+]

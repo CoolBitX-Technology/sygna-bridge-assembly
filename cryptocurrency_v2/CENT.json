@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4e4fe8e3-89b6-4d77-b1a3-16612effa0b2",
+    "symbol": "CENT",
+    "name": "CENTERCOIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x262b6a8b044ab9b7a345353ded8f541c1ac37bd3"
+      }
+    }
+  }
+]

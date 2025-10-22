@@ -1,0 +1,12 @@
+[
+  {
+    "id": "90df4c2c-01f5-466c-94ca-a91bf1964ace",
+    "symbol": "CATI",
+    "name": "Catizen",
+    "platforms": {
+      "ton": {
+        "token_address": "eqd-cvr0nz6xayrbvbhz-abtrrc6si5tvhvvpeqrav9uaad7"
+      }
+    }
+  }
+]

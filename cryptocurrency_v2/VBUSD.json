@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d5b6784b-b9d9-4296-a091-ba67411b32b8",
+    "symbol": "VBUSD",
+    "name": "Venus BUSD",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "66f22356-d777-4734-a738-24a576e993d2",
+    "symbol": "ROOT",
+    "name": "Rootkit Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e"
+      }
+    }
+  }
+]

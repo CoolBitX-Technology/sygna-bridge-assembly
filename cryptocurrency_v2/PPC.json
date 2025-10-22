@@ -1,0 +1,15 @@
+[
+  {
+    "id": "dd0671a0-032a-4f9b-a57d-24d547b9294d",
+    "symbol": "PPC",
+    "name": "Peercoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x84f710bae3316a74fb0fcb01904d2578a4cc6a26"
+      },
+      "peercoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

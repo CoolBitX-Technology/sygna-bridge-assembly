@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2d99c406-9ec4-44a6-bbbc-18179ebaeadb",
+    "symbol": "KUSD",
+    "name": "kUSD",
+    "platforms": {
+      "kusd": {
+        "token_address": "native"
+      }
+    }
+  }
+]

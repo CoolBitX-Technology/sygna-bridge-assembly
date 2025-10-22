@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fbb248f4-ca15-4083-9504-68be3b2e73db",
+    "symbol": "QTUM",
+    "name": "Qtum",
+    "platforms": {
+      "qtum": {
+        "token_address": "native"
+      }
+    }
+  }
+]

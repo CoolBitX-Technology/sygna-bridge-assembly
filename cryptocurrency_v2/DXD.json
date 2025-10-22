@@ -1,0 +1,12 @@
+[
+  {
+    "id": "433a3bc0-2ca3-438b-90a8-5c478aae7f05",
+    "symbol": "DXD",
+    "name": "DXdao",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521"
+      }
+    }
+  }
+]

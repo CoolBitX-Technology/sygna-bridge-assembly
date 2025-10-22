@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c6357b60-7838-4892-8e03-0d572f9007a3",
+    "symbol": "MVL",
+    "name": "MVL",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71"
+      }
+    }
+  }
+]

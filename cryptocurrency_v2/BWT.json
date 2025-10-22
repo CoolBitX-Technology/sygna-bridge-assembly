@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a1eeac8c-d636-43e6-a61b-53ecfe120693",
+    "symbol": "BWT",
+    "name": "Bittwatt",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf53c580bc4065405bc649cc077ff4f2f28528f4b"
+      }
+    }
+  }
+]

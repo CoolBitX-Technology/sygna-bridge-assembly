@@ -1,0 +1,15 @@
+[
+  {
+    "id": "4f30fe77-8880-4d54-950a-f29bcab4028d",
+    "symbol": "OSMO",
+    "name": "Osmosis",
+    "platforms": {
+      "cosmos": {
+        "token_address": "uosmo"
+      },
+      "osmosis": {
+        "token_address": "native"
+      }
+    }
+  }
+]

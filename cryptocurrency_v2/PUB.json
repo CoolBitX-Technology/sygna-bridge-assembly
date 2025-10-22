@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5a0f2dd7-8c86-4625-a15b-558dd7f6cabe",
+    "symbol": "PUB",
+    "name": "PUBLYTO Token",
+    "platforms": {
+      "eos": {
+        "token_address": "publytoken11"
+      }
+    }
+  }
+]

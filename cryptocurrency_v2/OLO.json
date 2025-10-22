@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2ac5bc4b-5174-4d58-a74b-236907a67ba9",
+    "symbol": "OLO",
+    "name": "Tool Global",
+    "platforms": {
+      "tool-global": {
+        "token_address": "native"
+      }
+    }
+  }
+]

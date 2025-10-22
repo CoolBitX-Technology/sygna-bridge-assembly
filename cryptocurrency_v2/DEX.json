@@ -1,0 +1,12 @@
+[
+  {
+    "id": "70180baa-8206-4863-9cbe-da84ea94c308",
+    "symbol": "DEX",
+    "name": "DEX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x497baef294c11a5f0f5bea3f2adb3073db448b56"
+      }
+    }
+  }
+]

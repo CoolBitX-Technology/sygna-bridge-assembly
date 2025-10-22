@@ -1,0 +1,12 @@
+[
+  {
+    "id": "332b7682-a699-425b-932e-6135363877af",
+    "symbol": "MX",
+    "name": "MX Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36"
+      }
+    }
+  }
+]

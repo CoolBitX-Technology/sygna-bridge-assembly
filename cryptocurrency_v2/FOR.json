@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b8ebf87e-7e4d-4ccd-b64b-986c5bf9cc9d",
+    "symbol": "FOR",
+    "name": "ForTube",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f"
+      }
+    }
+  }
+]

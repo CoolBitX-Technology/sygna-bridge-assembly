@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ed658fbc-59e9-4f52-bbde-1f0162b66d7e",
+    "symbol": "KTV",
+    "name": "KmushiCoin",
+    "platforms": {
+      "kmushicoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4c5a4af9-9d3e-42f3-ab1d-fbfb73188783",
+    "symbol": "EASY",
+    "name": "EasyFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x913d8adf7ce6986a8cbfee5a54725d9eea4f0729"
+      }
+    }
+  }
+]

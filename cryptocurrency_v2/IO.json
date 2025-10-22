@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b775a57-0ff5-496f-83db-ea8387061b91",
+    "symbol": "IO",
+    "name": "io.net",
+    "platforms": {
+      "solana": {
+        "token_address": "bzlbgtncsffoth2gydtwr7e4imwzpr5jqcuugewr646k"
+      }
+    }
+  }
+]

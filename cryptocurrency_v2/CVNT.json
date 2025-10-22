@@ -1,0 +1,12 @@
+[
+  {
+    "id": "608017fe-25ad-404b-9944-f943deefb585",
+    "symbol": "CVNT",
+    "name": "Content Value Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6400b5522f8d448c0803e6245436dd1c81df09ce"
+      }
+    }
+  }
+]

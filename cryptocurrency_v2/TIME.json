@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ef4e6a37-57f7-4377-a429-345d7b47f18e",
+    "symbol": "TIME",
+    "name": "TimeMiner",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x485d17a6f1b8780392d53d64751824253011a260"
+      }
+    }
+  }
+]

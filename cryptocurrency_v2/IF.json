@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0cc6e0e6-35e1-4405-a844-e9e80e3f733b",
+    "symbol": "IF",
+    "name": "Infinitefuture",
+    "platforms": {
+      "infinitefuture": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e6605490-1087-4ade-92e3-0fc4fc91ac1c",
+    "symbol": "EXT",
+    "name": "Experience Token",
+    "platforms": {
+      "neo": {
+        "token_address": "e8f98440ad0d7a6e76d84fb1c3d3f8a16e162e97"
+      }
+    }
+  }
+]

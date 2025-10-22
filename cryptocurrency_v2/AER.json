@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b88a69ef-2372-48e3-bfbe-ea4c9820472c",
+    "symbol": "AER",
+    "name": "Aeryus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e"
+      }
+    }
+  }
+]

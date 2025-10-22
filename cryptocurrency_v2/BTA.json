@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f0c9a05d-1b13-4388-80bd-e5dd2b123615",
+    "symbol": "BTA",
+    "name": "Bata",
+    "platforms": {
+      "bata": {
+        "token_address": "native"
+      }
+    }
+  }
+]

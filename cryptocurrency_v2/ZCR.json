@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c68c45bb-dd59-429f-ac73-cff52b241d10",
+    "symbol": "ZCR",
+    "name": "ZCore",
+    "platforms": {
+      "zcore": {
+        "token_address": "native"
+      }
+    }
+  }
+]

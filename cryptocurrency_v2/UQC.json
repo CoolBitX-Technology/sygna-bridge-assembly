@@ -1,0 +1,12 @@
+[
+  {
+    "id": "12a553ad-724c-4400-a7c5-291938c90494",
+    "symbol": "UQC",
+    "name": "Uquid Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2"
+      }
+    }
+  }
+]

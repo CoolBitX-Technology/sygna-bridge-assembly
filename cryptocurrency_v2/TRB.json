@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b797951-666d-48c0-b1a6-265db38a3ad7",
+    "symbol": "TRB",
+    "name": "Tellor",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5"
+      }
+    }
+  }
+]

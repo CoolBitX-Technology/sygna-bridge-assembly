@@ -1,0 +1,12 @@
+[
+  {
+    "id": "749d6934-d286-48c2-9bbd-1504f798650a",
+    "symbol": "ART",
+    "name": "Maecenas",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfec0cf7fe078a500abf15f1284958f22049c2c7e"
+      }
+    }
+  }
+]

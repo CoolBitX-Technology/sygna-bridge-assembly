@@ -1,0 +1,12 @@
+[
+  {
+    "id": "95440c65-2da9-46b0-9293-98f3d8d01eff",
+    "symbol": "OFT",
+    "name": "Orient",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc0a25a24cce412e2fb407c08e3785437fee9ad1d"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "43ee8956-da5f-4139-b1dd-c346ef1453d8",
+    "symbol": "TOK",
+    "name": "TOKOK",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9a49f02e128a8e989b443a8f94843c0918bf45e7"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a6c090bd-f3c9-4677-8c9d-85ca43b99b6c",
+    "symbol": "PAY",
+    "name": "TenX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb97048628db6b661d4c2aa833e95dbe1a905b280"
+      }
+    }
+  }
+]

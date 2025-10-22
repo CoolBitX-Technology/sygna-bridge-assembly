@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c6a57460-5a42-4407-bb3b-65e48cf2a8a5",
+    "symbol": "POE",
+    "name": "Po.et",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195"
+      }
+    }
+  }
+]

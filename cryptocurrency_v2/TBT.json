@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a50d8fa3-d181-4fda-8251-2a49e376f6d6",
+    "symbol": "TBT",
+    "name": "TideBit Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc581399be631f060b64df49742626670906fdea9"
+      }
+    }
+  }
+]

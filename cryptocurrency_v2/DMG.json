@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1eb1e52a-28a2-494e-93b8-6da2f29bf0c8",
+    "symbol": "DMG",
+    "name": "DMM: Governance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xed91879919b71bb6905f23af0a68d231ecf87b14"
+      }
+    }
+  }
+]

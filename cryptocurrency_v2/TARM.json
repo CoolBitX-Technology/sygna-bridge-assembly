@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d56657c-63b5-4a84-924c-c55596a22efe",
+    "symbol": "TARM",
+    "name": "ARMTOKEN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcdd0a6b15b49a9eb3ce011cce22fac2ccf09ece6"
+      }
+    }
+  }
+]

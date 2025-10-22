@@ -1,0 +1,12 @@
+[
+  {
+    "id": "138a0774-dea1-4bf6-b1cb-e5d9a64c7a6c",
+    "symbol": "UNFI",
+    "name": "Unifi Protocol DAO",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b"
+      }
+    }
+  }
+]

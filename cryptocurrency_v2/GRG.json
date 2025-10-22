@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0a0cc26a-be93-4413-bc5b-5f653edefc0c",
+    "symbol": "GRG",
+    "name": "RigoBlock",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964"
+      }
+    }
+  }
+]

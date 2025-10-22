@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6b237ee7-4c7d-430e-bdbb-8070146902e8",
+    "symbol": "JRT",
+    "name": "Jarvis Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8a9c67fee641579deba04928c4bc45f66e26343a"
+      }
+    }
+  }
+]

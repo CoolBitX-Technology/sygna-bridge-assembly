@@ -1,0 +1,22 @@
+[
+  {
+    "id": "5af379ea-4eb1-46c9-ae28-30e86df1231c",
+    "symbol": "STC",
+    "name": "StarChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8f136cc8bef1fea4a7b71aa2301ff1a52f084384"
+      }
+    }
+  },
+  {
+    "id": "72518161-282a-4d89-857b-61c8ca06ceac",
+    "symbol": "STC",
+    "name": "Student Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb8b7791b1a445fb1e202683a0a329504772e0e52"
+      }
+    }
+  }
+]

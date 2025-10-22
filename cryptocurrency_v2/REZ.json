@@ -1,0 +1,12 @@
+[
+  {
+    "id": "62537209-5b10-492d-ba86-9c0ad0ace46c",
+    "symbol": "REZ",
+    "name": "Renzo",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3b50805453023a91a8bf641e279401a0b23fa6f9"
+      }
+    }
+  }
+]

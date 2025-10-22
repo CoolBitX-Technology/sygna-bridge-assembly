@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7d609885-4e63-402c-985f-2005462f76ab",
+    "symbol": "ENTS",
+    "name": "EUNOMIA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0f612a09ead55bb81b6534e80ed5a21bf0a27b16"
+      }
+    }
+  }
+]

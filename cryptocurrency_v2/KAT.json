@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d33deddd-21c2-42fd-aa5b-15dc1f35a5c3",
+    "symbol": "KAT",
+    "name": "Kambria",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa858bc1b71a895ee83b92f149616f9b3f6afa0fb"
+      }
+    }
+  }
+]

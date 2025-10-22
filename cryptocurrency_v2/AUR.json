@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b51dcc44-9c21-41b2-91c7-b57618b69a9b",
+    "symbol": "AUR",
+    "name": "Auroracoin",
+    "platforms": {
+      "auroracoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

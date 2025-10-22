@@ -1,0 +1,12 @@
+[
+  {
+    "id": "97ea8548-fe7d-4037-9d0e-2c2ca19b9c3f",
+    "symbol": "DOV",
+    "name": "Dovu",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xac3211a5025414af2866ff09c23fc18bc97e79b1"
+      }
+    }
+  }
+]

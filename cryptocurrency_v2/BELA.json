@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0e1a5a99-2559-405b-b3c3-c638dc9f6df4",
+    "symbol": "BELA",
+    "name": "Bela",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b224"
+      }
+    }
+  }
+]

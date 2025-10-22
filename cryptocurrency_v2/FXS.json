@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4e98a7d3-ac3d-4edd-ab3d-15b27d68a260",
+    "symbol": "FXS",
+    "name": "Frax Share",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+      }
+    }
+  }
+]

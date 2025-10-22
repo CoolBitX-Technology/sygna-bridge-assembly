@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9015fa4e-e834-4610-b17c-a48ac7a3dc09",
+    "symbol": "NDX",
+    "name": "nDEX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83"
+      }
+    }
+  }
+]

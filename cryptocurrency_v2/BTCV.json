@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b2df1597-4aba-4db0-bef4-317262824153",
+    "symbol": "BTCV",
+    "name": "Bitcoin Vault",
+    "platforms": {
+      "bitcoin-vault": {
+        "token_address": "native"
+      }
+    }
+  }
+]

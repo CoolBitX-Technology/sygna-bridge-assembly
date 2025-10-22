@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d43b680a-163f-4cf8-8e36-48a1b2371926",
+    "symbol": "OK",
+    "name": "OKCash",
+    "platforms": {
+      "okcash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

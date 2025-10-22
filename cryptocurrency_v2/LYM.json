@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2057abe6-4b25-430b-be29-426627d6af1c",
+    "symbol": "LYM",
+    "name": "Lympo",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5"
+      }
+    }
+  }
+]

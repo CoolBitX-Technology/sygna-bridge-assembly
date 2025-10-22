@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d0b3a540-c52b-4d66-8a6f-d4bac62fb064",
+    "symbol": "MLC",
+    "name": "Mallcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc72ed4445b3fe9f0863106e344e241530d338906"
+      }
+    }
+  }
+]

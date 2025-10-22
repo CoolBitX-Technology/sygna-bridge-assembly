@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3b52b26f-17fe-4a47-b598-2b6a43ea92db",
+    "symbol": "BONDLY",
+    "name": "Bondly",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd2dda223b2617cb616c1580db421e4cfae6a8a85"
+      }
+    }
+  }
+]

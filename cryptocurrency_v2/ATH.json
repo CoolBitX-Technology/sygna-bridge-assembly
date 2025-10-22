@@ -1,0 +1,12 @@
+[
+  {
+    "id": "43b8694e-b789-4e4c-9064-3b8938a48cec",
+    "symbol": "ATH",
+    "name": "Atheios",
+    "platforms": {
+      "atheios": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d6c793a2-d032-4a9f-a274-75199c35b3c3",
+    "symbol": "ROUTE",
+    "name": "Router Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+      }
+    }
+  }
+]

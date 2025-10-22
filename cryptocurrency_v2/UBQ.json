@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d0a4ce60-2c62-4046-b982-964a014e5af1",
+    "symbol": "UBQ",
+    "name": "Ubiq",
+    "platforms": {
+      "ubiq": {
+        "token_address": "native"
+      }
+    }
+  }
+]

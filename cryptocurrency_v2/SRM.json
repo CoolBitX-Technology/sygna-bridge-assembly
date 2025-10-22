@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b14883e-b9c3-40fb-92ef-910dbbe3e661",
+    "symbol": "SRM",
+    "name": "Serum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff"
+      }
+    }
+  }
+]

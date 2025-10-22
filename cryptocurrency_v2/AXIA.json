@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d70af9e1-dff1-41fc-bc9d-a1c64fb9b3c6",
+    "symbol": "AXIA",
+    "name": "Axia Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x793786e2dd4cc492ed366a94b88a3ff9ba5e7546"
+      }
+    }
+  }
+]

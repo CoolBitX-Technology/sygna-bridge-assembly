@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3c8a3c41-6f3a-4b4a-bcb0-4c411c750bc6",
+    "symbol": "NEOS",
+    "name": "Neoscoin",
+    "platforms": {
+      "neoscoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

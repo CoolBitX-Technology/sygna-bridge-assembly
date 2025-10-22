@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c3feec21-9bd8-4754-aac1-3e0981235bd9",
+    "symbol": "BLX",
+    "name": "Balloon-X",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x48fa42d579ce56cc2797e4d678ad7345a27999b9"
+      }
+    }
+  }
+]

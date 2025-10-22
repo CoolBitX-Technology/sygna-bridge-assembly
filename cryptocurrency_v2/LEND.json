@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dc4e7a76-a581-41f6-833d-69a493e8d581",
+    "symbol": "LEND",
+    "name": "Aave Lending Token (formerly Ethlend)",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
+      }
+    }
+  }
+]

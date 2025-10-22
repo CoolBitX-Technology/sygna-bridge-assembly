@@ -1,0 +1,21 @@
+[
+  {
+    "id": "09b20d24-6990-480a-9058-7edb717c7327",
+    "symbol": "USDT",
+    "name": "Tether",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      },
+      "omni": {
+        "token_address": "31"
+      },
+      "tron": {
+        "token_address": "tr7nhqjekqxgtci8q8zy4pl8otszgjlj6t"
+      },
+      "polygon": {
+        "token_address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+      }
+    }
+  }
+]

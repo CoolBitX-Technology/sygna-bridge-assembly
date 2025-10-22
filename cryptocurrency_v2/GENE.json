@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9397b473-9720-47c2-83b5-2a9ce2d7795d",
+    "symbol": "GENE",
+    "name": "Parkgene",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x884181554dfa9e578d36379919c05c25dc4a15bb"
+      }
+    }
+  }
+]

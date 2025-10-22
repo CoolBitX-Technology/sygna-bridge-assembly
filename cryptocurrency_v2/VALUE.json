@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eead1aa6-6f3e-44c7-b2ce-9d3613937078",
+    "symbol": "VALUE",
+    "name": "Value Liquidity",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+      }
+    }
+  }
+]

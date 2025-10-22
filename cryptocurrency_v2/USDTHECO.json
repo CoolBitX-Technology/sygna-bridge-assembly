@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cbb02210-afe1-4a3f-9c6e-2f70804d1e8e",
+    "symbol": "USDTHECO",
+    "name": "Heco-Peg USDTHECO Token",
+    "platforms": {
+      "huobi-eco-chain": {
+        "token_address": "0xa71edc38d189767582c38a3145b5873052c3e47a"
+      }
+    }
+  }
+]

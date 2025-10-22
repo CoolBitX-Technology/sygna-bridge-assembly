@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d709e51c-5759-44c5-94f8-708a6317029a",
+    "symbol": "UFR",
+    "name": "Upfiring",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xea097a2b1db00627b2fa17460ad260c016016977"
+      }
+    }
+  }
+]

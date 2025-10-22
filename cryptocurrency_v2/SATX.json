@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1ef82402-282b-447c-b76a-7c37a4197bf8",
+    "symbol": "SATX",
+    "name": "SatoExchange Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab"
+      }
+    }
+  }
+]

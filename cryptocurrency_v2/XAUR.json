@@ -1,0 +1,12 @@
+[
+  {
+    "id": "70097663-b016-49ce-b049-ab174af1e168",
+    "symbol": "XAUR",
+    "name": "Xaurum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4df812f6064def1e5e029f1ca858777cc98d2d81"
+      }
+    }
+  }
+]

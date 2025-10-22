@@ -1,0 +1,12 @@
+[
+  {
+    "id": "94a79166-3b83-46aa-a9f0-69898e0d7f72",
+    "symbol": "KUMA",
+    "name": "Kumacoin",
+    "platforms": {
+      "kumacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

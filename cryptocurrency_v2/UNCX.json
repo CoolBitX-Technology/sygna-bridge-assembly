@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8b82fd4c-0a10-44cd-89ef-95a2673c7773",
+    "symbol": "UNCX",
+    "name": "UniCrypt",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xadb2437e6f65682b85f814fbc12fec0508a7b1d0"
+      }
+    }
+  }
+]

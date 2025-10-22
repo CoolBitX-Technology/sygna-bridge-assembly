@@ -1,0 +1,12 @@
+[
+  {
+    "id": "32b9c1dc-f947-427c-b595-ae1f2d1a6a44",
+    "symbol": "WCN",
+    "name": "Widecoin",
+    "platforms": {
+      "widecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

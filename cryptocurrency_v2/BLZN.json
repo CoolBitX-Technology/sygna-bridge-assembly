@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f0e63c51-19a8-46d1-98e4-a437c5e497a1",
+    "symbol": "BLZN",
+    "name": "Blaze Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x70efdc485a10210b056ef8e0a32993bc6529995e"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9c184d6d-41a8-476b-9973-137609e9a261",
+    "symbol": "OMG",
+    "name": "OmiseGO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfdde0a92bfef2d95695d32400a0a8f55e530dc67"
+      }
+    }
+  }
+]

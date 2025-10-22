@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4c6ff21c-d772-4ca6-9036-6b5fe32c12f2",
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "platforms": {
+      "arbitrum": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "native"
+      },
+      "optimism": {
+        "token_address": "native"
+      }
+    }
+  },
+  {
+    "id": "8382cb22-e7b9-4887-86f4-5bd3d9105d0a",
+    "symbol": "ETH",
+    "name": "Binance-Peg Ethereum Token",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+      }
+    }
+  },
+  {
+    "id": "080a6b76-415e-46b9-85ba-4b36528503fa",
+    "symbol": "ETH",
+    "name": "Heco-Peg ETH Token",
+    "platforms": {
+      "huobi-eco-chain": {
+        "token_address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd"
+      }
+    }
+  }
+]

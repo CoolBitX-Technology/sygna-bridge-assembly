@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9d2ad4dc-fe80-48cb-9fa4-92ee186b72ca",
+    "symbol": "KCN",
+    "name": "Kylacoin",
+    "platforms": {
+      "kylacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0a58ce3a-3694-44bf-9910-ca8be4f26ba2",
+    "symbol": "REVV",
+    "name": "REVV",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca"
+      }
+    }
+  }
+]

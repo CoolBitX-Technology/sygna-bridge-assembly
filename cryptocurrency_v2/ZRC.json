@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f310dd8d-f6d4-4cfd-a0df-8d73e9db73c0",
+    "symbol": "ZRC",
+    "name": "ZrCoin",
+    "platforms": {
+      "zrcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

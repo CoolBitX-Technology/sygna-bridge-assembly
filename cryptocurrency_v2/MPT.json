@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d958f2cb-36d7-4b3b-9b81-f191deec99cf",
+    "symbol": "MPT",
+    "name": "Money Plant Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2cc1be643e0882fb096f7f96d2b6ca079ad5270c"
+      }
+    }
+  }
+]

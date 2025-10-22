@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0b973d87-619a-4479-acaa-934ed61dc088",
+    "symbol": "OKT",
+    "name": "OKExChain",
+    "platforms": {
+      "okexchain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

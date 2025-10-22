@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f023c54b-3086-472a-9ade-811e78754468",
+    "symbol": "MINX",
+    "name": "InnovaMinex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xae353daeed8dcc7a9a12027f7e070c0a50b7b6a4"
+      }
+    }
+  }
+]

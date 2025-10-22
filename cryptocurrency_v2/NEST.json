@@ -1,0 +1,12 @@
+[
+  {
+    "id": "94d597a3-0041-4441-a14f-e9659f732d26",
+    "symbol": "NEST",
+    "name": "NEST Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x04abeda201850ac0124161f037efd70c74ddc74c"
+      }
+    }
+  }
+]

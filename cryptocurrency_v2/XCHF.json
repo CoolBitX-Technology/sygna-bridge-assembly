@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fcb87dba-1d0d-48a1-a108-a26c9b1d89ff",
+    "symbol": "XCHF",
+    "name": "CryptoFranc",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb4272071ecadd69d933adcd19ca99fe80664fc08"
+      }
+    }
+  }
+]

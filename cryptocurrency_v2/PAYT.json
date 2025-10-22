@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a431e3d2-04ec-4fac-8af2-ae52cfbd391f",
+    "symbol": "PAYT",
+    "name": "PayAccept",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8ef47555856f6ce2e0cd7c36aef4fab317d2e2e2"
+      }
+    }
+  }
+]

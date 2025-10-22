@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1f5f0e65-b58b-4d16-8b20-42923c538805",
+    "symbol": "TERN",
+    "name": "Ternio-ERC20",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x24283732c3df91ee1e4354a3934c14b88b2d9a51"
+      }
+    }
+  }
+]

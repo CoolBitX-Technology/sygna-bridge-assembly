@@ -1,0 +1,12 @@
+[
+  {
+    "id": "36a65dfd-01f9-400c-840e-7ced93da438e",
+    "symbol": "AYA",
+    "name": "Aryacoin",
+    "platforms": {
+      "aryacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

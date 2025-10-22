@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b01100cd-1865-4f87-a67e-d5c8bcbf8325",
+    "symbol": "VIVO",
+    "name": "Vivo",
+    "platforms": {
+      "vivo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

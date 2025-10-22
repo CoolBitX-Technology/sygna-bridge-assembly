@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e81576b9-a08d-441a-a2ff-3527426bc7ed",
+    "symbol": "DAX",
+    "name": "DAEX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0b4bdc478791897274652dc15ef5c135cae61e60"
+      }
+    }
+  }
+]

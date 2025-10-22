@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7d6c855c-9d22-4847-b522-5e7ab595d072",
+    "symbol": "BRD",
+    "name": "Bread",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6"
+      }
+    }
+  }
+]

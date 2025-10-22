@@ -1,0 +1,12 @@
+[
+  {
+    "id": "249aa084-54e9-4db6-b72d-ac19af53a3d0",
+    "symbol": "PLSR",
+    "name": "Pulsar Coin",
+    "platforms": {
+      "pulsar-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

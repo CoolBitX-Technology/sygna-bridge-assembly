@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cd3da05a-6e3d-44f0-8106-df423363f9fc",
+    "symbol": "XDAI",
+    "name": "xDai",
+    "platforms": {
+      "xdai": {
+        "token_address": "native"
+      }
+    }
+  }
+]

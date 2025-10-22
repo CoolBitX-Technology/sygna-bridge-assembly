@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d868e94-079d-43b2-b987-d551aca7d8cd",
+    "symbol": "VUSDC",
+    "name": "Venus USDC",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8"
+      }
+    }
+  }
+]

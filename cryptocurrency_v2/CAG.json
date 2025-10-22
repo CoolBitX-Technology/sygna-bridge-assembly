@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e644199-aa37-4a13-ac0e-cb38607d4de1",
+    "symbol": "CAG",
+    "name": "Change",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3"
+      }
+    }
+  }
+]

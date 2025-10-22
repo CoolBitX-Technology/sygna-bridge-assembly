@@ -1,0 +1,12 @@
+[
+  {
+    "id": "21155520-9a2c-405a-8fa1-711b6ddc2dcc",
+    "symbol": "OUSD",
+    "name": "Origin Dollar",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86"
+      }
+    }
+  }
+]

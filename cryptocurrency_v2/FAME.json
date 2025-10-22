@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3fe4d9f2-666e-474e-97d5-8b2dedbab042",
+    "symbol": "FAME",
+    "name": "Fame",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf2da15ae6ef94988534bad4b9e646f5911cbd487"
+      }
+    }
+  }
+]

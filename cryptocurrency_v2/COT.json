@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8aa1d37a-bd33-4942-ad01-5cff84a6677b",
+    "symbol": "COT",
+    "name": "Cosplay Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8"
+      }
+    }
+  },
+  {
+    "id": "82127e8f-a1e1-4fd5-bbbd-b590dc9ec7b6",
+    "symbol": "COT",
+    "name": "CoTrader",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5c872500c00565505f3624ab435c222e558e9ff8"
+      }
+    }
+  }
+]

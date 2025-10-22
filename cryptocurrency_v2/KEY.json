@@ -1,0 +1,22 @@
+[
+  {
+    "id": "79e25796-8bd9-487b-9dca-fb652549dc64",
+    "symbol": "KEY",
+    "name": "Selfkey",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7"
+      }
+    }
+  },
+  {
+    "id": "dc1a3533-70c5-4057-81f1-5bdedc67773e",
+    "symbol": "KEY",
+    "name": "KEY",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c"
+      }
+    }
+  }
+]

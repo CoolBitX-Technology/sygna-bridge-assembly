@@ -1,0 +1,22 @@
+[
+  {
+    "id": "91a9672d-1889-4673-92a6-feadf57534aa",
+    "symbol": "MPH",
+    "name": "Morpher",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38"
+      }
+    }
+  },
+  {
+    "id": "301fde0f-1c01-4708-b55d-7b2f8fc11a25",
+    "symbol": "MPH",
+    "name": "88mph",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8888801af4d980682e47f1a9036e589479e835c5"
+      }
+    }
+  }
+]

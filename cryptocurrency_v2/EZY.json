@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0823a685-2b8d-4a86-99b0-cd544da4353c",
+    "symbol": "EZY",
+    "name": "EzyStayz",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa6d5c720a9af5a405dfb6b9f44fc44fab5d4a58d"
+      }
+    }
+  }
+]

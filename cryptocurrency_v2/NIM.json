@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cd74e1dc-e74e-4cc0-8ed4-c5d5f14dfc9d",
+    "symbol": "NIM",
+    "name": "Nimiq",
+    "platforms": {
+      "nimiq": {
+        "token_address": "native"
+      }
+    }
+  }
+]

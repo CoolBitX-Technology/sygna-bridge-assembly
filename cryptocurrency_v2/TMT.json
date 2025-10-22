@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a8ce14e8-b608-49a8-88c2-3d3e17d7148e",
+    "symbol": "TMT",
+    "name": "Tamy Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb9cb7905981198add8059114b3b7dc7042b52f7b"
+      }
+    }
+  }
+]

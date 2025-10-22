@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b9d331b7-086e-4278-9406-7a10bb4da857",
+    "symbol": "COS",
+    "name": "Contentos",
+    "platforms": {
+      "contentos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

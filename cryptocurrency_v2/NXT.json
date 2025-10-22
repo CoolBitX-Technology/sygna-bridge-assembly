@@ -1,0 +1,12 @@
+[
+  {
+    "id": "36db5860-a578-4aeb-b4a4-044c21334a70",
+    "symbol": "NXT",
+    "name": "Nxt",
+    "platforms": {
+      "nxt": {
+        "token_address": "native"
+      }
+    }
+  }
+]

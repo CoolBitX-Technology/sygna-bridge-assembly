@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3a1d703c-d7b9-4c29-92a5-095f68ed6a0b",
+    "symbol": "BIX",
+    "name": "Bibox Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069"
+      }
+    }
+  }
+]

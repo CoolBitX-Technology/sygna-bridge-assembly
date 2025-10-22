@@ -1,0 +1,12 @@
+[
+  {
+    "id": "39e1a343-fe3c-464b-8856-1b7e3923b054",
+    "symbol": "SSS",
+    "name": "SSS Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8d7db6a562764b437f3248031f886359b4183cc4"
+      }
+    }
+  }
+]

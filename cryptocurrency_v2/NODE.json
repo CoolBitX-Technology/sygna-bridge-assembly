@@ -1,0 +1,22 @@
+[
+  {
+    "id": "3071c3d8-a308-4b6b-8c26-af1687cd46f4",
+    "symbol": "NODE",
+    "name": "Whole Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0c3ef32f802967db75b9d49fe1e76620151ccb81"
+      }
+    }
+  },
+  {
+    "id": "5b8c8859-dfc4-4ae4-9dcf-2b802577231f",
+    "symbol": "NODE",
+    "name": "PocketNode",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x435d664f72d6f194ef67d63b5f3936650187b131"
+      }
+    }
+  }
+]

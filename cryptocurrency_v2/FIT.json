@@ -1,0 +1,15 @@
+[
+  {
+    "id": "eb316b78-84e5-4f13-8f64-e9e6d452c23b",
+    "symbol": "FIT",
+    "name": "FIRST INTERCHANGEABLE TOKEN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaf79c4c4106b7c35c2fec72d130783524f821d89"
+      },
+      "tron": {
+        "token_address": "tpmstdkfvscbxhowvechjarskqn5qpvwd9"
+      }
+    }
+  }
+]

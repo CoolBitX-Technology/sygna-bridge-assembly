@@ -1,0 +1,12 @@
+[
+  {
+    "id": "30d42a21-d3f0-427f-a282-13cb53b09294",
+    "symbol": "PSM",
+    "name": "PRASM",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1a66e09f7dccc10eae46e27cfa6b8d44a50df1e7"
+      }
+    }
+  }
+]

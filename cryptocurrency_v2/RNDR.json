@@ -1,0 +1,15 @@
+[
+  {
+    "id": "c77284dc-324a-4c55-9fca-c0786fd0ace8",
+    "symbol": "RNDR",
+    "name": "Render Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+      },
+      "solana": {
+        "token_address": "rndrizkt3mk1iimdxrdwabcf7zg7ar5t4nud4ekhbof"
+      }
+    }
+  }
+]

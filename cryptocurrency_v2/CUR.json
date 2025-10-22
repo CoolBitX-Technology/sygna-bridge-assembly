@@ -1,0 +1,12 @@
+[
+  {
+    "id": "638fa674-f56b-4183-ba67-8e0a6d79e4c1",
+    "symbol": "CUR",
+    "name": "Curio",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x13339fd07934cd674269726edf3b5ccee9dd93de"
+      }
+    }
+  }
+]

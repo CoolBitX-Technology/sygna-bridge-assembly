@@ -1,0 +1,12 @@
+[
+  {
+    "id": "26bc4499-a6ea-406b-80ed-5c0b3b8f4b96",
+    "symbol": "AQUA",
+    "name": "Aquachain",
+    "platforms": {
+      "aquachain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

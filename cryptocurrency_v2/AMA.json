@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6885501f-7814-46e6-bd1c-449b261f9845",
+    "symbol": "AMA",
+    "name": "AMATEN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1830dd31220a7f76889eafcc5758ee521ac382b2"
+      }
+    }
+  }
+]

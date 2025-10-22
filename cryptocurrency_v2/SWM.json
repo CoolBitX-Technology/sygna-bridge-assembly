@@ -1,0 +1,12 @@
+[
+  {
+    "id": "305fd04f-8a12-4314-9a53-521ebfd7ed1d",
+    "symbol": "SWM",
+    "name": "Swarm",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b5449e31-6b55-4a03-8dfb-bec436b44b4e",
+    "symbol": "BRTR",
+    "name": "Barter",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf0acf8949e705e0ebb6cb42c2164b0b986454223"
+      }
+    }
+  }
+]

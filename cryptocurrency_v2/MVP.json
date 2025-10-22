@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c60d4427-3dfd-4cee-871d-2baf3e7d5707",
+    "symbol": "MVP",
+    "name": "Merculet",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8a77e40936bbc27e80e9a3f526368c967869c86d"
+      }
+    }
+  }
+]

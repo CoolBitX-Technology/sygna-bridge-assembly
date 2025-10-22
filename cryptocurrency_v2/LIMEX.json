@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c29b74b8-0f58-4217-8024-7b6909c8e90e",
+    "symbol": "LIMEX",
+    "name": "Limestone Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x400b1d8a7dd8c471026b2c8cbe1062b27d120538"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "723340bb-3bd7-462a-88b2-ba70751e0ebe",
+    "symbol": "OVR",
+    "name": "OVR",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697"
+      }
+    }
+  }
+]

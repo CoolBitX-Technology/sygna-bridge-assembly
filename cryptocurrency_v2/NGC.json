@@ -1,0 +1,12 @@
+[
+  {
+    "id": "30029fe7-58c3-4a6d-860f-700d04b58fad",
+    "symbol": "NGC",
+    "name": "NAGA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131"
+      }
+    }
+  }
+]

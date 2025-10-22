@@ -1,0 +1,12 @@
+[
+  {
+    "id": "386a1f7d-fda5-4536-ba15-922bc45ebdca",
+    "symbol": "HGOLD",
+    "name": "HollyGold",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0c93b616933b0cd03b201b29cd8a22681dd9e0d9"
+      }
+    }
+  }
+]

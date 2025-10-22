@@ -1,0 +1,12 @@
+[
+  {
+    "id": "51167e8a-380b-4a98-8115-9f8f45558707",
+    "symbol": "RAP",
+    "name": "REALPAY",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb23d94fabded02556910ceeb68fe998d66d5822a"
+      }
+    }
+  }
+]

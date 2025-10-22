@@ -1,0 +1,12 @@
+[
+  {
+    "id": "88a066f1-8903-4ea8-97ed-a05d70d0014b",
+    "symbol": "SUI",
+    "name": "Sui",
+    "platforms": {
+      "sui": {
+        "token_address": "native"
+      }
+    }
+  }
+]

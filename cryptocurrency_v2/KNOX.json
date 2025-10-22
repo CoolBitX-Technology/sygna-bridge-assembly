@@ -1,0 +1,12 @@
+[
+  {
+    "id": "95fde6a1-096d-4821-98cd-07cabb377278",
+    "symbol": "KNOX",
+    "name": "Knox",
+    "platforms": {
+      "knox": {
+        "token_address": "native"
+      }
+    }
+  }
+]

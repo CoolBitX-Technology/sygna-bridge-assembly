@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9eb029c6-5da5-460c-879b-2100ddf87316",
+    "symbol": "ASF",
+    "name": "Asofe",
+    "platforms": {
+      "asofe": {
+        "token_address": "native"
+      }
+    }
+  }
+]

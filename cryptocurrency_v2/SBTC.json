@@ -1,0 +1,15 @@
+[
+  {
+    "id": "bbfb4b82-b70a-46c8-98b8-2d86db1e463b",
+    "symbol": "SBTC",
+    "name": "Super Bitcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6"
+      },
+      "super-bitcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

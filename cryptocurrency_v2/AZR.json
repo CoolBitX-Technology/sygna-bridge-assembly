@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7269ee87-530a-44b6-ba8c-d378917f663e",
+    "symbol": "AZR",
+    "name": "Azzure",
+    "platforms": {
+      "azzure": {
+        "token_address": "native"
+      }
+    }
+  }
+]

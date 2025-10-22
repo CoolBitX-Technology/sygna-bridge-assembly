@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cd6eee83-476d-4675-a6a9-83cfa982ce0e",
+    "symbol": "LBC",
+    "name": "LBRY Credits",
+    "platforms": {
+      "lbry-credits": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ab137868-fd87-48cc-ae3e-5612f6f69f52",
+    "symbol": "WOO",
+    "name": "Wootrade",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
+      }
+    }
+  }
+]

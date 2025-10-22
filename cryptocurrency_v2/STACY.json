@@ -1,0 +1,12 @@
+[
+  {
+    "id": "660f534e-2bd3-49cb-ae0d-818f2f83a95d",
+    "symbol": "STACY",
+    "name": "Stacy",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf12ec0d3dab64ddefbdc96474bde25af3fe1b327"
+      }
+    }
+  }
+]

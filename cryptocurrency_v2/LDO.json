@@ -1,0 +1,12 @@
+[
+  {
+    "id": "84de60d2-0771-4d85-b7b8-f7558ef9efe0",
+    "symbol": "LDO",
+    "name": "Lido DAO Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+      }
+    }
+  }
+]

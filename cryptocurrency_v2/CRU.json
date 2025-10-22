@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ab38742f-6c73-477c-816b-ceeb1f7a4362",
+    "symbol": "CRU",
+    "name": "Crust",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41"
+      }
+    }
+  }
+]

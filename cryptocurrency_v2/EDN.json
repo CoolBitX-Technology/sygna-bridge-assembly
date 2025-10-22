@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e4514973-e54b-4fa2-a5cc-75e2a25b04cc",
+    "symbol": "EDN",
+    "name": "Eden",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x05860d453c7974cbf46508c06cba14e211c629ce"
+      }
+    }
+  }
+]

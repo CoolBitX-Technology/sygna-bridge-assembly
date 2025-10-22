@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0b6d92b7-2027-466d-b5c4-10ffad0cbf92",
+    "symbol": "KICKS",
+    "name": "Sessia",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd91a6162f146ef85922d9a15ee6eb14a00344586"
+      }
+    }
+  }
+]

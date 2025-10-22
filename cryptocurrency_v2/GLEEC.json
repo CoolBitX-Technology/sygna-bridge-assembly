@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ae538311-c326-4722-a016-2159d217871f",
+    "symbol": "GLEEC",
+    "name": "Gleec",
+    "platforms": {
+      "gleec": {
+        "token_address": "native"
+      }
+    }
+  }
+]

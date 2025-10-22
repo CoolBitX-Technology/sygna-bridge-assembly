@@ -1,0 +1,12 @@
+[
+  {
+    "id": "858e1c7a-aab2-4402-ab31-c1b906d2376f",
+    "symbol": "BALLZ",
+    "name": "Ballzcoin",
+    "platforms": {
+      "ballzcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

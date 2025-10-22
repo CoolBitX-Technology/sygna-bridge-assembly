@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d659b291-5c05-43db-9f09-7084dab907ac",
+    "symbol": "GST",
+    "name": "Green Satoshi Token",
+    "platforms": {
+      "solana": {
+        "token_address": "afbx8ogjgpmvfywbvouvhqsrmiw2ar1mohfahi4y2adb"
+      }
+    }
+  }
+]

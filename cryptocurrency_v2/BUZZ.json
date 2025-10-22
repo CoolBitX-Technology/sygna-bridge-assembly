@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7532d57b-8556-425c-bf6c-feb63700e06c",
+    "symbol": "BUZZ",
+    "name": "BUZZCoin",
+    "platforms": {
+      "buzzcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

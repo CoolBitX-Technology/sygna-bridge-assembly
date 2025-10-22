@@ -1,0 +1,12 @@
+[
+  {
+    "id": "84ce71d5-0321-4d17-a14f-2cd4b1f56c5b",
+    "symbol": "PXL",
+    "name": "PIXEL",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf88951d7b676798705fd3a362ba5b1dbca2b233b"
+      }
+    }
+  }
+]

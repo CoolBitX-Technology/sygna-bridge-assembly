@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ab8dcf13-deba-47c8-ad20-8bbcb99211f4",
+    "symbol": "HONEY",
+    "name": "Hivemapper",
+    "platforms": {
+      "solana": {
+        "token_address": "4vmsout2bwatfweudnqm1xedrlfjgj7hswhcpz4xgbty"
+      }
+    }
+  },
+  {
+    "id": "33fc6f22-e150-4e67-aa07-563d7185441e",
+    "symbol": "HONEY",
+    "name": "HoneyWood",
+    "platforms": {
+      "honeywood": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "af04ff2f-e464-47a5-b75b-2d87a3f6f12a",
+    "symbol": "GSC",
+    "name": "Global Social Chain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x228ba514309ffdf03a81a205a6d040e429d6e80c"
+      }
+    }
+  }
+]

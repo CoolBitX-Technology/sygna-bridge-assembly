@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7de01b4a-4f2b-400f-b7c9-1d1b711234ae",
+    "symbol": "PHA",
+    "name": "Phala.Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e"
+      }
+    }
+  }
+]

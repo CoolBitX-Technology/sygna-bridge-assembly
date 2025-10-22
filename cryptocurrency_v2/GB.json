@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9a657b0c-ec1c-490e-8d62-411d8fb0eb69",
+    "symbol": "GB",
+    "name": "GoldBlocks",
+    "platforms": {
+      "goldblocks": {
+        "token_address": "native"
+      }
+    }
+  }
+]

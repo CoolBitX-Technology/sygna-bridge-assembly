@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4a0ed9ea-bc09-4031-bef5-55ce5d092e7c",
+    "symbol": "LEAD",
+    "name": "Lead Wallet",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce"
+      }
+    }
+  }
+]

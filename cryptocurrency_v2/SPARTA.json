@@ -1,0 +1,12 @@
+[
+  {
+    "id": "06ce4b56-aa33-4220-8b66-8a59dbfef06e",
+    "symbol": "SPARTA",
+    "name": "Spartan Protocol",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xe4ae305ebe1abe663f261bc00534067c80ad677c"
+      }
+    }
+  }
+]

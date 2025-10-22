@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a3923a35-c469-4e51-a400-b71515e2a63e",
+    "symbol": "GT",
+    "name": "GateToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe66747a101bff2dba3697199dcce5b743b454759"
+      }
+    }
+  }
+]

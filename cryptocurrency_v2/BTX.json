@@ -1,0 +1,12 @@
+[
+  {
+    "id": "82c962f0-7960-4cc1-abb7-a4edc7590d78",
+    "symbol": "BTX",
+    "name": "BitCore",
+    "platforms": {
+      "bitcore": {
+        "token_address": "native"
+      }
+    }
+  }
+]

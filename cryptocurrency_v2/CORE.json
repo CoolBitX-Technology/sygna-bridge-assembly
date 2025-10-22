@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c0d60976-9960-4032-abb1-dd128fb5e6df",
+    "symbol": "CORE",
+    "name": "cVault.finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7"
+      }
+    }
+  }
+]

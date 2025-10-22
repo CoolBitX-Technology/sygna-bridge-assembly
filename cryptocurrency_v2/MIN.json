@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f0f4af36-bab0-48fb-b0fb-dc6ac0c2df58",
+    "symbol": "MIN",
+    "name": "MINDOL",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5d64d850c8368008afb39224e92ad0dceff3cf38"
+      }
+    }
+  }
+]

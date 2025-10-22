@@ -1,0 +1,22 @@
+[
+  {
+    "id": "7d1f45f0-4e46-4321-a368-599f82534479",
+    "symbol": "TEN",
+    "name": "Tenet",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x74159651a992952e2bf340d7628459aa4593fc05"
+      }
+    }
+  },
+  {
+    "id": "c826fb85-be52-44b6-8290-62e036a915e4",
+    "symbol": "TEN",
+    "name": "Tokenomy",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdd16ec0f66e54d453e6756713e533355989040e4"
+      }
+    }
+  }
+]

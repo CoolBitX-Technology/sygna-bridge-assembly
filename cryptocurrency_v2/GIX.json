@@ -1,0 +1,12 @@
+[
+  {
+    "id": "28f35a8f-5d8f-4cf2-9a30-0fd6bf7621d6",
+    "symbol": "GIX",
+    "name": "GoldFinX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbd434a09191d401da3283a5545bb3515d033b8c4"
+      }
+    }
+  }
+]

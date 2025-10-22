@@ -1,0 +1,12 @@
+[
+  {
+    "id": "68759763-ee9c-429c-9a41-e0b1b3e25816",
+    "symbol": "BLOOD",
+    "name": "Blood",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd2727e4259bba31955fd582986334aea4fba8c52"
+      }
+    }
+  }
+]

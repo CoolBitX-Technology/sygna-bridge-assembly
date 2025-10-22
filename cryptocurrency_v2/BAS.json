@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b3c47c0d-4e7b-470c-bad2-43678917b382",
+    "symbol": "BAS",
+    "name": "Basis Share",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa7ed29b253d8b4e3109ce07c80fc570f81b63696"
+      }
+    }
+  }
+]

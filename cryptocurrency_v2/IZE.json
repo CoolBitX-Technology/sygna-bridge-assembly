@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dc40356c-9136-4a26-819d-1a9664a9d8fc",
+    "symbol": "IZE",
+    "name": "IZE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6944d3e38973c4831da24e954fbd790c7e688bdd"
+      }
+    }
+  }
+]

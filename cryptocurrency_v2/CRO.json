@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cef39daa-1573-46b3-acf0-b8df2f1be701",
+    "symbol": "CRO",
+    "name": "Crypto.com Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+      }
+    }
+  }
+]

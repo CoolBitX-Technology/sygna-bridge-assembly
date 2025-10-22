@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fd3193b7-36e4-4bfb-9e6c-76ed7c47c49a",
+    "symbol": "CCD",
+    "name": "Concordium",
+    "platforms": {
+      "concordium": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d68748fc-287c-4e05-bbe9-d13eac18c39e",
+    "symbol": "BNSD",
+    "name": "BNSD Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x668dbf100635f593a3847c0bdaf21f0a09380188"
+      }
+    }
+  }
+]

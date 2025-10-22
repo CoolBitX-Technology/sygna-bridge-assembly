@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e9942129-d6cf-4278-a6a0-0e3a075b3c47",
+    "symbol": "EGG",
+    "name": "Nestree",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c"
+      }
+    }
+  }
+]

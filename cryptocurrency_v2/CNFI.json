@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fba8cb23-d4ed-419c-8744-84fa9d37e17e",
+    "symbol": "CNFI",
+    "name": "Connect Financial",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeabb8996ea1662cad2f7fb715127852cd3262ae9"
+      }
+    }
+  }
+]

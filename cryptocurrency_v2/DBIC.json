@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f6a737d5-e87f-4ccd-a046-21d064203bbb",
+    "symbol": "DBIC",
+    "name": "Dubaicoin",
+    "platforms": {
+      "dubaicoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

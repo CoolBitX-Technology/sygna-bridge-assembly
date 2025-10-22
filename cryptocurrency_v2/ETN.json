@@ -1,0 +1,12 @@
+[
+  {
+    "id": "16d20cc0-7810-4045-9c71-942891c36ed5",
+    "symbol": "ETN",
+    "name": "Electroneum",
+    "platforms": {
+      "electroneum": {
+        "token_address": "native"
+      }
+    }
+  }
+]

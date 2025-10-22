@@ -1,0 +1,12 @@
+[
+  {
+    "id": "79198c7b-48e3-4a95-9995-fed59c370b06",
+    "symbol": "BCDT",
+    "name": "Blockchain Certified Data Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5"
+      }
+    }
+  }
+]

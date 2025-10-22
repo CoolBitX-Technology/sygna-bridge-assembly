@@ -1,0 +1,12 @@
+[
+  {
+    "id": "848699d9-dc2a-4c1e-8d0c-c270fd690a34",
+    "symbol": "EVE",
+    "name": "Devery",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c"
+      }
+    }
+  }
+]

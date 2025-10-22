@@ -1,0 +1,12 @@
+[
+  {
+    "id": "538c5391-8657-4980-8944-4fa2338472e3",
+    "symbol": "KCAL",
+    "name": "Phantasma Energy",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x14eb60f5f270b059b0c788de0ddc51da86f8a06d"
+      }
+    }
+  }
+]

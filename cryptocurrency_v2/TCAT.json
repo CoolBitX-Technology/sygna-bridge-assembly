@@ -1,0 +1,12 @@
+[
+  {
+    "id": "99e39e8d-406d-4753-a3b6-1bb6e15481b8",
+    "symbol": "TCAT",
+    "name": "The Currency Analytics",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaff84e86d72edb971341a6a66eb2da209446fa14"
+      }
+    }
+  }
+]

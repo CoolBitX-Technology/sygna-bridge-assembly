@@ -1,0 +1,12 @@
+[
+  {
+    "id": "45c10d50-5d17-4318-b449-d7895b71cd56",
+    "symbol": "AIC",
+    "name": "AI Crypto",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa7a5c03399f4739f4afa934bb9053c992b53d7a2"
+      }
+    }
+  }
+]

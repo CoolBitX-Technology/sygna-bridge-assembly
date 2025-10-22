@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5fe490b7-3356-492b-b4fa-c518c0517c76",
+    "symbol": "LBA",
+    "name": "Cred",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657"
+      }
+    }
+  }
+]

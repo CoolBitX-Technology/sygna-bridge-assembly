@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d5e08e40-c326-45e7-8fb9-1b931220c4f5",
+    "symbol": "PICKLE",
+    "name": "Pickle Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5"
+      }
+    }
+  }
+]

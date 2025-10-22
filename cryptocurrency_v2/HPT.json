@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2aca5ad4-4f45-4556-9a48-467e32bc70f3",
+    "symbol": "HPT",
+    "name": "Huobi Pool Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa66daa57432024023db65477ba87d4e7f5f95213"
+      }
+    }
+  }
+]

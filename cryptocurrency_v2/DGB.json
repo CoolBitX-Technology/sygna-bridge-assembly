@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8f46f1c7-a9e9-4c4e-8ac3-ec1a6fb480f7",
+    "symbol": "DGB",
+    "name": "DigiByte",
+    "platforms": {
+      "digibyte": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8a5203e1-8ea2-4565-9d2d-a191902adc36",
+    "symbol": "PDEX",
+    "name": "Polkadex",
+    "platforms": {
+      "polkadex": {
+        "token_address": "native"
+      }
+    }
+  }
+]

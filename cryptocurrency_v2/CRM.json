@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1593c501-4376-481e-9306-f0b44d15fa1f",
+    "symbol": "CRM",
+    "name": "Creamcoin",
+    "platforms": {
+      "creamcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

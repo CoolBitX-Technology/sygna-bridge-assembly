@@ -1,0 +1,12 @@
+[
+  {
+    "id": "010ab4d0-7164-4f6a-b556-58e2b6387d4d",
+    "symbol": "BAC",
+    "name": "Basis Cash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a"
+      }
+    }
+  }
+]

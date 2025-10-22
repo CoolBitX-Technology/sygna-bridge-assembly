@@ -1,0 +1,12 @@
+[
+  {
+    "id": "804e34eb-7e6a-44df-b45b-51c165e018a1",
+    "symbol": "SLS",
+    "name": "Saluscoin",
+    "platforms": {
+      "saluscoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

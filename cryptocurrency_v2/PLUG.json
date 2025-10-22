@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e0c8bac8-0b6b-4dee-9802-b3757846d7f9",
+    "symbol": "PLUG",
+    "name": "Pl^g",
+    "platforms": {
+      "pl^g": {
+        "token_address": "native"
+      }
+    }
+  }
+]

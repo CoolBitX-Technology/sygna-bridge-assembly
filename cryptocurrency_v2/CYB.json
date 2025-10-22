@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a189b013-f2f8-424a-a79b-d5ec7a186503",
+    "symbol": "CYB",
+    "name": "Cybex",
+    "platforms": {
+      "cybex": {
+        "token_address": "native"
+      }
+    }
+  }
+]

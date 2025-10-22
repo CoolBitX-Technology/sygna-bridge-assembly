@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a7a72612-7cab-4fa5-be40-0ad090ba2a1c",
+    "symbol": "PIB",
+    "name": "PIBBLE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1864ce27e9f7517047933caae530674e8c70b8a7"
+      }
+    }
+  }
+]

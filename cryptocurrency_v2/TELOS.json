@@ -1,0 +1,12 @@
+[
+  {
+    "id": "455edd57-b696-4e47-8049-221f0f8cebdc",
+    "symbol": "TELOS",
+    "name": "Teloscoin",
+    "platforms": {
+      "teloscoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

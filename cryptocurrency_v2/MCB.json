@@ -1,0 +1,12 @@
+[
+  {
+    "id": "04de66df-e7d8-4677-a4dd-f931a12ed95d",
+    "symbol": "MCB",
+    "name": "MCDEX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+      }
+    }
+  }
+]

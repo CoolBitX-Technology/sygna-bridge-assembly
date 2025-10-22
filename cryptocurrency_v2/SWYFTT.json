@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8ae99594-874f-43d5-8e4c-2a5cb59b643e",
+    "symbol": "SWYFTT",
+    "name": "SWYFT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa1248c718d52752b2cc257eeb0eba900408daeb8"
+      }
+    }
+  }
+]

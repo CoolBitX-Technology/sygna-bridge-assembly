@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b82adc67-aa6e-402d-a1db-bf72a513e925",
+    "symbol": "SNOW",
+    "name": "SnowSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfe9a29ab92522d14fc65880d817214261d8479ae"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d3f8a9fe-7578-44a0-b397-e0213884d7d4",
+    "symbol": "INF",
+    "name": "Infinitus Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x00e150d741eda1d49d341189cae4c08a73a49c95"
+      }
+    }
+  }
+]

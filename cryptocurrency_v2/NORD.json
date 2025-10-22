@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9f42fe47-e8e6-4e06-a101-8407ec0babc1",
+    "symbol": "NORD",
+    "name": "Nord Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de"
+      }
+    }
+  }
+]

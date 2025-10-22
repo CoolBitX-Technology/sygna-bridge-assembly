@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fe2a6b76-1370-4db5-a5e1-ec4f971d9bd9",
+    "symbol": "NOBL",
+    "name": "Nobility",
+    "platforms": {
+      "nobility": {
+        "token_address": "native"
+      }
+    }
+  }
+]

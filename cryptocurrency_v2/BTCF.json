@@ -1,0 +1,12 @@
+[
+  {
+    "id": "49049e62-4d64-4b0c-b375-5e88dc1d19e7",
+    "symbol": "BTCF",
+    "name": "Bitcoin Fast",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x225927f8fa71d16ee07968b8746364d1d9f839bd"
+      }
+    }
+  }
+]

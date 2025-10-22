@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d80eb6c-58c0-4711-9df2-21e9cdad0922",
+    "symbol": "OAX",
+    "name": "OAX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x701c244b988a513c945973defa05de933b23fe1d"
+      }
+    }
+  }
+]

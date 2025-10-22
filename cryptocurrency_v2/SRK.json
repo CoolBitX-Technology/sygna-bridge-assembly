@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b62c8dfa-b4bd-4827-b815-d4da39860730",
+    "symbol": "SRK",
+    "name": "SparkPoint",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0488401c3f535193fa8df029d9ffe615a06e74e6"
+      }
+    }
+  }
+]

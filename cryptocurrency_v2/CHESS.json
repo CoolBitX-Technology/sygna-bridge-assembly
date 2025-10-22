@@ -1,0 +1,12 @@
+[
+  {
+    "id": "502fd031-19b0-4bb2-a187-0a32f73f8b97",
+    "symbol": "CHESS",
+    "name": "Chess Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5f75112bbb4e1af516fbe3e21528c63da2b6a1a5"
+      }
+    }
+  }
+]

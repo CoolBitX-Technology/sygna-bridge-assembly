@@ -1,0 +1,12 @@
+[
+  {
+    "id": "78e56794-1db6-4759-947c-e79f55681be1",
+    "symbol": "JADE",
+    "name": "Jade Currency",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5abaff0b83f81dc061c590aadcba013c69237fd7"
+      }
+    }
+  }
+]

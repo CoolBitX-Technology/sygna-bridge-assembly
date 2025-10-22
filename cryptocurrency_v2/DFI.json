@@ -1,0 +1,12 @@
+[
+  {
+    "id": "22e1ffa2-1cf4-4d68-8146-121b9461a63b",
+    "symbol": "DFI",
+    "name": "DeFiChain",
+    "platforms": {
+      "defichain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

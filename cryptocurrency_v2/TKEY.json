@@ -1,0 +1,12 @@
+[
+  {
+    "id": "da439ccd-19ea-437d-9943-881aefaf303a",
+    "symbol": "TKEY",
+    "name": "Tkeycoin",
+    "platforms": {
+      "tkeycoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

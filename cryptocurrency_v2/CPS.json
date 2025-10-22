@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9d271708-d7dd-4c55-adf1-528d29b675c4",
+    "symbol": "CPS",
+    "name": "Capricoin+",
+    "platforms": {
+      "capricoin+": {
+        "token_address": "native"
+      }
+    }
+  }
+]

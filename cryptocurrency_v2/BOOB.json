@@ -1,0 +1,12 @@
+[
+  {
+    "id": "35bbbebd-6981-4d7a-9a4f-1d26bd1e4fb1",
+    "symbol": "BOOB",
+    "name": "BooBank",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa9c44135b3a87e0688c41cf8c27939a22dd437c9"
+      }
+    }
+  }
+]

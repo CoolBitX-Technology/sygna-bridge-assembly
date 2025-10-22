@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c4f2a3cb-c41f-405d-b773-c1d981cea446",
+    "symbol": "TRI",
+    "name": "Trinity Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc299004a310303d1c0005cb14c70ccc02863924d"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "04e5962b-f517-40fd-9be0-7fd013076573",
+    "symbol": "PHL",
+    "name": "Placeholders",
+    "platforms": {
+      "placeholders": {
+        "token_address": "native"
+      }
+    }
+  }
+]

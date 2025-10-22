@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7b585165-56bf-4aa3-84fb-106b01e192c9",
+    "symbol": "GNT",
+    "name": "Golem Network Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa74476443119a942de498590fe1f2454d7d4ac0d"
+      }
+    }
+  }
+]

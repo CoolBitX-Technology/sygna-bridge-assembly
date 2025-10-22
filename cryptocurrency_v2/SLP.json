@@ -1,0 +1,12 @@
+[
+  {
+    "id": "608bdf7b-4e8c-4d4a-b0cc-06fd2e1fb99e",
+    "symbol": "SLP",
+    "name": "Small Love Potion",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1"
+      }
+    }
+  }
+]

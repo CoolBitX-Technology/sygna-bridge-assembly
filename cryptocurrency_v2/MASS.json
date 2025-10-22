@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f22a83b7-bb66-4d92-ae89-276528d8868c",
+    "symbol": "MASS",
+    "name": "Massnet",
+    "platforms": {
+      "massnet": {
+        "token_address": "native"
+      }
+    }
+  }
+]

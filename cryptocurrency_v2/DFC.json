@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b655accd-75f3-42df-95c8-66e26fb35df1",
+    "symbol": "DFC",
+    "name": "Defcoin",
+    "platforms": {
+      "defcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

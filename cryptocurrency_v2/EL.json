@@ -1,0 +1,12 @@
+[
+  {
+    "id": "73eeb96c-d5f5-45ba-9d92-bffa43846f2c",
+    "symbol": "EL",
+    "name": "ELYSIA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16"
+      }
+    }
+  }
+]

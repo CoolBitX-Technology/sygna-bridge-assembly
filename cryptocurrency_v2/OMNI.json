@@ -1,0 +1,12 @@
+[
+  {
+    "id": "632b2f3c-d5eb-42e0-92a3-a33a4f6b8e38",
+    "symbol": "OMNI",
+    "name": "Omni",
+    "platforms": {
+      "omni": {
+        "token_address": "native"
+      }
+    }
+  }
+]

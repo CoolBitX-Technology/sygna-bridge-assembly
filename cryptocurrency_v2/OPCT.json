@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f9da7dc1-9867-4235-aeec-6dde1da5ef7d",
+    "symbol": "OPCT",
+    "name": "Opacity",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdb05ea0877a2622883941b939f0bb11d1ac7c400"
+      }
+    }
+  }
+]

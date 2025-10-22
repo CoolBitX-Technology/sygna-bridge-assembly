@@ -1,0 +1,22 @@
+[
+  {
+    "id": "21dc7ff4-b349-45c4-b557-1e9c21837c1b",
+    "symbol": "SAL",
+    "name": "SalPay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x75c5ee419331b6150879530d06f9ba054755f1da"
+      }
+    }
+  },
+  {
+    "id": "80d57d93-c180-453d-8642-32de85b010b2",
+    "symbol": "SAL",
+    "name": "SalmonSwap",
+    "platforms": {
+      "tron": {
+        "token_address": "txyrq6xe49djhbgbyrh4pzzq9qdxnkwuqa"
+      }
+    }
+  }
+]

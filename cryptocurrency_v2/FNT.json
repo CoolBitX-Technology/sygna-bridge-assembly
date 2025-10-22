@@ -1,0 +1,12 @@
+[
+  {
+    "id": "70b2dbb4-1fc0-410d-9d25-f9c8c58e1085",
+    "symbol": "FNT",
+    "name": "Falcon Project",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdc5864ede28bd4405aa04d93e05a0531797d9d59"
+      }
+    }
+  }
+]

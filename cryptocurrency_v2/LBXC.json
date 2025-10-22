@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ec18b23c-ae70-4249-9e50-a26bf705dee1",
+    "symbol": "LBXC",
+    "name": "Lux Bio Cell",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xffe510a92434a0df346c5e72a3494b043cf249eb"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b7e21194-4343-4a3c-af76-015f7d179bfc",
+    "symbol": "DENTX",
+    "name": "DENTNet",
+    "platforms": {
+      "dentnet": {
+        "token_address": "native"
+      }
+    }
+  }
+]

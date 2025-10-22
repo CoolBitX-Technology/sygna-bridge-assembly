@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bb9e52ac-376e-442f-afab-1292d08dcc51",
+    "symbol": "SWT",
+    "name": "Swarm City",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb9e7f8568e08d5659f5d29c4997173d84cdf2607"
+      }
+    }
+  }
+]

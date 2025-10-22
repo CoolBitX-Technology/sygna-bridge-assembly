@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dbdd5d25-7ad4-4f65-b3f0-9f198adfd962",
+    "symbol": "GMC",
+    "name": "GokuMarket Credit",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa6272359bc37f61af398071b65c8934aca744d53"
+      }
+    }
+  }
+]

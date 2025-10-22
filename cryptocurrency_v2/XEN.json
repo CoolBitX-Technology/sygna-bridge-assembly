@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bbdf653a-1289-4b2e-84d6-5b1bd4b1e5be",
+    "symbol": "XEN",
+    "name": "Xenon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5fbdb42bb048c685c990a37f2c87fe087c586655"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f7ad5a46-4581-4ae7-bbcb-18d625ebe007",
+    "symbol": "BTCB",
+    "name": "Binance-Peg BTCB Token",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "53ac42a9-d6a5-42a5-8bc4-1cf175efd21c",
+    "symbol": "DEAL",
+    "name": "DEAL",
+    "platforms": {
+      "deal": {
+        "token_address": "native"
+      }
+    }
+  }
+]

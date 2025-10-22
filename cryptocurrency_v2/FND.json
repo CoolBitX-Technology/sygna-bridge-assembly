@@ -1,0 +1,12 @@
+[
+  {
+    "id": "80dbae11-4f8a-4525-8ffd-c78edcd7e0b3",
+    "symbol": "FND",
+    "name": "FundRequest",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4df47b4969b2911c966506e3592c41389493953b"
+      }
+    }
+  }
+]

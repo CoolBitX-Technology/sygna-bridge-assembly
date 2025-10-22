@@ -1,0 +1,12 @@
+[
+  {
+    "id": "10f12b53-22df-4b05-97da-e6b8d90331cd",
+    "symbol": "MIC",
+    "name": "MITH Cash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x368b3a58b5f49392e5c9e4c998cb0bb966752e51"
+      }
+    }
+  }
+]

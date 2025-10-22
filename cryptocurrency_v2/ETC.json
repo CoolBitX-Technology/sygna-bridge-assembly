@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e596c06d-d668-44ce-9aef-54e177cb47a5",
+    "symbol": "ETC",
+    "name": "Ethereum Classic",
+    "platforms": {
+      "ethereum-classic": {
+        "token_address": "native"
+      }
+    }
+  }
+]

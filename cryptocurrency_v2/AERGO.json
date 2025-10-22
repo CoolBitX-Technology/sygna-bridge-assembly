@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0d60daa4-fd7f-4e59-bb9c-6ddc9f555c46",
+    "symbol": "AERGO",
+    "name": "AERGO",
+    "platforms": {
+      "aergo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

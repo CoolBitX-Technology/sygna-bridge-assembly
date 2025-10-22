@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9df8bfac-54c7-4a5d-8aa7-58f2807600a3",
+    "symbol": "AST",
+    "name": "AntiscamToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa872e0a44bbd66c1486a756cb5bd3f0beec4e32e"
+      }
+    }
+  }
+]

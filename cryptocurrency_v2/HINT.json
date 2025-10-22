@@ -1,0 +1,12 @@
+[
+  {
+    "id": "88fdee93-7e0b-4927-9b50-3463ba8d480b",
+    "symbol": "HINT",
+    "name": "Hintchain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6ce21e5f5383c95691d243879a86a6025e0870c0"
+      }
+    }
+  }
+]

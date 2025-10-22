@@ -1,0 +1,12 @@
+[
+  {
+    "id": "41e4475e-0281-4436-9e70-27428e897db6",
+    "symbol": "PAID",
+    "name": "PAID Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df"
+      }
+    }
+  }
+]

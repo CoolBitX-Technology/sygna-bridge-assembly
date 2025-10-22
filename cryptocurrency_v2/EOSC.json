@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f79d1889-10a5-459f-9ac1-265a09110f48",
+    "symbol": "EOSC",
+    "name": "EOS Force",
+    "platforms": {
+      "eos-force": {
+        "token_address": "native"
+      }
+    }
+  }
+]

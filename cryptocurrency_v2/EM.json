@@ -1,0 +1,15 @@
+[
+  {
+    "id": "3cfa93d7-0d50-4b16-83bb-d82dfc6433d3",
+    "symbol": "EM",
+    "name": "Eminer",
+    "platforms": {
+      "empow": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0x35b08722aa26be119c1608029ccbc976ac5c1082"
+      }
+    }
+  }
+]

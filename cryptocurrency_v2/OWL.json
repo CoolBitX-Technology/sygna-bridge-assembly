@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e5dd5c6c-ebb0-43a3-9b13-a400c08e72c8",
+    "symbol": "OWL",
+    "name": "OWL Token (StealthSwap)",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1a5f9352af8af974bfc03399e3767df6370d82e4"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a31a0f7f-faa1-43bf-9525-a5e8514ef809",
+    "symbol": "RSV",
+    "name": "Reserve",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x196f4727526ea7fb1e17b2071b3d8eaa38486988"
+      }
+    }
+  }
+]

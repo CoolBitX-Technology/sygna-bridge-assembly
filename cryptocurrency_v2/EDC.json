@@ -1,0 +1,12 @@
+[
+  {
+    "id": "293dd73d-558e-4f98-b499-6091fb9dd492",
+    "symbol": "EDC",
+    "name": "Earn Defi Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x68a0a1fef18dfcc422db8be6f0f486dea1999edc"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "df32d05c-7a9f-4f8a-983e-e2cf450da59a",
+    "symbol": "IHF",
+    "name": "Invictus Hyperion Fund",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaf1250fa68d7decd34fd75de8742bc03b29bd58e"
+      }
+    }
+  }
+]

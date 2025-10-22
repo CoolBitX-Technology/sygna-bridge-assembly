@@ -1,0 +1,12 @@
+[
+  {
+    "id": "da98ac1a-dbc1-4324-8a8b-e659037f5e3b",
+    "symbol": "OIN",
+    "name": "OIN Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9aeb50f542050172359a0e1a25a9933bc8c01259"
+      }
+    }
+  }
+]

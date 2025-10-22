@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b2293440-b090-4257-a9a8-4d7ba59d6c2c",
+    "symbol": "VLT",
+    "name": "Bankroll Vault",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6b785a0322126826d8226d77e173d75dafb84d11"
+      }
+    }
+  }
+]

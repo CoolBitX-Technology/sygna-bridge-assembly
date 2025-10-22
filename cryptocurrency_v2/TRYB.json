@@ -1,0 +1,12 @@
+[
+  {
+    "id": "171a781a-fb5c-4dea-a31c-b06d58e82f16",
+    "symbol": "TRYB",
+    "name": "BiLira",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb"
+      }
+    }
+  }
+]

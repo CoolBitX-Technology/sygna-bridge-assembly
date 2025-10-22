@@ -1,0 +1,12 @@
+[
+  {
+    "id": "604fd1b6-af3b-406b-a77a-7274b8e0f0f5",
+    "symbol": "AIM",
+    "name": "ModiHost",
+    "platforms": {
+      "eos": {
+        "token_address": "aim"
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "98475f0d-27fe-4f46-bfd9-a366200c31a9",
+    "symbol": "AGI",
+    "name": "Delysium",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x818835503f55283cd51a4399f595e295a9338753"
+      }
+    }
+  },
+  {
+    "id": "b34a71a2-97b2-4ce0-b48c-37456fe4b80d",
+    "symbol": "AGI",
+    "name": "SingularityNET",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8eb24319393716668d768dcec29356ae9cffe285"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "80d33e56-f35b-42e2-b4e4-9fd581965907",
+    "symbol": "BUSD",
+    "name": "Binance USD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
+      }
+    }
+  }
+]

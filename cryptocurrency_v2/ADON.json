@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9a1d36b1-3e87-4e0d-9bc1-157026cc230a",
+    "symbol": "ADON",
+    "name": "ADON",
+    "platforms": {
+      "adon": {
+        "token_address": "native"
+      }
+    }
+  }
+]

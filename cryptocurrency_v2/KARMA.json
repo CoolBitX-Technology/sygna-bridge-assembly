@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bd71d0e0-6421-46ea-a343-13b5a2f9faa5",
+    "symbol": "KARMA",
+    "name": "KARMA",
+    "platforms": {
+      "eos": {
+        "token_address": "therealkarma"
+      }
+    }
+  }
+]

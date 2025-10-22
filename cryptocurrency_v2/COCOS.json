@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e9c6bbea-6341-4b10-8f08-156e8fe5570c",
+    "symbol": "COCOS",
+    "name": "Cocos-BCX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c"
+      }
+    }
+  }
+]

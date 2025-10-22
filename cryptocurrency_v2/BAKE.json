@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ecaaf6ac-193e-477a-9fc1-1eba791c8d3b",
+    "symbol": "BAKE",
+    "name": "BakeryToken",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5"
+      }
+    }
+  }
+]

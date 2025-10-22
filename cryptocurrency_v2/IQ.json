@@ -1,0 +1,12 @@
+[
+  {
+    "id": "52eaa828-384c-48ab-9684-058c85b749a5",
+    "symbol": "IQ",
+    "name": "Everipedia",
+    "platforms": {
+      "eos": {
+        "token_address": "everipediaiq"
+      }
+    }
+  }
+]

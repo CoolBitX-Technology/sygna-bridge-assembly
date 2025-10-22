@@ -1,0 +1,12 @@
+[
+  {
+    "id": "277aee80-336a-48c3-9969-0fe017d1f38a",
+    "symbol": "CURE",
+    "name": "CURE Farm",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x089a502032166e07ae83eb434c16790ca2fa4661"
+      }
+    }
+  }
+]

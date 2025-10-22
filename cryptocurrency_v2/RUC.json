@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8c3a54bd-6681-4a45-94f8-2e102bbc1099",
+    "symbol": "RUC",
+    "name": "RUSH",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x395768aeb16484e5785612a98e9408e4cc1269ec"
+      }
+    }
+  }
+]

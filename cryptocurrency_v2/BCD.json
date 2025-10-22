@@ -1,0 +1,12 @@
+[
+  {
+    "id": "67870a09-774b-49b5-a28a-b455da340fd9",
+    "symbol": "BCD",
+    "name": "Bitcoin Diamond",
+    "platforms": {
+      "bitcoin-diamond": {
+        "token_address": "native"
+      }
+    }
+  }
+]

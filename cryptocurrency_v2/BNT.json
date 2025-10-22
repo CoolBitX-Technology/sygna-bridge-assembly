@@ -1,0 +1,12 @@
+[
+  {
+    "id": "621a6f56-e8aa-4a28-8dcf-bb50e4582bbd",
+    "symbol": "BNT",
+    "name": "Bancor",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
+      }
+    }
+  }
+]

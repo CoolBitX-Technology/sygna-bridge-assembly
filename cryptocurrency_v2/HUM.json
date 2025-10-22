@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e1a124b3-5d08-482a-a561-9ccacd595906",
+    "symbol": "HUM",
+    "name": "Humanscape",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x174afe7a032b5a33a3270a9f6c30746e25708532"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1e6846e5-a7c9-4a30-b837-3f55007d7dc4",
+    "symbol": "DASHD",
+    "name": "Dash Diamond",
+    "platforms": {
+      "dash-diamond": {
+        "token_address": "native"
+      }
+    }
+  }
+]

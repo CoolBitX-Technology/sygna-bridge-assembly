@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bc2a31d9-c748-4272-8f81-b1dc6f8efc46",
+    "symbol": "GRIN",
+    "name": "Grin",
+    "platforms": {
+      "grin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

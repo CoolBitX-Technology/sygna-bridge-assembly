@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3f08fab9-dfe6-4ba5-bd4e-bf3e49e78823",
+    "symbol": "COLX",
+    "name": "ColossusXT",
+    "platforms": {
+      "colossusxt": {
+        "token_address": "native"
+      }
+    }
+  }
+]

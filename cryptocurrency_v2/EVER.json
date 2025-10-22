@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a65b929a-d9f2-4ad2-a46e-b6f7eecd3a61",
+    "symbol": "EVER",
+    "name": "Everscale",
+    "platforms": {
+      "everscale": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "48ce969b-6583-4d9a-a48f-2aa38664289f",
+    "symbol": "IDLE",
+    "name": "Idle",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x875773784af8135ea0ef43b5a374aad105c5d39e"
+      }
+    }
+  }
+]

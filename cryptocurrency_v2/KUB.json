@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7586275f-6e82-44de-b013-674e989a9da1",
+    "symbol": "KUB",
+    "name": "Kublaicoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc59cb23295e2deeb66bd090acb6b02be8d30a11f"
+      }
+    }
+  }
+]

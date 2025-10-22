@@ -1,0 +1,12 @@
+[
+  {
+    "id": "78fac296-fdf6-4067-ae24-acee90e9618e",
+    "symbol": "POWER",
+    "name": "UniPower",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509"
+      }
+    }
+  }
+]

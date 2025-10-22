@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cf375943-6943-4df4-bb42-e87f63a11978",
+    "symbol": "EIGEN",
+    "name": "EigenLayer",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83"
+      }
+    }
+  }
+]

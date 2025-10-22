@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a5c2e342-c6ef-4b9f-8583-0e386895103c",
+    "symbol": "IBS",
+    "name": "IBStoken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf0e6019c0f16d31294937b3334229909349e00f4"
+      }
+    }
+  }
+]

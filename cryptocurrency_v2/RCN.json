@@ -1,0 +1,12 @@
+[
+  {
+    "id": "51d7d5b1-741f-4d9a-b6b9-0aef997139ef",
+    "symbol": "RCN",
+    "name": "Ripio Credit Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6"
+      }
+    }
+  }
+]

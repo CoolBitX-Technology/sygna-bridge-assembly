@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a33f39b7-aa1a-4d66-a5ee-facce192df08",
+    "symbol": "BURGER",
+    "name": "Burger Swap",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f"
+      }
+    }
+  }
+]

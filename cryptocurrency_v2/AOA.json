@@ -1,0 +1,12 @@
+[
+  {
+    "id": "331bfe8b-a13c-4015-b7fd-3c524ff9b669",
+    "symbol": "AOA",
+    "name": "Aurora",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9ab165d795019b6d8b3e971dda91071421305e5a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4422d9e9-72df-4ab4-9eb9-8a8aa39dfa1a",
+    "symbol": "WAIF",
+    "name": "Waifu Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb2279b6769cfba691416f00609b16244c0cf4b20"
+      }
+    }
+  }
+]

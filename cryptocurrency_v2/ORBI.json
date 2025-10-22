@@ -1,0 +1,12 @@
+[
+  {
+    "id": "80d0cd6e-505f-4c0d-a7df-344fcd2ceab5",
+    "symbol": "ORBI",
+    "name": "Orbicular",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x11a2ab94ade17e96197c78f9d5f057332a19a0b9"
+      }
+    }
+  }
+]

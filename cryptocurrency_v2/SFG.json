@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f6442909-3033-4c63-a4bb-ff979efb5182",
+    "symbol": "SFG",
+    "name": "S.Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8a6aca71a218301c7081d4e96d64292d3b275ce0"
+      }
+    }
+  }
+]

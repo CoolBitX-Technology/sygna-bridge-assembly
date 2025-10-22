@@ -1,0 +1,12 @@
+[
+  {
+    "id": "87d692cd-a216-4f33-8461-3fe081eb9331",
+    "symbol": "ABT",
+    "name": "Arcblock",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986"
+      }
+    }
+  }
+]

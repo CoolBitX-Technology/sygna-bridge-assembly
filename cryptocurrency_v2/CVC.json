@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dfb3c9e6-3860-4883-8deb-417b261b63b1",
+    "symbol": "CVC",
+    "name": "Civic",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45"
+      }
+    }
+  }
+]

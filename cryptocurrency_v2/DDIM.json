@@ -1,0 +1,12 @@
+[
+  {
+    "id": "763489a4-773a-4316-86f5-4b44d1e4ba29",
+    "symbol": "DDIM",
+    "name": "DuckDaoDime",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "85308098-b288-4bee-b3d3-b1767556d946",
+    "symbol": "MEGA",
+    "name": "MegaCryptoPolis",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3218a02f8f8b5c3894ce30eb255f10bcba13e654"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "761f99cc-af0e-4d6e-856a-0bbf1ccb101e",
+    "symbol": "KIP",
+    "name": "Khipu Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x64e65d352f6a2949463b3a7595911b61bbafc63e"
+      }
+    }
+  }
+]

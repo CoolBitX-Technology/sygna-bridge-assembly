@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d009a375-f2b6-4f61-8855-d4ac94255654",
+    "symbol": "PION",
+    "name": "Pion",
+    "platforms": {
+      "pion": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bf6ce6a4-c59d-4565-b988-141eafff2e6f",
+    "symbol": "ATS",
+    "name": "ARTIS sigma1",
+    "platforms": {
+      "artis-sigma1": {
+        "token_address": "native"
+      }
+    }
+  }
+]

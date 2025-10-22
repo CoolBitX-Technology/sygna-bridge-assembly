@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ac45e203-5d7b-4875-b7ef-5d0268969097",
+    "symbol": "SJCX",
+    "name": "Storjcoin X",
+    "platforms": {
+      "counterparty": {
+        "token_address": "17vlrv4y7g15knhcepyvgighhvrezbemrn"
+      }
+    }
+  }
+]

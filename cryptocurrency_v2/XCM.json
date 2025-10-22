@@ -1,0 +1,12 @@
+[
+  {
+    "id": "20fe16ae-c189-4fe7-b62f-3b45b7969132",
+    "symbol": "XCM",
+    "name": "CoinMetro Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "57e6a96d-300d-475d-b0a2-fd6989feca60",
+    "symbol": "CLAM",
+    "name": "Clams",
+    "platforms": {
+      "clams": {
+        "token_address": "native"
+      }
+    }
+  }
+]

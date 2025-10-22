@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8afd3032-4215-4d9f-86fc-f8cd2ee767fa",
+    "symbol": "BOB",
+    "name": "Bob's Repair",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134"
+      }
+    }
+  }
+]

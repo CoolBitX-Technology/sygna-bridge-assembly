@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f6f9f0ad-1563-4e87-99a1-f637e665375b",
+    "symbol": "FNB",
+    "name": "FNB Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe6d2c3cb986db66818c14c7032db05d1d2a6ee74"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4aa730f3-219e-47dd-80e2-f9eb6ff28a82",
+    "symbol": "ROOK",
+    "name": "KeeperDAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a"
+      }
+    }
+  }
+]

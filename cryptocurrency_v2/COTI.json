@@ -1,0 +1,12 @@
+[
+  {
+    "id": "01b7ba1d-d64b-4e7f-90b3-3321af24db90",
+    "symbol": "COTI",
+    "name": "COTI",
+    "platforms": {
+      "coti": {
+        "token_address": "native"
+      }
+    }
+  }
+]

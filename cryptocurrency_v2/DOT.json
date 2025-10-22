@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a0ccd787-e879-4384-a937-4e523fd43ed1",
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "platforms": {
+      "polkadot": {
+        "token_address": "native"
+      }
+    }
+  }
+]

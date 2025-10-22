@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aee17f99-f55a-4484-8634-0be2d53a83fc",
+    "symbol": "CAKE",
+    "name": "PancakeSwap",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+      }
+    }
+  }
+]

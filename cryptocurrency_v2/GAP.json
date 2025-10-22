@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9bda554f-0254-465b-ae7e-3daf262a319c",
+    "symbol": "GAP",
+    "name": "GAPS",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcd8544defedec7c6b60b5a4232320365b1b21fcc"
+      }
+    }
+  }
+]

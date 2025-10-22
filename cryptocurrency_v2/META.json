@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c3855f72-3454-4775-bfea-2732f3cac328",
+    "symbol": "META",
+    "name": "Metadium",
+    "platforms": {
+      "metadium": {
+        "token_address": "native"
+      }
+    }
+  }
+]
