@@ -1,4 +1,19 @@
 
+## [1.42.0-alpha.1]
+> 2025-10-28
+
+[00094c5](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/00094c5) feat:   tools to add new currency
+
+[03d0781](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/03d0781) fix:   wrong legacy currency to coingecko id mapping
+
+[d79313b](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/d79313b) feat:   new mapping files
+
+[1aeeba5](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/1aeeba5) feat: [SYGN-16966](https://app.clickup.com/t/25577573/SYGN-16966)   convert legacy currency to new version
+
+
+[1.42.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.42.0-alpha.1
+
+
 ## [1.41.0-alpha.1]
 > 2025-08-20
 
