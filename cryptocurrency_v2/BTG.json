@@ -1,0 +1,12 @@
+[
+  {
+    "id": "03c419dd-b979-4fc3-8622-9bba13b8ded7",
+    "symbol": "BTG",
+    "name": "Bitcoin Gold",
+    "platforms": {
+      "bitcoin-gold": {
+        "token_address": "native"
+      }
+    }
+  }
+]

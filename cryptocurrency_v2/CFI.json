@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8fe5ac4c-250c-47f9-91ab-ace35198e4cf",
+    "symbol": "CFI",
+    "name": "CyberFi Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4"
+      }
+    }
+  }
+]

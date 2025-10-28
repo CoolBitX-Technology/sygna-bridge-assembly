@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ff8952de-9c0b-4f8a-b982-d3bdf82422a1",
+    "symbol": "SHPING",
+    "name": "SHPING",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4c499c9d-7a1e-4b63-93bd-43e7ce75b3a6",
+    "symbol": "UBXT",
+    "name": "UpBots",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8564653879a18c560e7c0ea0e084c516c62f5653"
+      }
+    }
+  }
+]

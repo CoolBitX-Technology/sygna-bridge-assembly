@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f8e826f9-3d7f-4d0a-88b8-cf9345855524",
+    "symbol": "SUN",
+    "name": "Sun",
+    "platforms": {
+      "tron": {
+        "token_address": "tssmhyev2ue9qyh95dqyocunczel1nvu3s"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3c35ff96-2cd1-4617-8488-dfded8e898a5",
+    "symbol": "SYS",
+    "name": "Syscoin",
+    "platforms": {
+      "syscoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

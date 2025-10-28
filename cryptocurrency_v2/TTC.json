@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9209b24a-254b-4e61-8486-fbb10880feae",
+    "symbol": "TTC",
+    "name": "TTCRYPTO",
+    "platforms": {
+      "tron": {
+        "token_address": "tldfzsutwajxxbav6od8iycbsaw3eveyxm"
+      }
+    }
+  }
+]

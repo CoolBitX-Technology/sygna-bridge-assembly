@@ -1,0 +1,12 @@
+[
+  {
+    "id": "56034333-91b4-4b4e-8634-dc5cb234e9e8",
+    "symbol": "EXNT",
+    "name": "ExNetwork Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd6c67b93a7b248df608a653d82a100556144c5da"
+      }
+    }
+  }
+]

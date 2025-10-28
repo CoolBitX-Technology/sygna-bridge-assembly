@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9847c015-dc75-418d-a6a9-40bd1adc5032",
+    "symbol": "CGT",
+    "name": "Curio Governance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0"
+      }
+    }
+  }
+]

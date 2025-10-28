@@ -1,0 +1,12 @@
+[
+  {
+    "id": "97cab46a-2a62-4180-af37-4ede14eb0a88",
+    "symbol": "GLMR",
+    "name": "Moonbeam",
+    "platforms": {
+      "moonbeam": {
+        "token_address": "native"
+      }
+    }
+  }
+]

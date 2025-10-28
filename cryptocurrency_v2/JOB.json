@@ -1,0 +1,12 @@
+[
+  {
+    "id": "70107bce-ff50-4565-9dc3-0f33776a3e4f",
+    "symbol": "JOB",
+    "name": "Jobchain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a"
+      }
+    }
+  }
+]

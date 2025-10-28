@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9583056c-b210-4d4b-8fc3-5ffbaf9d63cb",
+    "symbol": "WPR",
+    "name": "WePower",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4cf488387f035ff08c371515562cba712f9015d4"
+      }
+    }
+  }
+]

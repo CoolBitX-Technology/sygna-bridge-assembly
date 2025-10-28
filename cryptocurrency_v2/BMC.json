@@ -1,0 +1,12 @@
+[
+  {
+    "id": "056d6e3f-54bb-44f3-a673-94fd5b6250a4",
+    "symbol": "BMC",
+    "name": "Blackmoon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdf6ef343350780bf8c3410bf062e0c015b1dd671"
+      }
+    }
+  }
+]

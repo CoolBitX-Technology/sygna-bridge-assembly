@@ -1,0 +1,15 @@
+[
+  {
+    "id": "09de545a-17ee-4569-bc92-2fcb322dbfff",
+    "symbol": "ONX",
+    "name": "Onix",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033"
+      },
+      "onix": {
+        "token_address": "native"
+      }
+    }
+  }
+]

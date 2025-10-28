@@ -1,0 +1,12 @@
+[
+  {
+    "id": "89215196-06fd-463a-ba51-32af122f1a22",
+    "symbol": "XETH",
+    "name": "Xplosive Ethereum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaa19673aa1b483a5c4f73b446b4f851629a7e7d6"
+      }
+    }
+  }
+]

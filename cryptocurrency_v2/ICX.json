@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b0d50054-0ea3-4a57-8659-6c2a966eb6f0",
+    "symbol": "ICX",
+    "name": "ICON",
+    "platforms": {
+      "icon": {
+        "token_address": "native"
+      }
+    }
+  }
+]

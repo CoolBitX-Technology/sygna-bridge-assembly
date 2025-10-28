@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7da872aa-3eb7-44f2-bc4c-6cdcae2be123",
+    "symbol": "STRK",
+    "name": "StarkNet",
+    "platforms": {
+      "starknet": {
+        "token_address": "native"
+      }
+    }
+  }
+]

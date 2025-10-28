@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1f007dce-c941-4ddd-9f75-5a3d587d207c",
+    "symbol": "POOLZ",
+    "name": "Poolz Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23"
+      }
+    }
+  }
+]

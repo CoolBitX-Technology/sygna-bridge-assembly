@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ffb7ad23-8cd5-44f9-bda5-b7367ea1a9d6",
+    "symbol": "FLUID",
+    "name": "Fluid Chains",
+    "platforms": {
+      "fluid-chains": {
+        "token_address": "native"
+      }
+    }
+  }
+]

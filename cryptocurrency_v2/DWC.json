@@ -1,0 +1,12 @@
+[
+  {
+    "id": "edce0314-1919-4f55-915c-aca8cdea4fac",
+    "symbol": "DWC",
+    "name": "Digital Wallet",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc626c9e2247c8a0c863ad6daa97ed939e12786de"
+      }
+    }
+  }
+]

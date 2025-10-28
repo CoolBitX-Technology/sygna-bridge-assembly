@@ -1,0 +1,15 @@
+[
+  {
+    "id": "4ca84c30-39ed-4c6f-aef7-9d86927e6230",
+    "symbol": "SXP",
+    "name": "Swipe",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9"
+      },
+      "solar": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b4b36c2-279e-42a3-861a-ceb7699f4f7a",
+    "symbol": "VXRP",
+    "name": "Venus XRP",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xb248a295732e0225acd3337607cc01068e3b9c10"
+      }
+    }
+  }
+]

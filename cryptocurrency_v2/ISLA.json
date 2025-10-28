@@ -1,0 +1,12 @@
+[
+  {
+    "id": "22ee7662-e9f2-4a22-86df-f4cb8589949d",
+    "symbol": "ISLA",
+    "name": "Insula",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947"
+      }
+    }
+  }
+]

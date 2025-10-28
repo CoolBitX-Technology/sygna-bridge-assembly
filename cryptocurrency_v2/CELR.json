@@ -1,0 +1,12 @@
+[
+  {
+    "id": "21f4d842-e251-4797-972c-1325ef9263ab",
+    "symbol": "CELR",
+    "name": "Celer Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667"
+      }
+    }
+  }
+]

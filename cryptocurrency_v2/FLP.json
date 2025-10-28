@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8ada237a-72af-4781-8dd1-a78cc5f4da20",
+    "symbol": "FLP",
+    "name": "FLIP",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3"
+      }
+    }
+  }
+]

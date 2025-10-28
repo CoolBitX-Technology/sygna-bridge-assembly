@@ -1,0 +1,12 @@
+[
+  {
+    "id": "599051f9-f64f-4278-9791-b86224488562",
+    "symbol": "PIZZA",
+    "name": "Pizza",
+    "platforms": {
+      "eos": {
+        "token_address": "pizzatotoken"
+      }
+    }
+  }
+]

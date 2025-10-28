@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cdddccd6-14dc-48eb-a49a-2f5e61974a16",
+    "symbol": "GALA",
+    "name": "Gala",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da"
+      }
+    }
+  }
+]

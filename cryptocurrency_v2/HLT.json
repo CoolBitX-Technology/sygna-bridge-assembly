@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0c8bf4d4-768b-4b19-aee5-e599dedb1f97",
+    "symbol": "HLT",
+    "name": "Esportbits",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa809d363a66c576a2a814cdbfefc107c600a55f0"
+      }
+    }
+  }
+]

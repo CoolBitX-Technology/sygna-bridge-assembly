@@ -1,0 +1,15 @@
+[
+  {
+    "id": "ec1c1197-1e38-49f7-b4ec-20e0525cc47b",
+    "symbol": "GCR",
+    "name": "Gold Coin Reserve",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x37f6f8eb409deb9feaf032c109a72319f665c79d"
+      },
+      "global-currency-reserve": {
+        "token_address": "native"
+      }
+    }
+  }
+]

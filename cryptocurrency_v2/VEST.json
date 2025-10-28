@@ -1,0 +1,12 @@
+[
+  {
+    "id": "500d0a38-8fce-41c5-bb00-297027d3d4f9",
+    "symbol": "VEST",
+    "name": "VestChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x37f04d2c3ae075fad5483bb918491f656b12bdb6"
+      }
+    }
+  }
+]

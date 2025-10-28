@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dbf23624-f96a-43c0-92c6-10727e685557",
+    "symbol": "XVG",
+    "name": "Verge",
+    "platforms": {
+      "verge": {
+        "token_address": "native"
+      }
+    }
+  }
+]

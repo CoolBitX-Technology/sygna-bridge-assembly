@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0062e9a5-a50e-4886-adda-597f80f64802",
+    "symbol": "LUX",
+    "name": "LUXCoin",
+    "platforms": {
+      "luxcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

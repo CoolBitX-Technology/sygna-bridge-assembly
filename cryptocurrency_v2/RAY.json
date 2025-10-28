@@ -1,0 +1,18 @@
+[
+  {
+    "id": "5fee7c74-bd4b-4182-9384-4f84609cbad2",
+    "symbol": "RAY",
+    "name": "Raydium",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x13b6a55662f6591f8b8408af1c73b017e32eedb8"
+      },
+      "ethereum": {
+        "token_address": "0x5245c0249e5eeb2a0838266800471fd32adb1089"
+      },
+      "solana": {
+        "token_address": "4k3dyjzvzp8emzwuxbbcjevwskkk59s5icnly3qrkx6r"
+      }
+    }
+  }
+]

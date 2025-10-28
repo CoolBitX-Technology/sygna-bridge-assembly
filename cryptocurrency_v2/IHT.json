@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b1c3b4b-9725-4d86-9351-b3ad5c82a581",
+    "symbol": "IHT",
+    "name": "IHT Real Estate Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeda8b016efa8b1161208cf041cd86972eee0f31e"
+      }
+    }
+  }
+]

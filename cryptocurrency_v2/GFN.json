@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0a6a3c50-e1f8-4b44-a773-879b256d8368",
+    "symbol": "GFN",
+    "name": "Graphene",
+    "platforms": {
+      "graphene": {
+        "token_address": "native"
+      }
+    }
+  }
+]

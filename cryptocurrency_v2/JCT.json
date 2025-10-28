@@ -1,0 +1,12 @@
+[
+  {
+    "id": "65d5c509-dfac-4595-9828-ec31f7074e1d",
+    "symbol": "JCT",
+    "name": "Japan Content Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7fe92ec600f15cd25253b421bc151c51b0276b7d"
+      }
+    }
+  }
+]

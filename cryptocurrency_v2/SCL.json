@@ -1,0 +1,12 @@
+[
+  {
+    "id": "61f987db-957e-42ed-91a4-fd2a47fec9c8",
+    "symbol": "SCL",
+    "name": "Sociall",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8"
+      }
+    }
+  }
+]

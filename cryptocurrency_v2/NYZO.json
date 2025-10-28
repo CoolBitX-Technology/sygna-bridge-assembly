@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c57f7f24-fea3-49b8-a62f-eec663d37c25",
+    "symbol": "NYZO",
+    "name": "Nyzo",
+    "platforms": {
+      "nyzo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

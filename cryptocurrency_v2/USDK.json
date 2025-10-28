@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7aad3710-96bf-4d06-b304-ba9179c66e13",
+    "symbol": "USDK",
+    "name": "USDK",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1c48f86ae57291f7686349f12601910bd8d470bb"
+      }
+    }
+  }
+]

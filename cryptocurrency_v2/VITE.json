@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f492356d-b307-4269-8737-746ffd454c2a",
+    "symbol": "VITE",
+    "name": "VITE",
+    "platforms": {
+      "vite": {
+        "token_address": "native"
+      }
+    }
+  }
+]

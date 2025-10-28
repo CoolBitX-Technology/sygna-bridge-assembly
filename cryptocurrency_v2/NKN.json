@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6000b11e-b1ac-4874-a815-51285f754d05",
+    "symbol": "NKN",
+    "name": "NKN",
+    "platforms": {
+      "nkn": {
+        "token_address": "native"
+      }
+    }
+  }
+]

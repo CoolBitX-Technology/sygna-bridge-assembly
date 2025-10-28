@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4613352a-342d-403f-8f3e-cbfc2c3edaad",
+    "symbol": "VDL",
+    "name": "Vidulum",
+    "platforms": {
+      "vidulum": {
+        "token_address": "native"
+      }
+    }
+  }
+]

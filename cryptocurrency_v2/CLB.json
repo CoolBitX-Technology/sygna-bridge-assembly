@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f538d7af-d3e0-4d19-ba58-606809a1bc67",
+    "symbol": "CLB",
+    "name": "Cloudbric",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb1c1cb8c7c1992dba24e628bf7d38e71dad46aeb"
+      }
+    }
+  }
+]

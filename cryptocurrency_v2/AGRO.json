@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0064e13a-4105-4bc6-ace8-2137f2f3cf81",
+    "symbol": "AGRO",
+    "name": "Agrocoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1fd27f0cfc6f273b87a5e0f6fcf063422e7bcd6a"
+      }
+    }
+  }
+]

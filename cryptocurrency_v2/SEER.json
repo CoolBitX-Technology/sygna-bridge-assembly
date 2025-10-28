@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38175970-c42e-4580-b7bb-af572e917d44",
+    "symbol": "SEER",
+    "name": "SEER",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0f1ed66c251bcb52ecf7e67ac64bb72482048adb"
+      }
+    }
+  }
+]

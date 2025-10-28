@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cc213f4e-42a3-4d63-97aa-c8ad89ce598c",
+    "symbol": "SRC",
+    "name": "Super Running Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x221f7d0f2fa0bfbd5f8b0d0340425906f2f9968c"
+      }
+    }
+  }
+]

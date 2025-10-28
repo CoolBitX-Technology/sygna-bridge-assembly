@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c244d40f-e22f-48e2-b419-399e39dbcbfa",
+    "symbol": "DOKI",
+    "name": "Doki Doki Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544"
+      }
+    }
+  }
+]

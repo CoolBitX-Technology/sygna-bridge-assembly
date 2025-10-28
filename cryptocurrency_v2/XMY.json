@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5414d407-fcd1-4bfe-b952-79a951074a03",
+    "symbol": "XMY",
+    "name": "Myriad",
+    "platforms": {
+      "myriad": {
+        "token_address": "native"
+      }
+    }
+  }
+]

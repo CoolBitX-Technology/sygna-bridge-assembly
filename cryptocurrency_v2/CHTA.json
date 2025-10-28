@@ -1,0 +1,12 @@
+[
+  {
+    "id": "50705d3e-f6c0-42cd-8c95-c16bca61800c",
+    "symbol": "CHTA",
+    "name": "Cheetahcoin",
+    "platforms": {
+      "cheetahcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

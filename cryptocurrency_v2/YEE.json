@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8f0a5ea6-74d2-42ed-8fc2-99f853eaaec9",
+    "symbol": "YEE",
+    "name": "YEE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x922105fad8153f516bcfb829f56dc097a0e1d705"
+      }
+    }
+  }
+]

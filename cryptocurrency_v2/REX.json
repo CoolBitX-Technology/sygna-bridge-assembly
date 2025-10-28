@@ -1,0 +1,12 @@
+[
+  {
+    "id": "53d9898a-ad2c-409a-b4b8-ce652015c846",
+    "symbol": "REX",
+    "name": "imbrex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf05a9382a4c3f29e2784502754293d88b835109c"
+      }
+    }
+  }
+]

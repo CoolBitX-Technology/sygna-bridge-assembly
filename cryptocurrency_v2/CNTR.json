@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5644e5de-1b50-467c-853c-807f7fe50c65",
+    "symbol": "CNTR",
+    "name": "Centaur",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x03042482d64577a7bdb282260e2ea4c8a89c064b"
+      }
+    }
+  }
+]

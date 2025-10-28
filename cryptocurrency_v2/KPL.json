@@ -1,0 +1,12 @@
+[
+  {
+    "id": "caf17e12-e381-40b0-8e25-871d68305314",
+    "symbol": "KPL",
+    "name": "Kepler",
+    "platforms": {
+      "kepler": {
+        "token_address": "native"
+      }
+    }
+  }
+]

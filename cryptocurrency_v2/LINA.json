@@ -1,0 +1,22 @@
+[
+  {
+    "id": "4b019d1b-25b2-41ff-808c-ec36ce36c6af",
+    "symbol": "LINA",
+    "name": "Linear",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937"
+      }
+    }
+  },
+  {
+    "id": "a95faf10-11ec-48d5-98de-1bcfdc31c64f",
+    "symbol": "LINA",
+    "name": "LINA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc05d14442a510de4d3d71a3d316585aa0ce32b50"
+      }
+    }
+  }
+]

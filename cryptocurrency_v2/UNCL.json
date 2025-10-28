@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2eb146c6-2d6b-47e5-b8b4-d946dabde35e",
+    "symbol": "UNCL",
+    "name": "UNCL",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49"
+      }
+    }
+  }
+]

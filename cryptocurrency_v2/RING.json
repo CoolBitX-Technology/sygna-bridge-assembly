@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8d549dfb-6473-40ec-b867-4b61f509cb0f",
+    "symbol": "RING",
+    "name": "Darwinia Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9469d013805bffb7d3debe5e7839237e535ec483"
+      }
+    }
+  }
+]

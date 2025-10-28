@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d97ce61b-83ec-4e14-b274-e0535f83bad9",
+    "symbol": "STOP",
+    "name": "Satopay Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee"
+      }
+    }
+  }
+]

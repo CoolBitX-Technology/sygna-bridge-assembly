@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f02356e3-c4bb-4d69-a65a-21872e44892d",
+    "symbol": "TRCL",
+    "name": "Treecle",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0a9d68886a0d7db83a30ec00d62512483e5ad437"
+      }
+    }
+  }
+]

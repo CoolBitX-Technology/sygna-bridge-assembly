@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a9149d6e-0098-4715-94ef-955cd5629f80",
+    "symbol": "RVN",
+    "name": "Ravencoin",
+    "platforms": {
+      "ravencoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d090a6b2-8c0e-40b8-97cc-1f71e73c0d4e",
+    "symbol": "QKC",
+    "name": "QuarkChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a8051537-9c1b-4e77-b794-4b125def8a92",
+    "symbol": "FWT",
+    "name": "Freeway Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf151980e7a781481709e8195744bf2399fb3cba4"
+      }
+    }
+  }
+]

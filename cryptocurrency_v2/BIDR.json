@@ -1,0 +1,12 @@
+[
+  {
+    "id": "da41c662-d998-47e8-a3d4-729749d9c51a",
+    "symbol": "BIDR",
+    "name": "Binance IDR",
+    "platforms": {
+      "binance-chain": {
+        "token_address": "bidr-0e9"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8ac69d70-717e-4c1c-bc7b-bba92a7e6b9d",
+    "symbol": "YEC",
+    "name": "Ycash",
+    "platforms": {
+      "ycash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

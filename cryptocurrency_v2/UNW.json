@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e5ac46e4-3425-40d5-b96f-623ff2f235c1",
+    "symbol": "UNW",
+    "name": "UNW",
+    "platforms": {
+      "unw": {
+        "token_address": "native"
+      }
+    }
+  }
+]

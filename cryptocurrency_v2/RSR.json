@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ee60e8bc-cc65-4dea-95f9-2a96af5c7a23",
+    "symbol": "RSR",
+    "name": "Reserve Rights",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8"
+      }
+    }
+  }
+]

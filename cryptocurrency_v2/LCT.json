@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8898f97d-06d2-43f3-90a8-74b150456fa7",
+    "symbol": "LCT",
+    "name": "Light Coin Exchange Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x34770f06ae8a9a7b44fd8d636af6a3fec2a58b98"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "01d9e2ef-9791-4f88-93c1-f893c59137f9",
+    "symbol": "PSY",
+    "name": "Psychic",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x8dbc995946ad745dd77186d1ac10019b8ea6694a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2f1d3bd4-9f53-46d5-9c04-28c8b0cad065",
+    "symbol": "MGC",
+    "name": "MGC Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x174bfa6600bf90c885c7c01c7031389ed1461ab9"
+      }
+    }
+  }
+]

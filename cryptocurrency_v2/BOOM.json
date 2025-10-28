@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5ca195fe-2658-4d73-8636-56e056767fa2",
+    "symbol": "BOOM",
+    "name": "BOOM",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd"
+      }
+    }
+  }
+]

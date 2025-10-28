@@ -1,0 +1,12 @@
+[
+  {
+    "id": "270ceb59-07c5-4810-a499-f227ac38a866",
+    "symbol": "GOF",
+    "name": "Golff",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x488e0369f9bc5c40c002ea7c1fe4fd01a198801c"
+      }
+    }
+  }
+]

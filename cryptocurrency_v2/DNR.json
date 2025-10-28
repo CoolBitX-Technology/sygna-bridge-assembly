@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fc99f806-5611-4ebb-8047-8328ad187fe2",
+    "symbol": "DNR",
+    "name": "Denarius",
+    "platforms": {
+      "denarius": {
+        "token_address": "native"
+      }
+    }
+  }
+]

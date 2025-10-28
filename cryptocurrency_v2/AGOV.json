@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8f632467-b249-48cd-b2de-878dd013b5e6",
+    "symbol": "AGOV",
+    "name": "AGOV (ANSWER Governance)",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc1ad269f10bf36d6972ee30827051b59d0d2456b"
+      }
+    }
+  }
+]

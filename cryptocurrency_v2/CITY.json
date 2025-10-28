@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fe2b5668-bb74-410e-830f-a6a98accb3e4",
+    "symbol": "CITY",
+    "name": "City Coin",
+    "platforms": {
+      "city-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

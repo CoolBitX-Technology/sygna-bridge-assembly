@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3b46c056-ebf5-45f0-ae97-45733db22ed6",
+    "symbol": "RIN",
+    "name": "Ringo",
+    "platforms": {
+      "ringo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

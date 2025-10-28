@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c78508d-5af6-4bc5-b029-cb7e17f76723",
+    "symbol": "AETH",
+    "name": "ankrETH",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb"
+      }
+    }
+  }
+]

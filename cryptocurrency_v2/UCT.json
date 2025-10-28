@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6c7a01a8-be4b-4c12-b626-6c94caa56672",
+    "symbol": "UCT",
+    "name": "Ubique Chain Of Things",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3c4bea627039f0b7e7d21e34bb9c9fe962977518"
+      }
+    }
+  }
+]

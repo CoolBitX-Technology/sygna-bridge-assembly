@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4877024d-f283-4a85-9dca-a58534de750d",
+    "symbol": "ULT",
+    "name": "Ultiledger",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
+      }
+    }
+  }
+]

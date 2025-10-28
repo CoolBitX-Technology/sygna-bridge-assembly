@@ -1,0 +1,12 @@
+[
+  {
+    "id": "074596e6-6a25-4590-9c6d-cd8020bb0746",
+    "symbol": "ELF",
+    "name": "aelf",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e"
+      }
+    }
+  }
+]

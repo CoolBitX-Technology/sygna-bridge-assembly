@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6d6e1530-9c39-4567-a511-c25931f668c7",
+    "symbol": "UBT",
+    "name": "Unibright",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e"
+      }
+    }
+  }
+]

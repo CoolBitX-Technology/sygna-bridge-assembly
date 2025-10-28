@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6606f363-a86e-47f5-8677-f3b9f60c0518",
+    "symbol": "MAS",
+    "name": "MidasProtocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x23ccc43365d9dd3882eab88f43d515208f832430"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "df9441a9-6ec3-4c4f-b4a3-536e13e2ffc3",
+    "symbol": "IOC",
+    "name": "I/O Coin",
+    "platforms": {
+      "i/o-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

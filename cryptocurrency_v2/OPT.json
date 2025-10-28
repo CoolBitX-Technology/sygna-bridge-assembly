@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c9f3115e-c596-4eeb-b8a8-1fcae7f9c060",
+    "symbol": "OPT",
+    "name": "Opus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4fe5851c9af07df9e5ad8217afae1ea72737ebda"
+      }
+    }
+  }
+]

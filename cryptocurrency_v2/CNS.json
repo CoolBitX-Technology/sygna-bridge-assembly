@@ -1,0 +1,12 @@
+[
+  {
+    "id": "78ec659f-d90d-47d0-955a-1d96b6fc815c",
+    "symbol": "CNS",
+    "name": "Centric Cash",
+    "platforms": {
+      "tron": {
+        "token_address": "tmjwubdvwvcm6quwxdac6gqtyq3fgemwet"
+      }
+    }
+  }
+]

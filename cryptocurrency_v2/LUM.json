@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b02fce1f-1066-428a-82ef-d9dfc49d2fc6",
+    "symbol": "LUM",
+    "name": "Lum Network",
+    "platforms": {
+      "lum-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

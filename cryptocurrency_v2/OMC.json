@@ -1,0 +1,12 @@
+[
+  {
+    "id": "21ea9d22-e1f8-4398-81bb-970458419d30",
+    "symbol": "OMC",
+    "name": "Ormeus Cash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd6bd97a26232ba02172ff86b055d5d7be789335b"
+      }
+    }
+  }
+]

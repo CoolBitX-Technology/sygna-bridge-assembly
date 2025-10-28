@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a28bd73e-5b41-416d-a294-76fe0d3d2e46",
+    "symbol": "ORAI",
+    "name": "Oraichain Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4c11249814f11b9346808179cf06e71ac328c1b5"
+      }
+    }
+  }
+]

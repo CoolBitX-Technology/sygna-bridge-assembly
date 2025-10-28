@@ -1,0 +1,12 @@
+[
+  {
+    "id": "09101551-5253-42fd-8802-bf86f6796f2c",
+    "symbol": "TCP",
+    "name": "Token CashPay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x331a4589516eae384ea5f557853af6af73b9534e"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aa377e8d-4c8a-4c94-b0ff-96327d6869fc",
+    "symbol": "MTR",
+    "name": "Meter Stable",
+    "platforms": {
+      "meter-stable": {
+        "token_address": "native"
+      }
+    }
+  }
+]

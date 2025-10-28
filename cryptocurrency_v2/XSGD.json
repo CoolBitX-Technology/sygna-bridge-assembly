@@ -1,0 +1,15 @@
+[
+  {
+    "id": "dfa07ba7-76bf-4708-9d87-47431bf11942",
+    "symbol": "XSGD",
+    "name": "XSGD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x70e8de73ce538da2beed35d14187f6959a8eca96"
+      },
+      "zilliqa": {
+        "token_address": "zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh"
+      }
+    }
+  }
+]

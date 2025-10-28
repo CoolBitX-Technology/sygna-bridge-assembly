@@ -1,0 +1,12 @@
+[
+  {
+    "id": "51072ad6-84be-4505-a004-eaf78b82c90e",
+    "symbol": "ZEFU",
+    "name": "Zenfuse",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229"
+      }
+    }
+  }
+]

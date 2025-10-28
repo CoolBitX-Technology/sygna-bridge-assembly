@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8f3b8516-18c8-42aa-b559-253952768c74",
+    "symbol": "RTM",
+    "name": "Raptoreum",
+    "platforms": {
+      "raptoreum": {
+        "token_address": "native"
+      }
+    }
+  }
+]

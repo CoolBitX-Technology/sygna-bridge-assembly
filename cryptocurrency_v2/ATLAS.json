@@ -1,0 +1,18 @@
+[
+  {
+    "id": "29365cde-16ef-4761-846b-b6b8bc3951d0",
+    "symbol": "ATLAS",
+    "name": "Star Atlas",
+    "platforms": {
+      "solana": {
+        "token_address": "atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx"
+      },
+      "binance-smart-chain": {
+        "token_address": "0x83850d97018f665eb746fbb8f18351e977d1b0d6"
+      },
+      "terra-classic": {
+        "token_address": "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc"
+      }
+    }
+  }
+]

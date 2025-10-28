@@ -1,0 +1,12 @@
+[
+  {
+    "id": "df0be986-8e0e-4b76-af0d-717b8c5e82c2",
+    "symbol": "COIN",
+    "name": "Coin Artist",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x87b008e57f640d94ee44fd893f0323af933f9195"
+      }
+    }
+  }
+]

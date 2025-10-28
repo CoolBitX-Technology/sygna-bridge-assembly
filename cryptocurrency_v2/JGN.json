@@ -1,0 +1,12 @@
+[
+  {
+    "id": "030b667b-a803-432f-9fad-070acf1af0e3",
+    "symbol": "JGN",
+    "name": "Juggernaut",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x73374ea518de7addd4c2b624c0e8b113955ee041"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "51431cc5-58c7-4b3d-bd8c-35712c60c40a",
+    "symbol": "URAC",
+    "name": "Uranus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xff8be4b22cedc440591dcb1e641eb2a0dd9d25a5"
+      }
+    }
+  }
+]

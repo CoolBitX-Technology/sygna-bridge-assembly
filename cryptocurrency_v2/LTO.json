@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c1272c40-90cc-44d8-ac4d-a72d30dc0a8f",
+    "symbol": "LTO",
+    "name": "LTO Network",
+    "platforms": {
+      "lto-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

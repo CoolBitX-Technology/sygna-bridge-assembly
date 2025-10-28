@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bf8b337d-add8-4edd-a446-1c8329732ae8",
+    "symbol": "EURS",
+    "name": "STASIS EURO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdb25f211ab05b1c97d595516f45794528a807ad8"
+      }
+    }
+  }
+]

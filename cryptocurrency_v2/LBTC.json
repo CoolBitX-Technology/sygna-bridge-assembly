@@ -1,0 +1,12 @@
+[
+  {
+    "id": "88445256-78c9-4462-9002-fc4148ad27e3",
+    "symbol": "LBTC",
+    "name": "Lightning Bitcoin",
+    "platforms": {
+      "lightning-bitcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

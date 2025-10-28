@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f405aa49-7ca9-400c-b544-d8878f1b5527",
+    "symbol": "PSB",
+    "name": "Pesobit",
+    "platforms": {
+      "pesobit": {
+        "token_address": "native"
+      }
+    }
+  }
+]

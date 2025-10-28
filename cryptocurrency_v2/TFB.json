@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c2bb11df-ed9e-4b0f-ad23-a0e2143571b8",
+    "symbol": "TFB",
+    "name": "TrueFeedBack",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x79cdfa04e3c4eb58c4f49dae78b322e5b0d38788"
+      }
+    }
+  }
+]

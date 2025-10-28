@@ -1,0 +1,12 @@
+[
+  {
+    "id": "417b25db-74be-40e3-a25c-1b01758b3564",
+    "symbol": "S4F",
+    "name": "S4FE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a"
+      }
+    }
+  }
+]

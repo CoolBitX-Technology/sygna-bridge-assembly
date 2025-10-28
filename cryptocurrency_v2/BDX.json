@@ -1,0 +1,12 @@
+[
+  {
+    "id": "612c11e2-4e2b-4ec5-ab05-b35f04a6213c",
+    "symbol": "BDX",
+    "name": "Beldex",
+    "platforms": {
+      "beldex": {
+        "token_address": "native"
+      }
+    }
+  }
+]

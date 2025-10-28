@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b05dbd68-dd4a-4bc7-838d-eb5f0a12b6a5",
+    "symbol": "XSR",
+    "name": "Xensor",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6bc1f3a1ae56231dbb64d3e82e070857eae86045"
+      }
+    }
+  }
+]

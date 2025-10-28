@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7bfc77b4-83e9-4d02-9799-afdb1d1c877c",
+    "symbol": "PRO",
+    "name": "Propy",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x226bb599a12c826476e3a771454697ea52e9e220"
+      }
+    }
+  }
+]

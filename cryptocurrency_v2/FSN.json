@@ -1,0 +1,12 @@
+[
+  {
+    "id": "26287966-6120-466a-8a05-73f0aea20dbb",
+    "symbol": "FSN",
+    "name": "FUSION",
+    "platforms": {
+      "fusion": {
+        "token_address": "native"
+      }
+    }
+  }
+]

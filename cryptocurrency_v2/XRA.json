@@ -1,0 +1,12 @@
+[
+  {
+    "id": "141cdd66-bf06-4a69-826e-f3a683e86533",
+    "symbol": "XRA",
+    "name": "Xriba",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7025bab2ec90410de37f488d1298204cd4d6b29d"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "16abf386-193a-450e-8433-312057ec2e72",
+    "symbol": "AKRO",
+    "name": "Akropolis",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+      }
+    }
+  }
+]

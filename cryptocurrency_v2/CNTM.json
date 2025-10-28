@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6c075937-e808-4f11-a2b0-7eecf1ad2691",
+    "symbol": "CNTM",
+    "name": "Connectome",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9a1bf361798ef6538ccb8137ea900c4d4b48ca3d"
+      }
+    }
+  }
+]

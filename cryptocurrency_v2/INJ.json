@@ -1,0 +1,12 @@
+[
+  {
+    "id": "be9a1631-a631-42a8-b252-fcc521374cd0",
+    "symbol": "INJ",
+    "name": "Injective Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
+      }
+    }
+  }
+]

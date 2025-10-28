@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4461bd32-a2ed-46ba-9c03-9f643645030e",
+    "symbol": "XTP",
+    "name": "Tap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc"
+      }
+    }
+  }
+]

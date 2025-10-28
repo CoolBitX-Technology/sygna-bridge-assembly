@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5791f971-bcc9-4fa0-865e-8f68055f516c",
+    "symbol": "DGVC",
+    "name": "DegenVC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x26e43759551333e57f073bb0772f50329a957b30"
+      }
+    }
+  }
+]

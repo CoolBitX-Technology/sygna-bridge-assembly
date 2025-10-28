@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f6b4e16b-ad85-44e0-a99d-f1a0299dbbb5",
+    "symbol": "HOME",
+    "name": "HomeCoin",
+    "platforms": {
+      "homecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

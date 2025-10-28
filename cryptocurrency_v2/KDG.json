@@ -1,0 +1,12 @@
+[
+  {
+    "id": "65290c8d-f548-4ce0-9c72-277db6c90f03",
+    "symbol": "KDG",
+    "name": "Kingdom Game 4.0",
+    "platforms": {
+      "tron": {
+        "token_address": "tym9em22scynrc5yamxe2px1kwv7h2rxau"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b366169-57e5-44e1-827b-2bcbb624f10a",
+    "symbol": "GEM",
+    "name": "Gems",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc7bba5b765581efb2cdd2679db5bea9ee79b201f"
+      }
+    }
+  }
+]

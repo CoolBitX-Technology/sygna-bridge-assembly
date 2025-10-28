@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8975a9e4-154a-43cb-95d0-67af92c89bde",
+    "symbol": "CLA",
+    "name": "Candela Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf7269a10e85d4aa8282529516cf86847748da2bf"
+      }
+    }
+  }
+]

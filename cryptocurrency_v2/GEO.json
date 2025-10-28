@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3317ef1e-0605-4472-995e-a3d673e433fe",
+    "symbol": "GEO",
+    "name": "GeoDB",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x147faf8de9d8d8daae129b187f0d02d819126750"
+      }
+    }
+  }
+]

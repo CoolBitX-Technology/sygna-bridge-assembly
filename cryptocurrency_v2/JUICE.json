@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6b9800e8-0d23-44c7-9f85-998a8c23dbcf",
+    "symbol": "JUICE",
+    "name": "Moon Juice",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x889efb523cc39590b8483eb9491890ac71407f64"
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "c24001de-211e-4e9f-8f36-fc3e667f5006",
+    "symbol": "VAL",
+    "name": "Sora Validator Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4"
+      }
+    }
+  },
+  {
+    "id": "c3117a83-05e8-47bd-9b9a-9a96b0060389",
+    "symbol": "VAL",
+    "name": "Validity",
+    "platforms": {
+      "validity": {
+        "token_address": "native"
+      }
+    }
+  }
+]

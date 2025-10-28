@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d4824f3f-f221-4577-b0cc-5ceec3f17078",
+    "symbol": "EPK",
+    "name": "EPIK Protocol",
+    "platforms": {
+      "epik-protocol": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "94d60bf2-0959-4edd-a369-be44778adba6",
+    "symbol": "ORBS",
+    "name": "Orbs",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c10a4abe-5fef-404b-8977-213ffe0bcb39",
+    "symbol": "ARK",
+    "name": "Ark",
+    "platforms": {
+      "ark": {
+        "token_address": "native"
+      }
+    }
+  }
+]

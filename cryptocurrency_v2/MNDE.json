@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e8ac0788-0061-450f-ac51-a534cd2e6a9b",
+    "symbol": "MNDE",
+    "name": "Marinade",
+    "platforms": {
+      "solana": {
+        "token_address": "mndefzgvmt87ueuhvvu9vctqsap5b3ftgpshuupa5ey"
+      }
+    }
+  }
+]

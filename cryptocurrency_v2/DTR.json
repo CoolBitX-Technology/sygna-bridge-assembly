@@ -1,0 +1,12 @@
+[
+  {
+    "id": "822bd172-04d3-4218-a14d-338abde3f666",
+    "symbol": "DTR",
+    "name": "Dynamic Trading Rights",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd234bf2410a0009df9c3c63b610c09738f18ccd7"
+      }
+    }
+  }
+]

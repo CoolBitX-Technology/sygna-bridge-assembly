@@ -1,0 +1,25 @@
+[
+  {
+    "id": "89f47f5f-a076-4518-ab96-5dbccb06af6b",
+    "symbol": "ONE",
+    "name": "BigONE Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x946551dd05c5abd7cc808927480225ce36d8c475"
+      }
+    }
+  },
+  {
+    "id": "759a26d0-cbfe-4823-963c-6efaf691570a",
+    "symbol": "ONE",
+    "name": "Harmony",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4d807509aece24c0fa5a102b6a3b059ec6e14392"
+      },
+      "harmonyone": {
+        "token_address": "native"
+      }
+    }
+  }
+]

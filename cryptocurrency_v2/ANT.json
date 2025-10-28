@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c2dd9512-90ba-41c4-aa38-c96c2f1e9093",
+    "symbol": "ANT",
+    "name": "Aragon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "53ce7788-604f-460c-97f8-99e484fff9f6",
+    "symbol": "BFC",
+    "name": "Bifrost",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4d31200e6d7854c2f664af7fc38a21600960f74d"
+      }
+    }
+  }
+]

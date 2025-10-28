@@ -1,0 +1,12 @@
+[
+  {
+    "id": "59360a30-c68b-4dbb-8b3b-452c27b2d382",
+    "symbol": "IOTX",
+    "name": "IoTeX",
+    "platforms": {
+      "iotex": {
+        "token_address": "native"
+      }
+    }
+  }
+]

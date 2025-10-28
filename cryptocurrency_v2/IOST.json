@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fe171fbe-a27a-44de-abb1-66063edbf16b",
+    "symbol": "IOST",
+    "name": "IOST",
+    "platforms": {
+      "iost": {
+        "token_address": "native"
+      }
+    }
+  }
+]

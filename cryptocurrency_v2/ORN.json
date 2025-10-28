@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e641c1f7-3efd-4e81-87ab-f656605f96e9",
+    "symbol": "ORN",
+    "name": "Orion Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a"
+      }
+    }
+  }
+]

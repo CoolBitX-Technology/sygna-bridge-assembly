@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2ab0c7fa-4dd7-4c1f-88ee-1e082ef3d195",
+    "symbol": "PNY",
+    "name": "Peony",
+    "platforms": {
+      "peony": {
+        "token_address": "native"
+      }
+    }
+  }
+]

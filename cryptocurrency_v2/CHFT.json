@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1fcaf694-d65a-4e04-acfe-04190f2268ef",
+    "symbol": "CHFT",
+    "name": "Crypto Holding Frank Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x58002a6b6e659a16de9f02f529b10536e307b0d9"
+      }
+    }
+  }
+]

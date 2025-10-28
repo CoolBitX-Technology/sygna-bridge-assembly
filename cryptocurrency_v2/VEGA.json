@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e4fc61ca-4c23-4901-b4ef-308c1b0af7b7",
+    "symbol": "VEGA",
+    "name": "Vega Protocol",
+    "platforms": {
+      "vega-protocol": {
+        "token_address": "native"
+      }
+    }
+  }
+]

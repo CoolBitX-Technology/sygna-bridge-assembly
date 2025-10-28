@@ -1,0 +1,12 @@
+[
+  {
+    "id": "914c655e-5e0a-4c60-94f2-98512d60ea6f",
+    "symbol": "PAR",
+    "name": "Parachute",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06"
+      }
+    }
+  }
+]

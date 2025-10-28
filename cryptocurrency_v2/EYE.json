@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2189288b-e290-4e65-bdc3-8f6fa027bf30",
+    "symbol": "EYE",
+    "name": "Behodler",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x155ff1a85f440ee0a382ea949f24ce4e0b751c65"
+      }
+    }
+  }
+]

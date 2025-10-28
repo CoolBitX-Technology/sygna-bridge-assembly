@@ -1,0 +1,22 @@
+[
+  {
+    "id": "e6c65a24-8cd9-46ad-83e2-b88789929334",
+    "symbol": "COFI",
+    "name": "CoFiX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1a23a6bfbadb59fa563008c0fb7cf96dfcf34ea1"
+      }
+    }
+  },
+  {
+    "id": "ec2ed9cd-821e-456b-a706-0bf180a0da58",
+    "symbol": "COFI",
+    "name": "CoinFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3136ef851592acf49ca4c825131e364170fa32b3"
+      }
+    }
+  }
+]

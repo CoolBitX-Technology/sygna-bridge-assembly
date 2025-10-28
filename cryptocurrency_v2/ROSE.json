@@ -1,0 +1,12 @@
+[
+  {
+    "id": "81a157a9-fc37-4b17-915f-0f6be0ec7c6b",
+    "symbol": "ROSE",
+    "name": "Oasis Network",
+    "platforms": {
+      "oasis": {
+        "token_address": "native"
+      }
+    }
+  }
+]

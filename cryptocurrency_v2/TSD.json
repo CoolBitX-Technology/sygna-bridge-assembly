@@ -1,0 +1,12 @@
+[
+  {
+    "id": "16bb298f-4bdf-4da2-aa8a-b61fcdc23f64",
+    "symbol": "TSD",
+    "name": "True Seigniorage Dollar",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4846239fdf4d4c1aeb26729fa064b0205aca90e1"
+      }
+    }
+  }
+]

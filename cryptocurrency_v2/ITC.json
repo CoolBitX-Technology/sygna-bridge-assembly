@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b863687-2b3a-4d0f-80d3-216997e997eb",
+    "symbol": "ITC",
+    "name": "IoT Chain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5e6b6d9abad9093fdc861ea1600eba1b355cd940"
+      }
+    }
+  }
+]

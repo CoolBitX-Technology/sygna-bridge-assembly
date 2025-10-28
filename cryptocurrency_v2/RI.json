@@ -1,0 +1,12 @@
+[
+  {
+    "id": "73182f6a-d9e4-4b12-ac11-dbdc2eaf1a25",
+    "symbol": "RI",
+    "name": "RI Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x37e808f084101f75783612407e7c3f5f92d8ee3f"
+      }
+    }
+  }
+]

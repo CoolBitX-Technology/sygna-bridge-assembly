@@ -1,0 +1,12 @@
+[
+  {
+    "id": "29313aee-cc03-40cb-b8a0-a7124a0cc041",
+    "symbol": "CORX",
+    "name": "CorionX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97"
+      }
+    }
+  }
+]

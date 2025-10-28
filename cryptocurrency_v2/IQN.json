@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2fe3fa84-0724-4932-b1df-0f6488802faa",
+    "symbol": "IQN",
+    "name": "IQeon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0db8d8b76bc361bacbb72e2c491e06085a97ab31"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c3521637-0f05-483b-82a2-f4809dd45b10",
+    "symbol": "WIZ",
+    "name": "CrowdWiz",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2f9b6779c37df5707249eeb3734bbfc94763fbe2"
+      }
+    }
+  }
+]

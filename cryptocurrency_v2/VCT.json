@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5ae4ad92-c55d-45f6-910a-ee5bf00ac9de",
+    "symbol": "VCT",
+    "name": "ValueCyber",
+    "platforms": {
+      "valuecyber": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "46630f71-4472-4781-8f3e-5dcb7773a5a7",
+    "symbol": "SWEAT",
+    "name": "Sweat Economy",
+    "platforms": {
+      "near": {
+        "token_address": "token.sweat"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fff2a54f-5784-4d21-b5a7-a6e468a88285",
+    "symbol": "ACT",
+    "name": "Achain",
+    "platforms": {
+      "achain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

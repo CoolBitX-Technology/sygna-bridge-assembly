@@ -1,0 +1,12 @@
+[
+  {
+    "id": "13085a33-54f5-4c50-95c8-ef79191138c2",
+    "symbol": "MILK2",
+    "name": "Spaceswap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de"
+      }
+    }
+  }
+]

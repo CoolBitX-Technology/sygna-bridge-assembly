@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b362fdaf-8570-49e5-a0ff-8bfc20285eb5",
+    "symbol": "TFC",
+    "name": "TheFutbolCoin",
+    "platforms": {
+      "stellar": {
+        "token_address": "gds3xdjaa4vy6mjyasigsimphz7aqnz54rklwt7mwcou5ykyevcnlvs3"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4677cedb-06d0-485c-bdc4-7d54f81d8856",
+    "symbol": "LX",
+    "name": "Lynx",
+    "platforms": {
+      "lynx": {
+        "token_address": "native"
+      }
+    }
+  }
+]

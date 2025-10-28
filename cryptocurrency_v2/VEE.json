@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9904b97a-28ce-4146-93c9-0c3cdfcce9e2",
+    "symbol": "VEE",
+    "name": "BLOCKv",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
+      }
+    }
+  }
+]

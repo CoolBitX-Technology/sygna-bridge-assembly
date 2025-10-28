@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d123be52-00af-42b1-8454-54c70fc82572",
+    "symbol": "RDN",
+    "name": "Raiden Network Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6"
+      }
+    }
+  }
+]

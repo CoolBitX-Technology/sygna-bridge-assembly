@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3fd76896-94d7-405e-8839-844ec588b111",
+    "symbol": "SLM",
+    "name": "Solomon Defi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x07a0ad7a9dfc3854466f8f29a173bf04bba5686e"
+      }
+    }
+  }
+]

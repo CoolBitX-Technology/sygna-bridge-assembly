@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d730b95a-c375-4c92-9508-c174a6ba5f1a",
+    "symbol": "INXT",
+    "name": "Internxt",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa8006c4ca56f24d6836727d106349320db7fef82"
+      }
+    }
+  }
+]

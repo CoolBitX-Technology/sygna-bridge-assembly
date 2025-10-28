@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fad02343-4e4e-4860-96b4-493577ace6c5",
+    "symbol": "HOLD",
+    "name": "HOLD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd6e1401a079922469e9b965cb090ea6ff64c6839"
+      }
+    }
+  }
+]

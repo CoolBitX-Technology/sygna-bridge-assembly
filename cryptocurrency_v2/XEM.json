@@ -1,0 +1,12 @@
+[
+  {
+    "id": "03086f46-a06f-4985-8369-bbc5b7f55e35",
+    "symbol": "XEM",
+    "name": "NEM",
+    "platforms": {
+      "nem": {
+        "token_address": "native"
+      }
+    }
+  }
+]

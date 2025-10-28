@@ -1,0 +1,12 @@
+[
+  {
+    "id": "235dde84-895a-4330-820f-23a134d19880",
+    "symbol": "APN",
+    "name": "Apron",
+    "platforms": {
+      "apron": {
+        "token_address": "native"
+      }
+    }
+  }
+]

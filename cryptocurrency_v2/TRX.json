@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e343ba83-c52b-4507-94a4-e6a7991b2222",
+    "symbol": "TRX",
+    "name": "TRON",
+    "platforms": {
+      "tron": {
+        "token_address": "native"
+      }
+    }
+  }
+]

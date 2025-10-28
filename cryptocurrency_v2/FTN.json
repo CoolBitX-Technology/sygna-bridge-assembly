@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1ac122cd-dd9c-492c-b6ea-07abeb55324a",
+    "symbol": "FTN",
+    "name": "Fountain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x56325d180ec3878a9028afc7b0edcee7486cc9df"
+      }
+    }
+  }
+]

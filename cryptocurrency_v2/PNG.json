@@ -1,0 +1,12 @@
+[
+  {
+    "id": "64b959a4-4e5d-4d3c-a74c-81f6543f63fb",
+    "symbol": "PNG",
+    "name": "Pangolin",
+    "platforms": {
+      "avalanche-c-chain": {
+        "token_address": "0x60781c2586d68229fde47564546784ab3faca982"
+      }
+    }
+  }
+]

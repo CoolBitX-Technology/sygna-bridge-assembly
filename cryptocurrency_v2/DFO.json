@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9203d22f-7793-4836-aea2-a812f8dfd35d",
+    "symbol": "DFO",
+    "name": "DeFiato",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1640bd2898eee4c36f369836a067dea8725ac0cc"
+      }
+    }
+  }
+]

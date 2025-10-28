@@ -1,0 +1,12 @@
+[
+  {
+    "id": "85fa49e9-79c3-4ccd-822a-1c601ac5bb10",
+    "symbol": "DHC",
+    "name": "DeltaHub Community",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef"
+      }
+    }
+  }
+]

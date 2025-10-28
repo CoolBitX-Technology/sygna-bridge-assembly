@@ -1,0 +1,12 @@
+[
+  {
+    "id": "07cbf884-1b96-4f59-aadd-351b2f045feb",
+    "symbol": "NOODLE",
+    "name": "NOODLE Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x420ab548b18911717ed7c4ccbf46371ea758458c"
+      }
+    }
+  }
+]

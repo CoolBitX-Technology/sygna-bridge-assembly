@@ -1,0 +1,12 @@
+[
+  {
+    "id": "489f13fe-3ca1-4342-9ff7-474f1c521b0d",
+    "symbol": "PTOY",
+    "name": "Patientory",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06"
+      }
+    }
+  }
+]

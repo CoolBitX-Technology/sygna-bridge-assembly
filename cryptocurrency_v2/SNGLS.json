@@ -1,0 +1,12 @@
+[
+  {
+    "id": "123d88d4-7d72-44c5-ba92-8a8aa2eb09fb",
+    "symbol": "SNGLS",
+    "name": "SingularDTV",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009"
+      }
+    }
+  }
+]

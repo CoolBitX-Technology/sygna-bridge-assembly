@@ -1,0 +1,12 @@
+[
+  {
+    "id": "81c5c791-d7b4-4662-931f-a63d6c1e0213",
+    "symbol": "HNC",
+    "name": "Hellenic Coin",
+    "platforms": {
+      "hellenic-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

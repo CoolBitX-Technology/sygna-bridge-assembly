@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f51430d9-79ce-47d4-b1fe-a19ffc9049cf",
+    "symbol": "FTI",
+    "name": "FansTime",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x943ed852dadb5c3938ecdc6883718df8142de4c8"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d9a08413-94c0-4f1f-a6ce-00e7729aa886",
+    "symbol": "CHC",
+    "name": "Chaincoin",
+    "platforms": {
+      "chaincoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

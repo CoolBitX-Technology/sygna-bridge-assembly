@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ea7735c5-9383-4a5f-bd3c-936b7301ca80",
+    "symbol": "ALPACA",
+    "name": "Alpaca Finance",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
+      }
+    }
+  }
+]

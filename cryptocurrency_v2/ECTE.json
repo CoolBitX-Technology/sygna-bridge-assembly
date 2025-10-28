@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a321d52f-37e9-49dd-b9f7-7cec77383abf",
+    "symbol": "ECTE",
+    "name": "EurocoinToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea"
+      }
+    }
+  }
+]

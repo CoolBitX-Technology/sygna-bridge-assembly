@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a799f8bc-3aef-487e-b74c-616ad12fe40b",
+    "symbol": "MNR",
+    "name": "Mineral",
+    "platforms": {
+      "tron": {
+        "token_address": "tgj1ej1qrzl9feltlhjwgxxf4ct6gtwg2u"
+      }
+    }
+  }
+]

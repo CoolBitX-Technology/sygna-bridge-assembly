@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e18f7fe-2c08-4182-adec-4f94acf3cb53",
+    "symbol": "RUNE",
+    "name": "THORChain (ERC20)",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3155ba85d5f96b2d030a4966af206230e46849cb"
+      }
+    }
+  }
+]

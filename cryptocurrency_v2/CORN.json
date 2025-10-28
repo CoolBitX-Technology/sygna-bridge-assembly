@@ -1,0 +1,25 @@
+[
+  {
+    "id": "cfcd7b5e-77ab-4e38-a40a-649c78431fb5",
+    "symbol": "CORN",
+    "name": "Popcorn",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3080ec2a6960432f179c66d388099a48e82e2047"
+      }
+    }
+  },
+  {
+    "id": "d09f7f2e-a4d5-4b3d-98de-c67f3038496d",
+    "symbol": "CORN",
+    "name": "Cornichon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa456b515303b2ce344e9d2601f91270f8c2fea5e"
+      },
+      "tron": {
+        "token_address": "tdacegfpphpmfsjdr3kdhuhdfwktzqvmm5"
+      }
+    }
+  }
+]

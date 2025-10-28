@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4da37cb2-7da9-448c-8b76-b41525387956",
+    "symbol": "VERI",
+    "name": "Veritaseum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374"
+      }
+    }
+  }
+]

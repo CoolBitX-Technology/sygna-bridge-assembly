@@ -1,0 +1,12 @@
+[
+  {
+    "id": "728b16b1-8911-489d-847c-19edbddac58b",
+    "symbol": "SUV",
+    "name": "Suvereno",
+    "platforms": {
+      "suvereno": {
+        "token_address": "native"
+      }
+    }
+  }
+]

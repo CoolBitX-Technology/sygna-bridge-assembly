@@ -1,0 +1,12 @@
+[
+  {
+    "id": "126462c9-cacc-45a1-ae46-47ffac965444",
+    "symbol": "BLOCK",
+    "name": "Blocknet",
+    "platforms": {
+      "blocknet": {
+        "token_address": "native"
+      }
+    }
+  }
+]

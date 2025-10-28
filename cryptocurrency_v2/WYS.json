@@ -1,0 +1,12 @@
+[
+  {
+    "id": "749cdd91-72a0-4228-bafc-4f30856997c9",
+    "symbol": "WYS",
+    "name": "wys Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a"
+      }
+    }
+  }
+]

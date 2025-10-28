@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d8058019-8dd0-4881-880e-c0904f3b4ec6",
+    "symbol": "BNC",
+    "name": "Bionic",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xef51c9377feb29856e61625caf9390bd0b67ea18"
+      }
+    }
+  }
+]

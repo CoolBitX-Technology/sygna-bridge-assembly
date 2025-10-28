@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cd34ec90-d3cd-4e03-9318-77879b6ab956",
+    "symbol": "NC",
+    "name": "NobodyCash",
+    "platforms": {
+      "nobodycash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

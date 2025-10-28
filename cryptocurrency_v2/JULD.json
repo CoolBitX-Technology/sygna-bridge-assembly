@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1d2e0610-335c-44e0-86ce-5f0b60fa1ff8",
+    "symbol": "JULD",
+    "name": "JulSwap",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea"
+      }
+    }
+  }
+]

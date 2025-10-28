@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9ab9e6ef-cf23-4046-9a66-dcb6efd0f272",
+    "symbol": "ABYSS",
+    "name": "Abyss",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6"
+      }
+    }
+  }
+]

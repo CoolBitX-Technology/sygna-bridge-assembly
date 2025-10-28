@@ -1,0 +1,12 @@
+[
+  {
+    "id": "781ddaf2-f3ec-45a7-98e4-fcd7a329655a",
+    "symbol": "LIBERTAS",
+    "name": "Libertas Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x49184e6dae8c8ecd89d8bdc1b950c597b8167c90"
+      }
+    }
+  }
+]

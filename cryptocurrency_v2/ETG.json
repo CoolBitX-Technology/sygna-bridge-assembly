@@ -1,0 +1,12 @@
+[
+  {
+    "id": "11a638b8-1365-421b-94ed-d06130b39a8a",
+    "symbol": "ETG",
+    "name": "Ethereum Gold",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x28c8d01ff633ea9cd8fc6a451d7457889e698de6"
+      }
+    }
+  }
+]

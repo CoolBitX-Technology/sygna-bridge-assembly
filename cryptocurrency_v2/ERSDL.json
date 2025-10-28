@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5de94d50-50ac-433d-a1ad-9c1af95bb6ac",
+    "symbol": "ERSDL",
+    "name": "UnFederalReserve",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6"
+      }
+    }
+  }
+]

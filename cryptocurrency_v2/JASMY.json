@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3e1fd785-020c-4fde-bb0d-8034e786a521",
+    "symbol": "JASMY",
+    "name": "JasmyCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec"
+      }
+    }
+  }
+]

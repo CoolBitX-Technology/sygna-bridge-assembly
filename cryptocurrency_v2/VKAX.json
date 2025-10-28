@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dc1abfde-9210-41a7-b49d-1f73a7665568",
+    "symbol": "VKAX",
+    "name": "Vkax",
+    "platforms": {
+      "vkax": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cd016da1-448e-4882-a6a7-2a5d9a7bed87",
+    "symbol": "MEX",
+    "name": "MEX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2ba6b1e4424e19816382d15937739959f7da5fd8"
+      }
+    }
+  }
+]

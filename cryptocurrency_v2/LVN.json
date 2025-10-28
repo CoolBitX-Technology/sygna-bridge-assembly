@@ -1,0 +1,12 @@
+[
+  {
+    "id": "24bf52b2-d09d-4444-95da-d84f921e72d4",
+    "symbol": "LVN",
+    "name": "LivenPay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc8cac7672f4669685817cf332a33eb249f085475"
+      }
+    }
+  }
+]

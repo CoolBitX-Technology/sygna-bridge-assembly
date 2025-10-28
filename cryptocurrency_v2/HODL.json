@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ff72ff1d-9cf7-43dc-8d46-32aaf5d7b785",
+    "symbol": "HODL",
+    "name": "HOdlcoin",
+    "platforms": {
+      "hodlcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

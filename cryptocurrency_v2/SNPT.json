@@ -1,0 +1,12 @@
+[
+  {
+    "id": "74babad5-acfd-4a45-86d5-6064385487fd",
+    "symbol": "SNPT",
+    "name": "SNPIT",
+    "platforms": {
+      "polygon": {
+        "token_address": "0x22737f5bbb7c5b5ba407b0c1c9a9cdf66cf25d7d"
+      }
+    }
+  }
+]

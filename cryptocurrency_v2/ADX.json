@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9eb8f196-769b-4722-b5c8-82c1f3384d5b",
+    "symbol": "ADX",
+    "name": "AdEx Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3"
+      }
+    }
+  }
+]

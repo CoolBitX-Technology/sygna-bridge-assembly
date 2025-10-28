@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3cab5a67-216e-48a9-a50f-bd164a8fcb92",
+    "symbol": "EVED",
+    "name": "Evedo",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd"
+      }
+    }
+  }
+]

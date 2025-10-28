@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a9fb4f01-4a9e-4d76-95ed-76351b28b72a",
+    "symbol": "CZZ",
+    "name": "Classzz",
+    "platforms": {
+      "classzz": {
+        "token_address": "native"
+      }
+    }
+  }
+]

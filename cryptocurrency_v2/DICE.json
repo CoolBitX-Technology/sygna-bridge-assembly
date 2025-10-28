@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1005549d-26b5-46d4-b39d-c9637a926ae1",
+    "symbol": "DICE",
+    "name": "TRONbetDice",
+    "platforms": {
+      "eos": {
+        "token_address": "betdicetoken"
+      },
+      "ethereum": {
+        "token_address": "0x2e071d2966aa7d8decb1005885ba1977d6038a65"
+      },
+      "tron": {
+        "token_address": "tkttnv3fsy1ieoawb4n52wk2dxdv94kpsd"
+      }
+    }
+  }
+]

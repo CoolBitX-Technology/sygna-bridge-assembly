@@ -1,0 +1,12 @@
+[
+  {
+    "id": "44c7f37d-b40b-4fa1-bfc9-5dab8bce5525",
+    "symbol": "SPDR",
+    "name": "SpiderDAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbcd4b7de6fde81025f74426d43165a5b0d790fdd"
+      }
+    }
+  }
+]

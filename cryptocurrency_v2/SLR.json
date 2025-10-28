@@ -1,0 +1,12 @@
+[
+  {
+    "id": "56938e3b-ef87-4b01-b9da-e4996ad2e933",
+    "symbol": "SLR",
+    "name": "SolarCoin",
+    "platforms": {
+      "solarcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

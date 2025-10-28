@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d408cd32-8fd0-4e35-bc95-961c70724abf",
+    "symbol": "NEW",
+    "name": "Newton",
+    "platforms": {
+      "newton": {
+        "token_address": "native"
+      }
+    }
+  }
+]

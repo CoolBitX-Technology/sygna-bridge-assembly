@@ -1,0 +1,12 @@
+[
+  {
+    "id": "500be66c-c962-4b3b-acc2-c8c29247c207",
+    "symbol": "ECT",
+    "name": "SuperEdge",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4ccc3759eb48faf1c6cfadad2619e7038db6b212"
+      }
+    }
+  }
+]

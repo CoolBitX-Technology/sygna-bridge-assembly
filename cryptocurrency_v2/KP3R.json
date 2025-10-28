@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2e082e4a-c315-4ee6-ac43-f512f45465e3",
+    "symbol": "KP3R",
+    "name": "Keep3rV1",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44"
+      }
+    }
+  }
+]

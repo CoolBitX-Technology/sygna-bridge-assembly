@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a9dd3fc2-4b88-418f-be87-b5171d98fe9f",
+    "symbol": "DEV",
+    "name": "Dev Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26"
+      }
+    }
+  }
+]

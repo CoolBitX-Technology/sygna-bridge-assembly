@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c2bbad6-a40e-4832-b0ab-352f1d35c64b",
+    "symbol": "PCM",
+    "name": "Precium",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6096d2460cf5177e40b515223428dc005ad35123"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "26f20a53-ea5a-4043-a4be-dc566afe5a5a",
+    "symbol": "LTX",
+    "name": "Lattice Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa393473d64d2f9f026b60b6df7859a689715d092"
+      }
+    }
+  }
+]

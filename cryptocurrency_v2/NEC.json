@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e346f9f2-caad-4e69-9a55-1e1751f1412f",
+    "symbol": "NEC",
+    "name": "Nectar",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e"
+      }
+    }
+  }
+]

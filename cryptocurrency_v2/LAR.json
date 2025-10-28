@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bae5678c-aaff-422d-b325-b1a4c898a512",
+    "symbol": "LAR",
+    "name": "LinkArt",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6226caa1857afbc6dfb6ca66071eb241228031a1"
+      }
+    }
+  }
+]

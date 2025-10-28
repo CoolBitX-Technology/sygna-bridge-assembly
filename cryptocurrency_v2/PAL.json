@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d8b8fb3f-305e-4dd5-b59f-36d7e855025e",
+    "symbol": "PAL",
+    "name": "PlayAndLike",
+    "platforms": {
+      "tron": {
+        "token_address": "1003533"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38af3426-c886-4af0-af4e-47b72a059a64",
+    "symbol": "VVT",
+    "name": "VersoView",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x755be920943ea95e39ee2dc437b268917b580d6e"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a01dc398-7bff-4e34-94c3-4ef99c019685",
+    "symbol": "PLR",
+    "name": "Pillar",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17"
+      }
+    }
+  }
+]

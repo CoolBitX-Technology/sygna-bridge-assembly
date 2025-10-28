@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b28a6612-45ae-41d6-ab0e-099e687e3112",
+    "symbol": "SENC",
+    "name": "Sentinel Chain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3"
+      }
+    }
+  }
+]

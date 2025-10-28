@@ -1,0 +1,12 @@
+[
+  {
+    "id": "40a0f6e0-9909-4863-b347-1244eba03642",
+    "symbol": "STS",
+    "name": "SBank",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4c14114c107d6374ec31981f5f6cc27a13e22f9a"
+      }
+    }
+  }
+]

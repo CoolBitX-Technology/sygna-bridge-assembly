@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3eb22183-f536-4e80-8d31-aae59e59c1f2",
+    "symbol": "IPL",
+    "name": "VouchForMe",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x64cdf819d3e75ac8ec217b3496d7ce167be42e80"
+      }
+    }
+  }
+]

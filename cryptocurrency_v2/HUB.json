@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d634c122-01a5-4dc9-a2ff-50cdd81898f4",
+    "symbol": "HUB",
+    "name": "Hubi Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xba358b6f5b4c0215650444b8c30d870b55050d2d"
+      }
+    }
+  }
+]

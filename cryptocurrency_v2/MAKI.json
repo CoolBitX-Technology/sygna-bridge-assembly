@@ -1,0 +1,12 @@
+[
+  {
+    "id": "876efdbf-192f-4e2a-86f4-854c473573ef",
+    "symbol": "MAKI",
+    "name": "Maki Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x270d09cb4be817c98e84feffde03d5cd45e30a27"
+      }
+    }
+  }
+]

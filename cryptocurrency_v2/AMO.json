@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9de19462-b74f-4353-b7e0-88b85ebba734",
+    "symbol": "AMO",
+    "name": "AMO Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169"
+      }
+    }
+  }
+]

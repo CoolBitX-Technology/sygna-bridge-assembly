@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b93def0d-78db-41b5-8a1d-b2686d135bc4",
+    "symbol": "GPO",
+    "name": "Galaxy Pool Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5cf501e64786444e025c5b24025f98399538ea5d"
+      }
+    }
+  }
+]

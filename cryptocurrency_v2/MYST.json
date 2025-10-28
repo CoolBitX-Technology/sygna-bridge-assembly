@@ -1,0 +1,12 @@
+[
+  {
+    "id": "890dea1a-0ec3-4847-8764-850d3391127c",
+    "symbol": "MYST",
+    "name": "Mysterium",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361"
+      }
+    }
+  }
+]

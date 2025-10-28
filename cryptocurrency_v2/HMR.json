@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b0bb4f17-d0cb-4193-a0a1-17e530a9c2c4",
+    "symbol": "HMR",
+    "name": "Homeros",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb1a30851e3f7d841b231b086479608e17198363a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4a28c6cd-82d0-4d69-9a3b-139cf120de75",
+    "symbol": "BCN",
+    "name": "Bytecoin",
+    "platforms": {
+      "bytecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3fe9e595-beec-4a69-8194-2ae8e39b057a",
+    "symbol": "BBK",
+    "name": "Brickblock",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4a6058666cf1057eac3cd3a5a614620547559fc9"
+      }
+    }
+  }
+]

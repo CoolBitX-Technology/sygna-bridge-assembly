@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1aeaacb0-d88e-4950-ae49-55896802b51c",
+    "symbol": "STEEM",
+    "name": "Steem",
+    "platforms": {
+      "steem": {
+        "token_address": "native"
+      }
+    }
+  }
+]

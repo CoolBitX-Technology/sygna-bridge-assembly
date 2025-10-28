@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b7ea985e-33f5-4fde-a56e-8e45cc609ce2",
+    "symbol": "EVY",
+    "name": "EveryCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeed3ae7b0f8b5b9bb8c035a9941382b1822671cd"
+      }
+    }
+  }
+]

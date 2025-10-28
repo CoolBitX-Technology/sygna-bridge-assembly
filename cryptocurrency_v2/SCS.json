@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0118bb9e-18ea-4ff3-bdbd-b6326b151e1d",
+    "symbol": "SCS",
+    "name": "SpeedCash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x81995ff7aee5c780192b47e0b42a7a86692d1415"
+      }
+    }
+  }
+]

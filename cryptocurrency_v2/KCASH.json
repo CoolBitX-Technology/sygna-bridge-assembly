@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bb44e4a3-e8a1-455b-80cd-e41287f119a7",
+    "symbol": "KCASH",
+    "name": "Kcash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x32d74896f05204d1b6ae7b0a3cebd7fc0cd8f9c7"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bd29017d-c090-4082-949b-f16e45f1e344",
+    "symbol": "OLT",
+    "name": "OneLedger",
+    "platforms": {
+      "oneledger": {
+        "token_address": "native"
+      }
+    }
+  }
+]

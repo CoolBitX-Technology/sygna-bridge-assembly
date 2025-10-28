@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c4397209-93b7-42f0-b77d-d4e248ccff6b",
+    "symbol": "PST",
+    "name": "Primas",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec"
+      }
+    }
+  }
+]

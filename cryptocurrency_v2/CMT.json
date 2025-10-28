@@ -1,0 +1,12 @@
+[
+  {
+    "id": "539e37e9-4c13-48d0-95aa-dfca0856b9bc",
+    "symbol": "CMT",
+    "name": "CyberMiles",
+    "platforms": {
+      "cybermiles": {
+        "token_address": "native"
+      }
+    }
+  }
+]

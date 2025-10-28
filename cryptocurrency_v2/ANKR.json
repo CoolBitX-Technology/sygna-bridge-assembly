@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a88f9ff1-3ecf-4cc2-927d-f4143f8fc5c8",
+    "symbol": "ANKR",
+    "name": "Ankr",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
+      }
+    }
+  }
+]

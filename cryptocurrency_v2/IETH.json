@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0a8abbae-6d9b-4f14-8869-fcbd7f63548a",
+    "symbol": "IETH",
+    "name": "iEthereum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa9859874e1743a32409f75bb11549892138bba1e"
+      }
+    }
+  }
+]

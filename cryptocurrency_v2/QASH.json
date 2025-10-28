@@ -1,0 +1,12 @@
+[
+  {
+    "id": "714c5a74-c3a5-45cd-82a1-511875f041dd",
+    "symbol": "QASH",
+    "name": "QASH",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
+      }
+    }
+  }
+]

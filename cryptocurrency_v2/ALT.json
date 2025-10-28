@@ -1,0 +1,22 @@
+[
+  {
+    "id": "58ec6a6f-a4fb-4d1b-b0fb-3cf6e86a04dc",
+    "symbol": "ALT",
+    "name": "Altlayer",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb"
+      }
+    }
+  },
+  {
+    "id": "5dc7eeee-023e-43ea-b842-1a6d1f6d63bb",
+    "symbol": "ALT",
+    "name": "Alt.Estate token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x419b8ed155180a8c9c64145e76dad49c0a4efb97"
+      }
+    }
+  }
+]

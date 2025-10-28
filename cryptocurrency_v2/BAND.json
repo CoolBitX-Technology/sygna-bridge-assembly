@@ -1,0 +1,12 @@
+[
+  {
+    "id": "65ad979c-e804-4077-ba05-49da9e6ceefb",
+    "symbol": "BAND",
+    "name": "Band Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55"
+      }
+    }
+  }
+]

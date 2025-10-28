@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3af82818-ae35-4108-9796-85abd46cf681",
+    "symbol": "FACT",
+    "name": "Fee Active Collateral Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x23aeff664c1b2bba98422a0399586e96cc8a1c92"
+      }
+    }
+  }
+]

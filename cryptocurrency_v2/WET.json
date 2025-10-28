@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8876fea8-53a6-45bb-8861-397b28459919",
+    "symbol": "WET",
+    "name": "WeShow Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x36d10c6800d569bb8c4fe284a05ffe3b752f972c"
+      }
+    }
+  }
+]

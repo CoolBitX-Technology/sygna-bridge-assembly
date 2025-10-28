@@ -1,0 +1,12 @@
+[
+  {
+    "id": "49face76-c859-4025-9b66-4503f72fdb78",
+    "symbol": "STORJ",
+    "name": "Storj",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2faf3db9-94c7-47c2-898b-f60f38f6f4a0",
+    "symbol": "WSC",
+    "name": "WeSing Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2dcd9b1a7ed408ff48bd4918a1f9c0535dc54ead"
+      }
+    }
+  }
+]

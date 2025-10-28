@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d8b4bcb6-2eb9-40f5-bf24-acf3da37101b",
+    "symbol": "STBZ",
+    "name": "Stabilize",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb987d48ed8f2c468d52d6405624eadba5e76d723"
+      }
+    }
+  }
+]

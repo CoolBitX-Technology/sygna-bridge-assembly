@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fda44cdb-a637-47d2-b683-30b2b44f42be",
+    "symbol": "BPT",
+    "name": "BUX Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x283669123bd83da2536bb534e20512101c18e5d8"
+      }
+    }
+  }
+]

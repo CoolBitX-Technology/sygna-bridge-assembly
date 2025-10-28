@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aab3a1a7-dbee-47cb-9c54-9191b8e99186",
+    "symbol": "DAY",
+    "name": "Chronologic",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe814aee960a85208c3db542c53e7d4a6c8d5f60f"
+      }
+    }
+  }
+]

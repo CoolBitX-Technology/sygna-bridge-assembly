@@ -1,0 +1,12 @@
+[
+  {
+    "id": "794fcee7-d1ba-40fe-9704-6fd4c0765809",
+    "symbol": "SFT",
+    "name": "Safex Token",
+    "platforms": {
+      "safex-token": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "813c373b-99c0-4f3a-8ed0-4510bc671891",
+    "symbol": "SKEY",
+    "name": "SmartKey",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442"
+      }
+    }
+  }
+]

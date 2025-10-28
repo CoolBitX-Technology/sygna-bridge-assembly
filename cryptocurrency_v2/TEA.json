@@ -1,0 +1,12 @@
+[
+  {
+    "id": "67950875-ee82-4088-bb9d-f77c8296e1e0",
+    "symbol": "TEA",
+    "name": "Icetea Blockchain",
+    "platforms": {
+      "icetea-blockchain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

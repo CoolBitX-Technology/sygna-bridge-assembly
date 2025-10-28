@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3b024d97-0a25-4fe2-b1d0-df965c1f45bd",
+    "symbol": "P2P",
+    "name": "P2P",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf"
+      }
+    }
+  }
+]

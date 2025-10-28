@@ -1,0 +1,12 @@
+[
+  {
+    "id": "72ad5877-ac37-4a15-8644-e9717aea88ca",
+    "symbol": "ZTX",
+    "name": "Zetrix",
+    "platforms": {
+      "zetrix": {
+        "token_address": "native"
+      }
+    }
+  }
+]

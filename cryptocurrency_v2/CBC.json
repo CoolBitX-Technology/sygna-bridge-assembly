@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7cace025-fd29-4201-b292-b2be96759db5",
+    "symbol": "CBC",
+    "name": "Casino Betting Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x26db5439f651caf491a87d48799da81f191bdb6b"
+      }
+    }
+  },
+  {
+    "id": "34c2fcf6-8f27-498f-98da-204ad4cd028a",
+    "symbol": "CBC",
+    "name": "CryptoBossCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x790bfacae71576107c068f494c8a6302aea640cb"
+      }
+    }
+  },
+  {
+    "id": "2a657928-a61f-44a5-b033-74e8364b2234",
+    "symbol": "CBC",
+    "name": "CryptoBharatCoin",
+    "platforms": {
+      "tron": {
+        "token_address": "tdfrfjlthnlxgtebbbma2lgwz3ex9damce"
+      }
+    }
+  }
+]

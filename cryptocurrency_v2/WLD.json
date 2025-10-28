@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1a38c34a-36d7-433e-a263-78ce28d30b92",
+    "symbol": "WLD",
+    "name": "Worldcoin",
+    "platforms": {
+      "optimism": {
+        "token_address": "0x163f8c2467924be0ae7b5347228cabf260318753"
+      }
+    }
+  }
+]

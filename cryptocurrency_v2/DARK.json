@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3ccf1dd1-40cd-44b4-81f5-8db954134dd3",
+    "symbol": "DARK",
+    "name": "Dark.Build",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3108ccfd96816f9e663baa0e8c5951d229e8c6da"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f9da142a-1c6c-4e90-86a9-3e7e887b01f9",
+    "symbol": "HEDGE",
+    "name": "1x Short Bitcoin Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1fa3bc860bf823d792f04f662f3aa3a500a68814"
+      }
+    }
+  }
+]

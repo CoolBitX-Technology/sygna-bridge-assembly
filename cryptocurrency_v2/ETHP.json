@@ -1,0 +1,12 @@
+[
+  {
+    "id": "36e00f86-0a29-4fa2-8a92-c245afd686be",
+    "symbol": "ETHP",
+    "name": "ETHPlus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeed736b2b809550d89a941c2005de93588c628e2"
+      }
+    }
+  }
+]

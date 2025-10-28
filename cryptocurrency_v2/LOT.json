@@ -1,0 +1,12 @@
+[
+  {
+    "id": "13c85143-abe8-43b3-8aed-42f9f3dedefb",
+    "symbol": "LOT",
+    "name": "Lukki Operating Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6556d2ec4d96da39cf75cbe50d58fae90079800a"
+      }
+    }
+  }
+]

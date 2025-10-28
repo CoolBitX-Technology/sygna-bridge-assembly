@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a606cc47-d899-4a19-aaf5-3cec525435a3",
+    "symbol": "SKL",
+    "name": "SKALE Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
+      }
+    }
+  }
+]

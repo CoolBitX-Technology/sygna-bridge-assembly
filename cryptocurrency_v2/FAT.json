@@ -1,0 +1,12 @@
+[
+  {
+    "id": "34590aa8-c3b0-4f3a-8cec-4865573f576f",
+    "symbol": "FAT",
+    "name": "Fatcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2ec95b8eda549b79a1248335a39d299d00ed314c"
+      }
+    }
+  }
+]

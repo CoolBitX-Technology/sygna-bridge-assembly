@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8fa4752a-b81d-4688-a87b-e71b13a95d67",
+    "symbol": "KAN",
+    "name": "BitKan",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a"
+      }
+    }
+  }
+]

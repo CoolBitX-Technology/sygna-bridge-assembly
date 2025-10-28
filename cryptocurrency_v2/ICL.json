@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7e26709c-6d7c-4c91-9c75-bed83769adaa",
+    "symbol": "ICL",
+    "name": "ILCOIN",
+    "platforms": {
+      "ilcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

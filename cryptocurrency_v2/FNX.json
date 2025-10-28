@@ -1,0 +1,12 @@
+[
+  {
+    "id": "624f4b1a-7d2f-4fe4-b630-3f8ff7c81b2e",
+    "symbol": "FNX",
+    "name": "FinNexus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xef9cd7882c067686691b6ff49e650b43afbbcc6b"
+      }
+    }
+  }
+]

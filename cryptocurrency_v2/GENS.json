@@ -1,0 +1,12 @@
+[
+  {
+    "id": "34119034-90d8-476a-a17c-4314cc18f6bc",
+    "symbol": "GENS",
+    "name": "GENS",
+    "platforms": {
+      "gens": {
+        "token_address": "native"
+      }
+    }
+  }
+]

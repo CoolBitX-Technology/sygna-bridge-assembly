@@ -1,0 +1,12 @@
+[
+  {
+    "id": "091bc910-bf9a-4ce4-9b3e-16bdc16f0ea2",
+    "symbol": "ZLP",
+    "name": "Zuplo",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x94d8db14831c2c08943798542c450df2844913e5"
+      }
+    }
+  }
+]

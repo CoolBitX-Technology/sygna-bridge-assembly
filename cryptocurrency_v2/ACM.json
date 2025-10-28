@@ -1,0 +1,12 @@
+[
+  {
+    "id": "85ea75d8-58aa-424c-8e60-3c30e2b8135c",
+    "symbol": "ACM",
+    "name": "Actinium",
+    "platforms": {
+      "actinium": {
+        "token_address": "native"
+      }
+    }
+  }
+]

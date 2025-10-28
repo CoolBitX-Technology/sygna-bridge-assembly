@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1e09e5c3-1704-42e1-8b89-e7b0194c7445",
+    "symbol": "SHFT",
+    "name": "Shyft",
+    "platforms": {
+      "shyft": {
+        "token_address": "native"
+      }
+    }
+  }
+]

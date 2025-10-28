@@ -1,0 +1,22 @@
+[
+  {
+    "id": "9d27180d-fe20-4d0b-9a25-147e63293d17",
+    "symbol": "GMB",
+    "name": "GMB",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1b148b90442826375e864b71165a18b4d9256097"
+      }
+    }
+  },
+  {
+    "id": "3da2a731-9402-4598-b108-fc5985a3932f",
+    "symbol": "GMB",
+    "name": "GAMB",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee"
+      }
+    }
+  }
+]

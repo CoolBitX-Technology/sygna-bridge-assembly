@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f0afd938-535e-4d3c-b1a8-be507323da0b",
+    "symbol": "EXRD",
+    "name": "Radix",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414"
+      }
+    }
+  }
+]

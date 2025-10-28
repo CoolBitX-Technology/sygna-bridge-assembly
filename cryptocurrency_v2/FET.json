@@ -1,0 +1,22 @@
+[
+  {
+    "id": "226b37ba-4166-427c-a42a-1c7efe659f6e",
+    "symbol": "FET",
+    "name": "Artificial Superintelligence Alliance",
+    "platforms": {
+      "fetch.ai": {
+        "token_address": "native"
+      }
+    }
+  },
+  {
+    "id": "4f16cd26-7685-4aa7-bd0a-93f7fa9c5687",
+    "symbol": "FET",
+    "name": "Fetch.ai",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85"
+      }
+    }
+  }
+]

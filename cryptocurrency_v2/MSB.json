@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4906b9ae-4628-458c-89b5-798985db3f4a",
+    "symbol": "MSB",
+    "name": "Misbloc",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x84c722e6f1363e8d5c6db3ea600bef9a006da824"
+      }
+    }
+  }
+]

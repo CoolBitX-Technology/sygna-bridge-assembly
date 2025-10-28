@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f3984967-a26f-41a7-ae14-0bd2dec1f40f",
+    "symbol": "MYT",
+    "name": "Mineyourtime",
+    "platforms": {
+      "mineyourtime": {
+        "token_address": "native"
+      }
+    }
+  }
+]

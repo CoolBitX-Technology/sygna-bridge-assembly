@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fef11ad1-ce6b-4c4c-82c2-5ffa9e87e0a9",
+    "symbol": "NYAN",
+    "name": "Nyan Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc9ce70a381910d0a90b30d408cc9c7705ee882de"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7fbfbf54-2cc3-4c42-b2fb-a4ea68fb1a14",
+    "symbol": "BTP",
+    "name": "Bitcoin Pay",
+    "platforms": {
+      "bitcoin-pay": {
+        "token_address": "native"
+      }
+    }
+  }
+]

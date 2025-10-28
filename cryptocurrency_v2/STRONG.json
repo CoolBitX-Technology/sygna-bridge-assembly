@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3b0dd510-3b7b-49e0-af51-c655b659eb24",
+    "symbol": "STRONG",
+    "name": "Strong",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x990f341946a3fdb507ae7e52d17851b87168017c"
+      }
+    }
+  }
+]

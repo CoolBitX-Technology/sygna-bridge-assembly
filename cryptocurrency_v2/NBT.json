@@ -1,0 +1,15 @@
+[
+  {
+    "id": "6c7edcc5-01e6-427e-aa42-5154e1118eda",
+    "symbol": "NBT",
+    "name": "NIX Bridge Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2e2364966267b5d7d2ce6cd9a9b5bd19d9c7c6a9"
+      },
+      "nix-bridge-token": {
+        "token_address": "native"
+      }
+    }
+  }
+]

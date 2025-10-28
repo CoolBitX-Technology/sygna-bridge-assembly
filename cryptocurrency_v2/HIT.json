@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c436d9a6-831f-4de3-a640-a94031f6c489",
+    "symbol": "HIT",
+    "name": "HitChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7995ab36bb307afa6a683c24a25d90dc1ea83566"
+      }
+    }
+  }
+]

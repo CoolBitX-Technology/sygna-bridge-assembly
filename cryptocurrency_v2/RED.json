@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bf44a8dc-0ea8-4a15-b4d6-d522d5df4df4",
+    "symbol": "RED",
+    "name": "RED",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f"
+      }
+    }
+  }
+]

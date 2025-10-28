@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dfa6327e-6e05-4ce7-aac2-64c390eebd87",
+    "symbol": "ANON",
+    "name": "ANON",
+    "platforms": {
+      "anon": {
+        "token_address": "native"
+      }
+    }
+  }
+]

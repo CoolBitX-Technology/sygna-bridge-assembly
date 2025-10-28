@@ -1,0 +1,12 @@
+[
+  {
+    "id": "31c7663a-d895-4e69-b1c0-c2700f201160",
+    "symbol": "QRX",
+    "name": "QuiverX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "394c46ff-1891-43be-98df-c072b1ae43ff",
+    "symbol": "POX",
+    "name": "Pollux Coin",
+    "platforms": {
+      "tron": {
+        "token_address": "tmnqp8yuzrkjfxn59kovdthkmm3lrkizxp"
+      }
+    }
+  }
+]

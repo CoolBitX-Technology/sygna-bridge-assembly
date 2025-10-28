@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2d8578fe-3f9b-4e66-83d6-3e1fb8067739",
+    "symbol": "GBK",
+    "name": "Goldblock",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3e522d144814bd6149c1f3e0c6cd19d0941372ac"
+      }
+    }
+  }
+]

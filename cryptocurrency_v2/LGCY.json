@@ -1,0 +1,12 @@
+[
+  {
+    "id": "13b8a3d9-2d38-4b95-99e6-33d1155a6a94",
+    "symbol": "LGCY",
+    "name": "LGCY Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d"
+      }
+    }
+  }
+]

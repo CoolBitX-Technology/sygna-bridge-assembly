@@ -1,0 +1,12 @@
+[
+  {
+    "id": "51fc86b5-c1a4-4c50-896a-16173b0e3bb7",
+    "symbol": "ICNQ",
+    "name": "Iconic Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a"
+      }
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1ef85404-2270-4247-9641-f73b7b74a425",
+    "symbol": "NMC",
+    "name": "Namecoin",
+    "platforms": {
+      "iost": {
+        "token_address": "123456789012343"
+      },
+      "namecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

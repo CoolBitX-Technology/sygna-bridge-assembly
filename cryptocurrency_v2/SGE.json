@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ccd88338-4fa1-40ed-b04d-adb099ef3144",
+    "symbol": "SGE",
+    "name": "Saage",
+    "platforms": {
+      "saage": {
+        "token_address": "native"
+      }
+    }
+  }
+]

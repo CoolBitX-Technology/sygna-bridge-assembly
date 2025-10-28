@@ -1,0 +1,12 @@
+[
+  {
+    "id": "50e7fc7f-04b6-4fee-861e-3a53b7465a8d",
+    "symbol": "NCT",
+    "name": "PolySwarm",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1"
+      }
+    }
+  }
+]

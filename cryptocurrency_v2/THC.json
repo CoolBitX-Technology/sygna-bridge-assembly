@@ -1,0 +1,12 @@
+[
+  {
+    "id": "27d4fc55-6758-4abe-8e40-01689703573d",
+    "symbol": "THC",
+    "name": "HempCoin",
+    "platforms": {
+      "hempcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

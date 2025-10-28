@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9e1a5386-b498-4f1a-8de6-0e496292af07",
+    "symbol": "IDK",
+    "name": "IDK",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x61fd1c62551850d0c04c76fce614cbced0094498"
+      }
+    }
+  }
+]

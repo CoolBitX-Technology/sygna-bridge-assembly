@@ -1,0 +1,15 @@
+[
+  {
+    "id": "31547875-d6e5-4ca2-a1cc-d1117cd17ec5",
+    "symbol": "MOON",
+    "name": "MoonSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824"
+      },
+      "mooncoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f829f365-87c5-413d-b065-5d83d8019668",
+    "symbol": "HBT",
+    "name": "Hubii Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdd6c68bb32462e01705011a4e2ad1a60740f217f"
+      }
+    }
+  }
+]

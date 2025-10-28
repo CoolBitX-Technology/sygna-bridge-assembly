@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c02792ee-2ba0-423b-a5d0-05459fa1e321",
+    "symbol": "FRIES",
+    "name": "fry.world",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x393b312c01048b3ed2720bf1b090084c09e408a1"
+      }
+    }
+  }
+]

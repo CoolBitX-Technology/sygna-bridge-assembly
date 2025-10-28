@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b350d178-fa60-45cf-8901-4c9d69b6aa40",
+    "symbol": "YT",
+    "name": "Cherry Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5c89736e9454200141b80c37eb28eaceca2ce8cb"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "920002ba-802a-4405-8a7c-15d03e5bf45f",
+    "symbol": "BECN",
+    "name": "Beacon",
+    "platforms": {
+      "beacon": {
+        "token_address": "native"
+      }
+    }
+  }
+]

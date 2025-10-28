@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7ae7b81f-1390-4576-b518-ce626c1128b8",
+    "symbol": "LIQUID",
+    "name": "LIQUID",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x72ca0501427bb8f089c1c4f767cb17d017e803a9"
+      }
+    }
+  }
+]

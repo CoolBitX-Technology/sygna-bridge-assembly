@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0fadcfd2-1523-4142-8c64-79410a294e67",
+    "symbol": "EMIT",
+    "name": "EMIT",
+    "platforms": {
+      "emit": {
+        "token_address": "native"
+      }
+    }
+  }
+]

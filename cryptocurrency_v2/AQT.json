@@ -1,0 +1,12 @@
+[
+  {
+    "id": "71a81bd3-ef93-49dd-a898-c543794135ec",
+    "symbol": "AQT",
+    "name": "Alpha Quark Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2a9bdcff37ab68b95a53435adfd8892e86084f93"
+      }
+    }
+  }
+]

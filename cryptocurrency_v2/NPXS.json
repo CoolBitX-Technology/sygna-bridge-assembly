@@ -1,0 +1,12 @@
+[
+  {
+    "id": "acc96724-55ed-4646-835b-20d07dd486c3",
+    "symbol": "NPXS",
+    "name": "Pundi X",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"
+      }
+    }
+  }
+]

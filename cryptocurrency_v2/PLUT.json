@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3331940e-84bc-4c46-a488-8cc8a0b5b778",
+    "symbol": "PLUT",
+    "name": "Pluto",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf38011f9153acffaca3fbfc42ddfa766c980d967"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4c1af84e-05e4-4c72-abe3-f00692e08b03",
+    "symbol": "FRM",
+    "name": "Ferrum Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe5caef4af8780e59df925470b050fb23c43ca68c"
+      }
+    }
+  }
+]

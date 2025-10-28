@@ -1,0 +1,12 @@
+[
+  {
+    "id": "69435f2b-04cd-4a92-93c1-b313d95bc8e7",
+    "symbol": "MITX",
+    "name": "Morpheus Labs",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "71907c42-000a-4767-8e09-9499dc440b1c",
+    "symbol": "BTT",
+    "name": "BitTorrent",
+    "platforms": {
+      "tron": {
+        "token_address": "1002000"
+      }
+    }
+  }
+]

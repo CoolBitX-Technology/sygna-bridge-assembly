@@ -1,0 +1,12 @@
+[
+  {
+    "id": "54ec70db-8536-47ae-a463-968f455668bd",
+    "symbol": "ARIA20",
+    "name": "Arianee",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xedf6568618a00c6f0908bf7758a16f76b6e04af9"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a4b7ffaf-9b50-40ea-99f0-297ab7cfd186",
+    "symbol": "RIC",
+    "name": "Riecoin",
+    "platforms": {
+      "riecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

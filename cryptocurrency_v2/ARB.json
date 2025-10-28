@@ -1,0 +1,12 @@
+[
+  {
+    "id": "87738734-b1b3-483f-b046-af79ce313f44",
+    "symbol": "ARB",
+    "name": "Arbitrum",
+    "platforms": {
+      "arbitrum": {
+        "token_address": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+      }
+    }
+  }
+]

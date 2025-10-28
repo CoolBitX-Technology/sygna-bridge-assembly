@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a20676fb-7969-443f-bfb8-a93914476749",
+    "symbol": "POLA",
+    "name": "Polaris Share",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc691bc298a304d591ad9b352c7a8d216de9f2ced"
+      }
+    }
+  }
+]

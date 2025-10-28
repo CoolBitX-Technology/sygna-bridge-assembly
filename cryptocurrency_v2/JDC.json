@@ -1,0 +1,12 @@
+[
+  {
+    "id": "15b2d124-fc9e-4af5-a39d-53c187502432",
+    "symbol": "JDC",
+    "name": "JD Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce"
+      }
+    }
+  }
+]

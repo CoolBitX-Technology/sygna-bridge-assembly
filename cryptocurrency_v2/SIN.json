@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fc4f725f-fb2a-4e5c-8f61-1189ba5e148f",
+    "symbol": "SIN",
+    "name": "SINOVATE",
+    "platforms": {
+      "sinovate": {
+        "token_address": "native"
+      }
+    }
+  }
+]

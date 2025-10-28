@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4e0cb083-6584-40e8-bcdc-44fe079e32a8",
+    "symbol": "DATA",
+    "name": "Streamr",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023"
+      }
+    }
+  }
+]

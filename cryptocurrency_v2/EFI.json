@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6f93980f-1c32-4ba1-bbde-c28c7873ec1e",
+    "symbol": "EFI",
+    "name": "Efinity",
+    "platforms": {
+      "efinity": {
+        "token_address": "native"
+      }
+    }
+  }
+]

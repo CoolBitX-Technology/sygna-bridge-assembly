@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bc4be97f-5704-4f54-8c77-6d108ae4ae41",
+    "symbol": "CZRX",
+    "name": "Compound 0x",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407"
+      }
+    }
+  }
+]

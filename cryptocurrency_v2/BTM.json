@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8d704232-4012-4f10-8bad-8f52e6d367b1",
+    "symbol": "BTM",
+    "name": "Bytom",
+    "platforms": {
+      "bytom": {
+        "token_address": "native"
+      }
+    }
+  }
+]

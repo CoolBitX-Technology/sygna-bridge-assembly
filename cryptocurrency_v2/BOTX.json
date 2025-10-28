@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6833a473-d028-4592-96bf-0074cee4b2e4",
+    "symbol": "BOTX",
+    "name": "botXcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xef19f4e48830093ce5bc8b3ff7f903a0ae3e9fa1"
+      }
+    }
+  }
+]

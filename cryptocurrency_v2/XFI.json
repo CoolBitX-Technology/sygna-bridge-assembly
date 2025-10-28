@@ -1,0 +1,22 @@
+[
+  {
+    "id": "6efe6dea-48e9-4e97-ab8b-471181c25e1a",
+    "symbol": "XFI",
+    "name": "Xfinance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5befbb272290dd5b8521d4a938f6c4757742c430"
+      }
+    }
+  },
+  {
+    "id": "90fa5332-2cb8-49d4-96b4-91de39cb3006",
+    "symbol": "XFI",
+    "name": "Dfinance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe4e822c0d5b329e8bb637972467d2e313824efa0"
+      }
+    }
+  }
+]

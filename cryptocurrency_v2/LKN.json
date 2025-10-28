@@ -1,0 +1,12 @@
+[
+  {
+    "id": "664103ab-ade9-487f-a878-38f4c0a13ad3",
+    "symbol": "LKN",
+    "name": "LinkCoin Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa"
+      }
+    }
+  }
+]

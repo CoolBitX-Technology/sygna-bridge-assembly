@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9f3741bd-3a07-4323-90e4-e638204921cc",
+    "symbol": "DVT",
+    "name": "DeVault",
+    "platforms": {
+      "devault": {
+        "token_address": "native"
+      }
+    }
+  }
+]

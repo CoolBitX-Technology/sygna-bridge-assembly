@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8ccdbe32-2731-4389-a19b-7bfa2a82a5df",
+    "symbol": "NEO",
+    "name": "Neo",
+    "platforms": {
+      "neo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

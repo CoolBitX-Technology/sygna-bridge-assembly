@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a6c1bf28-7f4e-4d9b-9cc7-10cf335d212c",
+    "symbol": "KTON",
+    "name": "Darwinia Commitment Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff"
+      }
+    }
+  }
+]

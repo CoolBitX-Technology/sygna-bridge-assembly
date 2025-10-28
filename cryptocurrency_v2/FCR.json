@@ -1,0 +1,15 @@
+[
+  {
+    "id": "e49abfe1-2c3b-4108-bc68-9947dd854e5c",
+    "symbol": "FCR",
+    "name": "Fromm Car",
+    "platforms": {
+      "": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0x8615ba28d7d66aef9069119b5f27653ef05eb574"
+      }
+    }
+  }
+]

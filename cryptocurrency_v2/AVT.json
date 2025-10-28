@@ -1,0 +1,12 @@
+[
+  {
+    "id": "91b7145f-ca20-457c-992f-52c80a62e11d",
+    "symbol": "AVT",
+    "name": "Aventus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f"
+      }
+    }
+  }
+]

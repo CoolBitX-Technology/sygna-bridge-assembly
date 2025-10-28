@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ad478389-02d0-450a-9494-93afb85a2976",
+    "symbol": "FTC",
+    "name": "Feathercoin",
+    "platforms": {
+      "feathercoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e75079a2-51ae-4a35-b3a1-b39cf18b2ce0",
+    "symbol": "BOA",
+    "name": "BOSAGORA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x746dda2ea243400d5a63e0700f190ab79f06489e"
+      }
+    }
+  }
+]

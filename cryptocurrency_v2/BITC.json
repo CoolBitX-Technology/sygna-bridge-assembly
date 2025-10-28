@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eecd4fbf-5360-4ae8-8385-9de7c410d525",
+    "symbol": "BITC",
+    "name": "BitCash",
+    "platforms": {
+      "bitcash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

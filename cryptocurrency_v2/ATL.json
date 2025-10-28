@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8a5fe5b1-2c87-4d96-8af9-7391cbae7023",
+    "symbol": "ATL",
+    "name": "ATLANT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05"
+      }
+    }
+  }
+]

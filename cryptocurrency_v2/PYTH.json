@@ -1,0 +1,12 @@
+[
+  {
+    "id": "25f3646a-5ea2-4337-a59b-84bec03ab7ca",
+    "symbol": "PYTH",
+    "name": "Pyth Network",
+    "platforms": {
+      "solana": {
+        "token_address": "hz1jovnivvgrgniiyveozevgz58xau3rkwx8eacqbct3"
+      }
+    }
+  }
+]

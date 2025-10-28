@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dc2237d7-da45-4574-ae85-84a2f98be035",
+    "symbol": "NIX",
+    "name": "NIX",
+    "platforms": {
+      "nix": {
+        "token_address": "native"
+      }
+    }
+  }
+]

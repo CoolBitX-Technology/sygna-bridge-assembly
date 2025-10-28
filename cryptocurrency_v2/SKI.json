@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fa46b328-faf3-4796-b146-dc4fd1f0080a",
+    "symbol": "SKI",
+    "name": "Skillchain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d"
+      }
+    }
+  }
+]

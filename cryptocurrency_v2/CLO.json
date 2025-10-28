@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7ee10132-f27b-4d61-8d31-bcd98abfc68a",
+    "symbol": "CLO",
+    "name": "Callisto Network",
+    "platforms": {
+      "callisto-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

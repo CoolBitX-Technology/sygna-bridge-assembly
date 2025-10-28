@@ -1,0 +1,12 @@
+[
+  {
+    "id": "88102b1f-34c8-4dc8-b2e3-b7e5c9b19211",
+    "symbol": "WEST",
+    "name": "Waves Enterprise",
+    "platforms": {
+      "waves-enterprise": {
+        "token_address": "native"
+      }
+    }
+  }
+]

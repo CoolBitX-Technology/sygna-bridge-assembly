@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bbbc55f4-e988-4b06-b4dd-9b16d00606fe",
+    "symbol": "KEK",
+    "name": "CryptoKek",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3fa400483487a489ec9b1db29c4129063eec4654"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e01a5b7-f6da-4150-afa4-99148456e4f0",
+    "symbol": "WHITE",
+    "name": "Whiteheart",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44"
+      }
+    }
+  }
+]

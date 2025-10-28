@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b6727217-f489-46c0-bfbe-3e838514269e",
+    "symbol": "BUP",
+    "name": "BuildUp",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb04dfdb8271ed2d5e13858562c44a77d3ceb9e57"
+      }
+    }
+  }
+]

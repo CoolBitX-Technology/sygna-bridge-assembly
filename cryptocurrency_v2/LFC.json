@@ -1,0 +1,12 @@
+[
+  {
+    "id": "37bc2740-7d5b-457a-848e-bc859bba3374",
+    "symbol": "LFC",
+    "name": "Linfinity",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x95c9bd1f81cee7391da3eac81693e60f3292c1e0"
+      }
+    }
+  }
+]

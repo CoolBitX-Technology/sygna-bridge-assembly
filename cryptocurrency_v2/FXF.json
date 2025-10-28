@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bce4e61f-c6d4-4351-adb9-0cd6187fc2c1",
+    "symbol": "FXF",
+    "name": "Finxflo",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8a40c222996f9f3431f63bf80244c36822060f12"
+      }
+    }
+  }
+]

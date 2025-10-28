@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aae594c6-2021-4dea-95fd-a3dd9e1f5620",
+    "symbol": "TEL",
+    "name": "Telcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x467bccd9d29f223bce8043b84e8c8b282827790f"
+      }
+    }
+  }
+]

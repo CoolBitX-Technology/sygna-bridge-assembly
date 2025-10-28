@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1cebf8eb-2136-43d0-9be8-6dce340a440b",
+    "symbol": "AZUKI",
+    "name": "Azuki",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x910524678c0b1b23ffb9285a81f99c29c11cbaed"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "444ff2e6-727b-4ac3-b77c-99a72a75235b",
+    "symbol": "AKA",
+    "name": "Akroma",
+    "platforms": {
+      "akroma": {
+        "token_address": "native"
+      }
+    }
+  }
+]

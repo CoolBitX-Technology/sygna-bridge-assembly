@@ -1,0 +1,12 @@
+[
+  {
+    "id": "de243ae5-24fc-4361-8649-ceafe7f6ffce",
+    "symbol": "AG",
+    "name": "Agoric",
+    "platforms": {
+      "agoric": {
+        "token_address": "native"
+      }
+    }
+  }
+]

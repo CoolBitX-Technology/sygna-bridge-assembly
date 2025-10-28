@@ -1,0 +1,12 @@
+[
+  {
+    "id": "827cb3ae-5829-4b96-98c5-0516df344ed1",
+    "symbol": "QBZ",
+    "name": "QUEENBEE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x38bc89cf1f634c71896620bcd807af235cbdecd1"
+      }
+    }
+  }
+]

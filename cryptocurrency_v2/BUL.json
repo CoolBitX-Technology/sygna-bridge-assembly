@@ -1,0 +1,12 @@
+[
+  {
+    "id": "277b8cd0-732f-417c-8d09-a0df5f5cec24",
+    "symbol": "BUL",
+    "name": "Bulleon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0775c81a273b355e6a5b76e240bf708701f00279"
+      }
+    }
+  }
+]

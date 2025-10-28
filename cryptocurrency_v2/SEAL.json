@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a2344406-d44e-408c-a6e0-aeb91f74924e",
+    "symbol": "SEAL",
+    "name": "Seal Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x33c2da7fd5b125e629b3950f3c38d7f721d7b30d"
+      }
+    }
+  },
+  {
+    "id": "3a94df8d-7879-4afa-a3d5-68e19b3769e8",
+    "symbol": "SEAL",
+    "name": "Seal Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd7b3669c7d3e38ab5a441383d41f25e003e02148"
+      }
+    }
+  }
+]

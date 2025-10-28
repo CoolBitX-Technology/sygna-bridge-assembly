@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a29005f6-d247-4401-a545-ca5c2277318b",
+    "symbol": "DIP",
+    "name": "Etherisc DIP Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83"
+      }
+    }
+  },
+  {
+    "id": "f4ee2f2b-3046-4a15-9d14-cd9c9cf76b4f",
+    "symbol": "DIP",
+    "name": "Deipool",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd1517663883e2acc154178fb194e80e8bbc29730"
+      }
+    }
+  }
+]

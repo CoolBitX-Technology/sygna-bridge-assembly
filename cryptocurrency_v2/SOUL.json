@@ -1,0 +1,22 @@
+[
+  {
+    "id": "7d9cf082-2de2-4b08-8cf9-58843e79eeb1",
+    "symbol": "SOUL",
+    "name": "ChainZ Arena",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29"
+      }
+    }
+  },
+  {
+    "id": "a0949ecb-5571-44f8-9afd-1b26808cb456",
+    "symbol": "SOUL",
+    "name": "Phantasma",
+    "platforms": {
+      "neo": {
+        "token_address": "ed07cffad18f1308db51920d99a2af60ac66a7b3"
+      }
+    }
+  }
+]

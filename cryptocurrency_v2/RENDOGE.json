@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3c32030e-04e2-4d65-9c71-f077c72a9617",
+    "symbol": "RENDOGE",
+    "name": "renDOGE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3832d2f059e55934220881f831be501d180671a7"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4b5c54c3-d33f-4f7a-bc96-993baf8b7b25",
+    "symbol": "DAPP",
+    "name": "LiquidApps",
+    "platforms": {
+      "eos": {
+        "token_address": "dappservices"
+      }
+    }
+  }
+]

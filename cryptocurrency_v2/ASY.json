@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5231aa8c-9d4a-4572-b550-348523a65f2a",
+    "symbol": "ASY",
+    "name": "ASYAGRO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x017b584acfd16d767541ae9e80cdc702f4527b0b"
+      }
+    }
+  }
+]

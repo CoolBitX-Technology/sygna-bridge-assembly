@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1dce221b-a517-45e5-a428-6606475579fe",
+    "symbol": "ATP",
+    "name": "Alaya",
+    "platforms": {
+      "alaya": {
+        "token_address": "native"
+      }
+    }
+  }
+]

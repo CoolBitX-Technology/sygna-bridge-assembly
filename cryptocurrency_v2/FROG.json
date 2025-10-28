@@ -1,0 +1,12 @@
+[
+  {
+    "id": "97641801-f43f-4fc3-bb61-634ccb5ee26e",
+    "symbol": "FROG",
+    "name": "CryptoFrog.Finance",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xc808592e5b4585f982bc728d63b227634bc007a4"
+      }
+    }
+  }
+]

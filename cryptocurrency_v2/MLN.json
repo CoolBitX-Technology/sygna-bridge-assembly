@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f955c1ff-c05a-4881-8773-03742c5f9d49",
+    "symbol": "MLN",
+    "name": "Enzyme",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+      }
+    }
+  }
+]

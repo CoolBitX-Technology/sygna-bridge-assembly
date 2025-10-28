@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6824b637-d50d-42dc-a425-cc7347928237",
+    "symbol": "DMX",
+    "name": "Dymmax",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf058501585023d040ea9493134ed72c083553eed"
+      }
+    }
+  }
+]

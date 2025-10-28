@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cbe2a893-43c8-4a7b-b681-1a1681fd77b1",
+    "symbol": "DF",
+    "name": "dForce",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0"
+      }
+    }
+  }
+]

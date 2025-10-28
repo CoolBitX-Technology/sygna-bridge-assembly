@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2820919b-d080-4ee0-9cf6-e9fc3d1f1b60",
+    "symbol": "BMI",
+    "name": "Bridge Mutual",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688"
+      }
+    }
+  }
+]

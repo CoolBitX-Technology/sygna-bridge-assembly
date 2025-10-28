@@ -1,0 +1,12 @@
+[
+  {
+    "id": "83178d0d-56d5-46d4-9e12-190f30800956",
+    "symbol": "ROGER",
+    "name": "TheHolyrogerCoin",
+    "platforms": {
+      "theholyrogercoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

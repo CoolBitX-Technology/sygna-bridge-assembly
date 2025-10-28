@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dc2cd136-b908-4854-b2d1-1ef92606a3e4",
+    "symbol": "RPL",
+    "name": "Rocket Pool",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb4efd85c19999d84251304bda99e90b92300bd93"
+      }
+    }
+  }
+]

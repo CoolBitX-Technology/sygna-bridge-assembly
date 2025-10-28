@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f51d26b2-622d-4304-9b1e-c6bc53e47a29",
+    "symbol": "GERA",
+    "name": "Gera Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02"
+      }
+    }
+  }
+]

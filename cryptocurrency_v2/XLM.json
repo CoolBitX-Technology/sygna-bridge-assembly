@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c00ff060-cfb7-4d78-9064-ca35fb4c7b04",
+    "symbol": "XLM",
+    "name": "Stellar",
+    "platforms": {
+      "stellar": {
+        "token_address": "native"
+      }
+    }
+  }
+]

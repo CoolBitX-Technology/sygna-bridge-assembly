@@ -1,0 +1,12 @@
+[
+  {
+    "id": "126289c7-866c-4045-93ec-1a861435d51d",
+    "symbol": "LEV",
+    "name": "Leverj",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0f4ca92660efad97a9a70cb0fe969c755439772c"
+      }
+    }
+  }
+]

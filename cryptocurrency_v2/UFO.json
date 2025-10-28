@@ -1,0 +1,12 @@
+[
+  {
+    "id": "24f00693-dba7-4045-86e9-1de2cbabc2ad",
+    "symbol": "UFO",
+    "name": "Unknown Fair Object",
+    "platforms": {
+      "unknown-fair-object": {
+        "token_address": "native"
+      }
+    }
+  }
+]

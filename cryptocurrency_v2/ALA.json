@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6c1d8f23-e586-4998-8365-115448ba935c",
+    "symbol": "ALA",
+    "name": "ALA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8"
+      }
+    }
+  }
+]

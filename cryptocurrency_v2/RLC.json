@@ -1,0 +1,12 @@
+[
+  {
+    "id": "88c75714-b8b4-4c5b-b597-a83abfc3d772",
+    "symbol": "RLC",
+    "name": "iExec RLC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x607f4c5bb672230e8672085532f7e901544a7375"
+      }
+    }
+  }
+]

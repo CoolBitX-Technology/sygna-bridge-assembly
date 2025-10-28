@@ -1,0 +1,21 @@
+[
+  {
+    "id": "05104b67-3026-4df5-888c-affe23ad7598",
+    "symbol": "FTM",
+    "name": "Fantom Token",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xad29abb318791d579433d831ed122afeaf29dcfe"
+      },
+      "ethereum": {
+        "token_address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+      },
+      "celo": {
+        "token_address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0"
+      },
+      "solana": {
+        "token_address": "8gc27rqf4nedyfyf5as8zmqjuum5gufowkgyrrba4enn"
+      }
+    }
+  }
+]

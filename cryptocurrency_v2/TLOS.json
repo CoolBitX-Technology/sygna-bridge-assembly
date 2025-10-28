@@ -1,0 +1,12 @@
+[
+  {
+    "id": "266ba39c-794f-49ac-b0a2-bf6b8203f04a",
+    "symbol": "TLOS",
+    "name": "Telos",
+    "platforms": {
+      "eos": {
+        "token_address": "teloskitchen18"
+      }
+    }
+  }
+]

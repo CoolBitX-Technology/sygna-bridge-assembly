@@ -1,0 +1,12 @@
+[
+  {
+    "id": "61affe3f-0595-4656-ad72-912b54b660d8",
+    "symbol": "BNA",
+    "name": "Bananatok",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8"
+      }
+    }
+  }
+]

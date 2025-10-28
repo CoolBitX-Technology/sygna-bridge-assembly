@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b6e50339-50df-41ba-9493-12d6ba817495",
+    "symbol": "AKT",
+    "name": "Akash Network",
+    "platforms": {
+      "akash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

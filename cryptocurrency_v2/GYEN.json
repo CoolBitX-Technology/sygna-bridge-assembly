@@ -1,0 +1,12 @@
+[
+  {
+    "id": "213dd547-9046-4164-8ebe-8b2915e6b6a1",
+    "symbol": "GYEN",
+    "name": "GMO.com Yen",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc08512927d12348f6620a698105e1baac6ecd911"
+      }
+    }
+  }
+]

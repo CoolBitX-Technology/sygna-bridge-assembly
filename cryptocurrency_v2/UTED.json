@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c5094db5-07a0-4560-a659-18a9e68443e8",
+    "symbol": "UTED",
+    "name": "United Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1ba05ae30b4bbeb16be6951a709095ad21e3b6fb"
+      }
+    }
+  }
+]

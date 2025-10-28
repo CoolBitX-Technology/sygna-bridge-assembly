@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d6dccc7f-a8f8-4439-84df-8614f0050047",
+    "symbol": "MEM",
+    "name": "MemCoin",
+    "platforms": {
+      "memcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

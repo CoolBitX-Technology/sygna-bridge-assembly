@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38b5c89a-e81a-4918-83af-26b1160dd76f",
+    "symbol": "DEGO",
+    "name": "Dego Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "94d67945-90c7-4963-94d6-f2b342d298d6",
+    "symbol": "GSE",
+    "name": "GSENetwork",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838"
+      }
+    }
+  }
+]

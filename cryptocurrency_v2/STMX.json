@@ -1,0 +1,12 @@
+[
+  {
+    "id": "23febd05-18a0-443b-af39-08f0353cb931",
+    "symbol": "STMX",
+    "name": "StormX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbe9375c6a420d2eeb258962efb95551a5b722803"
+      }
+    }
+  }
+]

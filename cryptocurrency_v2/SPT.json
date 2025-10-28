@@ -1,0 +1,12 @@
+[
+  {
+    "id": "78b26c2b-6a23-4979-af22-cfa5b03b0443",
+    "symbol": "SPT",
+    "name": "Spectrum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x01cc4151fe5f00efb8df2f90ff833725d3a482a3"
+      }
+    }
+  }
+]

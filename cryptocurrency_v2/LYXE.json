@@ -1,0 +1,12 @@
+[
+  {
+    "id": "491f54bf-ebf3-442b-b57a-19184804d880",
+    "symbol": "LYXE",
+    "name": "LUKSO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa8b919680258d369114910511cc87595aec0be6d"
+      }
+    }
+  }
+]

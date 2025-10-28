@@ -1,0 +1,12 @@
+[
+  {
+    "id": "edd556ec-3a6e-4290-8c74-136d827b2093",
+    "symbol": "BTF",
+    "name": "Bitcoin Faith",
+    "platforms": {
+      "bitcoin-faith": {
+        "token_address": "native"
+      }
+    }
+  }
+]

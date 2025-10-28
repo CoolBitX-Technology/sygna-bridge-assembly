@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9c0710ee-1ad3-4de7-975b-b8475a2869f8",
+    "symbol": "EFK",
+    "name": "ReFork",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6653c0d21507573cc39ead1e609d74d5e0ca16e2"
+      }
+    }
+  }
+]

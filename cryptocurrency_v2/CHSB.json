@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d3923016-5043-4e00-afe0-6417443b3818",
+    "symbol": "CHSB",
+    "name": "SwissBorg",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xba9d4199fab4f26efe3551d490e3821486f135ba"
+      }
+    }
+  }
+]

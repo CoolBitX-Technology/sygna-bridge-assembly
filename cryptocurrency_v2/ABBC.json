@@ -1,0 +1,12 @@
+[
+  {
+    "id": "086d5c57-cd77-4371-a8e2-f048b8d20023",
+    "symbol": "ABBC",
+    "name": "ABBC Coin",
+    "platforms": {
+      "abbc-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

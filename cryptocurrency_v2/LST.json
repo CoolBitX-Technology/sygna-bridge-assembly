@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bc2f52cc-5ed4-48bf-86e6-c652cbfa235c",
+    "symbol": "LST",
+    "name": "LuckySevenToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4de2573e27e648607b50e1cfff921a33e4a34405"
+      }
+    }
+  }
+]

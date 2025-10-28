@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7118a397-5749-4b5e-a6ea-6542c24a84af",
+    "symbol": "PSI",
+    "name": "Passive Income",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd4cb461eace80708078450e465881599d2235f1a"
+      }
+    }
+  }
+]

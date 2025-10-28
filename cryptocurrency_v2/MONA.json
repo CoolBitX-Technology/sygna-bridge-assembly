@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0d1b111d-9bf3-4e58-af7b-c069633c190c",
+    "symbol": "MONA",
+    "name": "MonaCoin",
+    "platforms": {
+      "monacoin": {
+        "token_address": "native"
+      }
+    }
+  },
+  {
+    "id": "e5d83dae-931d-42c8-aa71-d4082817ad55",
+    "symbol": "MONA",
+    "name": "Monavale",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b01da3ee-f9d1-4565-9e7c-ce255ecd88ac",
+    "symbol": "HST",
+    "name": "HST",
+    "platforms": {
+      "hst": {
+        "token_address": "native"
+      }
+    }
+  }
+]

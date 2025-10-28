@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7d69216f-fb38-48d4-81e8-1adc6a571f73",
+    "symbol": "MSR",
+    "name": "Masari",
+    "platforms": {
+      "masari": {
+        "token_address": "native"
+      }
+    }
+  }
+]

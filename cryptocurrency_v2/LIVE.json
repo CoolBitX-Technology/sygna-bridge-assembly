@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6b64dac8-6fa1-4fc4-a227-4fad36c1b8cc",
+    "symbol": "LIVE",
+    "name": "TRONbetLive",
+    "platforms": {
+      "tron": {
+        "token_address": "tvgayofpqku5g4zenxnvxhbzxpzzrk8wvk"
+      }
+    }
+  }
+]

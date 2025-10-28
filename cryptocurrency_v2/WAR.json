@@ -1,0 +1,12 @@
+[
+  {
+    "id": "11c2bff7-0bce-4d10-b591-c3f6d5ca91f1",
+    "symbol": "WAR",
+    "name": "YieldWars",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf4a81c18816c9b0ab98fac51b36dcb63b0e58fde"
+      }
+    }
+  }
+]

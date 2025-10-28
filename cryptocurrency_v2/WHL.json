@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c0501bd0-acb9-485a-9841-8ca04eec6e84",
+    "symbol": "WHL",
+    "name": "WhaleCoin",
+    "platforms": {
+      "whalecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

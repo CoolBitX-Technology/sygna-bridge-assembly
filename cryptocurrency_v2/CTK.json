@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3f2897e9-60e7-49a3-8950-835e51f5b544",
+    "symbol": "CTK",
+    "name": "CertiK",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f4494b46-7966-4a94-b29f-2d38e34315f0",
+    "symbol": "XMD",
+    "name": "MyDexPay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa8b0279acc96efebd09955ad8240b2d30b53055e"
+      }
+    }
+  }
+]

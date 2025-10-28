@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d32ba519-c76f-48b8-9748-e472973a9a44",
+    "symbol": "KAR",
+    "name": "Karura Network",
+    "platforms": {
+      "karura-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

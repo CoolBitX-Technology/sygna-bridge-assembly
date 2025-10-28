@@ -1,0 +1,12 @@
+[
+  {
+    "id": "17b98626-8f18-4397-ab4c-98857a9e1927",
+    "symbol": "TIA",
+    "name": "Celestia",
+    "platforms": {
+      "celestia": {
+        "token_address": "native"
+      }
+    }
+  }
+]

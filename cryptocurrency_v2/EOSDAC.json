@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7328f359-a421-4568-8f98-0f628a359245",
+    "symbol": "EOSDAC",
+    "name": "eosDAC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "703f607a-d4ac-49bd-a34b-45868e051250",
+    "symbol": "EMT",
+    "name": "Emanate",
+    "platforms": {
+      "eos": {
+        "token_address": "emanateoneos"
+      }
+    }
+  }
+]

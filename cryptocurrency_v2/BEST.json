@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1d8cd1ba-f91f-40ff-b445-a33858b54003",
+    "symbol": "BEST",
+    "name": "Bitpanda Ecosystem Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f"
+      }
+    }
+  }
+]

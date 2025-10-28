@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f468654c-3cf8-4f94-aef1-becaeac096e1",
+    "symbol": "ZIP",
+    "name": "Zipper",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd"
+      }
+    }
+  }
+]

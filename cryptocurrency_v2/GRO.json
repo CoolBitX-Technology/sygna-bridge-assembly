@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7856b927-4c5c-47df-8c31-0e458caee7c8",
+    "symbol": "GRO",
+    "name": "Growth DeFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0"
+      }
+    }
+  }
+]

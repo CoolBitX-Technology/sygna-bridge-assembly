@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dfccaa5c-89be-4b2e-a016-0765cfb81f56",
+    "symbol": "GNO",
+    "name": "Gnosis",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6810e776880c02933d47db1b9fc05908e5386b96"
+      }
+    }
+  }
+]

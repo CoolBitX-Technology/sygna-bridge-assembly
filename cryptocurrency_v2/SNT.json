@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3459dcd3-3832-46af-8783-c4ae9dba8d9c",
+    "symbol": "SNT",
+    "name": "Status",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e"
+      }
+    }
+  }
+]

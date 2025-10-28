@@ -1,0 +1,12 @@
+[
+  {
+    "id": "67093ca2-4f34-4df0-8aba-90c27cc3cf16",
+    "symbol": "FUN",
+    "name": "FunFair",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
+      }
+    }
+  }
+]

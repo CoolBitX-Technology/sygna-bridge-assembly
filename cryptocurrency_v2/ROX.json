@@ -1,0 +1,12 @@
+[
+  {
+    "id": "53c189d0-2c95-45b7-8f9a-d2c7670df124",
+    "symbol": "ROX",
+    "name": "Robotina",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x574f84108a98c575794f75483d801d1d5dc861a5"
+      }
+    }
+  }
+]

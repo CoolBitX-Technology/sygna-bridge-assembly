@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b1d93892-4fa8-4a29-a620-36fd40f98f06",
+    "symbol": "ELY",
+    "name": "Elysian",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa95592dcffa3c080b4b40e459c5f5692f67db7f8"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2f0d4c9e-a8f6-447f-be07-cdda5990c8e5",
+    "symbol": "ASTR",
+    "name": "Astar Network",
+    "platforms": {
+      "astar-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

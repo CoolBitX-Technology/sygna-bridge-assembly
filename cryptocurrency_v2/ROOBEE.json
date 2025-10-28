@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2ebc0b5a-9826-4fae-a452-f940d303934a",
+    "symbol": "ROOBEE",
+    "name": "ROOBEE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa"
+      }
+    }
+  }
+]

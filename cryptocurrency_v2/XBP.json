@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1417fc63-0998-49bc-b10c-291d60c65247",
+    "symbol": "XBP",
+    "name": "BlitzPredict",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x28dee01d53fed0edf5f6e310bf8ef9311513ae40"
+      }
+    }
+  }
+]

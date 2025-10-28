@@ -1,0 +1,12 @@
+[
+  {
+    "id": "20ae12d8-49a8-431f-96b1-2591a83f661c",
+    "symbol": "VSXP",
+    "name": "Venus SXP",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x2ff3d0f6990a40261c66e1ff2017acbc282eb6d0"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3004a05d-7d97-4eca-b2f2-4418327c8a0e",
+    "symbol": "XZC",
+    "name": "Firo",
+    "platforms": {
+      "firo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

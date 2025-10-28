@@ -1,0 +1,12 @@
+[
+  {
+    "id": "17951668-c67f-4607-9b29-fdf131577d16",
+    "symbol": "BLACK",
+    "name": "eosBLACK",
+    "platforms": {
+      "eos": {
+        "token_address": "eosblackteam"
+      }
+    }
+  }
+]

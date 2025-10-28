@@ -1,0 +1,12 @@
+[
+  {
+    "id": "868230cb-a89d-4241-8aaa-1c2c4ea99378",
+    "symbol": "YETI",
+    "name": "Yearn Ecosystem Token Index",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d"
+      }
+    }
+  }
+]

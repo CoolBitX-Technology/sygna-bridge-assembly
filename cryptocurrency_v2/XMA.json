@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f05e420f-6c96-4ca7-ac14-2102adac1f83",
+    "symbol": "XMA",
+    "name": "Massa",
+    "platforms": {
+      "massa": {
+        "token_address": "native"
+      }
+    }
+  }
+]

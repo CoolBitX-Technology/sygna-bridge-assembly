@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7898b23a-1d81-4dce-8cc6-0ff24b7b6da8",
+    "symbol": "ICT",
+    "name": "ICOCalendar.Today",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2d71983e810b9e95258966b9c164c4d61a829ba9"
+      }
+    }
+  }
+]

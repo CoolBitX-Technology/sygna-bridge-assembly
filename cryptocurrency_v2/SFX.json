@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8c7bcca1-ad0d-466b-b330-faa1f7562ac9",
+    "symbol": "SFX",
+    "name": "Safex Cash",
+    "platforms": {
+      "safex-cash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

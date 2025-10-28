@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ecc819d5-13e0-43d5-8ca3-9e16a4aa81c6",
+    "symbol": "DLC",
+    "name": "Dollarcoin",
+    "platforms": {
+      "dollarcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

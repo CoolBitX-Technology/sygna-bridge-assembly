@@ -1,0 +1,12 @@
+[
+  {
+    "id": "70845299-fe94-4083-8b0f-975de3338596",
+    "symbol": "NEWS",
+    "name": "PUBLISH",
+    "platforms": {
+      "eos": {
+        "token_address": "publishtoken"
+      }
+    }
+  }
+]

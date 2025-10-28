@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1f1d9147-eeee-4acc-af3c-4682b02e02c2",
+    "symbol": "MTS",
+    "name": "Metis",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa9598333b99d14d90bc81cad8af82c4c70625e75"
+      }
+    }
+  }
+]

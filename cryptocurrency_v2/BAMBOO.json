@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7cba6c2d-3de8-4e75-9137-6e5a62d81f81",
+    "symbol": "BAMBOO",
+    "name": "Panda Yield",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x2eb5ecc40e403b12ee4428d70fddf34e2c2c27b0"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3ed641de-3320-4c91-91cb-661a7285435b",
+    "symbol": "PIRATE",
+    "name": "PirateCash",
+    "platforms": {
+      "piratecash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

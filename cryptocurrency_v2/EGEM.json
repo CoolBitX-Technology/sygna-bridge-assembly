@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f0d29163-2beb-45bc-800b-7f6c7c001cf4",
+    "symbol": "EGEM",
+    "name": "EtherGem",
+    "platforms": {
+      "ethergem": {
+        "token_address": "native"
+      }
+    }
+  }
+]

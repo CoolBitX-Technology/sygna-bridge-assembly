@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b5674640-108d-40e7-b629-c12813ab3986",
+    "symbol": "FFF",
+    "name": "Force For Fast",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x22f098f08c4eda4be4ad6b4ba59866f3e98cef92"
+      }
+    }
+  }
+]

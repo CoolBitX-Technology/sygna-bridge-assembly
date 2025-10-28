@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d98f8617-8dc1-4745-91a2-f608a6f58b94",
+    "symbol": "XHV",
+    "name": "Haven Protocol",
+    "platforms": {
+      "haven-protocol": {
+        "token_address": "native"
+      }
+    }
+  }
+]

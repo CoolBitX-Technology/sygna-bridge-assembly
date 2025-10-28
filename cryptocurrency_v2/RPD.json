@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6d96233c-2c74-4552-b6a9-2fd381940ee2",
+    "symbol": "RPD",
+    "name": "Rapids",
+    "platforms": {
+      "rapids": {
+        "token_address": "native"
+      }
+    }
+  }
+]

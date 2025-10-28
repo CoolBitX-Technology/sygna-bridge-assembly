@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f4148d62-c8df-44c6-918d-09a772ff376d",
+    "symbol": "PXC",
+    "name": "Pixie Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc27c95350ecd634c80df89db0f10cd5c24b7b11f"
+      }
+    }
+  }
+]

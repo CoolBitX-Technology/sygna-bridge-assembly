@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7ddad955-96c0-41d1-aba7-681af7291495",
+    "symbol": "HIPPO",
+    "name": "HippoFinance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x81313f7c5c9c824236c9e4cba3ac4b049986e756"
+      }
+    }
+  }
+]

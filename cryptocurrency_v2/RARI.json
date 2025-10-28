@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e164991-57dc-4714-b588-495a96c34c9c",
+    "symbol": "RARI",
+    "name": "Rarible",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
+      }
+    }
+  }
+]

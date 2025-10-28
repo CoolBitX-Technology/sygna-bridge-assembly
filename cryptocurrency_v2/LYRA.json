@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c22520dd-d97c-49f0-83fe-330989593b7b",
+    "symbol": "LYRA",
+    "name": "Scrypta",
+    "platforms": {
+      "scrypta": {
+        "token_address": "native"
+      }
+    }
+  }
+]

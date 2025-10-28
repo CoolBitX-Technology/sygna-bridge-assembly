@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cdd1ec76-d04e-4c63-b767-0737bc9bfa75",
+    "symbol": "YUP",
+    "name": "Crowdholding",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd9a12cde03a86e800496469858de8581d3a5353d"
+      }
+    }
+  }
+]

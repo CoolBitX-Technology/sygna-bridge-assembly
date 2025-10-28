@@ -1,0 +1,12 @@
+[
+  {
+    "id": "76303347-33d4-4598-8d3b-fbcc85207f38",
+    "symbol": "ENJ",
+    "name": "Enjin Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+      }
+    }
+  }
+]

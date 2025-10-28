@@ -1,0 +1,12 @@
+[
+  {
+    "id": "da77b032-1d7e-4cd1-82f3-abc7e8d49db1",
+    "symbol": "DGLD",
+    "name": "DGLD",
+    "platforms": {
+      "dgld": {
+        "token_address": "native"
+      }
+    }
+  }
+]

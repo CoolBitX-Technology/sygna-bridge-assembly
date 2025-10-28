@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ed1a96dc-2882-450d-8a47-ed3ccf81708c",
+    "symbol": "LV",
+    "name": "Lava",
+    "platforms": {
+      "lava": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5dcb7b6a-8951-490b-8624-35a9d7aa68d1",
+    "symbol": "UST",
+    "name": "Terra Classic USD (Wormhole)",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa693b19d2931d498c5b318df961919bb4aee87a5"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "db31c440-8ae7-4b3d-8458-81e0f4ade166",
+    "symbol": "CHERRY",
+    "name": "cherry",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4ecb692b0fedecd7b486b4c99044392784877e8c"
+      }
+    }
+  }
+]

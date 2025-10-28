@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0945da72-514b-47f5-90e7-ebf35f36d8fc",
+    "symbol": "DMT",
+    "name": "DMarket",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1"
+      }
+    }
+  }
+]

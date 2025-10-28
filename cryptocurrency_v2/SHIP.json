@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7572548e-f0ce-4ac2-875b-e98b91413f57",
+    "symbol": "SHIP",
+    "name": "ShipChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe25b0bba01dc5630312b6a21927e578061a13f55"
+      }
+    }
+  }
+]

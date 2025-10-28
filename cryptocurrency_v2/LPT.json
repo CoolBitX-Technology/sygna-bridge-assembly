@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5ff2356a-ce30-4d28-b164-480acdaeb9f9",
+    "symbol": "LPT",
+    "name": "Livepeer",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x58b6a8a3302369daec383334672404ee733ab239"
+      }
+    }
+  }
+]

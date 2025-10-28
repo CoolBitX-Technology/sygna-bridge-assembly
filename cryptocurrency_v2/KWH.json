@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2f392379-6adb-4016-80e2-3264dfdcada5",
+    "symbol": "KWH",
+    "name": "KWHCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb8ddc930c2bab6c71610a2be639036e829f9c10b"
+      }
+    }
+  }
+]

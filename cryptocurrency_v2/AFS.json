@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dc9671f4-8988-413a-b10c-8c89be75bcf5",
+    "symbol": "AFS",
+    "name": "ANFS",
+    "platforms": {
+      "anfs": {
+        "token_address": "native"
+      }
+    }
+  }
+]

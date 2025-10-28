@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d8cd2f06-933d-40a2-8605-4274a736c36b",
+    "symbol": "SPN",
+    "name": "Sapien",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a"
+      }
+    }
+  }
+]

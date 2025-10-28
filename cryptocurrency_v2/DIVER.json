@@ -1,0 +1,12 @@
+[
+  {
+    "id": "56cb7344-3ef6-4c96-b3ab-a9f1b0288f53",
+    "symbol": "DIVER",
+    "name": "Divergenti",
+    "platforms": {
+      "divergenti": {
+        "token_address": "native"
+      }
+    }
+  }
+]

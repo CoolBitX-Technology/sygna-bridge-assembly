@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bbb3f569-39fc-42ab-8bb5-21e2f8bca844",
+    "symbol": "QTZ",
+    "name": "Quartz",
+    "platforms": {
+      "quartz": {
+        "token_address": "native"
+      }
+    }
+  }
+]

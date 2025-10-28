@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f75459a2-6dc0-4be1-8fdb-339f3545ddf7",
+    "symbol": "KMD",
+    "name": "Komodo",
+    "platforms": {
+      "komodo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

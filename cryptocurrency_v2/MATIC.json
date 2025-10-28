@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a5519e26-e0fe-4b4f-b903-15433cc09638",
+    "symbol": "MATIC",
+    "name": "Matic",
+    "platforms": {
+      "polygon": {
+        "token_address": "0x0000000000000000000000000000000000001010"
+      }
+    }
+  },
+  {
+    "id": "3642af22-ff4b-45ce-b3c4-50d94786f95a",
+    "symbol": "MATIC",
+    "name": "Matic Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+      }
+    }
+  }
+]

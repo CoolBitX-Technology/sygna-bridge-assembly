@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b8bbaa9b-32da-4300-ad94-4b81229a570f",
+    "symbol": "GGTK",
+    "name": "GGDApp",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bf1bdf76-02d4-402d-bd30-4e3edcb1c1cb",
+    "symbol": "SHR",
+    "name": "Shreeji",
+    "platforms": {
+      "shreeji": {
+        "token_address": "native"
+      }
+    }
+  }
+]

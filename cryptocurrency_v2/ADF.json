@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d8a366e0-9399-47d0-8940-32ed8c86a62a",
+    "symbol": "ADF",
+    "name": "AD Token",
+    "platforms": {
+      "ad-token": {
+        "token_address": "native"
+      }
+    }
+  }
+]

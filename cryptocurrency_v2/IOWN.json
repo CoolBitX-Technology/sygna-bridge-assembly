@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a35536df-ad3b-44e5-bec7-5efca1b13adf",
+    "symbol": "IOWN",
+    "name": "iOWN Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x555d051538c7a13712f1f590fa6b4c176ca4529f"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f17eaa48-4546-40e0-9279-691e60b45132",
+    "symbol": "CCC",
+    "name": "Coin Controller Cash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x94cb815f4b601b00b363b3177b4d8ed8e0eb7cf2"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0df8fadd-1e31-4619-9497-320f5562af82",
+    "symbol": "EYES",
+    "name": "EYES Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2dca19e944453e46d9130950ca135461b3bc0c30"
+      }
+    }
+  }
+]

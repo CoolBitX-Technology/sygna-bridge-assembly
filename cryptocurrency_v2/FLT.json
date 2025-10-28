@@ -1,0 +1,12 @@
+[
+  {
+    "id": "98d07ef8-a358-4b2e-823b-cc06503cf179",
+    "symbol": "FLT",
+    "name": "Flit Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb351da6ffebd5dddd1da037929fcf334d6b4a8d5"
+      }
+    }
+  }
+]

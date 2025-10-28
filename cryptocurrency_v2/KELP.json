@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a1eaf094-b8b8-4352-a17b-e529640ffcac",
+    "symbol": "KELP",
+    "name": "Haidai Network",
+    "platforms": {
+      "haidai-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

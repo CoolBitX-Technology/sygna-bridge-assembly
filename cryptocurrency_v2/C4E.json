@@ -1,0 +1,12 @@
+[
+  {
+    "id": "57dc781f-7850-4913-a2ee-a67d1ff8ccf1",
+    "symbol": "C4E",
+    "name": "Chain4Energy",
+    "platforms": {
+      "chain4energy": {
+        "token_address": "native"
+      }
+    }
+  }
+]

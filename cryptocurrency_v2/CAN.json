@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e4638b80-8f29-48f1-9890-31551c58b01f",
+    "symbol": "CAN",
+    "name": "Coinwaycoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x917fd2f7378ff479419dcb56c5cbb445fbbf902a"
+      }
+    }
+  }
+]

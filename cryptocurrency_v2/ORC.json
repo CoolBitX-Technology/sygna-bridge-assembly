@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c2670393-7e4a-4989-b0c4-bcf09b7b8b0c",
+    "symbol": "ORC",
+    "name": "Oracle System",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1c09ef4493465569f6d704a5cc4f9864bcd2e56a"
+      }
+    }
+  }
+]

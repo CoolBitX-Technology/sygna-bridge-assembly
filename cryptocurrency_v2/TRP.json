@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d4025364-33e3-456a-9faf-d5986d8250b3",
+    "symbol": "TRP",
+    "name": "Tronipay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9b1e1fc958b83e801d1342f9f9ba7da3a55ba1ef"
+      }
+    }
+  }
+]

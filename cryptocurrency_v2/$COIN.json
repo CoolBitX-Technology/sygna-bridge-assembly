@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e094ce61-0547-4997-83b2-76dbd2ae62ae",
+    "symbol": "$COIN",
+    "name": "COIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe61fdaf474fac07063f2234fb9e60c1163cfa850"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9c9c615a-e19f-4d7e-97db-a9e5525f9d15",
+    "symbol": "BPX",
+    "name": "Bispex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2aa4a3e8bb72be68a31c9c3c98ca7bec723c6222"
+      }
+    }
+  }
+]

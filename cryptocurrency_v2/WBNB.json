@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7a6df7a7-416b-4ba7-b913-78206710f2d3",
+    "symbol": "WBNB",
+    "name": "Wrapped BNB",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      }
+    }
+  }
+]

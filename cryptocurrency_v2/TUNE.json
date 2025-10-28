@@ -1,0 +1,12 @@
+[
+  {
+    "id": "63b9d2d6-10a0-4876-b4f3-f88b991db3d0",
+    "symbol": "TUNE",
+    "name": "TUNE TOKEN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6b4e0684806fe53902469b6286024db9c6271f53"
+      }
+    }
+  }
+]

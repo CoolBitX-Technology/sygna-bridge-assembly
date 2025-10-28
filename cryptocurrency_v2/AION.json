@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3fac0013-0534-4679-96e7-bc9fcd14c3f4",
+    "symbol": "AION",
+    "name": "Aion",
+    "platforms": {
+      "aion": {
+        "token_address": "native"
+      }
+    }
+  }
+]

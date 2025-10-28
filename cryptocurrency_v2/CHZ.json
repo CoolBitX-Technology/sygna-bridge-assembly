@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2454d7fe-1375-4747-b670-f4e584afd727",
+    "symbol": "CHZ",
+    "name": "chiliZ",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+      }
+    }
+  }
+]

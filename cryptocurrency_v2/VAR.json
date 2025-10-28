@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f8b541f1-f11f-4e09-8ff7-c596da2fc5f0",
+    "symbol": "VAR",
+    "name": "Varda",
+    "platforms": {
+      "varda": {
+        "token_address": "native"
+      }
+    }
+  }
+]

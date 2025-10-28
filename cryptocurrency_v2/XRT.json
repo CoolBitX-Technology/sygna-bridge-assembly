@@ -1,0 +1,12 @@
+[
+  {
+    "id": "01d3816f-1086-4146-b005-1c7d23d7ecc5",
+    "symbol": "XRT",
+    "name": "Robonomics.network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7"
+      }
+    }
+  }
+]

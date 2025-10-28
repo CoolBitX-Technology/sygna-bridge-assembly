@@ -1,0 +1,12 @@
+[
+  {
+    "id": "08033535-9a6c-4a5e-9c9e-84881ddfbc43",
+    "symbol": "WC",
+    "name": "WINCOIN",
+    "platforms": {
+      "wincoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

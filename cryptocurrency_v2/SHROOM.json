@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9c6d22e0-3c60-45be-98e7-43ad21459ea7",
+    "symbol": "SHROOM",
+    "name": "Shroom.Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183"
+      }
+    }
+  }
+]

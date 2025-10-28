@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d5cc7019-cf3e-4378-8ff6-ed42b1671f5b",
+    "symbol": "GTF",
+    "name": "GLOBALTRUSTFUND TOKEN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x40f8b7a82b6355d26546d363ce9c12ce104cf0ce"
+      }
+    }
+  }
+]

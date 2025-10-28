@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fb9fb054-eb8a-4905-bf9b-c7778fa196ac",
+    "symbol": "DOGEC",
+    "name": "DogeCash",
+    "platforms": {
+      "dogecash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

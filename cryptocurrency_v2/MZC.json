@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7bf461f1-64be-446c-948a-180d75432b6f",
+    "symbol": "MZC",
+    "name": "Mazacoin",
+    "platforms": {
+      "mazacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

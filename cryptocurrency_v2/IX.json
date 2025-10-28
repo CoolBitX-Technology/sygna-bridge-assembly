@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4c7a078a-c63f-47ce-8348-d9a5593638cd",
+    "symbol": "IX",
+    "name": "X-Block",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x53f0c9f1b6e283a59bcd672e80e2222b97e534cb"
+      }
+    }
+  }
+]

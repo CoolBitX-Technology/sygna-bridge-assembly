@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e1c314b9-fb4d-4a28-bea8-5830dc42a8fc",
+    "symbol": "HC",
+    "name": "Hcash",
+    "platforms": {
+      "hcash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

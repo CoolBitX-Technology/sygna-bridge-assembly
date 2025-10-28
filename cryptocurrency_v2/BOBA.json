@@ -1,0 +1,12 @@
+[
+  {
+    "id": "40fe2864-61e9-46dd-a407-7a125497cebf",
+    "symbol": "BOBA",
+    "name": "Boba",
+    "platforms": {
+      "boba": {
+        "token_address": "native"
+      }
+    }
+  }
+]

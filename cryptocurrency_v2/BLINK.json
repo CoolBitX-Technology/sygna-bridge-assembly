@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8f5ac0db-31e3-4d6e-872a-2627047647e5",
+    "symbol": "BLINK",
+    "name": "BLink",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f"
+      }
+    }
+  }
+]

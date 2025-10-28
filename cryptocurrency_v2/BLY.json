@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b9c8bb09-5b14-480e-acc8-faa88a523786",
+    "symbol": "BLY",
+    "name": "Blocery",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf8ad7dfe656188a23e89da09506adf7ad9290d5d"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aa0336df-0f4c-4492-9cd9-b4ca0aa91a76",
+    "symbol": "FAST",
+    "name": "FastSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc888a0ab4831a29e6ca432babf52e353d23db3c2"
+      }
+    }
+  }
+]

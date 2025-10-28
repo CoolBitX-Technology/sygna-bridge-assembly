@@ -1,0 +1,12 @@
+[
+  {
+    "id": "361368fa-6747-4ed4-83f6-6357337eb4fd",
+    "symbol": "VFIL",
+    "name": "Venus Filecoin",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xf91d58b5ae142dacc749f58a49fcbac340cb0343"
+      }
+    }
+  }
+]

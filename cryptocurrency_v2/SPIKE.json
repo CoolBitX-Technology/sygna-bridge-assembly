@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8999d056-62a2-4253-91e6-9e2803421e33",
+    "symbol": "SPIKE",
+    "name": "Spiking",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa7fc5d2453e3f68af0cc1b78bcfee94a1b293650"
+      }
+    }
+  }
+]

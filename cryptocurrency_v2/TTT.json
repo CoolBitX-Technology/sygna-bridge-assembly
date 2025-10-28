@@ -1,0 +1,12 @@
+[
+  {
+    "id": "56397f37-54e0-462b-b1c7-44754f4a6612",
+    "symbol": "TTT",
+    "name": "The Transfer Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2494a68c1484376fef880b4c24d91f049d29b02a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1ade1c65-6f30-4239-9d02-21e3183f0495",
+    "symbol": "BIC",
+    "name": "Beincrypto",
+    "platforms": {
+      "beincrypto": {
+        "token_address": "native"
+      }
+    }
+  }
+]

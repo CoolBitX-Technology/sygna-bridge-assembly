@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6055c766-87f7-40b5-a9b3-4c54d7099611",
+    "symbol": "UPP",
+    "name": "Sentinel Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc86d054809623432210c107af2e3f619dcfbf652"
+      }
+    }
+  }
+]

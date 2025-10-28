@@ -1,0 +1,12 @@
+[
+  {
+    "id": "07547288-2299-4641-b6f6-990bb704a237",
+    "symbol": "ZED",
+    "name": "ZED",
+    "platforms": {
+      "zed": {
+        "token_address": "native"
+      }
+    }
+  }
+]

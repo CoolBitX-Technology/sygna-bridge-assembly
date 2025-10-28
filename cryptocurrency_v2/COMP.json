@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d30f1c0b-59cb-4818-8563-c5cb180b0e98",
+    "symbol": "COMP",
+    "name": "Compound",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc00e94cb662c3520282e6f5717214004a7f26888"
+      }
+    }
+  }
+]

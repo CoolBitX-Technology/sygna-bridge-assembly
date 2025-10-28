@@ -1,0 +1,12 @@
+[
+  {
+    "id": "942996ce-5af3-4d04-b3fb-5450316c93e8",
+    "symbol": "MAC",
+    "name": "Matrexcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc3e2de0b661cf58f66bde8e896905399ded58af5"
+      }
+    }
+  }
+]

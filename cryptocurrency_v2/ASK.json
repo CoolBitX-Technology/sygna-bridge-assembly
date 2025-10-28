@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ba1cafbe-2102-476c-898a-cd2744dfa29f",
+    "symbol": "ASK",
+    "name": "ASK",
+    "platforms": {
+      "permission-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

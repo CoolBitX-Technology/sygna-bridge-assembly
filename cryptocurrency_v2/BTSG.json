@@ -1,0 +1,12 @@
+[
+  {
+    "id": "db570b80-a780-4728-9f3c-c9a77045c568",
+    "symbol": "BTSG",
+    "name": "BitSong",
+    "platforms": {
+      "bitsong": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1a481400-fe18-4f62-b5e1-cea02307f27d",
+    "symbol": "LAT",
+    "name": "PlatON",
+    "platforms": {
+      "platon": {
+        "token_address": "native"
+      }
+    }
+  }
+]

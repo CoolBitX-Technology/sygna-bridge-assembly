@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7bcdbb55-1d3b-4627-ba08-e9f728bddea0",
+    "symbol": "TZC",
+    "name": "TrezarCoin",
+    "platforms": {
+      "trezarcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

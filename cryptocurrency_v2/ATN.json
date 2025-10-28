@@ -1,0 +1,12 @@
+[
+  {
+    "id": "210db283-00da-446b-bfb6-3d92bbdfd608",
+    "symbol": "ATN",
+    "name": "ATN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x461733c17b0755ca5649b6db08b3e213fcf22546"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0ca7f854-ed59-46dd-8e94-e2db937d8c1c",
+    "symbol": "SFCP",
+    "name": "SF Capital",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8b6cda5cc518c904e8844f445e1a7c7d2db0ff16"
+      }
+    }
+  }
+]

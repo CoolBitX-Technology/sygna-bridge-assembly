@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3d4c600a-d612-40b1-a95c-dfb17d0adf6b",
+    "symbol": "BOMB",
+    "name": "BOMB",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714"
+      }
+    }
+  }
+]

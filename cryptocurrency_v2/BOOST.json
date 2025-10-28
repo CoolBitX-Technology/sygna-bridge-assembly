@@ -1,0 +1,12 @@
+[
+  {
+    "id": "972d6370-dab6-4509-9eea-10bda442ba72",
+    "symbol": "BOOST",
+    "name": "Boosted Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3e780920601d61cedb860fe9c4a90c9ea6a35e78"
+      }
+    }
+  }
+]

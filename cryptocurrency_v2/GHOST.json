@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c73d4b14-4efe-4673-8c89-24cda2c79572",
+    "symbol": "GHOST",
+    "name": "Ghost",
+    "platforms": {
+      "ghost": {
+        "token_address": "native"
+      }
+    }
+  }
+]

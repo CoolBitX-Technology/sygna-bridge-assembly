@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5763edc5-ab06-4b1a-9779-4a7140f4e6f2",
+    "symbol": "NOS",
+    "name": "NOS Stable Coins",
+    "platforms": {
+      "nos-stable-coins": {
+        "token_address": "native"
+      }
+    }
+  }
+]

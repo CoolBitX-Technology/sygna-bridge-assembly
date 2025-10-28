@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0e79fb3b-fc9c-4063-b7fd-1756c391ecf8",
+    "symbol": "DEB",
+    "name": "Debitum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x151202c9c18e495656f372281f493eb7698961d5"
+      }
+    }
+  }
+]

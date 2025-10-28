@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5069aa8a-d911-48df-a294-1be160eca704",
+    "symbol": "EDU",
+    "name": "EduCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf263292e14d9d8ecd55b58dad1f1df825a874b7c"
+      }
+    }
+  }
+]

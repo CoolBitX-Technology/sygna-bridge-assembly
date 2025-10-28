@@ -1,0 +1,22 @@
+[
+  {
+    "id": "f5881e0b-8cb5-47ac-a4e8-1230265b1cd6",
+    "symbol": "CRP",
+    "name": "Cross Finance",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x1ad8d89074afa789a027b9a31d0bd14e254711d0"
+      }
+    }
+  },
+  {
+    "id": "0adc4548-50eb-4167-bc90-71fa9d3ada35",
+    "symbol": "CRP",
+    "name": "Crypton",
+    "platforms": {
+      "crypton": {
+        "token_address": "native"
+      }
+    }
+  }
+]

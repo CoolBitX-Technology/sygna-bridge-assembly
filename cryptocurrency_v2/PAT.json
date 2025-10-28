@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6cc6cc49-c5ef-4fbc-b33a-8bab09673997",
+    "symbol": "PAT",
+    "name": "Patron",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf3b3cad094b89392fce5fafd40bc03b80f2bc624"
+      }
+    }
+  }
+]

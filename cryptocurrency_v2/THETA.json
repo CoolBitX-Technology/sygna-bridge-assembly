@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f41349cf-ecb4-4a7c-878b-a3927b06554b",
+    "symbol": "THETA",
+    "name": "THETA",
+    "platforms": {
+      "theta": {
+        "token_address": "native"
+      }
+    }
+  }
+]

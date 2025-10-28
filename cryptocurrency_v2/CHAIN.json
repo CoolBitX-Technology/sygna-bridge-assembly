@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4972753e-9c80-4ce1-839b-241ac56af48d",
+    "symbol": "CHAIN",
+    "name": "Chain Games",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4"
+      }
+    }
+  }
+]

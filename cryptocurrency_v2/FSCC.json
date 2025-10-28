@@ -1,0 +1,12 @@
+[
+  {
+    "id": "816eb65f-95f4-4c44-9429-8ba82530a22a",
+    "symbol": "FSCC",
+    "name": "Fisco Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0789dbae94fb18e5789b8e4489bcb7a1adb58622"
+      }
+    }
+  }
+]

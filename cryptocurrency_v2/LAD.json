@@ -1,0 +1,12 @@
+[
+  {
+    "id": "31a894e7-4ded-4853-b78d-ad9f8c519177",
+    "symbol": "LAD",
+    "name": "Ladder Network Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a"
+      }
+    }
+  }
+]

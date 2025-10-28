@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7b61ea94-43b1-42e6-a967-4b1d6e8ba817",
+    "symbol": "ENG",
+    "name": "Enigma",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4"
+      }
+    }
+  }
+]

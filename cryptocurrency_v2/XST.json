@@ -1,0 +1,22 @@
+[
+  {
+    "id": "5080dacd-5b06-430f-ba58-1b2adbac0227",
+    "symbol": "XST",
+    "name": "Xstable.Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x91383a15c391c142b80045d8b4730c1c37ac0378"
+      }
+    }
+  },
+  {
+    "id": "6474813f-0eaf-4fc9-bfc8-638692e888bb",
+    "symbol": "XST",
+    "name": "Stealth",
+    "platforms": {
+      "stealth": {
+        "token_address": "native"
+      }
+    }
+  }
+]

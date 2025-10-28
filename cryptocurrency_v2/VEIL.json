@@ -1,0 +1,12 @@
+[
+  {
+    "id": "242e3228-8c78-4dea-92ae-734070725ed0",
+    "symbol": "VEIL",
+    "name": "Veil",
+    "platforms": {
+      "veil": {
+        "token_address": "native"
+      }
+    }
+  }
+]

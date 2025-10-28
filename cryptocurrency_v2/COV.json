@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a70e9d89-9d00-4d76-890d-68565aa6d556",
+    "symbol": "COV",
+    "name": "Covesting",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7"
+      }
+    }
+  }
+]

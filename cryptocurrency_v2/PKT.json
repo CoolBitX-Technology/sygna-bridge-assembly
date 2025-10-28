@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e2e434bb-9f73-4c6b-97e9-24a764e99eb5",
+    "symbol": "PKT",
+    "name": "Playkey",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2604fa406be957e542beb89e6754fcde6815e83f"
+      }
+    }
+  }
+]

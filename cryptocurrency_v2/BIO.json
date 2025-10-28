@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3c0a226f-e9ff-4255-ba9c-cd64acba1c5d",
+    "symbol": "BIO",
+    "name": "BioCoin",
+    "platforms": {
+      "biocoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

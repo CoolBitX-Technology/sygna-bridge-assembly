@@ -1,0 +1,15 @@
+[
+  {
+    "id": "a6c011ef-0240-42ed-8234-f7a222273f8a",
+    "symbol": "BHC",
+    "name": "BHEX Token",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xa6381c6fd8f40a44721ef4f61edc1a8ccca7bf3d"
+      },
+      "ethereum": {
+        "token_address": "0xfc29b6e626b67776675fff55d5bc0452d042f434"
+      }
+    }
+  }
+]

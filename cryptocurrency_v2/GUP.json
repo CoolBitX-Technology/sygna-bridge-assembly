@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0826af62-6f1c-4f8e-9a70-877fbdffc880",
+    "symbol": "GUP",
+    "name": "Matchpool",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf7b098298f7c69fc14610bf71d5e02c60792894c"
+      }
+    }
+  }
+]

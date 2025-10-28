@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ecff90ad-75e7-400d-a4a4-c4b970964118",
+    "symbol": "SWFTC",
+    "name": "SwftCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e"
+      }
+    }
+  }
+]

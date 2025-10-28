@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4fe398f8-3cda-44d4-8133-3f2673d9626d",
+    "symbol": "CNNS",
+    "name": "CNNS",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6c3be406174349cfa4501654313d97e6a31072e1"
+      }
+    }
+  }
+]

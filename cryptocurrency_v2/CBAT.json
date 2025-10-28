@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fc6cf299-91f1-4800-8ae1-99ae37a25889",
+    "symbol": "CBAT",
+    "name": "Compound Basic Attention Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e"
+      }
+    }
+  }
+]

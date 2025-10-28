@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1a6184d9-165c-481b-b7dc-6f1124c19028",
+    "symbol": "ZMN",
+    "name": "ZMINE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d"
+      }
+    }
+  }
+]

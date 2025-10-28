@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6b99c029-364d-49cf-82f7-1d5544bb1a4d",
+    "symbol": "VXV",
+    "name": "Vectorspace AI",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7d29a64504629172a429e64183d6673b9dacbfce"
+      }
+    }
+  }
+]

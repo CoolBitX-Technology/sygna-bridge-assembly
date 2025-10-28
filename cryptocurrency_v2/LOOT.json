@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5e055f3b-f755-455e-9efe-741039fa2118",
+    "symbol": "LOOT",
+    "name": "NFTLootBox",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7b3d36eb606f873a75a6ab68f8c999848b04f935"
+      }
+    }
+  }
+]

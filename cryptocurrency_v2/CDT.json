@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bee09650-6c90-4fcf-a6ed-52be5cbb0aa7",
+    "symbol": "CDT",
+    "name": "Blox",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af"
+      }
+    }
+  }
+]

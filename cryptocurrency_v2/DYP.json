@@ -1,0 +1,12 @@
+[
+  {
+    "id": "14d0aaa8-0455-4240-a4e4-bec0803c4b30",
+    "symbol": "DYP",
+    "name": "DeFi Yield Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17"
+      }
+    }
+  }
+]

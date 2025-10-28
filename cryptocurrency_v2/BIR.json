@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dc779664-bd44-49c3-a03b-c1595c6d9e51",
+    "symbol": "BIR",
+    "name": "Birake",
+    "platforms": {
+      "birake": {
+        "token_address": "native"
+      }
+    }
+  }
+]

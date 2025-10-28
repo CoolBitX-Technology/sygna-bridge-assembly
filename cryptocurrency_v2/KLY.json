@@ -1,0 +1,12 @@
+[
+  {
+    "id": "824ca9db-aa8b-470d-8c19-ed34bd1a215a",
+    "symbol": "KLY",
+    "name": "KLYNTAR",
+    "platforms": {
+      "klyntar": {
+        "token_address": "native"
+      }
+    }
+  }
+]

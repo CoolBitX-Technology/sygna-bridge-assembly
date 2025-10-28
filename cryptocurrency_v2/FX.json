@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ee41f805-5a85-4f55-806a-b6a432fbc5a0",
+    "symbol": "FX",
+    "name": "Function X",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057"
+      }
+    }
+  }
+]

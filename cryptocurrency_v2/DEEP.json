@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c6abc75-6692-4d9b-9b3e-d9416d8052e0",
+    "symbol": "DEEP",
+    "name": "DeepCloud AI",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6cbedec4f1ac9d874987d2769596544e0d9161ab"
+      }
+    }
+  }
+]

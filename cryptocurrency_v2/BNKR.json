@@ -1,0 +1,12 @@
+[
+  {
+    "id": "054ccbe8-30a2-4661-a0b8-972d9d14d7eb",
+    "symbol": "BNKR",
+    "name": "Bankroll Network",
+    "platforms": {
+      "tron": {
+        "token_address": "tno59khpq46fgf4sd7xswyfnfyfbc8cqnk"
+      }
+    }
+  }
+]

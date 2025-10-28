@@ -1,0 +1,15 @@
+[
+  {
+    "id": "a9814051-3c4c-4208-a9ca-911db63d62e0",
+    "symbol": "AC",
+    "name": "ACoconut",
+    "platforms": {
+      "affil-coin": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0x9a0aba393aac4dfbff4333b06c407458002c6183"
+      }
+    }
+  }
+]

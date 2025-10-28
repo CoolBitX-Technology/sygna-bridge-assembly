@@ -1,0 +1,12 @@
+[
+  {
+    "id": "317ab9fd-5e86-452b-a65b-f82e69451d78",
+    "symbol": "DRGN",
+    "name": "Dragonchain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e"
+      }
+    }
+  }
+]

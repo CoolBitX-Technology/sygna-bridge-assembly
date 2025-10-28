@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a3599055-8b5f-4aba-a83b-cd9d085c360f",
+    "symbol": "FUND",
+    "name": "Unification",
+    "platforms": {
+      "unification": {
+        "token_address": "native"
+      }
+    }
+  }
+]

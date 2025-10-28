@@ -1,0 +1,12 @@
+[
+  {
+    "id": "de553d48-b657-4fb8-b7e1-3cdee042bad1",
+    "symbol": "RENBTC",
+    "name": "renBTC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d"
+      }
+    }
+  }
+]

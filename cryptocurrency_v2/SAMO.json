@@ -1,0 +1,12 @@
+[
+  {
+    "id": "649c9ee2-40ff-48f7-a25f-797ab4209a89",
+    "symbol": "SAMO",
+    "name": "Samoyedcoin",
+    "platforms": {
+      "solana": {
+        "token_address": "7xkxtg2cw87d97txjsdpbd5jbkhetqa83tzrujosgasu"
+      }
+    }
+  }
+]

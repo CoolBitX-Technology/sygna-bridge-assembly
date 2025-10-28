@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fa826965-0664-4f74-829d-5767f5a8571f",
+    "symbol": "MATH",
+    "name": "MATH",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30"
+      }
+    }
+  }
+]

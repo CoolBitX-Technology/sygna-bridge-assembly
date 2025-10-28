@@ -1,0 +1,12 @@
+[
+  {
+    "id": "09563e5c-0322-460d-84b6-c41195304083",
+    "symbol": "XPRT",
+    "name": "Persistence",
+    "platforms": {
+      "persistence": {
+        "token_address": "native"
+      }
+    }
+  }
+]

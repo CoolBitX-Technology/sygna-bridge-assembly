@@ -1,0 +1,15 @@
+[
+  {
+    "id": "555128d9-c5fa-4e64-b18e-6a61f602cbaf",
+    "symbol": "HT",
+    "name": "Huobi Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
+      },
+      "huobi-eco-chain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cbba6d6f-2c69-4044-8548-fbcdb1f53e79",
+    "symbol": "CUDOS",
+    "name": "CUDOS",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35"
+      }
+    }
+  }
+]

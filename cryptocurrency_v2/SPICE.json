@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5914dd3b-619e-490c-a535-06ee5fe84606",
+    "symbol": "SPICE",
+    "name": "Scifi Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1fdab294eda5112b7d066ed8f2e4e562d5bcc664"
+      }
+    }
+  }
+]

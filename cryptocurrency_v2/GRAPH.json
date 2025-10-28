@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aea70b33-d949-44ae-becd-2964e9d7d10c",
+    "symbol": "GRAPH",
+    "name": "UniGraph",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x165440036ce972c5f8ebef667086707e48b2623e"
+      }
+    }
+  }
+]

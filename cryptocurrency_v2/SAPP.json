@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2b5e8029-6555-4e80-ae63-7ba9713466fa",
+    "symbol": "SAPP",
+    "name": "SappChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4df76a9dab9bb8310e4ad3dc4336a8e26ed24ebb"
+      }
+    }
+  }
+]

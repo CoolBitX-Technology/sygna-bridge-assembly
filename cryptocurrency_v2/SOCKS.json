@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6d50a174-74b7-4c00-a3ff-64b989640a8e",
+    "symbol": "SOCKS",
+    "name": "Unisocks",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5"
+      }
+    }
+  }
+]
