@@ -6796,10 +6796,6 @@
         "coingecko_id": "barter"
     },
     {
-        "currency_id": "sygna:0x8000003c.0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce",
-        "coingecko_id": "1move token"
-    },
-    {
         "currency_id": "sygna:0x8000003c.0xf0e6019c0f16d31294937b3334229909349e00f4",
         "coingecko_id": "ibs"
     },
