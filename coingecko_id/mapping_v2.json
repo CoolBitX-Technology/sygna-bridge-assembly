@@ -8122,5 +8122,9 @@
   {
     "currency_id": "f4494b46-7966-4a94-b29f-2d38e34315f0",
     "coingecko_id": "metal-dollar"
+  },
+  {
+    "currency_id": "58e03cc8-3695-4d3e-86d5-9e2b3f112809",
+    "coingecko_id": "japan-open-chain"
   }
 ]
