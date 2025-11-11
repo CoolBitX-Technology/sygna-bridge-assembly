@@ -1,4 +1,13 @@
 
+## [1.42.0-alpha.2]
+> 2025-11-11
+
+[eee9f21](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/eee9f21) feat   : SYGN-17196 addn JOC
+
+
+[1.42.0-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.42.0-alpha.2
+
+
 ## [1.42.0-alpha.1]
 > 2025-10-28
 
