@@ -1,0 +1,12 @@
+[
+  {
+    "id": "13828faa-42c8-4937-b706-2faddbc9b6e4",
+    "symbol": "BAO",
+    "name": "Bao Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "50c80d7b-7e91-4cdc-a420-92048c509f5a",
+    "symbol": "TIDE",
+    "name": "Tide Protocol",
+    "platforms": {
+      "tron": {
+        "token_address": "tqzxxwmhe6cjgw1ifcdymr9rxdtat3sitz"
+      }
+    }
+  }
+]

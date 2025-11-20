@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f56d6252-b1b7-483e-8a0f-1e88044fb16b",
+    "symbol": "REF",
+    "name": "RefToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x89303500a7abfb178b274fd89f2469c264951e1f"
+      }
+    }
+  }
+]

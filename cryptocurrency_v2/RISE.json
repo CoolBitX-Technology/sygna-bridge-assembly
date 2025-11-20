@@ -1,0 +1,12 @@
+[
+  {
+    "id": "94c88905-8735-41f8-b2d3-fb32a01382cd",
+    "symbol": "RISE",
+    "name": "Rise",
+    "platforms": {
+      "rise": {
+        "token_address": "native"
+      }
+    }
+  }
+]

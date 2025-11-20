@@ -1,0 +1,12 @@
+[
+  {
+    "id": "15d3a88d-2d74-4154-81ba-9a0b642f0bd7",
+    "symbol": "EBTC",
+    "name": "eBitcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeb7c20027172e5d143fb030d50f91cece2d1485d"
+      }
+    }
+  }
+]

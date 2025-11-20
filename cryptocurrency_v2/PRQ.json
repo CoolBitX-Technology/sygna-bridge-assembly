@@ -1,0 +1,12 @@
+[
+  {
+    "id": "daa046ff-3274-449e-b280-ca7376f9f876",
+    "symbol": "PRQ",
+    "name": "PARSIQ",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x362bc847a3a9637d3af6624eec853618a43ed7d2"
+      }
+    }
+  }
+]

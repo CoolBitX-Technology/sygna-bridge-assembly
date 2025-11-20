@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8dc70bab-3434-4d6f-9e0f-23203742ba16",
+    "symbol": "WE",
+    "name": "WE Coin",
+    "platforms": {
+      "we-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ced79ce2-98d3-40be-85ea-f37ec1e6ce28",
+    "symbol": "SHAKE",
+    "name": "SHAKE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6006fc2a849fedaba8330ce36f5133de01f96189"
+      }
+    }
+  }
+]

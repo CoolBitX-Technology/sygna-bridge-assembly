@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4fdb756e-e5bb-4ff3-a20c-893967a4dd3a",
+    "symbol": "KAS",
+    "name": "Kaspa",
+    "platforms": {
+      "kaspa": {
+        "token_address": "native"
+      }
+    }
+  }
+]

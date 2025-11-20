@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c52b7a77-1c7e-4c06-b505-f1dfa327f949",
+    "symbol": "KFC",
+    "name": "Chicken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe63684bcf2987892cefb4caa79bd21b34e98a291"
+      }
+    }
+  }
+]

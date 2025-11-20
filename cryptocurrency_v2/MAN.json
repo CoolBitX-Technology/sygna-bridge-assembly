@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e50781e1-dc05-4389-8fd3-12454c8c2c5e",
+    "symbol": "MAN",
+    "name": "Matrix AI Network",
+    "platforms": {
+      "matrix-ai-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

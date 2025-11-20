@@ -1,0 +1,12 @@
+[
+  {
+    "id": "959c645a-f682-47a0-8b9a-51b44d7aba01",
+    "symbol": "QUBE",
+    "name": "Qube",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x57838ff342f36a1ec18224981ea8715a4667fb3a"
+      }
+    }
+  }
+]

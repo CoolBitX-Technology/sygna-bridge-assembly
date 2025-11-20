@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fa8ab42e-1463-4202-8161-6549d7ac880a",
+    "symbol": "BITO",
+    "name": "BitoPro Exchange Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x93b1e78a3e652cd2e71c4a767595b77282344932"
+      }
+    }
+  }
+]

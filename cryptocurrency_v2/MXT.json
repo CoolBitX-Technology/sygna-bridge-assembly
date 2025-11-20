@@ -1,0 +1,15 @@
+[
+  {
+    "id": "d539fca6-21bf-4d03-b805-97f55e406e6b",
+    "symbol": "MXT",
+    "name": "MixTrust",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6251e725cd45fb1af99354035a414a2c0890b929"
+      },
+      "martexcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

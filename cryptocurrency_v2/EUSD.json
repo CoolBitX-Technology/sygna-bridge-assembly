@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e57b761-5bd2-49ce-9c27-ddfeaa27adaa",
+    "symbol": "EUSD",
+    "name": "Egoras Dollar",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa90c43e0d6c92b8e6171a829beb38be28a0ad073"
+      }
+    }
+  }
+]

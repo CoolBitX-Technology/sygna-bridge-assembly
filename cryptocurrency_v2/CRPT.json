@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c32c1a1e-be40-4485-b115-40a4242e4196",
+    "symbol": "CRPT",
+    "name": "Crypterium",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
+      }
+    }
+  }
+]

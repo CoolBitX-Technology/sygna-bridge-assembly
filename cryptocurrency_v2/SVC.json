@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7bdb384a-d99d-48b9-96b9-fa56e69c600c",
+    "symbol": "SVC",
+    "name": "Satoshivisioncoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x64ea2c6104f1cf3035e28be0f781b6286d50934d"
+      }
+    }
+  }
+]

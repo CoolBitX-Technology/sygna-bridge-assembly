@@ -1,0 +1,12 @@
+[
+  {
+    "id": "35106d32-51d7-47ee-b563-965225b13e89",
+    "symbol": "CHR",
+    "name": "Chromia",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "352a7643-9635-4dea-be19-b6bb3fd6c432",
+    "symbol": "GEAR",
+    "name": "Bitgear",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1b980e05943de3db3a459c72325338d327b6f5a9"
+      }
+    }
+  }
+]

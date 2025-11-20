@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0b7d7bed-840e-4f24-9e78-d746261b2bce",
+    "symbol": "LINX",
+    "name": "Linx",
+    "platforms": {
+      "linx": {
+        "token_address": "native"
+      }
+    }
+  }
+]

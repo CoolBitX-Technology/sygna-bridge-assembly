@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3e5dc576-996f-4d91-89f9-98d6466a8629",
+    "symbol": "XCUR",
+    "name": "Curate",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe1c7e30c42c24582888c758984f6e382096786bd"
+      }
+    }
+  }
+]

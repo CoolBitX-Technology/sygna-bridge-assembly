@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4c158d38-6256-483a-90d8-1d451106ca83",
+    "symbol": "AD",
+    "name": "Asian Dragon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf6dbe88ba55f1793ff0773c9b1275300f830914f"
+      }
+    }
+  }
+]

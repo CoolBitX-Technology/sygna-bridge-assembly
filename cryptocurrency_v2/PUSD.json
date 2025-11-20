@@ -1,0 +1,12 @@
+[
+  {
+    "id": "408629ef-9988-4809-b9df-96f3003403bc",
+    "symbol": "PUSD",
+    "name": "PayUSD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a"
+      }
+    }
+  }
+]

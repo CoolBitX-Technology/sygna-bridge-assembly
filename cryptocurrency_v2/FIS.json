@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fc24a0e8-fa6d-4949-96b5-b6fe4945e089",
+    "symbol": "FIS",
+    "name": "Stafi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d"
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1a0fad08-9526-4ad9-8810-456017e5af9a",
+    "symbol": "STX",
+    "name": "Stox",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45"
+      }
+    }
+  },
+  {
+    "id": "148dba87-f10e-4543-b398-3ed182d162af",
+    "symbol": "STX",
+    "name": "Stacks",
+    "platforms": {
+      "stacks": {
+        "token_address": "native"
+      }
+    }
+  }
+]

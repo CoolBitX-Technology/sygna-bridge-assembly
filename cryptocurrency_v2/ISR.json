@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4e2e89ba-e559-4c63-8def-4d09a29dd17b",
+    "symbol": "ISR",
+    "name": "Insureum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd4a293ae8bb9e0be12e99eb19d48239e8c83a136"
+      }
+    }
+  }
+]

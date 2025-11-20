@@ -1,0 +1,12 @@
+[
+  {
+    "id": "307026ae-e2ef-46a7-b2b4-fd0f42802624",
+    "symbol": "VNT",
+    "name": "VNT Chain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x69d2779533a4d2c780639713558b2cc98c46a9b7"
+      }
+    }
+  }
+]

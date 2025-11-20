@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6cca4f9e-0c48-47af-84d4-20cf1d0f1e6d",
+    "symbol": "CRC",
+    "name": "CryCash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf41e5fbc2f6aac200dd8619e121ce1f05d150077"
+      }
+    }
+  }
+]

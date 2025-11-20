@@ -1,0 +1,15 @@
+[
+  {
+    "id": "53df1a9a-dcb8-4cf4-93d0-ed12830e930f",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "platforms": {
+      "avalanche": {
+        "token_address": "native"
+      },
+      "avalanche-c-chain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

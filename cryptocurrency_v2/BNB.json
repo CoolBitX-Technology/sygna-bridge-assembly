@@ -1,0 +1,21 @@
+[
+  {
+    "id": "03925b5e-49ba-4686-9a7b-cade711c3ea3",
+    "symbol": "BNB",
+    "name": "Binance Coin",
+    "platforms": {
+      "binance-chain": {
+        "token_address": "native"
+      },
+      "binance-smart-chain": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
+      },
+      "polygon": {
+        "token_address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
+      }
+    }
+  }
+]

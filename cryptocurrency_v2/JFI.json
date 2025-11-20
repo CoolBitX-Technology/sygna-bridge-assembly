@@ -1,0 +1,12 @@
+[
+  {
+    "id": "26a5da85-8520-4cb5-b8e9-0d971373738a",
+    "symbol": "JFI",
+    "name": "JackPool.finance",
+    "platforms": {
+      "tron": {
+        "token_address": "tn7zqd2occgusqykz437tzzleagj7egyha"
+      }
+    }
+  }
+]

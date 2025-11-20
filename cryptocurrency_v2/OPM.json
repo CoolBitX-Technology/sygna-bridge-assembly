@@ -1,0 +1,12 @@
+[
+  {
+    "id": "171ab62a-1d28-4774-a92a-ddad59a159ce",
+    "symbol": "OPM",
+    "name": "Omega Protocol Money",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d"
+      }
+    }
+  }
+]

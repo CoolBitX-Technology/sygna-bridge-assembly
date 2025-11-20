@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a404a4d6-2e0f-45d0-a052-ff2742c6403b",
+    "symbol": "SPANK",
+    "name": "SpankChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x42d6622dece394b54999fbd73d108123806f6a18"
+      }
+    }
+  }
+]

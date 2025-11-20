@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b1abacd7-fb40-4f29-9d0a-ef6608075f2b",
+    "symbol": "ZOC",
+    "name": "01coin",
+    "platforms": {
+      "01coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

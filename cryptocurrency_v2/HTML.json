@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d710f6ca-846e-48e2-a4bc-ff9f9715edc2",
+    "symbol": "HTML",
+    "name": "HTMLCOIN",
+    "platforms": {
+      "htmlcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

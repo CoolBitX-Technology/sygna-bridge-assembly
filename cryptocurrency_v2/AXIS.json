@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7954451f-2e3a-47fb-855a-af2cd1f6777b",
+    "symbol": "AXIS",
+    "name": "Axis DeFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xecc0f1f860a82ab3b442382d93853c02d6384389"
+      }
+    }
+  }
+]

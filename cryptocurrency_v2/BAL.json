@@ -1,0 +1,12 @@
+[
+  {
+    "id": "af018023-7f28-4b35-9065-ae951b91a1bb",
+    "symbol": "BAL",
+    "name": "Balancer",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xba100000625a3754423978a60c9317c58a424e3d"
+      }
+    }
+  }
+]

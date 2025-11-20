@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ce784ed3-5c89-496c-8714-0ba4c89abdb3",
+    "symbol": "JFC",
+    "name": "JFIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x940bdcb99a0ee5fb008a606778ae87ed9789f257"
+      }
+    }
+  }
+]

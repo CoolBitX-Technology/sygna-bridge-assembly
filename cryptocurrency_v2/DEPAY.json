@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aa95b156-03ed-4f1c-abee-3d642fcaed51",
+    "symbol": "DEPAY",
+    "name": "DePay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa0bed124a09ac2bd941b10349d8d224fe3c955eb"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "de4e3407-5607-4367-86f8-64fb20d7be94",
+    "symbol": "SWAG",
+    "name": "SWAG Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x87edffde3e14c7a66c9b9724747a1c5696b742e6"
+      }
+    }
+  }
+]

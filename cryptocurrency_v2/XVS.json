@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fe490563-4e05-484d-ae7c-f7b8b96f38ef",
+    "symbol": "XVS",
+    "name": "Venus",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63"
+      }
+    }
+  }
+]

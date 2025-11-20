@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8d3164d0-78bf-47ea-a3b7-698ed8a35868",
+    "symbol": "SOL",
+    "name": "Solana",
+    "platforms": {
+      "solana": {
+        "token_address": "native"
+      }
+    }
+  }
+]

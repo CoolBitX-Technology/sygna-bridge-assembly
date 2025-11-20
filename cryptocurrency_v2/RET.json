@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4e61f9bf-4077-4e2a-a98c-aab8c6c1c641",
+    "symbol": "RET",
+    "name": "RealTract",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd7394087e1dbbe477fe4f1cf373b9ac9459565ff"
+      }
+    }
+  }
+]

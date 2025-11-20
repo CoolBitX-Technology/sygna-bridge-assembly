@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1664330d-15f0-41fb-aa7e-abd4ec994cf1",
+    "symbol": "UNC",
+    "name": "Unicrypt",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf29e46887ffae92f1ff87dfe39713875da541373"
+      }
+    }
+  }
+]

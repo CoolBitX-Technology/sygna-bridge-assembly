@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f1206085-ff9f-425a-8deb-aad61394aace",
+    "symbol": "YOUC",
+    "name": "yOUcash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3d371413dd5489f3a04c07c0c2ce369c20986ceb"
+      }
+    }
+  }
+]

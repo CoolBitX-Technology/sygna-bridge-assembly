@@ -1,0 +1,12 @@
+[
+  {
+    "id": "003e789d-dbe4-4358-90a7-fc99f6a72363",
+    "symbol": "IRIS",
+    "name": "Irisnet",
+    "platforms": {
+      "irisnet": {
+        "token_address": "native"
+      }
+    }
+  }
+]

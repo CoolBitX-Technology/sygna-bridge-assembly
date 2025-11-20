@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e511044d-4de8-4a1d-a845-87bd2c019c5a",
+    "symbol": "DEUS",
+    "name": "DEUS Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3b62f3820e0b035cc4ad602dece6d796bc325325"
+      }
+    }
+  }
+]

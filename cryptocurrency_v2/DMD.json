@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9bd05a33-2446-4b93-876f-b61294566d01",
+    "symbol": "DMD",
+    "name": "Diamond",
+    "platforms": {
+      "diamond": {
+        "token_address": "native"
+      }
+    }
+  }
+]

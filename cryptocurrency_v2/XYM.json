@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ed4c9910-bca6-474f-9bcd-4a167abea1a7",
+    "symbol": "XYM",
+    "name": "Symbol",
+    "platforms": {
+      "symbol": {
+        "token_address": "native"
+      }
+    }
+  }
+]

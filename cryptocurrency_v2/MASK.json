@@ -1,0 +1,18 @@
+[
+  {
+    "id": "3bd6068a-622d-48ed-b5ec-34188a3621d0",
+    "symbol": "MASK",
+    "name": "Mask Network",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3"
+      },
+      "ethereum": {
+        "token_address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074"
+      },
+      "polygon": {
+        "token_address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7"
+      }
+    }
+  }
+]

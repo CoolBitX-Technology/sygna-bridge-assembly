@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e1040168-b295-4439-aa5c-d7df4309f5c2",
+    "symbol": "SUM",
+    "name": "Sumcoin",
+    "platforms": {
+      "sumcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

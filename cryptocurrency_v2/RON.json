@@ -1,0 +1,12 @@
+[
+  {
+    "id": "caf0169e-ad25-445e-91f8-b2f8c6834e8d",
+    "symbol": "RON",
+    "name": "Ronin",
+    "platforms": {
+      "ronin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

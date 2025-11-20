@@ -1,0 +1,15 @@
+[
+  {
+    "id": "36cddfc1-8473-4dbd-88c7-a221b8c420bd",
+    "symbol": "IOV",
+    "name": "Starname",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0e69d0a2bbb30abcb7e5cfea0e4fde19c00a8d47"
+      },
+      "starname": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b3cb6b4-6e91-45af-a2fc-862faa2d1581",
+    "symbol": "LORE",
+    "name": "Gitopia",
+    "platforms": {
+      "gitopia": {
+        "token_address": "native"
+      }
+    }
+  }
+]

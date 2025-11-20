@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ecc0e4f0-6b27-4633-8ba2-25cecf5ce9df",
+    "symbol": "TBTC",
+    "name": "tBTC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8daebade922df735c38c80c7ebd708af50815faa"
+      }
+    }
+  }
+]

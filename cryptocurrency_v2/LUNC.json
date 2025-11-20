@@ -1,0 +1,12 @@
+[
+  {
+    "id": "96c7354c-5edc-4fd3-b496-0165fbebf1e3",
+    "symbol": "LUNC",
+    "name": "Terra Classic",
+    "platforms": {
+      "terra-classic": {
+        "token_address": "native"
+      }
+    }
+  }
+]

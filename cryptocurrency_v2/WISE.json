@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cbc76b3d-c38f-4424-8e5f-39c300dcc33d",
+    "symbol": "WISE",
+    "name": "Wise",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6"
+      }
+    }
+  }
+]

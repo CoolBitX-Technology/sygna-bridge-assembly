@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bf5b608c-c8b1-4747-bfd3-4015b31ec14f",
+    "symbol": "MCO",
+    "name": "MCO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "32801a9b-a4d8-4c7e-9206-b510a16c46bf",
+    "symbol": "INDEX",
+    "name": "Index Cooperative",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0954906da0bf32d5479e25f46056d22f08464cab"
+      }
+    }
+  }
+]

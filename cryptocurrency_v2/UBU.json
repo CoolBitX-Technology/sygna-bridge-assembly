@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3066758f-95f9-4804-ae2e-d4f09ace0146",
+    "symbol": "UBU",
+    "name": "UBU",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6b74dd5d01f8320081247f5cf1f7a48324700db6"
+      }
+    }
+  }
+]

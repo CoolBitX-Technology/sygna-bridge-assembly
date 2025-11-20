@@ -1,0 +1,12 @@
+[
+  {
+    "id": "edec5be4-6ba9-42b0-babc-439e37b55d10",
+    "symbol": "TRTL",
+    "name": "TurtleCoin",
+    "platforms": {
+      "turtlecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

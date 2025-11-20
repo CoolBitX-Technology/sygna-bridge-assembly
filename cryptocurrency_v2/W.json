@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bb4766f7-0928-49a4-ab9f-2e04eec16b8a",
+    "symbol": "W",
+    "name": "Wormhole",
+    "platforms": {
+      "solana": {
+        "token_address": "85vbfqzc9tzkfaptbwjvuw7ybzjy52a6mjtpgjstqamq"
+      }
+    }
+  }
+]

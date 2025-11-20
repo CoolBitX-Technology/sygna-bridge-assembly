@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ee153579-25ef-4761-bf7d-6e4d0fce8661",
+    "symbol": "MINA",
+    "name": "Mina",
+    "platforms": {
+      "mina": {
+        "token_address": "native"
+      }
+    }
+  }
+]

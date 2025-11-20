@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eb05be24-c8f7-4d91-a9ac-700c2f262a1b",
+    "symbol": "BTCZ",
+    "name": "BitcoinZ",
+    "platforms": {
+      "bitcoinz": {
+        "token_address": "native"
+      }
+    }
+  }
+]

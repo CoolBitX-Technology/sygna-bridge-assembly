@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dcb4c2a6-6775-4c24-8239-98a71f0cd524",
+    "symbol": "SKT",
+    "name": "Sukhavati",
+    "platforms": {
+      "sukhavati": {
+        "token_address": "native"
+      }
+    }
+  }
+]

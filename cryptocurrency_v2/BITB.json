@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f0ba378b-dd06-4eee-b8c3-18ed087360f9",
+    "symbol": "BITB",
+    "name": "Bean Cash",
+    "platforms": {
+      "bean-cash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e48705e7-10df-47ad-84de-a54658ebafb5",
+    "symbol": "CAJ",
+    "name": "Cajutel",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e"
+      }
+    }
+  }
+]

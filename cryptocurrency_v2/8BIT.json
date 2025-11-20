@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a031230b-45d9-4f5c-a622-57d6e8880728",
+    "symbol": "8BIT",
+    "name": "8Bit",
+    "platforms": {
+      "8bit": {
+        "token_address": "native"
+      }
+    }
+  }
+]

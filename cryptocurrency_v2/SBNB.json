@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1225a8ea-2e1c-42fa-9559-f876c58e0ce4",
+    "symbol": "SBNB",
+    "name": "sBNB",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x013ae307648f529aa72c5767a334ddd37aab43c3"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f6baa12b-f99d-478e-b203-de50c15d77bc",
+    "symbol": "MDA",
+    "name": "Moeda Loyalty Points",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f86cf75e-9759-41ae-88e0-b1b147ef9277",
+    "symbol": "XENO",
+    "name": "Xenoverse",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdf2705d4368cd2ee3bbff73594ae47244064dffb"
+      }
+    }
+  }
+]

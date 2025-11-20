@@ -1,0 +1,12 @@
+[
+  {
+    "id": "59ecdb1f-574f-469c-973c-2bf4f3f3dcb4",
+    "symbol": "BSC",
+    "name": "Bitsonic",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe541504417670fb76b612b41b4392d967a1956c7"
+      }
+    }
+  }
+]

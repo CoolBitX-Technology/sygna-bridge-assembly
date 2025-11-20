@@ -1,0 +1,12 @@
+[
+  {
+    "id": "48c5d4ae-c028-40d6-b662-053879205451",
+    "symbol": "SKEB",
+    "name": "Skeb Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6d614686550b9e1c1df4b2cd8f91c9d4df66c810"
+      }
+    }
+  }
+]

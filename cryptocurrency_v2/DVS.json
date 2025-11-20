@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5aa0f4d2-6078-449c-a256-e85ca3d9358e",
+    "symbol": "DVS",
+    "name": "Diamond Voucher",
+    "platforms": {
+      "tron": {
+        "token_address": "txpsn9vd4vnsz8xvmhh7iabvaetgwnfnig"
+      }
+    }
+  }
+]

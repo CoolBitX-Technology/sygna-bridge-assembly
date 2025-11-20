@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3390bb5e-1def-4223-bec7-394e3c1785ce",
+    "symbol": "POL",
+    "name": "Polygon Ecosystem Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6"
+      }
+    }
+  },
+  {
+    "id": "cea97ac3-c555-4655-9f51-01f586aa3fab",
+    "symbol": "POL",
+    "name": "Proof Of Liquidity",
+    "platforms": {
+      "tron": {
+        "token_address": "twcddx1q6qeobrji9qehtznd4vcxxuvler"
+      }
+    }
+  },
+  {
+    "id": "5daaf11f-26cc-46d3-b527-8c19a1233799",
+    "symbol": "POL",
+    "name": "Polygon",
+    "platforms": {
+      "polygon": {
+        "token_address": "native"
+      }
+    }
+  }
+]

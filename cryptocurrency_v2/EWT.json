@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cc0cc0c8-9a3f-4d9d-b892-a95a8a313fac",
+    "symbol": "EWT",
+    "name": "Energy Web Token",
+    "platforms": {
+      "energy-web-token": {
+        "token_address": "native"
+      }
+    }
+  }
+]

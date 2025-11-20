@@ -1,0 +1,12 @@
+[
+  {
+    "id": "060792fc-4f63-4905-9316-63374e40408f",
+    "symbol": "MODEX",
+    "name": "Modex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4bcea5e4d0f6ed53cf45e7a28febb2d3621d7438"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c43c9c2a-aa16-4f7a-ab9f-9b66c3198c6c",
+    "symbol": "PERP",
+    "name": "Perpetual Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "de205f90-680d-49b8-8e44-8561a7a328fb",
+    "symbol": "FYP",
+    "name": "FlypMe",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8f0921f30555624143d427b340b1156914882c10"
+      }
+    }
+  }
+]

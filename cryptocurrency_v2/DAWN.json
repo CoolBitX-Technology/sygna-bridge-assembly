@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7843535d-03e3-45b2-8c74-5cd4565fc482",
+    "symbol": "DAWN",
+    "name": "Dawn Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa"
+      }
+    }
+  }
+]

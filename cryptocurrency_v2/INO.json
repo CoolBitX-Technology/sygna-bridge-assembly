@@ -1,0 +1,12 @@
+[
+  {
+    "id": "99c0f37f-a7f7-4dde-b9c7-a15dd997eaed",
+    "symbol": "INO",
+    "name": "INO COIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f"
+      }
+    }
+  }
+]

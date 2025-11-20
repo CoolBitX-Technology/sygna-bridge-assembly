@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0de6b9d6-cd90-4af3-bfc9-4256e7d53873",
+    "symbol": "RITO",
+    "name": "Ritocoin",
+    "platforms": {
+      "ritocoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

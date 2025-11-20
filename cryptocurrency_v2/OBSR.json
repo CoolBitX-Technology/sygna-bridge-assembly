@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c8079f74-b6c5-41d9-b6a7-9523905e7327",
+    "symbol": "OBSR",
+    "name": "Observer",
+    "platforms": {
+      "observer": {
+        "token_address": "native"
+      }
+    }
+  }
+]

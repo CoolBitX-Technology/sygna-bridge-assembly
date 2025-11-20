@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cc90468d-0bd6-4dc7-b5be-4790ae221959",
+    "symbol": "TFUEL",
+    "name": "Theta Fuel",
+    "platforms": {
+      "theta-fuel": {
+        "token_address": "native"
+      }
+    }
+  }
+]

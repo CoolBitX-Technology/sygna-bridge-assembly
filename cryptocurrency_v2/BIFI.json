@@ -1,0 +1,25 @@
+[
+  {
+    "id": "4df47f72-c9e9-4bed-ae18-4fc8c3fb3a13",
+    "symbol": "BIFI",
+    "name": "BiFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdb7bb52ac3f9e2f6153a3f9dcdd4d67f9f836034"
+      }
+    }
+  },
+  {
+    "id": "51564dfb-abee-48e9-864e-579a3082c509",
+    "symbol": "BIFI",
+    "name": "Bitcoin File",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xca3f508b8e4dd382ee878a314789373d80a5190a"
+      },
+      "bitcoin-file": {
+        "token_address": "native"
+      }
+    }
+  }
+]

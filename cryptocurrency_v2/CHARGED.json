@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c2990899-470c-41d2-9f87-a6da8112cf27",
+    "symbol": "CHARGED",
+    "name": "Charged Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0dafe2b22323dac2940d43cede16cd8790c5d4e6"
+      }
+    }
+  }
+]

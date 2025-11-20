@@ -1,0 +1,12 @@
+[
+  {
+    "id": "25c43113-59e8-4f1e-8c98-a1988cac8060",
+    "symbol": "AMP",
+    "name": "Amp",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
+      }
+    }
+  }
+]

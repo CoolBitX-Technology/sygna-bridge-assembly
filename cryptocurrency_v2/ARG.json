@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c6ae89cf-3de4-4638-9051-c910eedc77a4",
+    "symbol": "ARG",
+    "name": "Argentum (dead)",
+    "platforms": {
+      "argentum-(dead)": {
+        "token_address": "native"
+      }
+    }
+  }
+]

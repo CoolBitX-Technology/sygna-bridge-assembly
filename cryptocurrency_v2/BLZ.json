@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fe6a3bc8-51b7-4b93-a795-e414d6ef4a25",
+    "symbol": "BLZ",
+    "name": "Bluzelle",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5732046a883704404f284ce41ffadd5b007fd668"
+      }
+    }
+  }
+]

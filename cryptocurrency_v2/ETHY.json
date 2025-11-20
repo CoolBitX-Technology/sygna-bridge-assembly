@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6dbeef7c-17d6-4f56-b00a-abec3ea04b15",
+    "symbol": "ETHY",
+    "name": "Ethereum Yield",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd1afbccc9a2c2187ea544363b986ea0ab6ef08b5"
+      }
+    }
+  }
+]

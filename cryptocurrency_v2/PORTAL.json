@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cf4863f0-a7b0-4933-99ee-134e18caea19",
+    "symbol": "PORTAL",
+    "name": "Portal",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8db90e3e7d04c875a51997092f9178fcac9defdb"
+      }
+    }
+  }
+]

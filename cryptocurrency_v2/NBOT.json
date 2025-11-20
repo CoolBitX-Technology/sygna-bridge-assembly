@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9ba686cf-8cf7-48e6-ae3a-0c20466e8f11",
+    "symbol": "NBOT",
+    "name": "Naka Bodhi Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x09ccd2da5dcdd0510268d4979e792381337138b8"
+      }
+    }
+  }
+]

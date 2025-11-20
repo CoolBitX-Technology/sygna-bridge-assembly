@@ -1,0 +1,12 @@
+[
+  {
+    "id": "34ab1c3b-6399-4d44-b31a-e1bab29db824",
+    "symbol": "SCAP",
+    "name": "SafeCapital",
+    "platforms": {
+      "safecapital": {
+        "token_address": "native"
+      }
+    }
+  }
+]

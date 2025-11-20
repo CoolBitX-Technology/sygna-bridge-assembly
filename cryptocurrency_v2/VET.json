@@ -1,0 +1,12 @@
+[
+  {
+    "id": "502aae7a-1eda-4b9c-b3ea-e79c8630fcdb",
+    "symbol": "VET",
+    "name": "VeChain",
+    "platforms": {
+      "vechain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b50ce9a0-245e-44b3-bd73-57c530a5c2ad",
+    "symbol": "FLR",
+    "name": "Flare",
+    "platforms": {
+      "flare": {
+        "token_address": "native"
+      }
+    }
+  }
+]

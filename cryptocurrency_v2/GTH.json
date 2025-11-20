@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b433b136-31ed-414e-93bb-6593b1e5272d",
+    "symbol": "GTH",
+    "name": "Gather",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f"
+      }
+    }
+  }
+]

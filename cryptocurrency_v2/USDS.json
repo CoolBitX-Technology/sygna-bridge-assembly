@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b9f87fad-983b-4c6e-bb37-cc796fc5f8b6",
+    "symbol": "USDS",
+    "name": "Stably USD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe"
+      }
+    }
+  }
+]

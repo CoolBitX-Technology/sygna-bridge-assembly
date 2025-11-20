@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0e7ed791-d7b2-4538-9e79-8714eb1bac44",
+    "symbol": "CAPS",
+    "name": "Ternoa",
+    "platforms": {
+      "ternoa": {
+        "token_address": "native"
+      }
+    }
+  }
+]

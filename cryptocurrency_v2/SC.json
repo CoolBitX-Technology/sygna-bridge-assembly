@@ -1,0 +1,12 @@
+[
+  {
+    "id": "914cba0c-a0f6-4b71-b4e4-ef33461c3527",
+    "symbol": "SC",
+    "name": "Sia",
+    "platforms": {
+      "siacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

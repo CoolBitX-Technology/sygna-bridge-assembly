@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f6ff1f64-ebe6-46f3-abb8-cd1d97a49eb6",
+    "symbol": "BTY",
+    "name": "Bityuan",
+    "platforms": {
+      "bityuan": {
+        "token_address": "native"
+      }
+    }
+  }
+]

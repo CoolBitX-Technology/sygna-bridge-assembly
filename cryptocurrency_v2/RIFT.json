@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1ba781a6-5600-4b42-885d-bd67343d5b5a",
+    "symbol": "RIFT",
+    "name": "RIFT Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xadeee1bcb63f3477c45400249e78bc4f565a59e0"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b0a31014-e344-4eba-80c3-6368cdfa0e4c",
+    "symbol": "UNIFI",
+    "name": "UNIFI DeFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0ef3b2024ae079e6dbc2b37435ce30d2731f0101"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9999c888-92fb-4573-8ad5-2e878434a04e",
+    "symbol": "AZERO",
+    "name": "Aleph Zero",
+    "platforms": {
+      "aleph-zero": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e6d0ba92-0e47-4adb-b917-3c60787305d8",
+    "symbol": "RNG",
+    "name": "Ring",
+    "platforms": {
+      "ring": {
+        "token_address": "native"
+      }
+    }
+  }
+]

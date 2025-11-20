@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3f619e05-f1f5-464f-acc6-e5ba818150f2",
+    "symbol": "ASTA",
+    "name": "ASTA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf2ddae89449b7d26309a5d54614b1fc99c608af5"
+      }
+    }
+  }
+]

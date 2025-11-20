@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e3a91bb8-7a9f-4ef0-8924-b6fb44cb4549",
+    "symbol": "ALI",
+    "name": "AiLink Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4289c043a12392f1027307fb58272d8ebd853912"
+      }
+    }
+  }
+]

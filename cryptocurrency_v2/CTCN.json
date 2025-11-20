@@ -1,0 +1,12 @@
+[
+  {
+    "id": "05318f60-1fd4-42cf-8906-ce8743cab8eb",
+    "symbol": "CTCN",
+    "name": "CONTRACOIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2744a466-8ce5-408e-aa60-23fda2c77a03",
+    "symbol": "NAV",
+    "name": "Navcoin",
+    "platforms": {
+      "navcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

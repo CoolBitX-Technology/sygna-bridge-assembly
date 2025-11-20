@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5434a305-70d7-4d57-a723-33179b424168",
+    "symbol": "INX",
+    "name": "INMAX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x84fe25f3921f3426395c883707950d0c00367576"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4830bb90-07ec-4c65-ab00-4826e7b93199",
+    "symbol": "ALP",
+    "name": "ALP Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x37d6e7f287200c740012747d2a79295caed2db35"
+      }
+    }
+  }
+]

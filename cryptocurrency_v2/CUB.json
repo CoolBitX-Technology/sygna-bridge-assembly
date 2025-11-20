@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b5f62683-9fe0-4dbb-87bb-3f0cbf33c8c7",
+    "symbol": "CUB",
+    "name": "Crypto User Base",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa8892bfc33fa44053a9e402b1839966f4fec74a4"
+      }
+    }
+  }
+]

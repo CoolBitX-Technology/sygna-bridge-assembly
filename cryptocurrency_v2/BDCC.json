@@ -1,0 +1,12 @@
+[
+  {
+    "id": "54c2520c-fdf1-48cb-a8f2-94e29d1ae816",
+    "symbol": "BDCC",
+    "name": "BDCC Bitica COIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc87f95aa269dd300d9f1ce49d8e1fd8119a10456"
+      }
+    }
+  }
+]

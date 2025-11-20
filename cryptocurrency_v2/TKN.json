@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6036f87a-fcaf-4b08-8e47-550d2204a016",
+    "symbol": "TKN",
+    "name": "Monolith",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a"
+      }
+    }
+  }
+]

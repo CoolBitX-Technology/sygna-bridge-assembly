@@ -1,0 +1,12 @@
+[
+  {
+    "id": "40ee257f-aded-45d5-9ede-7558adc02566",
+    "symbol": "CRE",
+    "name": "Cybereits",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x115ec79f1de567ec68b7ae7eda501b406626478e"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b1d7bb1d-217a-4a39-ae8b-7ac7d33b79b4",
+    "symbol": "NOVA",
+    "name": "NOVA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb48b7e5bf6563b3e0a85055821a83deb8cfc12f6"
+      }
+    }
+  }
+]

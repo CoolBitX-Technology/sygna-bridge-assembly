@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d9af2ece-f914-43ed-9149-12f75f7df43b",
+    "symbol": "HUNT",
+    "name": "HUNT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5"
+      }
+    }
+  }
+]

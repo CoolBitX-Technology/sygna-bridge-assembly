@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d8264db6-f7aa-4e14-80cb-0ead698221e2",
+    "symbol": "BTH",
+    "name": "Bithereum",
+    "platforms": {
+      "bithereum": {
+        "token_address": "native"
+      }
+    }
+  }
+]

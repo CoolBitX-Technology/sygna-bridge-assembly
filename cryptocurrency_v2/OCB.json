@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6e359258-e8a6-45ca-827e-a3a9c98b5991",
+    "symbol": "OCB",
+    "name": "BLOCKMAX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x466912baa9430a4a460b141ee8c580d817441449"
+      }
+    }
+  }
+]

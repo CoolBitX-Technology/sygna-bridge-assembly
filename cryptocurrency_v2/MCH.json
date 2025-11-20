@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7250e39e-fba0-404e-9a88-5211e1c4566b",
+    "symbol": "MCH",
+    "name": "MeconCash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa4e7414fcba1af15203030c6daac630df8f16aea"
+      }
+    }
+  }
+]

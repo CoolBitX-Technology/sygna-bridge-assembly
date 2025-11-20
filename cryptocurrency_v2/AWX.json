@@ -1,0 +1,12 @@
+[
+  {
+    "id": "70893a9b-e6ec-4764-9699-022fd3394341",
+    "symbol": "AWX",
+    "name": "AurusCOIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x54e46cc89588318e3964ca2c1be94db9d5ca3dfb"
+      }
+    }
+  }
+]

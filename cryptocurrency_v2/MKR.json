@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c0c1578e-9524-4b53-8776-deb6e37dc7cc",
+    "symbol": "MKR",
+    "name": "Maker",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+      }
+    }
+  }
+]

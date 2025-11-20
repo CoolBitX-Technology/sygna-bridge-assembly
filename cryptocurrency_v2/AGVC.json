@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9004aae7-7401-48da-9558-aa3f6c902526",
+    "symbol": "AGVC",
+    "name": "AgaveCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8b79656fc38a04044e495e22fad747126ca305c4"
+      }
+    }
+  }
+]

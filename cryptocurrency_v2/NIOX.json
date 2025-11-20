@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8f63bdf5-ed94-4cbe-990d-1bab4b017288",
+    "symbol": "NIOX",
+    "name": "Autonio",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc813ea5e3b48bebeedb796ab42a30c5599b01740"
+      }
+    }
+  }
+]

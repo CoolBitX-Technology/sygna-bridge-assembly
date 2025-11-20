@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38d48a39-8fa2-45d8-9dd4-a41b6d82c8cc",
+    "symbol": "PURE",
+    "name": "Puriever",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2904b9b16652d7d0408eccfa23a19d4a3358230f"
+      }
+    }
+  }
+]

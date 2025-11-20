@@ -1,0 +1,12 @@
+[
+  {
+    "id": "84d34be9-3eef-4e15-bd03-fa4847231133",
+    "symbol": "MUSD",
+    "name": "mStable USD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5"
+      }
+    }
+  }
+]

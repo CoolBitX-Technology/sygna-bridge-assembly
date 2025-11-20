@@ -1,0 +1,12 @@
+[
+  {
+    "id": "25f7c5b1-996e-40a8-bf93-6c8f45e692e9",
+    "symbol": "LSK",
+    "name": "Lisk",
+    "platforms": {
+      "lisk": {
+        "token_address": "native"
+      }
+    }
+  }
+]

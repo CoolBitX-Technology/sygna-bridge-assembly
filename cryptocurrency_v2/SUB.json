@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a68c6c80-2330-4206-b0e2-7aef00625924",
+    "symbol": "SUB",
+    "name": "Substratum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8d75959f1e61ec2571aa72798237101f084de63a"
+      }
+    }
+  }
+]

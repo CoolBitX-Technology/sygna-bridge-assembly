@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8a1aefa2-2c0a-45fa-9d66-2c113959dfa6",
+    "symbol": "PND",
+    "name": "Pandacoin",
+    "platforms": {
+      "pandacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

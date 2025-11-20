@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b6b4c6ea-dd24-4857-9e81-787098a93f1c",
+    "symbol": "UGAS",
+    "name": "UGAS",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8716fc5da009d3a208f0178b637a50f4ef42400f"
+      }
+    }
+  }
+]

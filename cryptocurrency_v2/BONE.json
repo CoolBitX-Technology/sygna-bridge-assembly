@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1677a89d-f057-4fda-8422-393f58e8b915",
+    "symbol": "BONE",
+    "name": "Bone",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5c84bc60a796534bfec3439af0e6db616a966335"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0f2eaf5e-bb5b-4c40-bd11-903eaa494880",
+    "symbol": "BMX",
+    "name": "BitMart Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8"
+      }
+    }
+  }
+]

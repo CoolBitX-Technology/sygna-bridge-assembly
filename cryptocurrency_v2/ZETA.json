@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5a662f01-2baa-413d-a768-44b86bfcce0d",
+    "symbol": "ZETA",
+    "name": "ZetaChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x32d752688de3bd41b61d15fb87d008b80bc9db68"
+      }
+    }
+  }
+]

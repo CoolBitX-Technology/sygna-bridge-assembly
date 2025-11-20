@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f791e606-f167-4446-959e-db0904205089",
+    "symbol": "CFG",
+    "name": "Centrifuge",
+    "platforms": {
+      "centrifuge": {
+        "token_address": "native"
+      }
+    }
+  }
+]

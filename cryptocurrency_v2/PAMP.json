@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e74ea290-f4d8-42ff-a8b1-b20f63db859f",
+    "symbol": "PAMP",
+    "name": "Pamp Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1"
+      }
+    }
+  }
+]

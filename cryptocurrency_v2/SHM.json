@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1f888961-8820-40c9-830d-399f2c440db3",
+    "symbol": "SHM",
+    "name": "Saham",
+    "platforms": {
+      "saham": {
+        "token_address": "native"
+      }
+    }
+  }
+]

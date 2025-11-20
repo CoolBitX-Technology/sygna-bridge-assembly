@@ -1,0 +1,12 @@
+[
+  {
+    "id": "457d29a6-ea16-40ac-b893-327487dffc18",
+    "symbol": "TRUE",
+    "name": "TrueChain",
+    "platforms": {
+      "truechain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

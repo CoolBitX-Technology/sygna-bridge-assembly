@@ -1,0 +1,12 @@
+[
+  {
+    "id": "91d70085-72f0-44d0-a04f-256e9dccb12f",
+    "symbol": "EMC2",
+    "name": "Einsteinium",
+    "platforms": {
+      "einsteinium": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bf9d9424-2fed-497b-baa6-0d6fc4ead9ef",
+    "symbol": "CBR",
+    "name": "Cybercoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b"
+      }
+    }
+  }
+]

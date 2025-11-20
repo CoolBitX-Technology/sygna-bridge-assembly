@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e4908c83-f118-4405-b40c-b3891bb540bc",
+    "symbol": "YLC",
+    "name": "YoloCash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x21d5678a62dfe63a47062469ebb2fac2817d8832"
+      }
+    }
+  }
+]

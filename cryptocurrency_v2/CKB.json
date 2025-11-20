@@ -1,0 +1,12 @@
+[
+  {
+    "id": "80e33269-8870-4466-97b3-61be09a059fb",
+    "symbol": "CKB",
+    "name": "Nervos Network",
+    "platforms": {
+      "nervos-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

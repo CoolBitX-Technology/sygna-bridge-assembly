@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d17d8f23-b30d-448d-96bf-830c6bb93f85",
+    "symbol": "TRUST",
+    "name": "TrustDAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x57700244b20f84799a31c6c96dadff373ca9d6c5"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8aecd65f-8b28-4169-848a-fe0212fd08c1",
+    "symbol": "BCX",
+    "name": "BitcoinX",
+    "platforms": {
+      "bitcoinx": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "add759aa-16d4-4138-9ef4-7ed2d1687e46",
+    "symbol": "BFF",
+    "name": "Bitcoffeen",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x708aa4e8aaeaad6074dd09cc4e5c52a70452eb39"
+      }
+    }
+  }
+]

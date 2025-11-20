@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e26c3e68-c898-4349-948d-f636f0b7ca78",
+    "symbol": "BUY",
+    "name": "Burency",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc559db74236c1f1dd734e0b4c8d747bb57983e6a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38681c13-80b1-4058-885a-b2a3a0c8d3fe",
+    "symbol": "R34P",
+    "name": "R34P",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcaeaf8381d4b20b43afa42061d6f80319a8881f6"
+      }
+    }
+  }
+]

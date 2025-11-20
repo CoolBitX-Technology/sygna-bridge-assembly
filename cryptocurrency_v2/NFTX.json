@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d471c90c-f20e-4fbc-ac89-a6de7ccc3486",
+    "symbol": "NFTX",
+    "name": "NFTX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f5dbafe6-ee88-44cc-a990-84d4edb8a8e0",
+    "symbol": "DUN",
+    "name": "Dune",
+    "platforms": {
+      "dune": {
+        "token_address": "native"
+      }
+    }
+  }
+]

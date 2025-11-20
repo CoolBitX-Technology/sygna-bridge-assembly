@@ -1,0 +1,12 @@
+[
+  {
+    "id": "df1bb9ed-df74-4173-9dc1-7a832cbc7123",
+    "symbol": "MCT",
+    "name": "Master Contract Token",
+    "platforms": {
+      "neo": {
+        "token_address": "a87cc2a513f5d8b4a42432343687c2127c60bc3f"
+      }
+    }
+  }
+]

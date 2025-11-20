@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2611f45b-36e0-49ee-abf6-118f904a1f2d",
+    "symbol": "SENT",
+    "name": "Sentinel",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037"
+      }
+    }
+  }
+]

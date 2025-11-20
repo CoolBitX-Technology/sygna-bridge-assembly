@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e60c4dae-0746-416d-80b7-77a59502f168",
+    "symbol": "PGOLD",
+    "name": "Pyrrhos Gold",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf02dab52205aff6bb3d47cc7b21624a5064f9fba"
+      }
+    }
+  }
+]

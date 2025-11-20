@@ -1,0 +1,12 @@
+[
+  {
+    "id": "60637f18-302d-487f-abb1-429e58c73c5d",
+    "symbol": "TKP",
+    "name": "TOKPIE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd31695a1d35e489252ce57b129fd4b1b05e6acac"
+      }
+    }
+  }
+]

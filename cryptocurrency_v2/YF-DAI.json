@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ec36b0b3-9bd6-4582-8426-a96b83fe1d8a",
+    "symbol": "YF-DAI",
+    "name": "YFDAI.FINANCE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577"
+      }
+    }
+  }
+]

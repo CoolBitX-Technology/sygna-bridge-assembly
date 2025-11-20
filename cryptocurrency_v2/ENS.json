@@ -1,0 +1,15 @@
+[
+  {
+    "id": "414a2c00-eb96-4735-829d-91e725aacd06",
+    "symbol": "ENS",
+    "name": "Ethereum Name Service",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+      },
+      "solana": {
+        "token_address": "clqsdgogibdnpnvcfp8basn2unvyvb41jd5usywanzag"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c15891fe-8f6f-4057-9cbc-00e4b8d12b35",
+    "symbol": "KDAG",
+    "name": "King DAG",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x95e40e065afb3059dcabe4aaf404c1f92756603a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b9878e38-8ffa-41a4-999a-813a35f5d262",
+    "symbol": "POKT",
+    "name": "Pocket Network",
+    "platforms": {
+      "pocket-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

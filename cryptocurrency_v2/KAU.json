@@ -1,0 +1,12 @@
+[
+  {
+    "id": "28582b40-b74d-4ca6-98ef-b95a964c5ba9",
+    "symbol": "KAU",
+    "name": "Kauri",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe172f366678ec7b559f6c2913a437baadfd4e6c8"
+      }
+    }
+  }
+]

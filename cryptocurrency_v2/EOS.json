@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c6dd2983-d72d-4baa-b65f-8268af91ab2e",
+    "symbol": "EOS",
+    "name": "EOS",
+    "platforms": {
+      "eos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

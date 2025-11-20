@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2fd5c4fe-93c7-41b5-b0b4-05275f395756",
+    "symbol": "STR",
+    "name": "Staker",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbae235823d7255d9d48635ced4735227244cd583"
+      }
+    }
+  }
+]

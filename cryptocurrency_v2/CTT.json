@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7513955f-ea56-4add-886d-7705b00f930a",
+    "symbol": "CTT",
+    "name": "Castweet",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x13c2b7f851e756415cf7d51d04dcf4f94a5b382e"
+      }
+    }
+  }
+]

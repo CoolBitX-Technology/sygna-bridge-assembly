@@ -1,0 +1,12 @@
+[
+  {
+    "id": "90425aa2-65e5-4740-8117-8cc0fda1146e",
+    "symbol": "ZAP",
+    "name": "Zap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104"
+      }
+    }
+  }
+]

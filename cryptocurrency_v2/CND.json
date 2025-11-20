@@ -1,0 +1,12 @@
+[
+  {
+    "id": "19c320be-b94d-40f2-84f3-7d94c0603ce2",
+    "symbol": "CND",
+    "name": "Cindicator",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x91e84ec6101547c1fa39dd565dd8b020e3c20cf2"
+      }
+    }
+  }
+]

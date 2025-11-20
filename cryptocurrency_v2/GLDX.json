@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8d6c41ca-598a-4e2d-93da-82217bb1699b",
+    "symbol": "GLDX",
+    "name": "Etoro GLD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd86a0b407e2c378f6eced3c4b84f91a7f491aaee"
+      }
+    }
+  }
+]

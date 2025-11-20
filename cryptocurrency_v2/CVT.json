@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6356fd42-9f54-40cc-8fe7-dbbc6837c649",
+    "symbol": "CVT",
+    "name": "CyberVein",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbe428c3867f05dea2a89fc76a102b544eac7f772"
+      }
+    }
+  }
+]

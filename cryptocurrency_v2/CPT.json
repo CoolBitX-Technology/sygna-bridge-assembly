@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8382040a-fbb4-4768-b781-56ce79f7f19f",
+    "symbol": "CPT",
+    "name": "Cryptaur",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x88d50b466be55222019d71f9e8fae17f5f45fca1"
+      }
+    }
+  }
+]

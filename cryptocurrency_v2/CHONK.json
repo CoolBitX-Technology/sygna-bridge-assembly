@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a9307fe4-3eb9-42df-827a-b9e1a98c71a2",
+    "symbol": "CHONK",
+    "name": "Chonk",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x84679bc467dc6c2c40ab04538813aff3796351f1"
+      }
+    }
+  }
+]

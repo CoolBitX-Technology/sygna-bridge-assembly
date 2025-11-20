@@ -1,0 +1,12 @@
+[
+  {
+    "id": "21df7b09-a9d2-46b8-a4ef-5e876f233629",
+    "symbol": "PCT",
+    "name": "Pactus",
+    "platforms": {
+      "pactus": {
+        "token_address": "native"
+      }
+    }
+  }
+]

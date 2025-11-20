@@ -1,0 +1,12 @@
+[
+  {
+    "id": "550c6c36-1869-4b9a-b869-74926bccd86b",
+    "symbol": "NEBL",
+    "name": "Neblio",
+    "platforms": {
+      "neblio": {
+        "token_address": "native"
+      }
+    }
+  }
+]

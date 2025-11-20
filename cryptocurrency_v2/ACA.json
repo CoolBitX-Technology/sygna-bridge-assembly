@@ -1,0 +1,12 @@
+[
+  {
+    "id": "949b6d46-52b7-4178-b70c-8d7c789bd612",
+    "symbol": "ACA",
+    "name": "Acala",
+    "platforms": {
+      "acala": {
+        "token_address": "native"
+      }
+    }
+  }
+]

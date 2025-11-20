@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f9ccc57d-485a-4635-aeaf-a740143c9d93",
+    "symbol": "DIGG",
+    "name": "DIGG",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x798d1be841a82a273720ce31c822c61a67a601c3"
+      }
+    }
+  }
+]

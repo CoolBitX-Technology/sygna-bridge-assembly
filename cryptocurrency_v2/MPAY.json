@@ -1,0 +1,12 @@
+[
+  {
+    "id": "08c95f79-94a0-4e9e-a4ba-6a0b71a87186",
+    "symbol": "MPAY",
+    "name": "MenaPay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3810a4ddf41e586fa0dba1463a7951b748cecfca"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4723412e-6cee-4c49-8002-55c622672ab6",
+    "symbol": "HOUSE",
+    "name": "Toast.finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x19810559df63f19cfe88923313250550edadb743"
+      }
+    }
+  }
+]

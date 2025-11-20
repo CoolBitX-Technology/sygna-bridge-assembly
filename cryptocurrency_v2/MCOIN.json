@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3c495adf-5477-4565-8351-21823bc038d2",
+    "symbol": "MCOIN",
+    "name": "Moneta Coin",
+    "platforms": {
+      "moneta-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

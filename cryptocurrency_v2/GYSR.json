@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f91f4e6d-8653-4562-a15f-3e5e7c087a27",
+    "symbol": "GYSR",
+    "name": "GYSR",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab"
+      }
+    }
+  }
+]

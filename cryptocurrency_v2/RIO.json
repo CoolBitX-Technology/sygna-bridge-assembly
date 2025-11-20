@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d4d03826-2630-4cce-b733-f020690e97fa",
+    "symbol": "RIO",
+    "name": "Realio Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf21661d0d1d76d3ecb8e1b9f1c923dbfffae4097"
+      }
+    }
+  }
+]

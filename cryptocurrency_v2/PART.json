@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f03b7fd0-f8b0-4f1a-af66-733ae0332217",
+    "symbol": "PART",
+    "name": "Particl",
+    "platforms": {
+      "particl": {
+        "token_address": "native"
+      }
+    }
+  }
+]

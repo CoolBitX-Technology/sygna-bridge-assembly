@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9a53d956-bd0d-4d45-b6d4-2bdabb212c93",
+    "symbol": "LTHN",
+    "name": "Lethean",
+    "platforms": {
+      "lethean": {
+        "token_address": "native"
+      }
+    }
+  }
+]

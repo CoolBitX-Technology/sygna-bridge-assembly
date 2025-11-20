@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a7fb9372-68a0-4d00-b979-b8b91a8ea491",
+    "symbol": "XTZ",
+    "name": "Tezos",
+    "platforms": {
+      "tezos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

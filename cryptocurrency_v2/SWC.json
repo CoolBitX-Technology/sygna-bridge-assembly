@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4c11c2b0-92c4-4612-811f-b01c3d02257e",
+    "symbol": "SWC",
+    "name": "Scanetchain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xadf8b8050639b6236915f7516d69de714672f0bf"
+      }
+    }
+  }
+]

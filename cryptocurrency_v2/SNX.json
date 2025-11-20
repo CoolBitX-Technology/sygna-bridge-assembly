@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7de1e4c4-1430-48c9-965f-b943860bb58d",
+    "symbol": "SNX",
+    "name": "Synthetix",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+      }
+    }
+  }
+]

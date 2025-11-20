@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e84d5e4b-51f4-4d92-a94e-0f88d2b64786",
+    "symbol": "KIN",
+    "name": "Kin",
+    "platforms": {
+      "kin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

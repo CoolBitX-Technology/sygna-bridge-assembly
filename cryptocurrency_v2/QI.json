@@ -1,0 +1,12 @@
+[
+  {
+    "id": "93f375d8-2209-49c5-8283-e3fd9f99434a",
+    "symbol": "QI",
+    "name": "BENQI",
+    "platforms": {
+      "avalanche-c-chain": {
+        "token_address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5"
+      }
+    }
+  }
+]

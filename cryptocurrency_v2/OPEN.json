@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8d284205-54dc-4f3c-8ca1-8715fbf16cf8",
+    "symbol": "OPEN",
+    "name": "OpenDAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x69e8b9528cabda89fe846c67675b5d73d463a916"
+      }
+    }
+  },
+  {
+    "id": "d859bb52-98c4-412b-847e-d9cb7f1bbc89",
+    "symbol": "OPEN",
+    "name": "Open Platform",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9d86b1b2554ec410eccffbf111a6994910111340"
+      }
+    }
+  }
+]

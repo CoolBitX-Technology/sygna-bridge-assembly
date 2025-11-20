@@ -1,0 +1,12 @@
+[
+  {
+    "id": "304cff73-508c-4bc9-ae22-293f0d2a67ce",
+    "symbol": "EVZ",
+    "name": "Electric Vehicle Zone",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68"
+      }
+    }
+  }
+]

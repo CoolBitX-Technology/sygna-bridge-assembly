@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f453a978-b864-47a7-a224-7cbf2aab47da",
+    "symbol": "ANG",
+    "name": "Aureus Nummus Gold",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x130914e1b240a7f4c5d460b7d3a2fd3846b576fa"
+      }
+    }
+  }
+]

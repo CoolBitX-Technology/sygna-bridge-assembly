@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a258c4da-e1e4-4107-88fc-b60d3587df38",
+    "symbol": "TBX",
+    "name": "Tokenbox",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b"
+      }
+    }
+  }
+]

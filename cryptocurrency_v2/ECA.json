@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ffaefeaa-8175-4bb1-933a-4fe1483979ed",
+    "symbol": "ECA",
+    "name": "Electra",
+    "platforms": {
+      "electra": {
+        "token_address": "native"
+      }
+    }
+  }
+]

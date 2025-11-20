@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d79c860-d1d2-40b4-958b-b3ab52c5c70c",
+    "symbol": "VDAI",
+    "name": "Venus DAI",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1"
+      }
+    }
+  }
+]

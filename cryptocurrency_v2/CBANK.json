@@ -1,0 +1,12 @@
+[
+  {
+    "id": "76a41b40-d083-4047-b0fd-d3a3d0fc97e8",
+    "symbol": "CBANK",
+    "name": "CryptoBank",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086"
+      }
+    }
+  }
+]

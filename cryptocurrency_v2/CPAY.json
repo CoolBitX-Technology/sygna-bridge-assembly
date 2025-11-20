@@ -1,0 +1,22 @@
+[
+  {
+    "id": "f4cd759e-1753-4244-9121-715c6935f4d8",
+    "symbol": "CPAY",
+    "name": "Cryptopay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e"
+      }
+    }
+  },
+  {
+    "id": "96fe9fab-9dde-44a0-86a7-5d855a6c06e7",
+    "symbol": "CPAY",
+    "name": "Chainpay",
+    "platforms": {
+      "tron": {
+        "token_address": "tfyfb5ggmpwvds8ku2x9vpy7idzanpavno"
+      }
+    }
+  }
+]

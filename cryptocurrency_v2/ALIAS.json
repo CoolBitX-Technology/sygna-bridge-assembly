@@ -1,0 +1,12 @@
+[
+  {
+    "id": "64ee0f83-8ac0-4f77-b9aa-f51fce61a1e9",
+    "symbol": "ALIAS",
+    "name": "Alias",
+    "platforms": {
+      "alias": {
+        "token_address": "native"
+      }
+    }
+  }
+]

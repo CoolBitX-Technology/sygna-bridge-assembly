@@ -1,0 +1,12 @@
+[
+  {
+    "id": "73946ac9-0ad2-40e1-9d74-66f5415767f2",
+    "symbol": "CUBE",
+    "name": "Cube Chain Native Token",
+    "platforms": {
+      "cube-chain-native-token": {
+        "token_address": "native"
+      }
+    }
+  }
+]

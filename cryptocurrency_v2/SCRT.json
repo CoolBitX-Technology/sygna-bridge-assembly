@@ -1,0 +1,12 @@
+[
+  {
+    "id": "facc563b-e8d3-4794-bbaa-3cfba95db26d",
+    "symbol": "SCRT",
+    "name": "Secret",
+    "platforms": {
+      "secret-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

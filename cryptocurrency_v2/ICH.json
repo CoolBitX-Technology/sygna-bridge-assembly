@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d375ea8-b1d9-45f3-8b6a-f057db325bd4",
+    "symbol": "ICH",
+    "name": "Idea Chain Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf8483e2d6560585c02d46bf7b3186bf154a96166"
+      }
+    }
+  }
+]

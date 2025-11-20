@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ff6ea510-d83b-4825-9c57-e4c1e43c6a5b",
+    "symbol": "PI",
+    "name": "Pi Network",
+    "platforms": {
+      "pi-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

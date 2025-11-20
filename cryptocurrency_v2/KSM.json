@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38b20ca2-3d69-49b6-99c0-277a5c379bf2",
+    "symbol": "KSM",
+    "name": "Kusama",
+    "platforms": {
+      "kusama": {
+        "token_address": "native"
+      }
+    }
+  }
+]

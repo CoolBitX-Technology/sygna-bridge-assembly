@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6890bc10-716d-4612-9b23-d3e7b6ea40bd",
+    "symbol": "MRPH",
+    "name": "Morpheus.Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7b0c06043468469967dba22d1af33d77d44056c8"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "858a5364-54e3-4567-bb75-ba0ecc1c7192",
+    "symbol": "ATOM",
+    "name": "Cosmos",
+    "platforms": {
+      "cosmos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

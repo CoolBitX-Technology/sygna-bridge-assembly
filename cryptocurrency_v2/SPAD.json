@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ff4834d9-3d00-43cd-9224-151d505abd26",
+    "symbol": "SPAD",
+    "name": "Space Dollar",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4b5216498b646af3121840e7984d466878f2dbcf"
+      }
+    }
+  }
+]

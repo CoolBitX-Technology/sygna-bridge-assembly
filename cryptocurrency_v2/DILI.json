@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c820bb6-d427-4247-bbf2-296b40ed7f4b",
+    "symbol": "DILI",
+    "name": "D Community",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x37f74e99794853777a10ea1dc08a64c86958f06a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "171919dd-cd32-4bf5-8d29-7ba1a2ee8bfe",
+    "symbol": "CCXX",
+    "name": "Counos X",
+    "platforms": {
+      "counos-x": {
+        "token_address": "native"
+      }
+    }
+  }
+]

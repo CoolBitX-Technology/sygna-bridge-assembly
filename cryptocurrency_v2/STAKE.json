@@ -1,0 +1,12 @@
+[
+  {
+    "id": "71b58df7-e4eb-454d-aa9b-99109be89cae",
+    "symbol": "STAKE",
+    "name": "xDai",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0ae055097c6d159879521c384f1d2123d1f195e6"
+      }
+    }
+  }
+]

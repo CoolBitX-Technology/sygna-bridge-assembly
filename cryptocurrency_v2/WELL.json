@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c2484eb2-436f-44b9-a124-206fffd3448a",
+    "symbol": "WELL",
+    "name": "WELL",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1b06b43f3b0bbad73784d858c782e029f3f5af14"
+      }
+    }
+  }
+]

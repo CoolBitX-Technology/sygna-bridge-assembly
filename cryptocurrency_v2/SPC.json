@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1779c261-9cb9-4092-8b79-ff928a478f7a",
+    "symbol": "SPC",
+    "name": "SpaceChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8069080a922834460c3a092fb2c1510224dc066b"
+      }
+    }
+  }
+]

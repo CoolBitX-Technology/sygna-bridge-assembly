@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8908dd13-536c-4f51-abc2-c1e2510d293f",
+    "symbol": "DONUT",
+    "name": "Donut",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9"
+      }
+    }
+  }
+]

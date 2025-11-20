@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9d854416-c2d2-43d9-a781-c99ad90581de",
+    "symbol": "DXN",
+    "name": "DEXON",
+    "platforms": {
+      "dexon": {
+        "token_address": "native"
+      }
+    }
+  }
+]

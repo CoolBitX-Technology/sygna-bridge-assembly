@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1cced2cb-adf1-4bab-8548-de52f78b7403",
+    "symbol": "LOA",
+    "name": "LOA Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7458fd786b2fe8cd801c0381f88b61c5071a006f"
+      }
+    }
+  }
+]

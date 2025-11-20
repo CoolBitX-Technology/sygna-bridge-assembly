@@ -1,0 +1,12 @@
+[
+  {
+    "id": "01eb9247-7f4b-489c-8109-a1d32a1b4d14",
+    "symbol": "FREE",
+    "name": "FREE Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd"
+      }
+    }
+  }
+]

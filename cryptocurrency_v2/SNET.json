@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e747ce5-0299-4af7-a5b3-afe0475e105f",
+    "symbol": "SNET",
+    "name": "Snetwork",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xff19138b039d938db46bdda0067dc4ba132ec71c"
+      }
+    }
+  }
+]

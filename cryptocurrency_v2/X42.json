@@ -1,0 +1,12 @@
+[
+  {
+    "id": "931725e1-a195-4fe6-b6b2-c2829ac79b67",
+    "symbol": "X42",
+    "name": "x42 Protocol",
+    "platforms": {
+      "x42-protocol": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3fc5bcc4-7411-49a4-b9ee-ec2569bc6148",
+    "symbol": "SHIB",
+    "name": "SHIBA INU",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+      }
+    }
+  }
+]

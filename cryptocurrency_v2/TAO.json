@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a705028f-6e31-4ad6-8524-9a8338df1a4c",
+    "symbol": "TAO",
+    "name": "Tao",
+    "platforms": {
+      "tao": {
+        "token_address": "native"
+      }
+    }
+  }
+]

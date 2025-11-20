@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9206413b-b743-43af-a335-80714a8cbbbc",
+    "symbol": "XPR",
+    "name": "Proton",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd7efb00d12c2c13131fd319336fdf952525da2af"
+      }
+    }
+  }
+]

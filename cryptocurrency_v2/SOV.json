@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1ff3935f-e1c3-471a-83e4-1a15d5d9cd9b",
+    "symbol": "SOV",
+    "name": "Sovereign Coin",
+    "platforms": {
+      "sovereign-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

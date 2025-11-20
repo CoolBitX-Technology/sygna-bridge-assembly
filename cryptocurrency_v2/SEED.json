@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d285d554-99cf-41e3-8e50-3803d36c5c26",
+    "symbol": "SEED",
+    "name": "Sesameseed",
+    "platforms": {
+      "tron": {
+        "token_address": "1000001"
+      }
+    }
+  }
+]

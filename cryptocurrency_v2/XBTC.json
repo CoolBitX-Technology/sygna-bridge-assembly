@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f0456aaf-3d03-4d77-a59f-e904a6ae51b9",
+    "symbol": "XBTC",
+    "name": "xBTC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xecbf566944250dde88322581024e611419715f7a"
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "4501614e-b095-42e1-928a-4977b89f4e65",
+    "symbol": "MT",
+    "name": "Monarch",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4442556a08a841227bef04c67a7ba7acf01b6fc8"
+      }
+    }
+  },
+  {
+    "id": "2bea65c8-4480-4475-8c8a-831474231298",
+    "symbol": "MT",
+    "name": "MyToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc"
+      }
+    }
+  }
+]

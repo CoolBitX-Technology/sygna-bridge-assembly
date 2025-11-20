@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d3f60b2-3e4c-4a80-b99f-9580f0257b2c",
+    "symbol": "CDAI",
+    "name": "Compound Dai",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
+      }
+    }
+  }
+]

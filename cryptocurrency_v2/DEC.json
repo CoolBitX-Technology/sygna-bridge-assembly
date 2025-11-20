@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ca171271-ffe4-445e-9e05-c51474630beb",
+    "symbol": "DEC",
+    "name": "Decentr",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3"
+      }
+    }
+  },
+  {
+    "id": "20045e6a-f269-4b6a-8c58-44578d8bff24",
+    "symbol": "DEC",
+    "name": "Distributed Energy Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x58379bf685ea2e251ae63d3ee26269c7c3848a17"
+      },
+      "tron": {
+        "token_address": "1002361"
+      }
+    }
+  }
+]

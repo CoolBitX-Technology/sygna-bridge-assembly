@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f1cbc4b8-69d5-4e54-a0aa-809407743fd6",
+    "symbol": "SOFI",
+    "name": "Social Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaea5e11e22e447fa9837738a0cd2848857748adf"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "444e6d89-11d0-40f9-ae32-8d38c0286558",
+    "symbol": "XNO",
+    "name": "Nano",
+    "platforms": {
+      "nano": {
+        "token_address": "native"
+      }
+    }
+  }
+]

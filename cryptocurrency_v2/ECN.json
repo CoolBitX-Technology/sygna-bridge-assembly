@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1ec38d21-1bd7-4c1f-b45c-d7c44b07c485",
+    "symbol": "ECN",
+    "name": "Ecoin",
+    "platforms": {
+      "ecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "54421a1a-6ced-452e-a402-a9af6d989d60",
+    "symbol": "UCX",
+    "name": "UCX FOUNDATION",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe7cd2c56d3f01f9f8ae542ba5b2f00cf2cf994b1"
+      }
+    }
+  }
+]

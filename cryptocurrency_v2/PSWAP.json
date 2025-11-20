@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c87ec4c-40b3-466f-8db7-b0644b36b892",
+    "symbol": "PSWAP",
+    "name": "PolkaSwap",
+    "platforms": {
+      "polkaswap": {
+        "token_address": "native"
+      }
+    }
+  }
+]

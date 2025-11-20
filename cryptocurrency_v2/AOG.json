@@ -1,0 +1,12 @@
+[
+  {
+    "id": "20e196c7-907a-40f7-9ba3-9ffe46071aba",
+    "symbol": "AOG",
+    "name": "smARTOFGIVING",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8578530205cecbe5db83f7f29ecfeec860c297c2"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2fbc9b94-8a6d-49ef-9240-5eb583d32b7e",
+    "symbol": "SMLY",
+    "name": "SmileyCoin",
+    "platforms": {
+      "smileycoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

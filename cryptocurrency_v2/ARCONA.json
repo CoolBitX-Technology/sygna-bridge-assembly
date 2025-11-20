@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2ddd0432-6b47-4687-9dbb-b20cbcc97dac",
+    "symbol": "ARCONA",
+    "name": "Arcona",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3"
+      }
+    }
+  }
+]

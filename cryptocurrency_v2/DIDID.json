@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d2fc9a97-bc06-49fd-b4d3-71923e100b5e",
+    "symbol": "DIDID",
+    "name": "Didi Duck",
+    "platforms": {
+      "solana": {
+        "token_address": "8e5pw1g1nqpmgvyes1vzx8lokazvuzgl6g1uhr4ivbab"
+      }
+    }
+  }
+]

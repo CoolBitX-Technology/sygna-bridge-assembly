@@ -1,0 +1,12 @@
+[
+  {
+    "id": "034f4c45-63ed-467e-91d9-6e1b743036ad",
+    "symbol": "HEX",
+    "name": "HEX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+      }
+    }
+  }
+]

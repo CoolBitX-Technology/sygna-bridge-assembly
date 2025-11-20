@@ -1,0 +1,12 @@
+[
+  {
+    "id": "28d1b53e-bed1-432d-a5f8-dab243a06b56",
+    "symbol": "HBDC",
+    "name": "happy birthday coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6c4c2cde0a4fb9c045e4ec04e3277d359a820ca6"
+      }
+    }
+  }
+]

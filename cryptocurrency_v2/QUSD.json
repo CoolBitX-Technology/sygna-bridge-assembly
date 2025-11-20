@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0ff4c3f5-8eb5-43a8-8cf8-a7c2dab1d463",
+    "symbol": "QUSD",
+    "name": "QUSD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd6875274b000462f59e9327cbde2cef637914569"
+      }
+    }
+  }
+]

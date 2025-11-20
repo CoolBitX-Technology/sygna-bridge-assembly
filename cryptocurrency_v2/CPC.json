@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dd697c64-e419-4479-b24e-e5653048dd49",
+    "symbol": "CPC",
+    "name": "Capricoin",
+    "platforms": {
+      "capricoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

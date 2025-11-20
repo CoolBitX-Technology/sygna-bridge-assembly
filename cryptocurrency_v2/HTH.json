@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e7f8ec83-d336-4439-87a2-20e8334c4565",
+    "symbol": "HTH",
+    "name": "Help The Homeless Coin",
+    "platforms": {
+      "help-the-homeless-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

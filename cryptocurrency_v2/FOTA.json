@@ -1,0 +1,12 @@
+[
+  {
+    "id": "43134072-c836-4909-853e-7fab4e0b132e",
+    "symbol": "FOTA",
+    "name": "Fortuna",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c"
+      }
+    }
+  }
+]

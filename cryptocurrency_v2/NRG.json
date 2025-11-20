@@ -1,0 +1,15 @@
+[
+  {
+    "id": "47393dac-5160-4d59-b21a-b6d9247726b1",
+    "symbol": "NRG",
+    "name": "Energi",
+    "platforms": {
+      "energi": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0x1416946162b1c2c871a73b07e932d2fb6c932069"
+      }
+    }
+  }
+]

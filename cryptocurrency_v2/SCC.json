@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1933fd28-cc65-4df8-b3ee-6354a64916a2",
+    "symbol": "SCC",
+    "name": "StakeCubeCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x355a458d555151d3b27f94227960ade1504e526a"
+      },
+      "neo": {
+        "token_address": "323571cfc42a40d48d64832a7da594039fbac76a"
+      },
+      "stakecubecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

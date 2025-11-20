@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f33f7bdd-7f95-4de9-bc6f-a9831474ed8f",
+    "symbol": "RDD",
+    "name": "ReddCoin",
+    "platforms": {
+      "reddcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9ef459c5-bd6c-4ad6-bbaa-99a21f8a0e82",
+    "symbol": "ONION",
+    "name": "DeepOnion",
+    "platforms": {
+      "deeponion": {
+        "token_address": "native"
+      }
+    }
+  }
+]

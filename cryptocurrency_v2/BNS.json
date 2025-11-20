@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bef34173-0333-4dbb-bb0c-53a84b531dd9",
+    "symbol": "BNS",
+    "name": "BNS Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd996035db82cae33ba1f16fdf23b816e5e9faabb"
+      }
+    }
+  }
+]

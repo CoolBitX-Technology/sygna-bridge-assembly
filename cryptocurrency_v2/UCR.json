@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cef19e84-93ba-4a98-ba16-0934e73a21f2",
+    "symbol": "UCR",
+    "name": "Ultra Clear",
+    "platforms": {
+      "ultra-clear": {
+        "token_address": "native"
+      }
+    }
+  }
+]

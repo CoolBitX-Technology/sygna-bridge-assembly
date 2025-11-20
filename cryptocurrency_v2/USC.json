@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9049c8cc-5b9f-4c37-8141-b54ebc10b1c1",
+    "symbol": "USC",
+    "name": "Ultimate Secure Cash",
+    "platforms": {
+      "ultimate-secure-cash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

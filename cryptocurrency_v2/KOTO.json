@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4abe700a-aba1-4186-8d70-1043576101f4",
+    "symbol": "KOTO",
+    "name": "Koto",
+    "platforms": {
+      "koto": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "b98e2672-2299-467b-80b9-4e975c7b2579",
+    "symbol": "AGIX",
+    "name": "SingularityNET",
+    "platforms": {
+      "cardano": {
+        "token_address": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958"
+      },
+      "ethereum": {
+        "token_address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542"
+      }
+    }
+  }
+]

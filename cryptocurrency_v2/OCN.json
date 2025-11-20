@@ -1,0 +1,12 @@
+[
+  {
+    "id": "280ef3e7-5055-4809-a35d-ab189509205d",
+    "symbol": "OCN",
+    "name": "Odyssey",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4092678e4e78230f46a1534c0fbc8fa39780892b"
+      }
+    }
+  }
+]

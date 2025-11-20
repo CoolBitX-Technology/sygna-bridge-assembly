@@ -1,0 +1,12 @@
+[
+  {
+    "id": "32b3e81c-8805-45c2-8c1f-2d8af752959a",
+    "symbol": "TCT",
+    "name": "TokenClub",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7"
+      }
+    }
+  }
+]

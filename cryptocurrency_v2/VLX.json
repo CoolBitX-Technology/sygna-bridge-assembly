@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1e4f6da9-a6af-4559-8e84-8614cf8036b0",
+    "symbol": "VLX",
+    "name": "Velas",
+    "platforms": {
+      "velas": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fe48aeda-3240-4e54-a5ae-80945f3315f8",
+    "symbol": "AAA",
+    "name": "Abulaba",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd938137e6d96c72e4a6085412ada2dad78ff89c4"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "74fa00c5-a03b-4ab9-b622-d39237f9242e",
+    "symbol": "MNT",
+    "name": "Money Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x310da5e1e61cd9d6eced092f085941089267e71e"
+      }
+    }
+  }
+]

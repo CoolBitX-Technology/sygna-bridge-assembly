@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c0904ab9-99d9-4637-a713-61580a5749a3",
+    "symbol": "LBK",
+    "name": "LegalBlock",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6"
+      }
+    }
+  }
+]

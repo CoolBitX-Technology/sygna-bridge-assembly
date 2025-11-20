@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5792fc38-4162-4d87-9bd0-43c90ecd691b",
+    "symbol": "LIEN",
+    "name": "Lien",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e"
+      }
+    }
+  }
+]

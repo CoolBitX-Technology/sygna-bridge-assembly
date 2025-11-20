@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a87cf0ca-9ff8-4773-8027-ae1365bb941d",
+    "symbol": "DUO",
+    "name": "DUO Network Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x56e0b2c7694e6e10391e870774daa45cf6583486"
+      }
+    }
+  }
+]

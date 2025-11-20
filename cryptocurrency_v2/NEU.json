@@ -1,0 +1,12 @@
+[
+  {
+    "id": "afedbe88-b1f5-4f89-9d7f-df6f0ccb9f63",
+    "symbol": "NEU",
+    "name": "Neumark",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa823e6722006afe99e91c30ff5295052fe6b8e32"
+      }
+    }
+  }
+]

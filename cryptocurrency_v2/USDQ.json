@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4b691b3a-918d-4de3-a0ed-fbb3a7efb669",
+    "symbol": "USDQ",
+    "name": "USDQ",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4954db6391f4feb5468b6b943d4935353596aec9"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "51849969-4ded-4b92-8ac8-24307b7faee2",
+    "symbol": "WRC",
+    "name": "Worldcore",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7c9d8fb3bde3d9ea6e89170618c2dc3d16695d36"
+      }
+    }
+  }
+]

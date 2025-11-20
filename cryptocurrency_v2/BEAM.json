@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dd317d30-3185-4ad8-9745-90b2bbb2ce6c",
+    "symbol": "BEAM",
+    "name": "Beam",
+    "platforms": {
+      "beam": {
+        "token_address": "native"
+      }
+    }
+  }
+]

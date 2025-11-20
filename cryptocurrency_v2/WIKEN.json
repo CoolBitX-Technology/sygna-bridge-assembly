@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6c31c464-ad9c-4f20-86d5-5e5366ecd39d",
+    "symbol": "WIKEN",
+    "name": "Project WITH",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb7e77aebbe0687d2eff24cc90c41a3b6ea74bdab"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f81357f5-cb88-49fb-8d64-356c39b7805d",
+    "symbol": "VIDT",
+    "name": "VIDT Datalink",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfef4185594457050cc9c23980d301908fe057bb1"
+      }
+    }
+  }
+]

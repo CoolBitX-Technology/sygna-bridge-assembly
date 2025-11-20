@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c23ee268-9e54-41a5-872b-364a4c489d26",
+    "symbol": "ADEL",
+    "name": "Akropolis Delphi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x94d863173ee77439e4292284ff13fad54b3ba182"
+      }
+    }
+  }
+]

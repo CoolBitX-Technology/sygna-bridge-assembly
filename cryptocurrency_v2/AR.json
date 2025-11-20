@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0464bf09-e3d0-434c-8e8e-d84a873e2a82",
+    "symbol": "AR",
+    "name": "Arweave",
+    "platforms": {
+      "arweave": {
+        "token_address": "native"
+      }
+    }
+  }
+]

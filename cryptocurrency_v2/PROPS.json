@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bb44957d-0bde-4a0a-9705-1423f74df7ab",
+    "symbol": "PROPS",
+    "name": "Props Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41"
+      }
+    }
+  }
+]

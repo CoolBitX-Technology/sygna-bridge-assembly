@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4ba3dbc5-5eb0-4fc6-b48f-e7a69ef1119a",
+    "symbol": "BDO",
+    "name": "bDollar",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454"
+      }
+    }
+  }
+]

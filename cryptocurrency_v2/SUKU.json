@@ -1,0 +1,12 @@
+[
+  {
+    "id": "81e3d7b2-4000-4c36-a8db-2bb9869cae0f",
+    "symbol": "SUKU",
+    "name": "SUKU",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7"
+      }
+    }
+  }
+]

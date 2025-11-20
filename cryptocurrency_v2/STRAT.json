@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2f9599af-1562-4ed9-a301-c9c15111af35",
+    "symbol": "STRAT",
+    "name": "Stratis",
+    "platforms": {
+      "stratis": {
+        "token_address": "native"
+      }
+    }
+  }
+]

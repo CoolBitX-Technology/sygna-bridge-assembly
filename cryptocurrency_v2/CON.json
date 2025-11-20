@@ -1,0 +1,12 @@
+[
+  {
+    "id": "067f4cab-e7ea-42e7-8e08-f618b7c2e529",
+    "symbol": "CON",
+    "name": "CONUN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4dd672e77c795844fe3a464ef8ef0faae617c8fb"
+      }
+    }
+  }
+]

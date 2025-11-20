@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8d744fbb-d03d-42cc-8f7f-2879e1427603",
+    "symbol": "XFT",
+    "name": "Offshift",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be"
+      }
+    }
+  }
+]

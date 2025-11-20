@@ -1,0 +1,12 @@
+[
+  {
+    "id": "43ad901e-c203-49c1-b370-740bc16beac7",
+    "symbol": "ASTRO",
+    "name": "AstroTools",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcbd55d4ffc43467142761a764763652b48b969ff"
+      }
+    }
+  }
+]

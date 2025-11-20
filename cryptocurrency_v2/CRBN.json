@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3b78a322-9874-438d-89ab-c33ae81c4895",
+    "symbol": "CRBN",
+    "name": "Carbon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcdeee767bed58c5325f68500115d4b722b3724ee"
+      }
+    }
+  }
+]

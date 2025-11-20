@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1b2170ec-ab9f-4d8a-8f71-f14a7b4cfee4",
+    "symbol": "GMT",
+    "name": "STEPN",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1"
+      },
+      "ethereum": {
+        "token_address": "0xe3c408bd53c31c085a1746af401a4042954ff740"
+      },
+      "solana": {
+        "token_address": "7i5kksx2weitkry7ja4zwsuxghs5ejbejy8vvxr4pfrx"
+      }
+    }
+  }
+]

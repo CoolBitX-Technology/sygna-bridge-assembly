@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4df90e3b-34fe-4a18-9b04-95207c805a4c",
+    "symbol": "DKA",
+    "name": "dKargo",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0"
+      }
+    }
+  }
+]

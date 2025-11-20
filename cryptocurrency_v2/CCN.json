@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b70daa6-4075-4a98-87e5-fed9feb30519",
+    "symbol": "CCN",
+    "name": "CustomContractNetwork",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x17b26400621695c2d8c2d8869f6259e82d7544c4"
+      }
+    }
+  }
+]

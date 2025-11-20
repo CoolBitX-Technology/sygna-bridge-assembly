@@ -1,0 +1,12 @@
+[
+  {
+    "id": "db2edb4f-98ea-4b43-a04f-f688da569d03",
+    "symbol": "NOVO",
+    "name": "Novo",
+    "platforms": {
+      "novo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

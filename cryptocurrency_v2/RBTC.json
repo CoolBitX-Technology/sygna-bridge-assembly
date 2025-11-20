@@ -1,0 +1,12 @@
+[
+  {
+    "id": "15cc4b00-63c4-4074-b5f2-e55878ca4a27",
+    "symbol": "RBTC",
+    "name": "RSK Smart Bitcoin",
+    "platforms": {
+      "rsk-smart-bitcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

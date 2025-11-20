@@ -1,0 +1,12 @@
+[
+  {
+    "id": "39deb2e6-0fa9-47b4-ad70-800590afb6b7",
+    "symbol": "ZYN",
+    "name": "Zynecoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x94ec918ddeecfdfcbf8c8d3e848b7c3e8d8ceaa1"
+      }
+    }
+  }
+]

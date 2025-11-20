@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7ce7fb6a-027c-4385-9860-4b3cdc9ff1aa",
+    "symbol": "DST",
+    "name": "Dynamic Supply",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfa9c3dc54baa9eefbe9453b1f3b3b93ad2af0a77"
+      }
+    }
+  }
+]

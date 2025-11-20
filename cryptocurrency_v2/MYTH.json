@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a8953a77-10d8-433f-9778-4e1fc4c32ac4",
+    "symbol": "MYTH",
+    "name": "Mythos",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003"
+      }
+    }
+  }
+]

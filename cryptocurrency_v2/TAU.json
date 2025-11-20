@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9ed4bc60-3e73-4c14-82fd-36ef936eb2a9",
+    "symbol": "TAU",
+    "name": "Lamden",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc27a2f05fa577a83ba0fdb4c38443c0718356501"
+      }
+    }
+  }
+]

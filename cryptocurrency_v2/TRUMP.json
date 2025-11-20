@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9bd21d87-8c0a-4934-807a-00397f70c578",
+    "symbol": "TRUMP",
+    "name": "OFFICIAL TRUMP",
+    "platforms": {
+      "solana": {
+        "token_address": "6p6xghyf7aee6tzksmfsko444wqop15icusqi2jfgipn"
+      }
+    }
+  }
+]

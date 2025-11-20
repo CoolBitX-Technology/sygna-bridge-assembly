@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e0e690e-97a7-45a6-81a0-92f92ce26062",
+    "symbol": "VSYS",
+    "name": "v.systems",
+    "platforms": {
+      "v.systems": {
+        "token_address": "native"
+      }
+    }
+  }
+]

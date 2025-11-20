@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f5cfb017-f212-4a37-8666-9bd9d8dfa2ed",
+    "symbol": "AIX",
+    "name": "Aigang",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1063ce524265d5a3a624f4914acd573dd89ce988"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "882ee83e-caa7-473c-b47f-bd1b067a6398",
+    "symbol": "HERB",
+    "name": "Herbalist Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x04a020325024f130988782bd5276e53595e8d16e"
+      }
+    }
+  }
+]

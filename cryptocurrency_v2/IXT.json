@@ -1,0 +1,12 @@
+[
+  {
+    "id": "00a936d6-4086-433f-92c4-cea27a666f57",
+    "symbol": "IXT",
+    "name": "IXT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094"
+      }
+    }
+  }
+]

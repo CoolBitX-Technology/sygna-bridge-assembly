@@ -1,0 +1,12 @@
+[
+  {
+    "id": "50236bc4-839c-4e23-9dd7-f76ccc822a84",
+    "symbol": "MKF",
+    "name": "MarketFinance",
+    "platforms": {
+      "marketfinance": {
+        "token_address": "native"
+      }
+    }
+  }
+]

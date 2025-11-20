@@ -1,0 +1,12 @@
+[
+  {
+    "id": "060424d8-1637-40a4-a14f-99cdd4d7fa83",
+    "symbol": "NMR",
+    "name": "Numeraire",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+      }
+    }
+  }
+]

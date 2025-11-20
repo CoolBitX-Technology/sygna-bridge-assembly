@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ccd3c10c-247d-4eb1-8763-edad4234050a",
+    "symbol": "KIND",
+    "name": "Kind Ads Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4618519de4c304f3444ffa7f812dddc2971cc688"
+      }
+    }
+  }
+]

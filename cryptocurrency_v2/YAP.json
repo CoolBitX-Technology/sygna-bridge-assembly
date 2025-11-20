@@ -1,0 +1,12 @@
+[
+  {
+    "id": "23ea3480-7963-402a-89a0-e96676739023",
+    "symbol": "YAP",
+    "name": "Yap Stone",
+    "platforms": {
+      "yap-stone": {
+        "token_address": "native"
+      }
+    }
+  }
+]

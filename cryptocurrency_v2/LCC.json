@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b52953f9-3645-4063-96ef-b38a8913f3f5",
+    "symbol": "LCC",
+    "name": "Litecoin Cash",
+    "platforms": {
+      "litecoin-cash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

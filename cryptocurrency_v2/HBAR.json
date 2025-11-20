@@ -1,0 +1,12 @@
+[
+  {
+    "id": "03019c9e-f112-4463-8274-d654e1d7de6d",
+    "symbol": "HBAR",
+    "name": "Hedera",
+    "platforms": {
+      "hedera-hbar": {
+        "token_address": "native"
+      }
+    }
+  }
+]

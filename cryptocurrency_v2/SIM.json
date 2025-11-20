@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fdb82902-cb19-400f-95a1-f58b03bfe492",
+    "symbol": "SIM",
+    "name": "Simmitri",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7528e3040376edd5db8263db2f5bd1bed91467fb"
+      }
+    }
+  }
+]

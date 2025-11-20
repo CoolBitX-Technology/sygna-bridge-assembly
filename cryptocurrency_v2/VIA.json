@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dbe6a43b-73aa-4b19-8f0b-fd6cda890fd2",
+    "symbol": "VIA",
+    "name": "Viacoin",
+    "platforms": {
+      "viacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "58e03cc8-3695-4d3e-86d5-9e2b3f112809",
+    "symbol": "JOC",
+    "name": "Japan Open Chain",
+    "platforms": {
+      "japan-open-chain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

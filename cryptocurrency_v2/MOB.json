@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fa5c6133-293e-499c-b126-35a182992fa4",
+    "symbol": "MOB",
+    "name": "MobileCoin",
+    "platforms": {
+      "mobilecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

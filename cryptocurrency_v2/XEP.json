@@ -1,0 +1,12 @@
+[
+  {
+    "id": "01dc9d0c-25af-458f-8d0f-1e8e96887d04",
+    "symbol": "XEP",
+    "name": "Electra Protocol",
+    "platforms": {
+      "electra-protocol": {
+        "token_address": "native"
+      }
+    }
+  }
+]

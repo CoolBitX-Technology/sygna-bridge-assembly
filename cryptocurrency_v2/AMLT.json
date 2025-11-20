@@ -1,0 +1,12 @@
+[
+  {
+    "id": "34b9bd95-db3e-46e9-9283-092e4d79e2da",
+    "symbol": "AMLT",
+    "name": "AMLT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xca0e7269600d353f70b14ad118a49575455c0f2f"
+      }
+    }
+  }
+]

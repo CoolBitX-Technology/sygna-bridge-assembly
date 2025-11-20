@@ -1,0 +1,12 @@
+[
+  {
+    "id": "08fadeab-e475-4ba9-b16a-9251d4dc3841",
+    "symbol": "SGT",
+    "name": "snglsDAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc4199fb6ffdb30a829614beca030f9042f1c3992"
+      }
+    }
+  }
+]

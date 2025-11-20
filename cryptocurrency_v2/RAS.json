@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8c288d93-4ded-4a76-9710-1a22265eee98",
+    "symbol": "RAS",
+    "name": "RAKSUR",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x393fac0773c765c80dc887451377d553c46f83b1"
+      }
+    }
+  }
+]

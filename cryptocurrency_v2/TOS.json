@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0c089480-3ac7-4e87-a94b-e8990165f68b",
+    "symbol": "TOS",
+    "name": "ThingsOperatingSystem",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfb5a551374b656c6e39787b1d3a03feab7f3a98e"
+      }
+    }
+  }
+]

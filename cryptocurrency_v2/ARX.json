@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bcc763b2-d6d3-4d6d-b558-c0adfcc458bd",
+    "symbol": "ARX",
+    "name": "ARCS",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7d8daff6d70cead12c6f077048552cf89130a2b1"
+      }
+    }
+  }
+]

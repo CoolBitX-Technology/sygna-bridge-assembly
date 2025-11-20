@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5a1beae9-7dcd-480b-bae3-347e7bfef6fa",
+    "symbol": "ARDR",
+    "name": "Ardor",
+    "platforms": {
+      "ardor": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "69bed96c-5213-4921-8bea-95286258c564",
+    "symbol": "BTCT",
+    "name": "Bitcoin True",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x820a8481451e893bc66dce50c84d45617cac3705"
+      }
+    }
+  }
+]

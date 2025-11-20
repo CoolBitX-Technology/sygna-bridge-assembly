@@ -1,0 +1,32 @@
+[
+  {
+    "id": "8dd83625-1a3b-4715-bdf5-5888ce474b38",
+    "symbol": "GOLD",
+    "name": "Digital Gold",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0d16450d347c12c086d6c94c76c5aaac35ea07e0"
+      }
+    }
+  },
+  {
+    "id": "40829265-c1d5-4fbf-8074-6bd5608b9586",
+    "symbol": "GOLD",
+    "name": "Golden Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11"
+      }
+    }
+  },
+  {
+    "id": "b1f4fc78-dbcb-4d59-a324-aff8987f2b47",
+    "symbol": "GOLD",
+    "name": "Golden Goose",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x40d1f63b5d2048e67e9bedb1b4c2f1a9fb4b6817"
+      }
+    }
+  }
+]

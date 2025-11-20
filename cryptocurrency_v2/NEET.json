@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ce32f775-d70e-4b91-bdf3-dceb90342652",
+    "symbol": "NEET",
+    "name": "NEETCOIN",
+    "platforms": {
+      "neetcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

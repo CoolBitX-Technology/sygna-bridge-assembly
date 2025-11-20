@@ -1,0 +1,12 @@
+[
+  {
+    "id": "41a7572e-3e78-4527-ae6e-973faa193e7c",
+    "symbol": "OAS",
+    "name": "Oasys",
+    "platforms": {
+      "oasys": {
+        "token_address": "native"
+      }
+    }
+  }
+]

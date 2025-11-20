@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f9c322e4-da87-428d-9e07-a6a088491024",
+    "symbol": "FRA",
+    "name": "Findora",
+    "platforms": {
+      "findora": {
+        "token_address": "native"
+      }
+    }
+  }
+]

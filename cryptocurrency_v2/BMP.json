@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2c90217e-e371-423f-b817-8f7aa9d6b79d",
+    "symbol": "BMP",
+    "name": "Brother Music Platform",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x01b23286ff60a543ec29366ae8d6b6274ca20541"
+      }
+    }
+  }
+]

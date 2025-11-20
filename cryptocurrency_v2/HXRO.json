@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0737a758-b617-4922-a897-c35af4dd9219",
+    "symbol": "HXRO",
+    "name": "Hxro",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3"
+      }
+    }
+  }
+]

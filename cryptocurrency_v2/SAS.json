@@ -1,0 +1,12 @@
+[
+  {
+    "id": "de00e959-7a2f-4e2a-8ab1-e2371a8c55af",
+    "symbol": "SAS",
+    "name": "Stand Share",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4c38d0e726b6c86f64c1b281348e725973542043"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a8139cb5-c0cf-4d78-b26d-1e98af6a62d6",
+    "symbol": "REP",
+    "name": "Augur",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1985365e9f78359a9b6ad760e32412f4a445e862"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1665cded-0b69-437d-aee9-25557e1e7cfc",
+    "symbol": "RFI",
+    "name": "reflect.finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "635164f0-dbdc-4afd-b5a0-fe5aebb68109",
+    "symbol": "FUEL",
+    "name": "Etherparty",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d5327e17-f35c-4385-aa69-316b7d599dbc",
+    "symbol": "KTLYO",
+    "name": "Katalyo",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x24e3794605c84e580eea4972738d633e8a7127c8"
+      }
+    }
+  }
+]

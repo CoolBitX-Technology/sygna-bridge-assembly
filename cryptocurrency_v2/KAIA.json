@@ -1,0 +1,12 @@
+[
+  {
+    "id": "090c7045-15c2-41a2-9040-18c45030e45c",
+    "symbol": "KAIA",
+    "name": "Kaia",
+    "platforms": {
+      "Kaia": {
+        "token_address": "native"
+      }
+    }
+  }
+]

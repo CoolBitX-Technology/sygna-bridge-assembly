@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3b8bb1c1-9004-4ddb-8d7b-bbbc5d97e32f",
+    "symbol": "NVC",
+    "name": "Novacoin",
+    "platforms": {
+      "novacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4ca5087c-93e8-48d2-8e67-616ed7d4a772",
+    "symbol": "DSM",
+    "name": "Desmos",
+    "platforms": {
+      "desmos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

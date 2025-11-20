@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cadb452b-82c4-4b82-9c21-d8524d64dc49",
+    "symbol": "CRX",
+    "name": "Chronos",
+    "platforms": {
+      "chronos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

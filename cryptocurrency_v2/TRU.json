@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cda6b866-2f0b-41e5-9c68-61930479b33a",
+    "symbol": "TRU",
+    "name": "TrueFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
+      }
+    }
+  }
+]

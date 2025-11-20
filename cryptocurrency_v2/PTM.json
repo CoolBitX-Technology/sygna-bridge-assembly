@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8b0bd69b-716e-4597-a360-a9e4f2f82285",
+    "symbol": "PTM",
+    "name": "Potentiam",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7c32db0645a259fae61353c1f891151a2e7f8c1e"
+      }
+    }
+  }
+]

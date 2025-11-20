@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bd20c2fc-21ca-41ea-9a39-50cbecece348",
+    "symbol": "PLA",
+    "name": "PlayChip",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4"
+      }
+    }
+  },
+  {
+    "id": "fb888ded-ae98-423e-9956-6d4919b060fd",
+    "symbol": "PLA",
+    "name": "PlayDapp",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430"
+      }
+    }
+  }
+]

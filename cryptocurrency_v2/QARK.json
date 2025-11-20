@@ -1,0 +1,12 @@
+[
+  {
+    "id": "191c14c3-e439-4d08-98ef-1ba9580d75ee",
+    "symbol": "QARK",
+    "name": "QANplatform",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x63120ccd7b415743e8753afd167f5ad4a1732c43"
+      }
+    }
+  }
+]

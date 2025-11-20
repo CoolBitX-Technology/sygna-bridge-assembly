@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b518ca3c-f52a-4338-a4f9-549b22ebfb74",
+    "symbol": "FLC",
+    "name": "Flowchain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x32c4adb9cf57f972bc375129de91c897b4f364f1"
+      }
+    }
+  }
+]

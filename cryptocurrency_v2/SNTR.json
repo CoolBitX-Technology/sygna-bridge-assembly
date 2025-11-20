@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5fa4aece-11b0-4683-84f0-1ba532391b93",
+    "symbol": "SNTR",
+    "name": "Silent Notary",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2859021ee7f2cb10162e67f33af2d22764b31aff"
+      }
+    }
+  }
+]

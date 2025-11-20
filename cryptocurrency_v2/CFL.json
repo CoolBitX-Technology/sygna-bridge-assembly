@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e2c3c255-7981-4d2d-91df-e42980f91566",
+    "symbol": "CFL",
+    "name": "CryptoFlow",
+    "platforms": {
+      "cryptoflow": {
+        "token_address": "native"
+      }
+    }
+  }
+]

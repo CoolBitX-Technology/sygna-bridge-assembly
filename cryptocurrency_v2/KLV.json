@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5717d793-9072-4309-ab2a-d9856fd1520d",
+    "symbol": "KLV",
+    "name": "Klever",
+    "platforms": {
+      "tron": {
+        "token_address": "tvj7rnvhy6thbm7bwdse9g6gxwkhjhdnzs"
+      }
+    }
+  }
+]

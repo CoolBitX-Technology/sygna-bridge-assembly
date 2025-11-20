@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e07a4f76-4543-423b-b6e9-c4e3a0d49c50",
+    "symbol": "HYVE",
+    "name": "Hyve",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd794dd1cada4cf79c9eebaab8327a1b0507ef7d4"
+      }
+    }
+  }
+]

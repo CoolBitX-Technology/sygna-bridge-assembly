@@ -1,0 +1,12 @@
+[
+  {
+    "id": "234d3bc3-df4b-4098-8f8d-a9c120d14357",
+    "symbol": "DUSD",
+    "name": "DefiDollar",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5bc25f649fc4e26069ddf4cf4010f9f706c23831"
+      }
+    }
+  }
+]

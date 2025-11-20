@@ -1,0 +1,22 @@
+[
+  {
+    "id": "aa6fb83c-5ef2-4f92-a631-d7184b92b33a",
+    "symbol": "SKY",
+    "name": "Sky",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x56072c95faa701256059aa122697b133aded9279"
+      }
+    }
+  },
+  {
+    "id": "38e354ba-7d64-43f3-ae7a-60e9e1ae3aa4",
+    "symbol": "SKY",
+    "name": "Skycoin",
+    "platforms": {
+      "skycoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

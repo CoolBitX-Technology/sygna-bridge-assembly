@@ -1,0 +1,12 @@
+[
+  {
+    "id": "73a3a5ca-f06d-4aa5-85a3-be98637a8981",
+    "symbol": "FARM",
+    "name": "Harvest Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa0246c9032bc3a600820415ae600c6388619a14d"
+      }
+    }
+  }
+]

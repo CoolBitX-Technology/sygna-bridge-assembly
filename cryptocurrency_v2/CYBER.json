@@ -1,0 +1,18 @@
+[
+  {
+    "id": "906040c6-5258-4a30-85d7-12c5bf3f793a",
+    "symbol": "CYBER",
+    "name": "CyberConnect",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x14778860e937f509e651192a90589de711fb88a9"
+      },
+      "ethereum": {
+        "token_address": "0x14778860e937f509e651192a90589de711fb88a9"
+      },
+      "optimism": {
+        "token_address": "0x14778860e937f509e651192a90589de711fb88a9"
+      }
+    }
+  }
+]

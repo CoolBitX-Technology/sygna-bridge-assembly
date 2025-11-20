@@ -1,0 +1,12 @@
+[
+  {
+    "id": "56e7ca8e-0309-48fc-a3c2-7eafd4a8fa26",
+    "symbol": "FIL",
+    "name": "Filecoin",
+    "platforms": {
+      "filecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

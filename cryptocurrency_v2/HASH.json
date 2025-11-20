@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e6282f05-db00-4495-9b44-735fe6b2a433",
+    "symbol": "HASH",
+    "name": "Provenance",
+    "platforms": {
+      "provenance": {
+        "token_address": "native"
+      }
+    }
+  }
+]

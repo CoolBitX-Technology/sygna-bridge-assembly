@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0abb9495-2618-41e3-a9e8-67779355e049",
+    "symbol": "SHARD",
+    "name": "Shard",
+    "platforms": {
+      "shard": {
+        "token_address": "native"
+      }
+    }
+  }
+]

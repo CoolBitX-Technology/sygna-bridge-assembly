@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f04de5fa-d392-405c-b37b-aa789f8fc669",
+    "symbol": "HEDG",
+    "name": "HedgeTrade",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f"
+      }
+    }
+  }
+]

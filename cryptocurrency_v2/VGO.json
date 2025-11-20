@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d0064e9-a197-4e08-9f28-b2ab966b88a8",
+    "symbol": "VGO",
+    "name": "VirtualGoodsToken",
+    "platforms": {
+      "virtualgoodstoken": {
+        "token_address": "native"
+      }
+    }
+  }
+]

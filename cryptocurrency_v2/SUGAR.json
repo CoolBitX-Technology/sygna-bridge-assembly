@@ -1,0 +1,12 @@
+[
+  {
+    "id": "80df2949-15df-452e-9fc7-bb78f45bf94e",
+    "symbol": "SUGAR",
+    "name": "Sugarchain",
+    "platforms": {
+      "sugarchain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

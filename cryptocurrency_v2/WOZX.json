@@ -1,0 +1,12 @@
+[
+  {
+    "id": "52b678b6-d340-41f2-8120-eb9db219e5c7",
+    "symbol": "WOZX",
+    "name": "EFFORCE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f"
+      }
+    }
+  }
+]

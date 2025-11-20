@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5dcc0310-f8a0-44d4-b4bc-f018d3571753",
+    "symbol": "BUND",
+    "name": "Bundles Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8d3e855f3f55109d473735ab76f753218400fe96"
+      }
+    }
+  }
+]

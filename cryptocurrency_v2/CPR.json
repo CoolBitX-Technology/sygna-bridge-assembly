@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2b0801c6-a369-46a4-ac9e-cc5dcf614d4e",
+    "symbol": "CPR",
+    "name": "Cipher",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x20ae0ca9d42e6ffeb1188f341a7d63450452def6"
+      }
+    }
+  }
+]

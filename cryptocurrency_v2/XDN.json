@@ -1,0 +1,12 @@
+[
+  {
+    "id": "021b1755-e63e-479b-a321-2d3a1425c972",
+    "symbol": "XDN",
+    "name": "DigitalNote",
+    "platforms": {
+      "digitalnote": {
+        "token_address": "native"
+      }
+    }
+  }
+]

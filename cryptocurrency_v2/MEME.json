@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7d0e8bab-a11b-4843-84e3-d993ed4ec3b4",
+    "symbol": "MEME",
+    "name": "Meme",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd5525d397898e5502075ea5e830d8914f6f0affe"
+      }
+    }
+  }
+]

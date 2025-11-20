@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0749c34b-2db3-46c1-9eea-669a051cb7d5",
+    "symbol": "BIRD",
+    "name": "Bird.Money",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x026e62dded1a6ad07d93d39f96b9eabd59665e0d"
+      }
+    }
+  }
+]

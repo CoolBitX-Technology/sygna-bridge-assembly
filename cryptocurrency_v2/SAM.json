@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c402323a-e966-4d09-98e4-5a51a9718836",
+    "symbol": "SAM",
+    "name": "Samurai",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x53378825d95281737914a8a2ac0e5a9304ae5ed7"
+      }
+    }
+  }
+]

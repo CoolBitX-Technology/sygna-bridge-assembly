@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f7d474d1-0acc-4675-b779-57d7dc4eaf96",
+    "symbol": "WEB",
+    "name": "Webcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf344490abd414dafa97f34c8ca501b0aa5bf8873"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "749e03ce-038b-4601-94fa-310432125891",
+    "symbol": "ALEPH",
+    "name": "Aleph.im",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628"
+      }
+    }
+  }
+]

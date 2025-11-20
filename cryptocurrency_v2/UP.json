@@ -1,0 +1,12 @@
+[
+  {
+    "id": "32df6475-113b-4610-8781-3edf4c2de26b",
+    "symbol": "UP",
+    "name": "UpToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6ba460ab75cd2c56343b3517ffeba60748654d26"
+      }
+    }
+  }
+]

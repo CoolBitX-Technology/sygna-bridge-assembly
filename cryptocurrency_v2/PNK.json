@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3fe712d8-32df-4242-a548-05d200c1fb32",
+    "symbol": "PNK",
+    "name": "Kleros",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d"
+      }
+    }
+  }
+]

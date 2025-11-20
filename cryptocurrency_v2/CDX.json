@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cfd4f3de-585e-4dde-91f2-78a0a3e43534",
+    "symbol": "CDX",
+    "name": "CDX Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6fff3806bbac52a20e0d79bc538d527f6a22c96b"
+      }
+    }
+  }
+]

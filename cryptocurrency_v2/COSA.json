@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c2bb48b6-1822-4dff-b318-2848e457ffc9",
+    "symbol": "COSA",
+    "name": "Cosanta",
+    "platforms": {
+      "cosanta": {
+        "token_address": "native"
+      }
+    }
+  }
+]

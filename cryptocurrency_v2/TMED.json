@@ -1,0 +1,12 @@
+[
+  {
+    "id": "979ebad7-8677-4eb5-9628-f8dbe27dd5a8",
+    "symbol": "TMED",
+    "name": "MDsquare",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd32641191578ea9b208125ddd4ec5e7b84fcab4c"
+      }
+    }
+  }
+]

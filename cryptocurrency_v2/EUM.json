@@ -1,0 +1,12 @@
+[
+  {
+    "id": "953c6027-8fd6-40ac-8124-e72ecfbdebaf",
+    "symbol": "EUM",
+    "name": "Elitium",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6ab4a7d75b0a42b6bc83e852dab9e121f9c610aa"
+      }
+    }
+  }
+]

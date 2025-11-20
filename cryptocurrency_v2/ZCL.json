@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7146db29-c740-4793-8f16-75965cff97a1",
+    "symbol": "ZCL",
+    "name": "ZClassic",
+    "platforms": {
+      "zclassic": {
+        "token_address": "native"
+      }
+    }
+  }
+]

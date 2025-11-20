@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a770c644-38ca-4e05-9de0-af2177e74109",
+    "symbol": "HTR",
+    "name": "Hathor",
+    "platforms": {
+      "hathor": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b518067-59d6-410e-949b-e0a44b3470a0",
+    "symbol": "SALE",
+    "name": "DxSale Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf063fe1ab7a291c5d06a86e14730b00bf24cb589"
+      }
+    }
+  }
+]

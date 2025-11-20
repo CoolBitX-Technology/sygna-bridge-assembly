@@ -1,0 +1,12 @@
+[
+  {
+    "id": "411ee3e5-22e9-4b2b-aff2-b94e1799f5e5",
+    "symbol": "PBTC",
+    "name": "pTokens BTC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "199a8837-6aed-43ff-a2b5-ed8f2b6df880",
+    "symbol": "DVI",
+    "name": "Dvision Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x10633216e7e8281e33c86f02bf8e565a635d9770"
+      }
+    }
+  }
+]

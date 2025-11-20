@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0ee2d05b-ed6d-4295-8126-5b68bf6f83fd",
+    "symbol": "VASH",
+    "name": "Virtual Cash",
+    "platforms": {
+      "virtual-cash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

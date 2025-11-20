@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dccfc18b-4bab-4563-9e4f-4621bf389d1c",
+    "symbol": "CHART",
+    "name": "ChartEx",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1d37986f252d0e349522ea6c3b98cb935495e63e"
+      }
+    }
+  }
+]

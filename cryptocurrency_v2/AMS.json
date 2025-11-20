@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c1668e09-41a9-464a-8dcb-407badbdc03a",
+    "symbol": "AMS",
+    "name": "AmsterdamCoin",
+    "platforms": {
+      "amsterdamcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

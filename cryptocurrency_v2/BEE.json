@@ -1,0 +1,22 @@
+[
+  {
+    "id": "d555a57b-776e-414f-922a-6e77fcb1f56b",
+    "symbol": "BEE",
+    "name": "BeeEx",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1763ad73694d4d64fb71732b068e32ac72a345b1"
+      }
+    }
+  },
+  {
+    "id": "2cc16b98-c31b-410e-a6f5-caf991759499",
+    "symbol": "BEE",
+    "name": "Bee Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4d8fc1453a0f359e99c9675954e656d80d996fbf"
+      }
+    }
+  }
+]

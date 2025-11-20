@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6b053cde-4352-4a05-b3fe-9c8bc3fd0353",
+    "symbol": "STRAX",
+    "name": "Strax",
+    "platforms": {
+      "strax": {
+        "token_address": "native"
+      }
+    }
+  }
+]

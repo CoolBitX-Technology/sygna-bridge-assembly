@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c622a576-c72e-43cf-b894-3abf5df9eda4",
+    "symbol": "AU",
+    "name": "Autonomy",
+    "platforms": {
+      "autonomy": {
+        "token_address": "native"
+      }
+    }
+  }
+]

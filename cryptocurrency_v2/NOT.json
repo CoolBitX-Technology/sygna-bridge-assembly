@@ -1,0 +1,12 @@
+[
+  {
+    "id": "48e74a8d-5aa0-48fd-b0dc-0807d6dc93c9",
+    "symbol": "NOT",
+    "name": "Notcoin",
+    "platforms": {
+      "ton": {
+        "token_address": "eqavlwfdxgf2lxm67y4yzc17wykd9a0guwpkms1gosm__not"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b0debff8-983d-4169-b4a4-e8ee215c03fc",
+    "symbol": "SYN",
+    "name": "SynLev",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1695936d6a953df699c38ca21c2140d497c08bd9"
+      }
+    }
+  }
+]

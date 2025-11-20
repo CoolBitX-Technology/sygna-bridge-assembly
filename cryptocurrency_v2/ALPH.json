@@ -1,0 +1,12 @@
+[
+  {
+    "id": "70116f62-e3b2-4d25-8db3-79a0adce7382",
+    "symbol": "ALPH",
+    "name": "Alephium",
+    "platforms": {
+      "alephium": {
+        "token_address": "native"
+      }
+    }
+  }
+]

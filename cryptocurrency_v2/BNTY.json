@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a97d6a2e-de24-489b-8e09-2f54abd33a42",
+    "symbol": "BNTY",
+    "name": "Bounty0x",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd2d6158683aee4cc838067727209a0aaf4359de3"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0f5fc148-3934-49b9-be66-363fb7d7b543",
+    "symbol": "IMX",
+    "name": "Immutable",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
+      }
+    }
+  }
+]

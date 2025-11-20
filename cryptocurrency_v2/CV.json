@@ -1,0 +1,12 @@
+[
+  {
+    "id": "07592077-b84c-41f3-b506-18931f3088c3",
+    "symbol": "CV",
+    "name": "carVertical",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xda6cb58a0d0c01610a29c5a65c303e13e885887c"
+      }
+    }
+  }
+]

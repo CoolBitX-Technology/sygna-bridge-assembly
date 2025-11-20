@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1594bbf2-ee97-4c58-ad2a-641f5c0865c8",
+    "symbol": "WIN",
+    "name": "WINk",
+    "platforms": {
+      "tron": {
+        "token_address": "tla2f6vpqdgre67v1736s7bj8ray5wyju7"
+      }
+    }
+  }
+]

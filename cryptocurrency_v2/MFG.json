@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4278c593-4486-42f1-a2f5-87eba55106ad",
+    "symbol": "MFG",
+    "name": "Smart MFG",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6710c63432a2de02954fc0f851db07146a6c0312"
+      }
+    }
+  }
+]

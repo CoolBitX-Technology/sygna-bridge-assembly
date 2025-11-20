@@ -1,0 +1,12 @@
+[
+  {
+    "id": "001fec18-9341-422c-a6c6-79b88b4e7ce5",
+    "symbol": "BTW",
+    "name": "BitWhite",
+    "platforms": {
+      "bitwhite": {
+        "token_address": "native"
+      }
+    }
+  }
+]

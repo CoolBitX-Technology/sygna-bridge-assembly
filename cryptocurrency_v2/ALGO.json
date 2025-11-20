@@ -1,0 +1,12 @@
+[
+  {
+    "id": "928fe306-706d-4476-86ae-c22d5f6c616d",
+    "symbol": "ALGO",
+    "name": "Algorand",
+    "platforms": {
+      "algorand": {
+        "token_address": "native"
+      }
+    }
+  }
+]

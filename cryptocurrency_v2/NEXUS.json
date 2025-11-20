@@ -1,0 +1,12 @@
+[
+  {
+    "id": "13436aae-77de-4665-afd6-05e682e66e8c",
+    "symbol": "NEXUS",
+    "name": "Nexus",
+    "platforms": {
+      "nexus": {
+        "token_address": "native"
+      }
+    }
+  }
+]

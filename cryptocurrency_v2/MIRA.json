@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ba795f30-f06d-42f6-ae3a-454f945a2489",
+    "symbol": "MIRA",
+    "name": "Mira Chain",
+    "platforms": {
+      "mira-chain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

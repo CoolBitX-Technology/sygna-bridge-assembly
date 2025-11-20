@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9c953219-a075-476c-ba25-2d1f1862a655",
+    "symbol": "EVO",
+    "name": "DApp Evolution",
+    "platforms": {
+      "tron": {
+        "token_address": "1001757"
+      }
+    }
+  }
+]

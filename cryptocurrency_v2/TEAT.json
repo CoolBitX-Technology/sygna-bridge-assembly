@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9792aeb9-17f7-46c3-b6ea-a8d25f366ed0",
+    "symbol": "TEAT",
+    "name": "TEAL",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x38d58b82cb24a3e0410a7991f255174c9fd8093b"
+      }
+    }
+  }
+]

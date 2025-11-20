@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f445c484-61c5-4ec0-a6e8-35db262b4da2",
+    "symbol": "UNIDX",
+    "name": "UniDex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c"
+      }
+    }
+  }
+]

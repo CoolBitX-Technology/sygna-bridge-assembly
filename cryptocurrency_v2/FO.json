@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f8bc0fd6-230d-4e68-b77f-5376d9b7fcac",
+    "symbol": "FO",
+    "name": "FIBOS",
+    "platforms": {
+      "fibos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

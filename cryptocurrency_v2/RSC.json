@@ -1,0 +1,12 @@
+[
+  {
+    "id": "18c8d127-08a8-49a2-a45f-fb6711e3f97a",
+    "symbol": "RSC",
+    "name": "Royal Sports City",
+    "platforms": {
+      "royal-sports-city": {
+        "token_address": "native"
+      }
+    }
+  }
+]

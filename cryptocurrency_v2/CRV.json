@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c3a13bf3-baa1-4ea8-b84f-89bb24e3f847",
+    "symbol": "CRV",
+    "name": "Curve DAO Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd533a949740bb3306d119cc777fa900ba034cd52"
+      }
+    }
+  }
+]

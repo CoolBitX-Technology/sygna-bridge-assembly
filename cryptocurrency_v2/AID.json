@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d6292b0c-1282-4249-8770-c910a4333feb",
+    "symbol": "AID",
+    "name": "AidCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x37e8789bb9996cac9156cd5f5fd32599e6b91289"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d4736c7a-db7c-47a8-89fb-52be54b4d3f1",
+    "symbol": "TOL",
+    "name": "Tolar",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd07d9fe2d2cc067015e2b4917d24933804f42cfa"
+      }
+    }
+  }
+]

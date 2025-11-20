@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b4666c0d-043e-4b26-80e4-e04599732d09",
+    "symbol": "CY",
+    "name": "Cybits",
+    "platforms": {
+      "cybits": {
+        "token_address": "native"
+      }
+    }
+  }
+]

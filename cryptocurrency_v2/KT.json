@@ -1,0 +1,12 @@
+[
+  {
+    "id": "042774dd-efb7-4aef-bbcf-e72825b6b2bc",
+    "symbol": "KT",
+    "name": "Kuai Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x26ddf6cabadcbf4f013841bd8d914830beb0d984"
+      }
+    }
+  }
+]

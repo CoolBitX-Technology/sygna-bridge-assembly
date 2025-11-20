@@ -1,0 +1,12 @@
+[
+  {
+    "id": "781c8f23-2b92-49cf-948f-6c1c1598f84e",
+    "symbol": "777",
+    "name": "Jackpot",
+    "platforms": {
+      "jackpot": {
+        "token_address": "native"
+      }
+    }
+  }
+]

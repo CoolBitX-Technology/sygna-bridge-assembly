@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ab98c3eb-830f-443b-becc-baef3b998189",
+    "symbol": "KEN",
+    "name": "Keysians Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6a7ef4998eb9d0f706238756949f311a59e05745"
+      }
+    }
+  }
+]

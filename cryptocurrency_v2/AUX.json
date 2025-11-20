@@ -1,0 +1,22 @@
+[
+  {
+    "id": "49921bb3-9309-4c66-9dfe-a77973d134a4",
+    "symbol": "AUX",
+    "name": "Aquila Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x423f3da166470030a86fa76280b2d688fce1f722"
+      }
+    }
+  },
+  {
+    "id": "f27bc105-3c65-4a86-b476-67d8b70e40cc",
+    "symbol": "AUX",
+    "name": "Auxilium",
+    "platforms": {
+      "auxilium": {
+        "token_address": "native"
+      }
+    }
+  }
+]

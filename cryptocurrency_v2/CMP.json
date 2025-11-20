@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7f9c4199-a39c-42b3-9917-a754ca83eb78",
+    "symbol": "CMP",
+    "name": "Compcoin",
+    "platforms": {
+      "compcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

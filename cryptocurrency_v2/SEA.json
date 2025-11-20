@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8cf9b5ec-ee94-4e71-9013-267749bced93",
+    "symbol": "SEA",
+    "name": "Second Exchange Alliance",
+    "platforms": {
+      "second-exchange-alliance": {
+        "token_address": "native"
+      }
+    }
+  }
+]

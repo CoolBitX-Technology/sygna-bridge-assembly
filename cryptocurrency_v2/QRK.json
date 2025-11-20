@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9d43aa8d-57eb-4ac0-8509-d842ee280bbc",
+    "symbol": "QRK",
+    "name": "Quark",
+    "platforms": {
+      "quark": {
+        "token_address": "native"
+      }
+    }
+  }
+]

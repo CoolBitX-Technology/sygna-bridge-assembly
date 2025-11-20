@@ -1,0 +1,12 @@
+[
+  {
+    "id": "98d7a263-7052-451b-a4c9-22e141fa94a0",
+    "symbol": "CWBTC",
+    "name": "Compound Wrapped BTC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4"
+      }
+    }
+  }
+]

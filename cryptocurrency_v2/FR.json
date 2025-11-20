@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a2be4cc1-da46-4f90-9cae-35d16d3a8b45",
+    "symbol": "FR",
+    "name": "Freedom Reserve",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532"
+      }
+    }
+  }
+]

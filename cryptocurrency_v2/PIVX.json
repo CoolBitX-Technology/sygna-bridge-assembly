@@ -1,0 +1,12 @@
+[
+  {
+    "id": "31db386a-862f-467a-9a26-5bdbe1503188",
+    "symbol": "PIVX",
+    "name": "PIVX",
+    "platforms": {
+      "pivx": {
+        "token_address": "native"
+      }
+    }
+  }
+]

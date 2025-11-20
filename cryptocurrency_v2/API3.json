@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c406f39c-738b-4c5a-9827-f4d7531f90e7",
+    "symbol": "API3",
+    "name": "API3",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a102f40e-90bf-411e-ad19-5ae6f0340868",
+    "symbol": "JET",
+    "name": "Jetcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8727c112c712c4a03371ac87a74dd6ab104af768"
+      }
+    }
+  }
+]

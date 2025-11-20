@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c7c4794-7770-4459-b68d-9ff94b562381",
+    "symbol": "ORO",
+    "name": "ORO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc3eb2622190c57429aac3901808994443b64b466"
+      }
+    }
+  }
+]

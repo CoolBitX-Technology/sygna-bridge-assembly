@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a94d9261-9ed4-498f-8213-23a82a53e550",
+    "symbol": "VIDYX",
+    "name": "VidyX",
+    "platforms": {
+      "tron": {
+        "token_address": "1003518"
+      }
+    }
+  }
+]

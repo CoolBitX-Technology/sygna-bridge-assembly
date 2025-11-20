@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5b71c3ff-3a6e-4026-b898-1f6b26c17930",
+    "symbol": "GUSD",
+    "name": "Gemini Dollar",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd"
+      }
+    }
+  }
+]

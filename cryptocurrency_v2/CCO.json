@@ -1,0 +1,12 @@
+[
+  {
+    "id": "28e7dd63-6bb8-429f-871b-9ec812d70bb5",
+    "symbol": "CCO",
+    "name": "Ccore",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x679badc551626e01b23ceecefbc9b877ea18fc46"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c3be4a64-79e1-4c1a-8118-097eb55d8124",
+    "symbol": "EUNO",
+    "name": "EUNO",
+    "platforms": {
+      "euno": {
+        "token_address": "native"
+      }
+    }
+  }
+]

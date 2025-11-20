@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0117121a-814f-4d44-9aa8-d8e3ff4418e4",
+    "symbol": "GDAO",
+    "name": "Governor DAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc"
+      }
+    }
+  }
+]

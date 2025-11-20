@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bf93d92f-efaa-48ac-8a16-a154589cb54e",
+    "symbol": "DIN",
+    "name": "Dinero",
+    "platforms": {
+      "dinero": {
+        "token_address": "native"
+      }
+    }
+  }
+]

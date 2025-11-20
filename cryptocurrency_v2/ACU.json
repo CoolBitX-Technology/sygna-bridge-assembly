@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5067cbd2-7574-409e-ba58-bb48bbbb3b43",
+    "symbol": "ACU",
+    "name": "Aitheon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd536bbd5414a8c2beed82a63737b9327d2fa35a6"
+      }
+    }
+  }
+]

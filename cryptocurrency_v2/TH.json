@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ad9c7d33-9482-476f-8ccd-49f1c44ad213",
+    "symbol": "TH",
+    "name": "TianHe",
+    "platforms": {
+      "tianhe": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5106b62b-277f-4577-acf8-16e312f8541a",
+    "symbol": "ICP",
+    "name": "Internet Computer (DFINITY)",
+    "platforms": {
+      "internet-computer": {
+        "token_address": "native"
+      }
+    }
+  }
+]

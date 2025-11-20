@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cac4a5cd-0c29-4eed-a895-9ed732e772cf",
+    "symbol": "ERG",
+    "name": "Ergo",
+    "platforms": {
+      "ergo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

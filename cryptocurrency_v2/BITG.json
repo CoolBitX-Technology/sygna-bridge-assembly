@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9b37b596-004c-44f6-9f6d-615ad2e86069",
+    "symbol": "BITG",
+    "name": "BitGreen",
+    "platforms": {
+      "bitgreen": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b68cbb09-fd78-44c2-9e28-762b4b34b36b",
+    "symbol": "DION",
+    "name": "Dionpay",
+    "platforms": {
+      "eos": {
+        "token_address": "dionpaydteam"
+      }
+    }
+  }
+]

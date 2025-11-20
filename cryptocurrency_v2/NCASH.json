@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a47db246-8a57-4772-b7e9-2c5581fb9131",
+    "symbol": "NCASH",
+    "name": "Nucleus Vision",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x809826cceab68c387726af962713b64cb5cb3cca"
+      }
+    }
+  }
+]

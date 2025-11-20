@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b173ead6-e14b-4c63-92e9-02e47f7d6a4e",
+    "symbol": "ROND",
+    "name": "ROND",
+    "platforms": {
+      "polygon": {
+        "token_address": "0x204820b6e6feae805e376d2c6837446186e57981"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fd20c9ce-08cf-44c9-97ce-b2786b71b41e",
+    "symbol": "GLM",
+    "name": "Golem",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429"
+      }
+    }
+  }
+]

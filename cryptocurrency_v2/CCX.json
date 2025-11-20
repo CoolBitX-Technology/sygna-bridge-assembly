@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9994a011-a896-4ddd-b1d3-7e7eeefb0116",
+    "symbol": "CCX",
+    "name": "Conceal",
+    "platforms": {
+      "conceal": {
+        "token_address": "native"
+      }
+    }
+  }
+]

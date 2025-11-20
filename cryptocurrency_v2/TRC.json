@@ -1,0 +1,12 @@
+[
+  {
+    "id": "89f6036b-3421-4b24-afe5-a64db3867fe1",
+    "symbol": "TRC",
+    "name": "Terracoin",
+    "platforms": {
+      "terracoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

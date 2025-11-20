@@ -1,0 +1,12 @@
+[
+  {
+    "id": "feb767f5-9594-48db-9f07-51c6718799a5",
+    "symbol": "ROYA",
+    "name": "Royale Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db"
+      }
+    }
+  }
+]

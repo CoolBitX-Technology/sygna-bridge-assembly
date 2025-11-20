@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6ce5b719-11de-4f06-bd1e-9036c42c8a0e",
+    "symbol": "CREAM",
+    "name": "Cream Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2ba592f78db6436527729929aaf6c908497cb200"
+      }
+    }
+  }
+]

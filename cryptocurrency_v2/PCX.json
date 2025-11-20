@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2d753b41-30f2-4ea8-8a61-947534edf13c",
+    "symbol": "PCX",
+    "name": "ChainX",
+    "platforms": {
+      "chainx": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b269733a-005d-4ee0-b23d-46043bbbf042",
+    "symbol": "BASE",
+    "name": "Base Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x07150e919b4de5fd6a63de1f9384828396f25fdc"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a5c6c524-74ca-46fa-b18b-d1179d95356c",
+    "symbol": "HVH",
+    "name": "HAVAH",
+    "platforms": {
+      "havah": {
+        "token_address": "native"
+      }
+    }
+  }
+]

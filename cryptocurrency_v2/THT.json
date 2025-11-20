@@ -1,0 +1,12 @@
+[
+  {
+    "id": "de3436da-0add-421f-9baf-88fed8082a47",
+    "symbol": "THT",
+    "name": "ThoughtAI",
+    "platforms": {
+      "thoughtai": {
+        "token_address": "native"
+      }
+    }
+  }
+]

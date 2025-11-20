@@ -1,0 +1,12 @@
+[
+  {
+    "id": "efc0b29f-1606-4993-bbb1-8cafea563b05",
+    "symbol": "PRV",
+    "name": "Incognito Privacy",
+    "platforms": {
+      "incognito-privacy": {
+        "token_address": "native"
+      }
+    }
+  }
+]

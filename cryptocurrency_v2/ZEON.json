@@ -1,0 +1,12 @@
+[
+  {
+    "id": "897f2bb1-0248-44e9-94d5-d2d3c8f8f684",
+    "symbol": "ZEON",
+    "name": "ZEON",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532"
+      }
+    }
+  }
+]

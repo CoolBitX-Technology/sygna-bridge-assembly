@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c30f5aff-cd59-40a9-9f31-11ae3c641964",
+    "symbol": "USDA",
+    "name": "USDA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3c7b464376db7c9927930cf50eefdea2eff3a66a"
+      }
+    }
+  }
+]

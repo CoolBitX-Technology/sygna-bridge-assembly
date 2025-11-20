@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3b50c4e0-87d4-439b-a7b7-3daa9e0286d9",
+    "symbol": "BSOV",
+    "name": "BitcoinSoV",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1"
+      }
+    }
+  }
+]

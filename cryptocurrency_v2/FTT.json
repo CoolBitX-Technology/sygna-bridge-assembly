@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8b9f6343-9369-45ea-a530-90cfda5261c3",
+    "symbol": "FTT",
+    "name": "FarmaTrust",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2aec18c5500f21359ce1bea5dc1777344df4c0dc"
+      }
+    }
+  }
+]

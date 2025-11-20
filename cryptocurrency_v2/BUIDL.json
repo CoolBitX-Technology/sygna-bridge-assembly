@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1ebc3f91-265a-4b32-94d7-89388c76c495",
+    "symbol": "BUIDL",
+    "name": "DFOhub",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7b123f53421b1bf8533339bfbdc7c98aa94163db"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "45e238c7-e107-40fc-baba-ebae50a77e03",
+    "symbol": "APT",
+    "name": "Aptos",
+    "platforms": {
+      "aptos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

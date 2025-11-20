@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a5f611f0-e3aa-4ee1-9852-4b1d3914806e",
+    "symbol": "POP",
+    "name": "POP Network Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5d858bcd53e085920620549214a8b27ce2f04670"
+      }
+    }
+  }
+]

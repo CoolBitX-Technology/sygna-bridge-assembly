@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d7a171ef-5ff0-45a9-89a0-31125187bfdc",
+    "symbol": "VOW",
+    "name": "VowChain VOW",
+    "platforms": {
+      "vowchain-vow": {
+        "token_address": "native"
+      }
+    }
+  }
+]

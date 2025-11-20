@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5f236939-3a2d-455b-965a-38553ef1d5b2",
+    "symbol": "INSN",
+    "name": "InsaneCoin",
+    "platforms": {
+      "insanecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

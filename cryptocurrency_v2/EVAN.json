@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8428aa72-9da1-4b0d-8c5d-d9d48540ce38",
+    "symbol": "EVAN",
+    "name": "Evan",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x89e3ac6dd69c15e9223be7649025d6f68dab1d6a"
+      }
+    }
+  }
+]

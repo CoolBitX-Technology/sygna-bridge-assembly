@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3e3b130d-d74c-46d2-a163-bdc1a8be11ff",
+    "symbol": "TT",
+    "name": "Thunder Token",
+    "platforms": {
+      "thunder-token": {
+        "token_address": "native"
+      }
+    }
+  }
+]

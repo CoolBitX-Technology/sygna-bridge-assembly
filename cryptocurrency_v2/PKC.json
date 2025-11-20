@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7ff24d57-fbd2-452e-8b90-e4a1dc900061",
+    "symbol": "PKC",
+    "name": "PKC",
+    "platforms": {
+      "pkc": {
+        "token_address": "native"
+      }
+    }
+  }
+]

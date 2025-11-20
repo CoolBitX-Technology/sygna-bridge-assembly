@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5f54cef4-cf40-4854-b31a-1a810401ca90",
+    "symbol": "1MT",
+    "name": "1Million Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce"
+      }
+    }
+  }
+]

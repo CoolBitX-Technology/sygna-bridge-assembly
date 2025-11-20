@@ -1,0 +1,12 @@
+[
+  {
+    "id": "651d6069-dacf-4884-9f8d-a68a5422c71a",
+    "symbol": "VIDYA",
+    "name": "Vidya",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30"
+      }
+    }
+  }
+]

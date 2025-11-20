@@ -1,0 +1,12 @@
+[
+  {
+    "id": "73f078c9-c0de-4285-bcd3-e01a5bcee0a7",
+    "symbol": "BDT",
+    "name": "BlackDragon",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7bce667ef12023dc5f8577d015a2f09d99a5ef58"
+      }
+    }
+  }
+]

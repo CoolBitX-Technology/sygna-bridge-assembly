@@ -1,0 +1,12 @@
+[
+  {
+    "id": "05547930-a25e-48fa-a0ae-4c8151c322ac",
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+      }
+    }
+  }
+]

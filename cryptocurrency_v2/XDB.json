@@ -1,0 +1,12 @@
+[
+  {
+    "id": "438d968e-068f-4354-974e-796b8d1056d8",
+    "symbol": "XDB",
+    "name": "DigitalBits",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb9eefc4b0d472a44be93970254df4f4016569d27"
+      }
+    }
+  }
+]

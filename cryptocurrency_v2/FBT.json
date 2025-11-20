@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1de46775-5edf-4532-84e7-31e8ebc36853",
+    "symbol": "FBT",
+    "name": "FANBI TOKEN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7a9716685f852ee268feb86dffa562d214cc13db"
+      }
+    }
+  }
+]

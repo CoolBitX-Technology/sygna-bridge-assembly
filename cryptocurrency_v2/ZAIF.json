@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0b579a1c-17cc-4315-90b3-44be7f3c9132",
+    "symbol": "ZAIF",
+    "name": "ZAIF",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x335ad06475785736dbe149242537e560cb5a5702"
+      }
+    }
+  }
+]

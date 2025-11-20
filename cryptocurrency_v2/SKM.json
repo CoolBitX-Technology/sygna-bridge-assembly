@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8bb1e7cc-a7fd-4b24-9e4f-4074534ff4eb",
+    "symbol": "SKM",
+    "name": "Skrumble Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x048fe49be32adfc9ed68c37d32b5ec9df17b3603"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "382bab1e-2cc6-42df-af85-cbe8d59fbc82",
+    "symbol": "STO",
+    "name": "Storeum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcb39c3502415152b2ec90ff07ee18cc94f681a72"
+      }
+    }
+  }
+]
