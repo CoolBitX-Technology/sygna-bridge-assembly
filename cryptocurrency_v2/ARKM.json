@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dd63eab1-2091-4f04-91b6-c243186b0164",
+    "symbol": "ARKM",
+    "name": "Arkham",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050"
+      }
+    }
+  }
+]

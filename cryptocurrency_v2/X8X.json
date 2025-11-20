@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ee1ec6d1-4960-4c25-b9c0-6e79fa461c14",
+    "symbol": "X8X",
+    "name": "X8X Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c"
+      }
+    }
+  }
+]

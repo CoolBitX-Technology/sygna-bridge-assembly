@@ -1,0 +1,22 @@
+[
+  {
+    "id": "feae6a8d-f62b-4ef7-baa6-b86d44d0bbf1",
+    "symbol": "CMS",
+    "name": "COMSA [XEM]",
+    "platforms": {
+      "nem": {
+        "token_address": "ncqc5cpquii4x55ervxgrafpswj4x265eqjo24vn"
+      }
+    }
+  },
+  {
+    "id": "4dcb1fcc-c5c1-4f53-a6c4-11e3d46e4317",
+    "symbol": "CMS",
+    "name": "COMSA [ETH]",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5831bd16-7d7c-48d9-bd70-bd81a9333241",
+    "symbol": "HATCH",
+    "name": "Hatch DAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6f3009663470475f0749a6b76195375f95495fcb"
+      }
+    }
+  }
+]

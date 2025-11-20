@@ -1,0 +1,12 @@
+[
+  {
+    "id": "61d179c5-ab77-43c5-ab3f-e6399408b936",
+    "symbol": "HLM",
+    "name": "Helium",
+    "platforms": {
+      "helium": {
+        "token_address": "native"
+      }
+    }
+  }
+]

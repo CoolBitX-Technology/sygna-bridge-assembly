@@ -1,0 +1,12 @@
+[
+  {
+    "id": "309299ed-96a2-47d5-b7a1-a997440117a2",
+    "symbol": "SOP",
+    "name": "SoPay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x076641af1b8f06b7f8c92587156143c109002cbe"
+      }
+    }
+  }
+]

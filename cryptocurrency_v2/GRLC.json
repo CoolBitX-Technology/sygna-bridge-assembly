@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fe95d2c5-7f54-45a1-94b3-79682a99d405",
+    "symbol": "GRLC",
+    "name": "Garlicoin",
+    "platforms": {
+      "garlicoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

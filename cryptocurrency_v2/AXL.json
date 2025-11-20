@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cd5b7baa-a7a9-4d74-b559-cddead3eae37",
+    "symbol": "AXL",
+    "name": "Axial Entertainment Digital Asset",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4fac0ccd9e2ed9fd462d42b66fb81ba9a1f6f25e"
+      }
+    }
+  }
+]

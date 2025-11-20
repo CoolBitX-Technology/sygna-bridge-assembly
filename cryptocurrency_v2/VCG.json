@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38f00c2a-cb76-422c-897b-cc9a6e7f4b1b",
+    "symbol": "VCG",
+    "name": "VipCoin",
+    "platforms": {
+      "vipcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

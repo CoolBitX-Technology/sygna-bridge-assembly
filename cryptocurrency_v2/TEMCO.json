@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6b19044a-5a36-4c3b-8150-d3ecc282361f",
+    "symbol": "TEMCO",
+    "name": "TEMCO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d"
+      }
+    }
+  }
+]

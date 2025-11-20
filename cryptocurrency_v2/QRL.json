@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e05ce713-13da-4799-8b49-73bd840b984c",
+    "symbol": "QRL",
+    "name": "Quantum Resistant Ledger",
+    "platforms": {
+      "quantum-resistant-ledger": {
+        "token_address": "native"
+      }
+    }
+  }
+]

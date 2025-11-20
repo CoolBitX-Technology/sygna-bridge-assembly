@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e3e093f9-bbd7-49b7-9583-8fa17819b6a7",
+    "symbol": "PTF",
+    "name": "PowerTrade Fuel",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc57d533c50bc22247d49a368880fb49a1caa39f7"
+      }
+    }
+  }
+]

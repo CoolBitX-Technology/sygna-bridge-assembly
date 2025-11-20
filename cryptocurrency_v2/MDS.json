@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fe35d356-7f95-441f-ba09-cca9e7e6a42b",
+    "symbol": "MDS",
+    "name": "MediShares",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x66186008c1050627f979d464eabb258860563dbe"
+      }
+    }
+  }
+]

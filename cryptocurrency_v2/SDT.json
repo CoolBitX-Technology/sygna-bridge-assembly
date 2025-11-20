@@ -1,0 +1,12 @@
+[
+  {
+    "id": "269d8de1-18f1-4fba-bf44-ad8352781835",
+    "symbol": "SDT",
+    "name": "Stake DAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f"
+      }
+    }
+  }
+]

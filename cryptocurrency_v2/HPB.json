@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ace3ea65-d52b-40fa-972f-c573baca7095",
+    "symbol": "HPB",
+    "name": "High Performance Blockchain",
+    "platforms": {
+      "high-performance-blockchain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

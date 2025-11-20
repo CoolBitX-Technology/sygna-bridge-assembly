@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ed63cc2a-c072-4461-bded-4138cdcd7160",
+    "symbol": "DBC",
+    "name": "DeepBrain Chain",
+    "platforms": {
+      "neo": {
+        "token_address": "b951ecbbc5fe37a9c280a76cb0ce0014827294cf"
+      }
+    }
+  }
+]

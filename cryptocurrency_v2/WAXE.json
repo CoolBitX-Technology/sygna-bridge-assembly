@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c8f033f3-9186-42a0-af02-87e0aef7a211",
+    "symbol": "WAXE",
+    "name": "WAXE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd"
+      }
+    }
+  }
+]

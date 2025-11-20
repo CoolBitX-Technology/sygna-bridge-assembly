@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a76ab20f-140c-4338-b9bb-6ff157b85126",
+    "symbol": "OATH",
+    "name": "Oath Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x19c9872640ec38c2cf36c0f04d1365ef067869b3"
+      }
+    }
+  }
+]

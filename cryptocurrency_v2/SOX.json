@@ -1,0 +1,12 @@
+[
+  {
+    "id": "67fd3dc3-1714-4bad-8bf7-c08fcf8fa1fc",
+    "symbol": "SOX",
+    "name": "SonicX",
+    "platforms": {
+      "sonicx": {
+        "token_address": "native"
+      }
+    }
+  }
+]

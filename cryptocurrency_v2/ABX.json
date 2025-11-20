@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3cdec3ab-faac-4cbe-9b70-f3c78c36ce8a",
+    "symbol": "ABX",
+    "name": "Arbidex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e"
+      }
+    }
+  }
+]

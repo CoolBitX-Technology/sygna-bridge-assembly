@@ -1,0 +1,12 @@
+[
+  {
+    "id": "156e0606-70cc-4f83-869b-b9b2b8572669",
+    "symbol": "MBC",
+    "name": "Marblecoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8888889213dd4da823ebdd1e235b09590633c150"
+      }
+    }
+  }
+]

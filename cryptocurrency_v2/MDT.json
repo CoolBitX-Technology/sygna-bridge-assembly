@@ -1,0 +1,12 @@
+[
+  {
+    "id": "409f2cd9-94f3-45a7-8882-8e49915bb565",
+    "symbol": "MDT",
+    "name": "Measurable Data Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26"
+      }
+    }
+  }
+]

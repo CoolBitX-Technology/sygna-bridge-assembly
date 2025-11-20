@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a8c97d7c-3654-4262-b9e0-46b1721e1f37",
+    "symbol": "AET",
+    "name": "Aerotoken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784"
+      }
+    }
+  }
+]

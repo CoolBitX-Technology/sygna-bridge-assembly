@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5f9b392f-0c17-4047-843c-245c5793bd03",
+    "symbol": "PRCY",
+    "name": "PRCY Coin",
+    "platforms": {
+      "prcy-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

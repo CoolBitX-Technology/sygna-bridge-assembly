@@ -1,0 +1,12 @@
+[
+  {
+    "id": "497b471f-c8e6-4faf-9b32-997666878679",
+    "symbol": "PLU",
+    "name": "Pluton",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd8912c10681d8b21fd3742244f44658dba12264e"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0e175985-eb90-403f-a1ea-12835ebd84ec",
+    "symbol": "ZEN",
+    "name": "Horizen",
+    "platforms": {
+      "horizen": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7fa45f66-c0b6-4b36-9e6b-bd302790df4f",
+    "symbol": "ZLW",
+    "name": "Zelwin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5319e86f0e41a06e49eb37046b8c11d78bcad68c"
+      }
+    }
+  }
+]

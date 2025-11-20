@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cd24861f-8af4-4a41-9267-ba5f290091ee",
+    "symbol": "PEAK",
+    "name": "PEAKDEFI",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4b527e39-675d-4126-924e-cc111a84b2cf",
+    "symbol": "WBX",
+    "name": "WiBX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbb97e381f1d1e94ffa2a5844f6875e6146981009"
+      }
+    }
+  }
+]

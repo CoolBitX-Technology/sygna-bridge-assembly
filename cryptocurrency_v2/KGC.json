@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9903768f-c1bd-4d32-a8fa-b7b019cb243a",
+    "symbol": "KGC",
+    "name": "Krypton Galaxy Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa8262eb913fccea4c3f77fc95b8b4043b384cfbb"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f3e52c62-ef26-4c0f-b4bf-a3a3420f7300",
+    "symbol": "FWB",
+    "name": "Friends With Benefits",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7d91e637589ec3bb54d8213a9e92dc6e8d12da91"
+      }
+    }
+  }
+]

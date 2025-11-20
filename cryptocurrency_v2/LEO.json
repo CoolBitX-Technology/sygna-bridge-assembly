@@ -1,0 +1,12 @@
+[
+  {
+    "id": "33e6040b-0b13-4df6-86db-21beeaded08f",
+    "symbol": "LEO",
+    "name": "UNUS SED LEO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+      }
+    }
+  }
+]

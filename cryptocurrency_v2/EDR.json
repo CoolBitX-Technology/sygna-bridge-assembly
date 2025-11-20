@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b85f1b64-389a-4b23-9c1e-f79d0610938e",
+    "symbol": "EDR",
+    "name": "Endor Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc528c28fec0a90c083328bc45f587ee215760a0f"
+      }
+    }
+  }
+]

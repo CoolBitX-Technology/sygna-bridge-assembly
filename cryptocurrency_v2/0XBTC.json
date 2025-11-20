@@ -1,0 +1,12 @@
+[
+  {
+    "id": "662b5ce0-4aab-46d5-97f3-835a15436449",
+    "symbol": "0XBTC",
+    "name": "0xBitcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31"
+      }
+    }
+  }
+]

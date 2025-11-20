@@ -1,0 +1,12 @@
+[
+  {
+    "id": "52d326e6-fd1d-4c95-8cbb-443fd03164b7",
+    "symbol": "BADGER",
+    "name": "Badger DAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3472a5a71965499acd81997a54bba8d852c6e53d"
+      }
+    }
+  }
+]

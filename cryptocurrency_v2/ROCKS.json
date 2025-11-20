@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4f8df384-c548-4b63-ba26-14fdff9a3eab",
+    "symbol": "ROCKS",
+    "name": "ROCKI",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x92ece48522e1acbcda4aaa8c2fbf2aa9fb15d624"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cba3c79c-2c4e-4408-957f-79c6be01ed98",
+    "symbol": "BUILD",
+    "name": "BUILD Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739"
+      }
+    }
+  }
+]

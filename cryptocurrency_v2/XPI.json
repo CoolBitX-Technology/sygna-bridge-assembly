@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b0265ace-1318-4baa-a892-e67464348aba",
+    "symbol": "XPI",
+    "name": "Lotus",
+    "platforms": {
+      "lotus": {
+        "token_address": "native"
+      }
+    }
+  }
+]

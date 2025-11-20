@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9bafb91c-23eb-490f-ba93-ae1932fdf9b1",
+    "symbol": "HLX",
+    "name": "Helex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8f8e787989bc652eea01a6c88a19f0f379bdf4fd"
+      }
+    }
+  }
+]

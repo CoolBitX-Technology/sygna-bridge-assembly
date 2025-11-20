@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7f098a82-d6a4-46cd-afc0-d10af81f59cf",
+    "symbol": "TERC",
+    "name": "TronEuropeRewardCoin",
+    "platforms": {
+      "tron": {
+        "token_address": "1003075"
+      }
+    }
+  }
+]

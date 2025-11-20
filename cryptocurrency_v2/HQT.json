@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9a21af7c-b54c-42ce-aad4-63a2031f4d95",
+    "symbol": "HQT",
+    "name": "HyperQuant",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3e1d5a855ad9d948373ae68e4fe1f094612b1322"
+      }
+    }
+  }
+]

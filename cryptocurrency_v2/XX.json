@@ -1,0 +1,12 @@
+[
+  {
+    "id": "89345ccb-9362-4767-826f-d4ac3d56151c",
+    "symbol": "XX",
+    "name": "xx coin",
+    "platforms": {
+      "xx-coin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

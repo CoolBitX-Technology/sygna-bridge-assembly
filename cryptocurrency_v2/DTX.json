@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4a44d31e-f298-4cd7-853d-76a6922a5afd",
+    "symbol": "DTX",
+    "name": "Databroker",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75"
+      }
+    }
+  }
+]

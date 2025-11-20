@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ddee3cdd-2cae-4b6a-9f7c-567277cb1d96",
+    "symbol": "YEET",
+    "name": "$YEET",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaa62a002ce856d9fe1874e7f8558a38fc1e49cca"
+      }
+    }
+  }
+]

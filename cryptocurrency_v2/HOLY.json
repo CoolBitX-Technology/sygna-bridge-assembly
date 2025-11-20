@@ -1,0 +1,12 @@
+[
+  {
+    "id": "081ca04f-84c5-4d48-a0dd-498a47e89d29",
+    "symbol": "HOLY",
+    "name": "Holyheld",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x39eae99e685906ff1c11a962a743440d0a1a6e09"
+      }
+    }
+  }
+]

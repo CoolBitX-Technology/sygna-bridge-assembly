@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7906cc9e-d1a3-4162-9adf-be4d892bd680",
+    "symbol": "KIF",
+    "name": "KittenFinance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa"
+      }
+    }
+  }
+]

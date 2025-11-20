@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2a29b561-5e87-411f-bfcb-0b935b88be01",
+    "symbol": "FIO",
+    "name": "FIO Protocol",
+    "platforms": {
+      "fio-protocol": {
+        "token_address": "native"
+      }
+    }
+  }
+]

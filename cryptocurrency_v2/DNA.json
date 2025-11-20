@@ -1,0 +1,15 @@
+[
+  {
+    "id": "33622997-bf50-4e95-8812-5bb6c9f8cf39",
+    "symbol": "DNA",
+    "name": "EncrypGen",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x82b0e50478eeafde392d45d1259ed1071b6fda81"
+      },
+      "metaverse-dualchain-network-architecture": {
+        "token_address": "native"
+      }
+    }
+  }
+]

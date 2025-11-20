@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2b5f1b94-a966-4009-aa89-6d56fbaecad3",
+    "symbol": "ETI",
+    "name": "EtherInc",
+    "platforms": {
+      "etherinc": {
+        "token_address": "native"
+      }
+    }
+  }
+]

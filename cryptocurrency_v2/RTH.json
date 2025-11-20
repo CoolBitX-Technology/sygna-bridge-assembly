@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8bbb63bc-37ee-4903-ab15-7bfb0a29304e",
+    "symbol": "RTH",
+    "name": "Rotharium",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3fd8f39a962efda04956981c31ab89fab5fb8bc8"
+      }
+    }
+  }
+]

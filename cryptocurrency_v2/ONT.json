@@ -1,0 +1,12 @@
+[
+  {
+    "id": "20a5471d-4ac3-4289-bdfa-3329a196c513",
+    "symbol": "ONT",
+    "name": "Ontology",
+    "platforms": {
+      "ontology": {
+        "token_address": "native"
+      }
+    }
+  }
+]

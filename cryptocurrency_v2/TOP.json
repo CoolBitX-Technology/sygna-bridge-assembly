@@ -1,0 +1,12 @@
+[
+  {
+    "id": "676d7986-a019-47d1-ae29-d79411ae5abf",
+    "symbol": "TOP",
+    "name": "TokenSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdcd85914b8ae28c1e62f1c488e1d968d5aaffe2b"
+      }
+    }
+  }
+]

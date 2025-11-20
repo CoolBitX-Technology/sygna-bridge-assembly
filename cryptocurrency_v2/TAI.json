@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c1de9bef-c48a-469f-9c2e-cddb66abe8fe",
+    "symbol": "TAI",
+    "name": "TAI",
+    "platforms": {
+      "tron": {
+        "token_address": "trws7apsndrgzmbfhb2hvc4rhqfubuyz8p"
+      }
+    }
+  }
+]

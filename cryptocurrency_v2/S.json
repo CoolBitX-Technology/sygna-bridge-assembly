@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c2bbbac4-969b-4777-bf91-ab47ec6f2dd1",
+    "symbol": "S",
+    "name": "Sharpay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x96b0bf939d9460095c15251f71fda11e41dcbddb"
+      }
+    }
+  }
+]

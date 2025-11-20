@@ -1,0 +1,12 @@
+[
+  {
+    "id": "20ec6d9b-da69-4b97-a2a3-17991802c922",
+    "symbol": "BITS",
+    "name": "Bitcoinus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc38f1fb49acdf2f1213caf3319f6eb3ea2cb7527"
+      }
+    }
+  }
+]

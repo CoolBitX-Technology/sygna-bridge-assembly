@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e6bdc9d3-3b0a-48b0-abe2-5b87545506d6",
+    "symbol": "NUT",
+    "name": "Native Utility Token",
+    "platforms": {
+      "eos": {
+        "token_address": "eosdtnutoken"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bb251cf7-e9eb-482f-bd08-4b5cd8354e61",
+    "symbol": "ION",
+    "name": "ION",
+    "platforms": {
+      "ion": {
+        "token_address": "native"
+      }
+    }
+  }
+]

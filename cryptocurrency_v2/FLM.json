@@ -1,0 +1,12 @@
+[
+  {
+    "id": "283d6ac5-d600-4f82-8ef1-01d7756d6cb4",
+    "symbol": "FLM",
+    "name": "Flamingo",
+    "platforms": {
+      "neo": {
+        "token_address": "4d9eab13620fe3569ba3b0e56e2877739e4145e3"
+      }
+    }
+  }
+]

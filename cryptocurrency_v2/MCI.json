@@ -1,0 +1,12 @@
+[
+  {
+    "id": "50f90572-302e-41b4-b257-3e82c10d9dc9",
+    "symbol": "MCI",
+    "name": "Multi Channel Influencer Creater Cloud Funding Platform",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3b58c52c03ca5eb619eba171091c86c34d603e5f"
+      }
+    }
+  }
+]

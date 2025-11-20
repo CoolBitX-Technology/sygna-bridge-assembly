@@ -1,0 +1,12 @@
+[
+  {
+    "id": "49a35802-9291-41b2-919c-44f93e31be54",
+    "symbol": "ZUM",
+    "name": "ZUM TOKEN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c"
+      }
+    }
+  }
+]

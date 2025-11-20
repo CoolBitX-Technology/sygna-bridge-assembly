@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cb6ebb45-0567-4860-826b-46899ab4bbdd",
+    "symbol": "TNC",
+    "name": "TNC Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd59ffbe33f93aa0ec95ea563c676333100d1dfe0"
+      }
+    }
+  },
+  {
+    "id": "77b03f77-698a-487a-ae31-08722324903a",
+    "symbol": "TNC",
+    "name": "Trinity Network Credit",
+    "platforms": {
+      "neo": {
+        "token_address": "08e8c4400f1af2c20c28e0018f29535eb85d15b6"
+      }
+    }
+  }
+]

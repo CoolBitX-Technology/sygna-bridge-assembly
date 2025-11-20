@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2e5d96a0-f689-41ea-b2bd-431ff8468fc3",
+    "symbol": "DROP",
+    "name": "Dropil",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4672bad527107471cb5067a887f4656d585a8a31"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a4792ed1-b348-459a-8832-30fc66893cdb",
+    "symbol": "OBX",
+    "name": "OOOBTC TOKEN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1367d4a67c1719b58c7e05df8768226fa768279a"
+      }
+    }
+  }
+]

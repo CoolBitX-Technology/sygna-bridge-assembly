@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4232b467-8484-4ab3-85ae-7229a49b9de0",
+    "symbol": "AENS",
+    "name": "AEN Smart Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd38de88687172bde440755b5237987e4a87c23a7"
+      }
+    }
+  }
+]

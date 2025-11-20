@@ -1,0 +1,12 @@
+[
+  {
+    "id": "df7bb4e8-3d25-4a05-bbe0-e41795f43775",
+    "symbol": "CFX",
+    "name": "Conflux Network",
+    "platforms": {
+      "conflux": {
+        "token_address": "native"
+      }
+    }
+  }
+]

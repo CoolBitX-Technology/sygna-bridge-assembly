@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ede4f608-c631-4f70-abad-d860b6d02ed0",
+    "symbol": "THE",
+    "name": "THENODE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb4a677b0e363c3815d46326954a4e4d2b1ace357"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "04af8eb9-3948-4329-a292-8d3547b4304b",
+    "symbol": "BOLI",
+    "name": "Bolivarcoin",
+    "platforms": {
+      "bolivarcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

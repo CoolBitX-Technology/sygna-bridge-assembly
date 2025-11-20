@@ -1,0 +1,12 @@
+[
+  {
+    "id": "370abbdd-e156-45a6-84b2-5d2baf0f7958",
+    "symbol": "REEF",
+    "name": "Reef",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf"
+      }
+    }
+  }
+]

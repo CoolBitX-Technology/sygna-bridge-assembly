@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4e85ddbb-08ee-477f-b8db-48fa201975e7",
+    "symbol": "YETH",
+    "name": "fyeth.finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd387f0e62e3f123a54ae486056a5d859affed0c8"
+      }
+    }
+  }
+]

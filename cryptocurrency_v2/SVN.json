@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a829f857-d730-44ed-bd51-ed9b2cf5a191",
+    "symbol": "SVN",
+    "name": "7Finance",
+    "platforms": {
+      "tron": {
+        "token_address": "tn7lptdoncyqahjiwxcfycesl5cnm5p7lm"
+      }
+    }
+  }
+]

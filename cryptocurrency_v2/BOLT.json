@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2f3d8f69-e7e5-429c-840e-5dffabb23af2",
+    "symbol": "BOLT",
+    "name": "BOLT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9f235d23354857efe6c541db92a9ef1877689bcb"
+      }
+    }
+  }
+]

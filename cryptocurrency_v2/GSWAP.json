@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e30c3fc3-5ed8-4add-b62f-f16fd26ab8e3",
+    "symbol": "GSWAP",
+    "name": "Gameswap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaac41ec512808d64625576eddd580e7ea40ef8b2"
+      }
+    }
+  }
+]

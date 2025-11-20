@@ -1,0 +1,15 @@
+[
+  {
+    "id": "5615a02b-5081-4bef-989d-5648099f6d02",
+    "symbol": "HBTC",
+    "name": "Huobi BTC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0316eb71485b0ab14103307bf65a021042c6d380"
+      },
+      "huobi-eco-chain": {
+        "token_address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea"
+      }
+    }
+  }
+]

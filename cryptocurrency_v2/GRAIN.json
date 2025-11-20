@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6486a592-44fd-4a1b-974e-49207c18ef40",
+    "symbol": "GRAIN",
+    "name": "Grain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6589fe1271a0f29346796c6baf0cdf619e25e58e"
+      }
+    }
+  }
+]

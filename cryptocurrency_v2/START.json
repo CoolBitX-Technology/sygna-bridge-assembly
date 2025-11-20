@@ -1,0 +1,12 @@
+[
+  {
+    "id": "58fa8bca-d109-4c53-a404-978b665273ef",
+    "symbol": "START",
+    "name": "Startcoin",
+    "platforms": {
+      "startcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

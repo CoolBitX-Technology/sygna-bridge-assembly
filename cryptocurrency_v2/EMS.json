@@ -1,0 +1,12 @@
+[
+  {
+    "id": "21516d29-c6b0-4b0d-8974-a9ed99b24321",
+    "symbol": "EMS",
+    "name": "Ethereum Message Search",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x17e6616c45d267bc20a9892b58a01621c592b72d"
+      }
+    }
+  }
+]

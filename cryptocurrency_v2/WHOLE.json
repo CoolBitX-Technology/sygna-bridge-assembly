@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c3abd5ec-6b61-43a6-bb5a-a58c36a802f6",
+    "symbol": "WHOLE",
+    "name": "wormhole.finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe6179bb571d2d69837be731da88c76e377ec4738"
+      }
+    }
+  }
+]

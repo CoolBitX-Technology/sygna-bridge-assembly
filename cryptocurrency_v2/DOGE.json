@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7abc40be-9851-4320-ad38-d86b206ccde7",
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "platforms": {
+      "doge": {
+        "token_address": "native"
+      }
+    }
+  }
+]

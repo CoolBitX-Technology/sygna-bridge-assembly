@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e5787e3-98fa-4a61-8ad7-d44cd524d9f1",
+    "symbol": "ES",
+    "name": "Era Swap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xef1344bdf80bef3ff4428d8becec3eea4a2cf574"
+      }
+    }
+  }
+]

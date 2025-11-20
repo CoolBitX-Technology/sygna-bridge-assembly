@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6a670954-91b4-4fa8-9e80-65a210070d18",
+    "symbol": "CBP",
+    "name": "CashBackPro",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6f4ee03ca6c942c9397d2ba5f8f83ea58f918f47"
+      }
+    }
+  }
+]

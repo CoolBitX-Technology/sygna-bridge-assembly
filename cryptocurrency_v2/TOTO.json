@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b9914bb8-64f3-4465-8c6d-5ceda94dd7ae",
+    "symbol": "TOTO",
+    "name": "Tourist Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe3278df3eb2085ba9b6899812a99a10f9ca5e0df"
+      }
+    }
+  }
+]

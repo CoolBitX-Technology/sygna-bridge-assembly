@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6afc605c-fe5c-4e21-b6e1-abd758a238f0",
+    "symbol": "EPAN",
+    "name": "Paypolitan Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x72630b1e3b42874bf335020ba0249e3e9e47bafc"
+      }
+    }
+  }
+]

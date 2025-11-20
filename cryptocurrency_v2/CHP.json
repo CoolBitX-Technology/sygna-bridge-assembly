@@ -1,0 +1,12 @@
+[
+  {
+    "id": "079a30c6-740c-4834-a7b9-4406a87393b9",
+    "symbol": "CHP",
+    "name": "CoinPoker",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf3db7560e820834658b590c96234c333cd3d5e5e"
+      }
+    }
+  }
+]

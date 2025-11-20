@@ -1,0 +1,12 @@
+[
+  {
+    "id": "54e3d241-4ac8-4be0-8729-c7e6d94d71d1",
+    "symbol": "WIS",
+    "name": "Experty Wisdom Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfa12040497bc7b6077ea125bad27daa8b74e7edc"
+      }
+    }
+  }
+]

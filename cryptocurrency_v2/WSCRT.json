@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a3886789-c86b-4de1-8fcb-05937da7c0f4",
+    "symbol": "WSCRT",
+    "name": "Secret (ERC20)",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be"
+      }
+    }
+  }
+]

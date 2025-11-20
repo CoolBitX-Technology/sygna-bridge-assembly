@@ -1,0 +1,12 @@
+[
+  {
+    "id": "76aa28ff-2940-447e-971a-8f41eb18649d",
+    "symbol": "VLINK",
+    "name": "Venus LINK",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f"
+      }
+    }
+  }
+]

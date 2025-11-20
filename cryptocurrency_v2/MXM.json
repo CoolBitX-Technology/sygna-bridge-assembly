@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6a68030f-c459-478c-bb2a-e0657ae07da7",
+    "symbol": "MXM",
+    "name": "Maximine Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8e766f57f7d16ca50b4a0b90b88f6468a09b0439"
+      }
+    }
+  }
+]

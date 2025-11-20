@@ -1,0 +1,12 @@
+[
+  {
+    "id": "212c142e-1f37-4822-b65c-002eabe4a19f",
+    "symbol": "ETP",
+    "name": "Metaverse ETP",
+    "platforms": {
+      "metaverse-etp": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "3493ea95-3836-4675-a7f9-ed9b4f3156a9",
+    "symbol": "BCA",
+    "name": "Bitcoiva",
+    "platforms": {
+      "bitcoin-atom": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0xc222e5b89309fab5faf55a3b3bd9082be834916c"
+      }
+    }
+  }
+]

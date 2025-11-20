@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0cb1d000-59e3-4693-a4ca-82d9d8bdf30d",
+    "symbol": "XWC",
+    "name": "WhiteCoin",
+    "platforms": {
+      "whitecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

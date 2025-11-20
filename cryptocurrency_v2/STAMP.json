@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d79749c2-ad45-4026-9995-ef01875eea86",
+    "symbol": "STAMP",
+    "name": "SafePost",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x43afc9058a3debf37eadf99138e449ce8a480a8a"
+      }
+    }
+  }
+]

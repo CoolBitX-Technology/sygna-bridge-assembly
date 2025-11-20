@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c72b8951-7bb6-4bdd-9b59-d82a067ac1a8",
+    "symbol": "TOMO",
+    "name": "TomoChain",
+    "platforms": {
+      "tomochain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

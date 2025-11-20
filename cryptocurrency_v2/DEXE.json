@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5b1c8d0c-17ac-4f39-9bbb-b81f56064a9a",
+    "symbol": "DEXE",
+    "name": "DeXe",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6"
+      }
+    }
+  }
+]

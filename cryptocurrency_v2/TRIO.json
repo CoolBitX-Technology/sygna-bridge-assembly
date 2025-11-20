@@ -1,0 +1,12 @@
+[
+  {
+    "id": "83108a18-6d7f-4f7a-9de2-b9e227d6c239",
+    "symbol": "TRIO",
+    "name": "Tripio",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8b40761142b9aa6dc8964e61d0585995425c3d94"
+      }
+    }
+  }
+]

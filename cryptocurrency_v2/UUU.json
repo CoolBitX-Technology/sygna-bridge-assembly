@@ -1,0 +1,12 @@
+[
+  {
+    "id": "12efa88a-8212-45f8-8d3b-0138882d08b4",
+    "symbol": "UUU",
+    "name": "U Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3543638ed4a9006e4840b105944271bcea15605d"
+      }
+    }
+  }
+]

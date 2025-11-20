@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9ee2804e-3b8e-45a4-8cf9-0fc4038406bb",
+    "symbol": "ESS",
+    "name": "Essentia",
+    "platforms": {
+      "essentia": {
+        "token_address": "native"
+      }
+    }
+  }
+]

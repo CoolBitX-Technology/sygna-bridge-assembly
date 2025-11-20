@@ -1,0 +1,12 @@
+[
+  {
+    "id": "152c0045-57bc-4e20-ac9e-46f2c5343e28",
+    "symbol": "PEC",
+    "name": "Phoenix",
+    "platforms": {
+      "phoenix": {
+        "token_address": "native"
+      }
+    }
+  }
+]

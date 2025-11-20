@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a5ab4fc5-0fcc-4f82-9d40-3a24f82ddb45",
+    "symbol": "XCP",
+    "name": "Counterparty",
+    "platforms": {
+      "counterparty": {
+        "token_address": "native"
+      }
+    }
+  }
+]

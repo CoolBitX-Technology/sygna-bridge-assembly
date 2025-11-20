@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c0142ec7-7d78-4336-9149-050ba2a74f43",
+    "symbol": "DON",
+    "name": "DEONEX COIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x50ae0bc7e167c96b46f58063b2a7a27a26ad63bc"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "66530720-3c63-4019-b35b-41a444c3c378",
+    "symbol": "DYNMT",
+    "name": "Dynamite",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3b7f247f21bf3a07088c2d3423f64233d4b069f7"
+      }
+    }
+  }
+]

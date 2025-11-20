@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dc041049-8064-43b3-9406-3dc2efaca226",
+    "symbol": "ZNZ",
+    "name": "ZENZO",
+    "platforms": {
+      "zenzo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9ce7a122-d33a-443d-9a1e-d7bb25434ab6",
+    "symbol": "SUMO",
+    "name": "Sumokoin",
+    "platforms": {
+      "sumokoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

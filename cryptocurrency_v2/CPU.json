@@ -1,0 +1,15 @@
+[
+  {
+    "id": "d9adeff9-903c-4c3a-90ef-5a56858ce037",
+    "symbol": "CPU",
+    "name": "CPUchain",
+    "platforms": {
+      "cpuchain": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0x6d52dfefb16bb9cdc78bfca09061e44574886626"
+      }
+    }
+  }
+]

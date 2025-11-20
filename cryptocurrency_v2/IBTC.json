@@ -1,0 +1,12 @@
+[
+  {
+    "id": "179f7366-e389-454e-9fa8-685a894bcf8e",
+    "symbol": "IBTC",
+    "name": "iBTC (Synthetix)",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb7c4a82936194fee52a4e3d4cec3415f74507532"
+      }
+    }
+  }
+]

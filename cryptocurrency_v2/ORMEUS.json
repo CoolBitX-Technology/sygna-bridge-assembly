@@ -1,0 +1,12 @@
+[
+  {
+    "id": "18ff20ea-8323-41c1-9d56-93eb68ddffa0",
+    "symbol": "ORMEUS",
+    "name": "Ormeus Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc96df921009b790dffca412375251ed1a2b75c60"
+      }
+    }
+  }
+]

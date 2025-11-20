@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6bb98933-fc2e-4859-96e5-3653566ba979",
+    "symbol": "ETH3S",
+    "name": "Amun Ether 3x Daily Short",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xef9c8a1b3ce9055266e1ce20b98a4c882f0e5c78"
+      }
+    }
+  }
+]

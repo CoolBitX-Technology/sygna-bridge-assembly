@@ -1,0 +1,12 @@
+[
+  {
+    "id": "990edde1-3d21-4f35-a98e-ac4972e1e6a8",
+    "symbol": "TRV",
+    "name": "TrustVerse",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x72955ecff76e48f2c8abcce11d54e5734d6f3657"
+      }
+    }
+  }
+]

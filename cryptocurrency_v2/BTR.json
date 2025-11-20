@@ -1,0 +1,12 @@
+[
+  {
+    "id": "29e66e1c-5d8d-48d6-8fe7-25ab5c78541c",
+    "symbol": "BTR",
+    "name": "Bitrue Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x499a6b77bc25c26bcf8265e2102b1b3dd1617024"
+      }
+    }
+  }
+]

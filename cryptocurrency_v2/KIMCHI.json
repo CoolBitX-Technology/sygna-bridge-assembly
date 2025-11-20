@@ -1,0 +1,12 @@
+[
+  {
+    "id": "abe94818-0334-4266-a0f4-06b2a5c20acd",
+    "symbol": "KIMCHI",
+    "name": "KIMCHI.finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0"
+      }
+    }
+  }
+]

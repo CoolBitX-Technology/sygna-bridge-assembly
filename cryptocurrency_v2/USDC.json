@@ -1,0 +1,27 @@
+[
+  {
+    "id": "6a3fbbcc-b70f-466a-8f71-9e24a513fee3",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "platforms": {
+      "avalanche-c-chain": {
+        "token_address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+      },
+      "ethereum": {
+        "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+      },
+      "polkadot": {
+        "token_address": "1337"
+      },
+      "polygon": {
+        "token_address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359"
+      },
+      "solana": {
+        "token_address": "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v"
+      },
+      "stellar": {
+        "token_address": "ga5zsejyb37jrc5avcia5mop4rhtm335x2kgx3ihojapp5re34k4kzvn"
+      }
+    }
+  }
+]

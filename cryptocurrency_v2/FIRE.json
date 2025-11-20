@@ -1,0 +1,22 @@
+[
+  {
+    "id": "90badfc8-d1a5-4baa-ae66-222fbdaeaea1",
+    "symbol": "FIRE",
+    "name": "Fireball",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3f8a2f7bcd70e7f7bdd3fbb079c11d073588dea2"
+      }
+    }
+  },
+  {
+    "id": "09dc1c6e-dd70-41b3-95ab-f3eddd149d97",
+    "symbol": "FIRE",
+    "name": "Fire Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43"
+      }
+    }
+  }
+]

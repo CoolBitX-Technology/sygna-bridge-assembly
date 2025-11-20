@@ -1,0 +1,12 @@
+[
+  {
+    "id": "66e9cc80-052a-41fb-9923-03bc1297f215",
+    "symbol": "BELL",
+    "name": "Bellcoin",
+    "platforms": {
+      "bellcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

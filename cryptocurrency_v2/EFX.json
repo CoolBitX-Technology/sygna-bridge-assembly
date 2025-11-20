@@ -1,0 +1,12 @@
+[
+  {
+    "id": "71c4bf32-e31b-45ce-972c-af96ab694ada",
+    "symbol": "EFX",
+    "name": "Effect.AI",
+    "platforms": {
+      "eos": {
+        "token_address": "effecttokens"
+      }
+    }
+  }
+]

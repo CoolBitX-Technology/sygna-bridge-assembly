@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b4c36a0f-035f-4966-983f-f6ea56ed1384",
+    "symbol": "HNS",
+    "name": "Handshake",
+    "platforms": {
+      "handshake-": {
+        "token_address": "native"
+      }
+    }
+  }
+]

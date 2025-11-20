@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6145860e-751d-4003-b5e1-742dc26e0666",
+    "symbol": "LMY",
+    "name": "LunchMoney",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x66fd97a78d8854fec445cd1c80a07896b0b4851f"
+      }
+    }
+  }
+]

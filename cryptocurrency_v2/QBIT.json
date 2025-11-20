@@ -1,0 +1,12 @@
+[
+  {
+    "id": "60503662-a734-4b08-aa07-1573a71774de",
+    "symbol": "QBIT",
+    "name": "Qubitica",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1602af2c782cc03f9241992e243290fccf73bb13"
+      }
+    }
+  }
+]

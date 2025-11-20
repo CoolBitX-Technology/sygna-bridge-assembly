@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dd800dd4-69f8-412d-9e05-6a07dbaec52d",
+    "symbol": "SWAP",
+    "name": "TrustSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe"
+      }
+    }
+  }
+]

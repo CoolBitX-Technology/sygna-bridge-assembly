@@ -1,0 +1,12 @@
+[
+  {
+    "id": "56ea98b0-ccaf-476d-a75b-33575660a475",
+    "symbol": "MOC",
+    "name": "Moss Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x865ec58b06bf6305b886793aa20a2da31d034e68"
+      }
+    }
+  }
+]

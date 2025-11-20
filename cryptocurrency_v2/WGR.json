@@ -1,0 +1,12 @@
+[
+  {
+    "id": "27e32d89-12e4-483b-a821-21712332f66d",
+    "symbol": "WGR",
+    "name": "Wagerr",
+    "platforms": {
+      "wagerr": {
+        "token_address": "native"
+      }
+    }
+  }
+]

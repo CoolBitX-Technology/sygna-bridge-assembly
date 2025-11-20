@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e3a4ac1-6ccd-4531-b1ad-da23d2342a0d",
+    "symbol": "BFT",
+    "name": "BnkToTheFuture",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f"
+      }
+    }
+  }
+]

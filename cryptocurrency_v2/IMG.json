@@ -1,0 +1,12 @@
+[
+  {
+    "id": "18c231b6-12ab-4603-886f-37dc24c5b139",
+    "symbol": "IMG",
+    "name": "ImageCoin",
+    "platforms": {
+      "imagecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

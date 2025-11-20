@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e8549017-e6a0-4ee5-aa59-086c7fae8378",
+    "symbol": "MEE",
+    "name": "Mercurity Swap Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106"
+      }
+    }
+  }
+]

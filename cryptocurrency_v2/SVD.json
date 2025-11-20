@@ -1,0 +1,12 @@
+[
+  {
+    "id": "24167f84-49e5-4548-9c00-41d920d6c6cd",
+    "symbol": "SVD",
+    "name": "savedroid",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbdeb4b83251fb146687fa19d1c660f99411eefe3"
+      }
+    }
+  }
+]

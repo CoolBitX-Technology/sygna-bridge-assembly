@@ -1,0 +1,12 @@
+[
+  {
+    "id": "def2d208-df0b-42bc-9f06-7355454507a2",
+    "symbol": "KIT",
+    "name": "DexKit",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4"
+      }
+    }
+  }
+]

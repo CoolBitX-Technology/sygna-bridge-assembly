@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1523f538-b237-45ea-9f0f-82acc7912e89",
+    "symbol": "A",
+    "name": "Alpha Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xffc63b9146967a1ba33066fb057ee3722221acf0"
+      }
+    }
+  }
+]

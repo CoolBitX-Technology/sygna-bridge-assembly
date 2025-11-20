@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5aa79142-aa92-4896-ae12-4a3d3788216d",
+    "symbol": "AUC",
+    "name": "Auctus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663"
+      }
+    }
+  }
+]

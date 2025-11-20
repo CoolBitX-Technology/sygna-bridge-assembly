@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a28974c9-c80f-43d3-8cff-e2da448192e4",
+    "symbol": "LOOM",
+    "name": "Loom Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+      }
+    }
+  }
+]

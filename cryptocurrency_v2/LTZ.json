@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5cb6dfae-b97f-4475-bfe8-9d540798c9d5",
+    "symbol": "LTZ",
+    "name": "LitecoinZ",
+    "platforms": {
+      "litecoinz": {
+        "token_address": "native"
+      }
+    }
+  }
+]

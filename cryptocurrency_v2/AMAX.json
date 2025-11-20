@@ -1,0 +1,12 @@
+[
+  {
+    "id": "16658333-127b-4f07-9e7c-088a912d4476",
+    "symbol": "AMAX",
+    "name": "Armonia Meta Chain",
+    "platforms": {
+      "armonia-meta-chain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

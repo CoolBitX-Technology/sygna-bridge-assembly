@@ -1,0 +1,12 @@
+[
+  {
+    "id": "31984849-0915-46ba-8f29-19c6ff167ec4",
+    "symbol": "PRT",
+    "name": "Portion",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6d0f5149c502faf215c89ab306ec3e50b15e2892"
+      }
+    }
+  }
+]

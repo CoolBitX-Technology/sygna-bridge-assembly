@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1934999f-99cd-4c6d-a97a-904dd2a6b8ad",
+    "symbol": "LON",
+    "name": "Tokenlon Network Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0000000000095413afc295d19edeb1ad7b71c952"
+      }
+    }
+  }
+]

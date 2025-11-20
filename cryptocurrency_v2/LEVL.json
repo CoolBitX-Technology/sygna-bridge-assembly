@@ -1,0 +1,12 @@
+[
+  {
+    "id": "73e12ff9-2a8c-4d9b-ac58-d038f827eb72",
+    "symbol": "LEVL",
+    "name": "Levolution",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x09970aec766b6f3223aca9111555e99dc50ff13a"
+      }
+    }
+  }
+]

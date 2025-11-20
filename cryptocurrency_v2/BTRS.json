@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1a1acda2-0995-4730-84ed-6b3c120c2eb2",
+    "symbol": "BTRS",
+    "name": "Bitball Treasure",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f"
+      }
+    }
+  }
+]

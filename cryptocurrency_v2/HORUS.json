@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6ed9272f-068a-47e0-9e09-a0ba99136cdf",
+    "symbol": "HORUS",
+    "name": "HorusPay",
+    "platforms": {
+      "eos": {
+        "token_address": "horustokenio"
+      }
+    }
+  }
+]

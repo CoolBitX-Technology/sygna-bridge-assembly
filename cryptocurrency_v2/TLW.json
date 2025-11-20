@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f2e2a132-9c72-4203-a502-2d2e90ad45c3",
+    "symbol": "TLW",
+    "name": "TILWIKI",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x06f3cdabae564b0546529b4dd8fef1bcd4235753"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "90399cff-b949-4f62-bc96-acf0b0e4a758",
+    "symbol": "YUKI",
+    "name": "YUKI",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5ab793e36070f0fac928ea15826b0c1bc5365119"
+      }
+    }
+  }
+]

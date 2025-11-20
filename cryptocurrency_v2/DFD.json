@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cbd95286-aa57-45ef-92dc-649311ea07d7",
+    "symbol": "DFD",
+    "name": "DefiDollar DAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a"
+      }
+    }
+  }
+]

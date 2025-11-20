@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eeaffffd-533d-4dc7-8e8e-1473b62cfb8a",
+    "symbol": "TSHP",
+    "name": "12Ships",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x525794473f7ab5715c81d06d10f52d11cc052804"
+      }
+    }
+  }
+]

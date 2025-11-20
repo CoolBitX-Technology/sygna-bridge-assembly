@@ -1,0 +1,18 @@
+[
+  {
+    "id": "4c2bd2fe-d5b8-416e-82d1-954f01198bbe",
+    "symbol": "DAI",
+    "name": "Dai",
+    "platforms": {
+      "arbitrum": {
+        "token_address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+      },
+      "ethereum": {
+        "token_address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+      },
+      "optimism": {
+        "token_address": "0xbbba073c31bf03b8acf7c28ef0738decf36956830xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+      }
+    }
+  }
+]

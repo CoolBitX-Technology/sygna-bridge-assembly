@@ -1,0 +1,12 @@
+[
+  {
+    "id": "59976778-e03b-44fb-82f3-10ae195a776a",
+    "symbol": "ZDEX",
+    "name": "Zeedex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5150956e082c748ca837a5dfa0a7c10ca4697f9c"
+      }
+    }
+  }
+]

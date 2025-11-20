@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eae20d6c-76f8-4701-b149-fd2c1dde2ca7",
+    "symbol": "ONC",
+    "name": "One Cash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc"
+      }
+    }
+  }
+]

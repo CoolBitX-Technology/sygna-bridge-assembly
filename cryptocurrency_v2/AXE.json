@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f1acc11e-d0b7-4772-bb00-6a0f6761c3e2",
+    "symbol": "AXE",
+    "name": "Axe",
+    "platforms": {
+      "axe": {
+        "token_address": "native"
+      }
+    }
+  }
+]

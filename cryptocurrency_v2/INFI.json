@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c57e41ed-0b58-4751-9c2a-0810331d8d42",
+    "symbol": "INFI",
+    "name": "Insured Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x159751323a9e0415dd3d6d42a1212fe9f4a0848c"
+      }
+    }
+  }
+]

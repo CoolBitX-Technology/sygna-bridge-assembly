@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e60617f8-137b-476f-bb5e-807b4c87f181",
+    "symbol": "TNET",
+    "name": "Title Network",
+    "platforms": {
+      "title-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

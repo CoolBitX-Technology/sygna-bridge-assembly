@@ -1,0 +1,12 @@
+[
+  {
+    "id": "abacfdf3-bb0e-4dc6-b68b-31c8702d1300",
+    "symbol": "AFC",
+    "name": "Apiary Fund Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d20e639d-c9aa-4493-a5f2-dea8a157ca41",
+    "symbol": "MED",
+    "name": "MediBloc",
+    "platforms": {
+      "medibloc": {
+        "token_address": "native"
+      }
+    }
+  }
+]

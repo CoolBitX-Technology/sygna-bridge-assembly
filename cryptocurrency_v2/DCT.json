@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0340d7c5-2ba9-4ed4-8711-e8139058a159",
+    "symbol": "DCT",
+    "name": "DECENT",
+    "platforms": {
+      "decent": {
+        "token_address": "native"
+      }
+    }
+  }
+]

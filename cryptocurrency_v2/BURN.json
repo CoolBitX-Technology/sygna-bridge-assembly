@@ -1,0 +1,12 @@
+[
+  {
+    "id": "81345e0a-d76b-4ba5-83c3-ec3e34e150cf",
+    "symbol": "BURN",
+    "name": "Blockburn",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8515cd0f00ad81996d24b9a9c35121a3b759d6cd"
+      }
+    }
+  }
+]

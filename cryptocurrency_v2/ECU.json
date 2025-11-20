@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ad471a4c-e144-47be-be6c-2e25934799d2",
+    "symbol": "ECU",
+    "name": "Decurian",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8fc9b6354e839ab1c8b31f4afa53607092b8c2e5"
+      }
+    }
+  }
+]

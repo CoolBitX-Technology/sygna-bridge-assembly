@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6a8eda69-f640-4c6f-bd0f-c261a8c96f72",
+    "symbol": "LIFE",
+    "name": "LIFE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xff18dbc487b4c2e3222d115952babfda8ba52f5f"
+      }
+    }
+  }
+]

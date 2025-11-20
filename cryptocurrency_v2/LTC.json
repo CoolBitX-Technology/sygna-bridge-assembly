@@ -1,0 +1,12 @@
+[
+  {
+    "id": "01a153cd-0419-4b8b-ae0c-208c3d0da0b5",
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "platforms": {
+      "litecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

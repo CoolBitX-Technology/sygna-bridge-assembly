@@ -1,0 +1,12 @@
+[
+  {
+    "id": "05193f5f-37c8-4e19-8a39-7602bd1ebba7",
+    "symbol": "BFR",
+    "name": "Bridge Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x244c5276ea5bb927575417156038d7381b44ab2c"
+      }
+    }
+  }
+]

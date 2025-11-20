@@ -1,0 +1,12 @@
+[
+  {
+    "id": "63ab3fd9-662a-410f-ab5e-d7b192cb9e25",
+    "symbol": "YFII",
+    "name": "DFI.Money",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "27868b22-15ca-40b0-b613-1443c33f3a24",
+    "symbol": "888",
+    "name": "888tron",
+    "platforms": {
+      "tron": {
+        "token_address": "tlvdjcvkjdi3quhgfbjc6setj3uacmtqu3"
+      }
+    }
+  }
+]

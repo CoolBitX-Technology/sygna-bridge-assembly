@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a774fa62-20ca-48af-ad29-9be248310b6d",
+    "symbol": "MNS",
+    "name": "MONNOS",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x53884b61963351c283118a8e1fc05ba464a11959"
+      }
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "d05b18df-7ef1-42d1-8a7e-a15307e97452",
+    "symbol": "BTS",
+    "name": "Bat True Share",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xc2e1acef50ae55661855e8dcb72adb182a3cc259"
+      },
+      "bitshares": {
+        "token_address": "native"
+      }
+    }
+  }
+]

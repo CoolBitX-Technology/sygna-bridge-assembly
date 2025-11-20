@@ -1,0 +1,12 @@
+[
+  {
+    "id": "151e7272-2817-47ba-9155-afa013319933",
+    "symbol": "DSWAP",
+    "name": "Definex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3f344c88d823f180fb8b44a3c7cfc4edc92dfa35"
+      }
+    }
+  }
+]

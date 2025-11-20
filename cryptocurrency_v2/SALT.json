@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7fbbc3fb-52c7-4bb8-a67c-ab04c766b33a",
+    "symbol": "SALT",
+    "name": "SALT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4156d3342d5c385a87d264f90653733592000581"
+      }
+    }
+  }
+]

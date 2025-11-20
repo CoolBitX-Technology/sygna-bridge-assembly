@@ -1,0 +1,12 @@
+[
+  {
+    "id": "913f5689-526b-49dc-9e3e-3e37d6187041",
+    "symbol": "MTLX",
+    "name": "Mettalex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14"
+      }
+    }
+  }
+]

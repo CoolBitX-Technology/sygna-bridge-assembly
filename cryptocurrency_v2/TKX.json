@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4db6f44e-d3e3-4dbb-8fb3-9f5c0312d813",
+    "symbol": "TKX",
+    "name": "Tokenize Xchange",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88"
+      }
+    }
+  }
+]

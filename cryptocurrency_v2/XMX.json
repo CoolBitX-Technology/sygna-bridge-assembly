@@ -1,0 +1,12 @@
+[
+  {
+    "id": "db2a8165-bad2-4e96-924a-64e59cb51906",
+    "symbol": "XMX",
+    "name": "XMax",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0f8c45b896784a1e408526b9300519ef8660209c"
+      }
+    }
+  }
+]

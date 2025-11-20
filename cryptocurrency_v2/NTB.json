@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c71a5826-d1f7-4cc1-9a95-2b6224b2be6c",
+    "symbol": "NTB",
+    "name": "TokenAsset",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbe393aa534f82c0ffac31bf06a23e283acb3352b"
+      }
+    }
+  }
+]

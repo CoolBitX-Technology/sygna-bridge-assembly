@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ecd1df36-81d8-4076-a5df-370ebeb2b168",
+    "symbol": "LEX",
+    "name": "Elxis",
+    "platforms": {
+      "tron": {
+        "token_address": "tppn9uhl3ozazsemjfmelppkdcbjq3xtrf"
+      }
+    }
+  }
+]

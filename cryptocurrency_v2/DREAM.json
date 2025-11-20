@@ -1,0 +1,12 @@
+[
+  {
+    "id": "55b410b4-807e-4bbd-a62e-e166f4a8e1b7",
+    "symbol": "DREAM",
+    "name": "DreamTeam Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x82f4ded9cec9b5750fbff5c2185aee35afc16587"
+      }
+    }
+  }
+]

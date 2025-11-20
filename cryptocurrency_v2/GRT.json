@@ -1,0 +1,12 @@
+[
+  {
+    "id": "748e87f2-66b8-4723-90f9-883f8406a3c2",
+    "symbol": "GRT",
+    "name": "Golden Ratio Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x620fa2993046a53df1f365fa3fdc9e6c7763af96"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "30810465-be1a-4443-a1b3-26761216490a",
+    "symbol": "LTP",
+    "name": "LifetionCoin",
+    "platforms": {
+      "lifetioncoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

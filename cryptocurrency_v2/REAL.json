@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6580054e-e897-4338-ac73-255ee9c8ee3d",
+    "symbol": "REAL",
+    "name": "REAL",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9214ec02cb71cba0ada6896b8da260736a67ab10"
+      }
+    }
+  }
+]

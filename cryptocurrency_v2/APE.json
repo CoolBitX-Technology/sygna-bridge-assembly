@@ -1,0 +1,12 @@
+[
+  {
+    "id": "879ce79a-97cf-4220-b24d-8a33dd6d7577",
+    "symbol": "APE",
+    "name": "APEcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4d224452801aced8b2f0aebe155379bb5d594381"
+      }
+    }
+  }
+]

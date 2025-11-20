@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a3b0e0c6-45da-4a67-b15e-fc37611716da",
+    "symbol": "SIG",
+    "name": "Spectiv",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6888a16ea9792c15a4dcf2f6c623d055c8ede792"
+      }
+    }
+  }
+]

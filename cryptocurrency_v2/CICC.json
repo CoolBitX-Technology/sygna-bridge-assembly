@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d8f8be7f-864e-47ec-8a23-20506bb30507",
+    "symbol": "CICC",
+    "name": "CAICA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6aa9bcf20ae2fcb9a29d7d99c624d9db43d93969"
+      }
+    }
+  }
+]

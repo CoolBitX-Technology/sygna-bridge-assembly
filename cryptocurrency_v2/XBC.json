@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ca61596f-ed7d-4b6a-acb2-3336f760dc4d",
+    "symbol": "XBC",
+    "name": "Bitcoin Plus",
+    "platforms": {
+      "bitcoin-plus": {
+        "token_address": "native"
+      }
+    }
+  }
+]

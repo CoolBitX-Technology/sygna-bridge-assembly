@@ -1,0 +1,15 @@
+[
+  {
+    "id": "f208a99e-1ba6-4d6f-b504-642a39571028",
+    "symbol": "BC",
+    "name": "Block-Chain.com",
+    "platforms": {
+      "bitcoin-confidential": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19"
+      }
+    }
+  }
+]

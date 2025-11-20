@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cce95c28-e598-4d21-9c42-b0785a7d5b22",
+    "symbol": "PAX",
+    "name": "Paxos Standard",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1"
+      }
+    }
+  }
+]

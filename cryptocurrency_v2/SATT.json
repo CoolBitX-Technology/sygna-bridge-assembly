@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3b15cbe5-2ff0-4bca-aab9-dc35a53cc5e0",
+    "symbol": "SATT",
+    "name": "SaTT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdf49c9f599a0a9049d97cff34d0c30e468987389"
+      }
+    }
+  }
+]

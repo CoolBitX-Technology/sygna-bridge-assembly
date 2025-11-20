@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8b7a85e4-c2a6-474a-a3f6-46935703dede",
+    "symbol": "SMR",
+    "name": "Shimmer",
+    "platforms": {
+      "shimmer": {
+        "token_address": "native"
+      }
+    }
+  }
+]

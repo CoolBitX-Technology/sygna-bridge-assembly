@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9d31a9e1-521f-40d3-9c05-c3166595d1fa",
+    "symbol": "DOPE",
+    "name": "DopeCoin",
+    "platforms": {
+      "dopecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

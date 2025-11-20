@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e192fd85-3ca2-4e06-87d3-0646d3254194",
+    "symbol": "IOTA",
+    "name": "IOTA",
+    "platforms": {
+      "iota": {
+        "token_address": "native"
+      }
+    }
+  }
+]

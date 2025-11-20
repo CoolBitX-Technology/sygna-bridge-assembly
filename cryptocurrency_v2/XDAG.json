@@ -1,0 +1,12 @@
+[
+  {
+    "id": "df92019d-74f4-42a2-8f15-34b1115b08db",
+    "symbol": "XDAG",
+    "name": "XDAG",
+    "platforms": {
+      "xdag": {
+        "token_address": "native"
+      }
+    }
+  }
+]

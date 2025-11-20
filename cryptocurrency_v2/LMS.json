@@ -1,0 +1,12 @@
+[
+  {
+    "id": "09b8b14f-a17a-4784-b82b-313ca5214bc6",
+    "symbol": "LMS",
+    "name": "Lumos",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x034455c8a9882bf44c9704c780a55198e05ba559"
+      }
+    }
+  }
+]

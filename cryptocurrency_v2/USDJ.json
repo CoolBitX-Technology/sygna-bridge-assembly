@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b6dbe1e8-69d7-41b6-b469-e1fddac4e6c9",
+    "symbol": "USDJ",
+    "name": "USDJ",
+    "platforms": {
+      "tron": {
+        "token_address": "tmwfhyxljarupew6421aqxl4zezprfgkgt"
+      }
+    }
+  }
+]

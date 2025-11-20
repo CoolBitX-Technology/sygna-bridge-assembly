@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a843ff89-d1a1-4fc3-a013-a181f5cc7ecb",
+    "symbol": "FRENS",
+    "name": "Frens Community",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x907cb97615b7cd7320bc89bb7cdb46e37432ebe7"
+      }
+    }
+  }
+]

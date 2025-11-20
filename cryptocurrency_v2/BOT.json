@@ -1,0 +1,12 @@
+[
+  {
+    "id": "97eeb0b7-36f9-40c6-b76d-50b9e1e3a4c9",
+    "symbol": "BOT",
+    "name": "Bounce Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5beabaebb3146685dd74176f68a0721f91297d37"
+      }
+    }
+  }
+]

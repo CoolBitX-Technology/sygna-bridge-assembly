@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7bb8360e-6073-4e07-9fd2-23f2bc3e648c",
+    "symbol": "GRS",
+    "name": "Groestlcoin",
+    "platforms": {
+      "groestlcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

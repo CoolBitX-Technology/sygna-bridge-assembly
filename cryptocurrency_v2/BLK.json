@@ -1,0 +1,12 @@
+[
+  {
+    "id": "caf78d2c-3dd7-45d2-abae-75d275a3159b",
+    "symbol": "BLK",
+    "name": "BlackCoin",
+    "platforms": {
+      "blackcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

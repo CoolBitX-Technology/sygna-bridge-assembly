@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e497b8fb-1b77-4b86-812c-616f88e69823",
+    "symbol": "DGTX",
+    "name": "Digitex Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09"
+      }
+    }
+  }
+]

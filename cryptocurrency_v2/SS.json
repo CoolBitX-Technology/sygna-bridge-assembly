@@ -1,0 +1,12 @@
+[
+  {
+    "id": "40b7cf27-b284-40bb-9db8-bf03858bd4e0",
+    "symbol": "SS",
+    "name": "Sharder",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbbff862d906e348e9946bfb2132ecb157da3d4b4"
+      }
+    }
+  }
+]

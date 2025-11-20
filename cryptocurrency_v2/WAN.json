@@ -1,0 +1,12 @@
+[
+  {
+    "id": "09505f83-c1d3-45a8-8abe-d715dd44e1e4",
+    "symbol": "WAN",
+    "name": "Wanchain",
+    "platforms": {
+      "wanchain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

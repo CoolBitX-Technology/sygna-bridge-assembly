@@ -1,0 +1,12 @@
+[
+  {
+    "id": "581e52fd-81b3-4597-892d-e5bc6d2a55d6",
+    "symbol": "BIP",
+    "name": "Minter Network",
+    "platforms": {
+      "minter-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

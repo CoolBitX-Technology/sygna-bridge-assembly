@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0e121e27-f8a5-441c-9607-99f9cad1795c",
+    "symbol": "ZIL",
+    "name": "Zilliqa",
+    "platforms": {
+      "zilliqa": {
+        "token_address": "native"
+      }
+    }
+  }
+]

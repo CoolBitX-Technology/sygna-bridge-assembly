@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c81d6766-911a-4c34-89f3-d2d96964508f",
+    "symbol": "OAP",
+    "name": "OpenAlexa Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1788430620960f9a70e3dc14202a3a35dde1a316"
+      }
+    }
+  }
+]

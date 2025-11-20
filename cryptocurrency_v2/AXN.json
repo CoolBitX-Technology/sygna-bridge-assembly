@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f076bdb5-4350-4663-bc1c-9eabc67018b2",
+    "symbol": "AXN",
+    "name": "Axion",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7d85e23014f84e6e21d5663acd8751bef3562352"
+      }
+    }
+  }
+]

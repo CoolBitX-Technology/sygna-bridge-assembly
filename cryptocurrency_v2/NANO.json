@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a65c347a-6439-40cc-818f-9dcc0189cdb9",
+    "symbol": "NANO",
+    "name": "Bitcoin Nano",
+    "platforms": {
+      "nano": {
+        "token_address": "native"
+      }
+    }
+  }
+]

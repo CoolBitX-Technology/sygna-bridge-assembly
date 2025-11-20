@@ -1,0 +1,12 @@
+[
+  {
+    "id": "056c6cf8-ee93-4560-9fba-0f386f6f0846",
+    "symbol": "SMT",
+    "name": "SmartMesh",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x55f93985431fc9304077687a35a1ba103dc1e081"
+      }
+    }
+  }
+]

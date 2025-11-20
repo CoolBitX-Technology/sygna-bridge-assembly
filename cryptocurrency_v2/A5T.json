@@ -1,0 +1,12 @@
+[
+  {
+    "id": "85ee17fd-aa7b-4d10-bf99-7becad98d0ef",
+    "symbol": "A5T",
+    "name": "Alpha5",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe8272210954ea85de6d2ae739806ab593b5d9c51"
+      }
+    }
+  }
+]

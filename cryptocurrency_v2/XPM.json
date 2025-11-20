@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1b71a18e-7aea-43a4-a4e1-7d6290ffbb64",
+    "symbol": "XPM",
+    "name": "Primecoin",
+    "platforms": {
+      "primecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

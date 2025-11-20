@@ -1,0 +1,12 @@
+[
+  {
+    "id": "124fb4e9-a7ae-4305-bb1c-a9d035953f49",
+    "symbol": "DASH",
+    "name": "Dash",
+    "platforms": {
+      "dash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

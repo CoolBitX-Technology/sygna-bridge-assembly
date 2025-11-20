@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dcbf550b-7203-4db6-8765-96dafa07584b",
+    "symbol": "NST",
+    "name": "Newsolution",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd89040ac9823b72f64d71f66fa2deae7c8520671"
+      }
+    }
+  }
+]

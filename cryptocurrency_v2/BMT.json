@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e5a7536e-d5ba-408c-9697-949154c4ad59",
+    "symbol": "BMT",
+    "name": "BMToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc6363c1a05f840be2d185d7084b28af84c543d40"
+      }
+    }
+  }
+]

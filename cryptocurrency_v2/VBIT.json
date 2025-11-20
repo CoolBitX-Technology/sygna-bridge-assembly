@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a963d11c-a72c-4d6f-9133-1d7bc8b8d41e",
+    "symbol": "VBIT",
+    "name": "Valobit",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb8366948b4a3f07bcbf14eb1739daa42a26b07c4"
+      }
+    }
+  }
+]

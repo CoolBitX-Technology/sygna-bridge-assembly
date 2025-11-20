@@ -1,0 +1,12 @@
+[
+  {
+    "id": "070404aa-a58e-4c53-9687-5de4e910e6dd",
+    "symbol": "PROS",
+    "name": "Prosper",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56"
+      }
+    }
+  }
+]

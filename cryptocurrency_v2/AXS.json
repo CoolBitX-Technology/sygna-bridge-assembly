@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1bfd3145-8be1-44fd-9fe0-a5d446a7410b",
+    "symbol": "AXS",
+    "name": "Axie Infinity",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada"
+      },
+      "ronin": {
+        "token_address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece"
+      }
+    }
+  }
+]

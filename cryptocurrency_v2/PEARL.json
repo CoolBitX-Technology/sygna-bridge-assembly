@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eda61833-19e0-44ed-ab24-0139437eba11",
+    "symbol": "PEARL",
+    "name": "Pearl",
+    "platforms": {
+      "tron": {
+        "token_address": "tgbu32vegps4kdmjrmn5zzjguyhqiaweoq"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a46d285a-edb7-4a6c-bc41-f23af1119553",
+    "symbol": "HMQ",
+    "name": "Humaniq",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908"
+      }
+    }
+  }
+]

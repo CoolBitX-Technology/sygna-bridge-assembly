@@ -1,0 +1,12 @@
+[
+  {
+    "id": "71c5573b-0822-4d7a-ba84-250c3ff63513",
+    "symbol": "UPI",
+    "name": "Pawtocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x70d2b7c19352bb76e4409858ff5746e500f2b67c"
+      }
+    }
+  }
+]

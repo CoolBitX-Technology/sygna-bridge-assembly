@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c750b6b7-c408-402c-bbc1-b94423514b18",
+    "symbol": "OPTI",
+    "name": "OptiToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x832904863978b94802123106e6eb491bdf0df928"
+      }
+    }
+  }
+]

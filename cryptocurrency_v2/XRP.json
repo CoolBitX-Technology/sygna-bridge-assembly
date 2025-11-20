@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3412b2de-a00a-4509-bcaa-5ccc03ab5363",
+    "symbol": "XRP",
+    "name": "XRP",
+    "platforms": {
+      "ripple": {
+        "token_address": "native"
+      }
+    }
+  }
+]

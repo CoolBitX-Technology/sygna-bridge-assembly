@@ -1,0 +1,12 @@
+[
+  {
+    "id": "de440582-96dd-4f45-8b0b-39fcac3f66b3",
+    "symbol": "SMART",
+    "name": "SmartCash",
+    "platforms": {
+      "smartcash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

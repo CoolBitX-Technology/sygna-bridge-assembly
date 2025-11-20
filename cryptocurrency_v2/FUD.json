@@ -1,0 +1,12 @@
+[
+  {
+    "id": "14901a33-de8a-45c0-88fb-3c1590cc0b0b",
+    "symbol": "FUD",
+    "name": "FUD.finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2688213fedd489762a281a67ae4f2295d8e17ecc"
+      }
+    }
+  }
+]

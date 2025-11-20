@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b769ce4f-df45-43a3-8c58-822cef84880b",
+    "symbol": "PRIX",
+    "name": "Privatix",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a"
+      }
+    }
+  }
+]

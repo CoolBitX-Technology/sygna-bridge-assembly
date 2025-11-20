@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f2bfd03b-4c80-4490-a82f-94a2f9dab3e4",
+    "symbol": "SFI",
+    "name": "saffron.finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c"
+      }
+    }
+  }
+]

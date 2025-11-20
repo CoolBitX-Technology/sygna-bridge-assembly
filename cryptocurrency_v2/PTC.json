@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8aae35f1-6bdf-4b54-8d53-b778086bf84a",
+    "symbol": "PTC",
+    "name": "Pesetacoin",
+    "platforms": {
+      "pesetacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

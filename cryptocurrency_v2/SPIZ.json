@@ -1,0 +1,12 @@
+[
+  {
+    "id": "065f4cab-8e56-4abd-af78-4807bafff182",
+    "symbol": "SPIZ",
+    "name": "SPACE-iZ",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa7a5c1058194af8f00c187adb7fcc0c95f1c6c2d"
+      }
+    }
+  }
+]

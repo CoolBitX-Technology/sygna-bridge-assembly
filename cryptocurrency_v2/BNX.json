@@ -1,0 +1,22 @@
+[
+  {
+    "id": "840b2f42-a027-4633-ac6a-9f90f3a339c5",
+    "symbol": "BNX",
+    "name": "BinaryX (new)",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd"
+      }
+    }
+  },
+  {
+    "id": "de0172f7-b323-4ef1-ba64-e0c9c1d44751",
+    "symbol": "BNX",
+    "name": "BinaryX (old)",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97"
+      }
+    }
+  }
+]

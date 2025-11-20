@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6eb9f84f-9cbe-4cb2-8fc1-1edbc5c859c0",
+    "symbol": "MDX",
+    "name": "Mandala Exchange Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788"
+      }
+    }
+  }
+]

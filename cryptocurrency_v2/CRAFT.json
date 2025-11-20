@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fa02f2c6-1858-48fc-bda7-9387495d96ca",
+    "symbol": "CRAFT",
+    "name": "deCraft Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa09ff006c652496e72d648cef2f4ee6777efdf6f"
+      }
+    }
+  }
+]

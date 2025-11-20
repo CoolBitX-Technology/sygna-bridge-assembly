@@ -1,0 +1,12 @@
+[
+  {
+    "id": "16f88b55-107a-446f-9a91-32c4d925c2c7",
+    "symbol": "HUSH",
+    "name": "Hush",
+    "platforms": {
+      "hush": {
+        "token_address": "native"
+      }
+    }
+  }
+]

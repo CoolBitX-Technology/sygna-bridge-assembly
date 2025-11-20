@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8ea9a585-98ba-4491-9735-573ea16f88b3",
+    "symbol": "GXC",
+    "name": "GXChain",
+    "platforms": {
+      "gxchain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

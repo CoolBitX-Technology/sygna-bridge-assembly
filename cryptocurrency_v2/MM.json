@@ -1,0 +1,22 @@
+[
+  {
+    "id": "7b3879d1-0217-4b3e-a121-dade84b78fbf",
+    "symbol": "MM",
+    "name": "MM Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304"
+      }
+    }
+  },
+  {
+    "id": "5807a06e-6272-4c95-8080-7934870573e2",
+    "symbol": "MM",
+    "name": "MilliMeter",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc3c221fe28c33814c28c822b631fd76047ef1a63"
+      }
+    }
+  }
+]

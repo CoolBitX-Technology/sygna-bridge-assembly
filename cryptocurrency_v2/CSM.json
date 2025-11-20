@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0bd40c32-16c3-425e-822c-e3d98d77f751",
+    "symbol": "CSM",
+    "name": "Consentium",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c"
+      }
+    }
+  }
+]

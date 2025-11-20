@@ -1,0 +1,12 @@
+[
+  {
+    "id": "19a05006-c03b-46ea-ae5e-25b2f9796d7f",
+    "symbol": "HEGIC",
+    "name": "Hegic",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x584bc13c7d411c00c01a62e8019472de68768430"
+      }
+    }
+  }
+]

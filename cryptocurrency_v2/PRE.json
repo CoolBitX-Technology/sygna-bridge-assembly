@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8c8a1b75-70ef-4b9f-af68-fbf2559da9a2",
+    "symbol": "PRE",
+    "name": "Presearch",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xec213f83defb583af3a000b1c0ada660b1902a0f"
+      }
+    }
+  }
+]

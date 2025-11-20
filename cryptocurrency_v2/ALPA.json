@@ -1,0 +1,12 @@
+[
+  {
+    "id": "347ba905-9ac9-431c-a728-c60bb0559b99",
+    "symbol": "ALPA",
+    "name": "Alpaca City",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7ca4408137eb639570f8e647d9bd7b7e8717514a"
+      }
+    }
+  }
+]

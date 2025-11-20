@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f578527d-745c-442a-a19a-8d0fa37061d8",
+    "symbol": "VIDY",
+    "name": "VIDY",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc77b230f31b517f1ef362e59c173c2be6540b5e8"
+      }
+    }
+  }
+]

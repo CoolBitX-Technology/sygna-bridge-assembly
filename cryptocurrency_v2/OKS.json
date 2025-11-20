@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1ca70923-82fd-43a0-823f-fd28ec08a219",
+    "symbol": "OKS",
+    "name": "Oikos",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7b68d272eda2185ea2f9283f241b1c44c51e712a"
+      },
+      "tron": {
+        "token_address": "twvvcrqrmpyai9dasvtxrqns7frwvdezmn"
+      }
+    }
+  }
+]

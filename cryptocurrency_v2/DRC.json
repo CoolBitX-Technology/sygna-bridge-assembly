@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b1185d98-a658-496f-b70d-b06b302915bf",
+    "symbol": "DRC",
+    "name": "Digital Reserve Currency",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606"
+      }
+    }
+  },
+  {
+    "id": "0081ea70-d1cd-47d7-9322-e50c67666f51",
+    "symbol": "DRC",
+    "name": "Dracula Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb78b3320493a4efaa1028130c5ba26f0b6085ef8"
+      }
+    }
+  },
+  {
+    "id": "c939da1c-ecc6-43a1-b343-899ad9d5f3d7",
+    "symbol": "DRC",
+    "name": "DRC mobility",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd7f5cabdf696d7d1bf384d7688926a4bdb092c67"
+      }
+    }
+  }
+]

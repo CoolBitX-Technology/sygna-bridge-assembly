@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ac78ea51-65a6-4335-9777-22b6f953f7a0",
+    "symbol": "MTL",
+    "name": "Metal",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf433089366899d83a9f26a773d59ec7ecf30355e"
+      }
+    }
+  }
+]

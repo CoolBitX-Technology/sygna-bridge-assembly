@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bfcee928-9f33-4485-a074-9e907fa7c13f",
+    "symbol": "DGC",
+    "name": "Digitalcoin",
+    "platforms": {
+      "digitalcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

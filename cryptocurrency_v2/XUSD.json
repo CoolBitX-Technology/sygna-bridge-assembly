@@ -1,0 +1,12 @@
+[
+  {
+    "id": "81580815-5cc5-4f57-ba72-9e41acd1f978",
+    "symbol": "XUSD",
+    "name": "XUSD Stable",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1c9ba9144505aaba12f4b126fda9807150b88f80"
+      }
+    }
+  }
+]

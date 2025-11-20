@@ -1,0 +1,12 @@
+[
+  {
+    "id": "483af364-0d9d-4177-ad02-340e4c8d9520",
+    "symbol": "NODL",
+    "name": "Nodle",
+    "platforms": {
+      "nodle": {
+        "token_address": "native"
+      }
+    }
+  }
+]

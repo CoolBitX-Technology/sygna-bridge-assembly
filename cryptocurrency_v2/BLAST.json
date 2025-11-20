@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5978bab0-bb93-42e8-bd12-ecb27fded4e5",
+    "symbol": "BLAST",
+    "name": "BLAST",
+    "platforms": {
+      "blast": {
+        "token_address": "native"
+      }
+    }
+  }
+]

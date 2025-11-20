@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9c0caa6c-799b-4050-bf33-c3e8eda75184",
+    "symbol": "ISK",
+    "name": "ISKRA",
+    "platforms": {
+      "iskra": {
+        "token_address": "native"
+      }
+    }
+  }
+]

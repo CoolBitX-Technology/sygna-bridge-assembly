@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3eb2cec4-7ffd-4b8f-bd0e-ce731c518116",
+    "symbol": "XIN",
+    "name": "Mixin",
+    "platforms": {
+      "mixin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

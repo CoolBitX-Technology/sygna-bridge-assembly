@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2bb811ea-9edd-4b99-aa6c-b905303aa531",
+    "symbol": "TOM",
+    "name": "TOM Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf7970499814654cd13cb7b6e7634a12a7a8a9abc"
+      }
+    }
+  }
+]

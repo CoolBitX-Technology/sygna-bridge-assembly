@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5d6ca138-f2bb-4a2a-bb69-aae93d8ea4cd",
+    "symbol": "FDZ",
+    "name": "Friendz",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x23352036e911a22cfc692b5e2e196692658aded9"
+      }
+    }
+  }
+]

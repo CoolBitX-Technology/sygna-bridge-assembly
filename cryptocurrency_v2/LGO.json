@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2b63ec06-86ed-4b60-b08f-a03b802a0846",
+    "symbol": "LGO",
+    "name": "LGO Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0a50c93c762fdd6e56d86215c24aaad43ab629aa"
+      }
+    }
+  }
+]

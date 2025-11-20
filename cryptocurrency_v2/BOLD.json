@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6c7af628-458d-4fc9-9a95-6ad75c3b06c6",
+    "symbol": "BOLD",
+    "name": "Bold",
+    "platforms": {
+      "bold": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "23e3ad4d-6920-42b6-86af-7583cd91a412",
+    "symbol": "GOD",
+    "name": "Bitcoin God",
+    "platforms": {
+      "bitcoin-god": {
+        "token_address": "native"
+      }
+    }
+  }
+]

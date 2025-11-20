@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5f64e1de-1b0f-4672-abe4-aea8e13b2b8e",
+    "symbol": "LUN",
+    "name": "Lunyr",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfa05a73ffe78ef8f1a739473e462c54bae6567d9"
+      }
+    }
+  }
+]

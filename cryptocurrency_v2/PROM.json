@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ee1d5968-b104-45d7-960e-7b58e052d4de",
+    "symbol": "PROM",
+    "name": "Prometeus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d"
+      }
+    }
+  }
+]

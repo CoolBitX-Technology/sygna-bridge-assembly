@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c60ead3-f20e-4b27-bbfe-8c0b62d11457",
+    "symbol": "POND",
+    "name": "Marlin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x57b946008913b82e4df85f501cbaed910e58d26c"
+      }
+    }
+  }
+]

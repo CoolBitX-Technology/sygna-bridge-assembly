@@ -1,0 +1,12 @@
+[
+  {
+    "id": "de7e409d-18c0-4df3-9ea2-724be566aba5",
+    "symbol": "KAVA",
+    "name": "Kava",
+    "platforms": {
+      "kava": {
+        "token_address": "native"
+      }
+    }
+  }
+]

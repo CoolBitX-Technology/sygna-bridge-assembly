@@ -1,0 +1,12 @@
+[
+  {
+    "id": "38fec656-cbd8-405d-b4d3-47ef582a7baf",
+    "symbol": "BIS",
+    "name": "Bismuth",
+    "platforms": {
+      "bismuth": {
+        "token_address": "native"
+      }
+    }
+  }
+]

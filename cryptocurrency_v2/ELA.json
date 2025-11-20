@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a88151e1-a218-4ac7-bdea-21dc95bc8ede",
+    "symbol": "ELA",
+    "name": "Elastos",
+    "platforms": {
+      "elastos": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3904bda3-2aae-4f81-bcf0-370656092736",
+    "symbol": "ONS",
+    "name": "One Share",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5bb29c33c4a3c29f56f8aca40b4db91d8a5fe2c5"
+      }
+    }
+  }
+]

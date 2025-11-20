@@ -1,0 +1,12 @@
+[
+  {
+    "id": "016adc55-87b3-48fa-abe8-14d08367568d",
+    "symbol": "EFL",
+    "name": "e-Gulden",
+    "platforms": {
+      "e-gulden": {
+        "token_address": "native"
+      }
+    }
+  }
+]

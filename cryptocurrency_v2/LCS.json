@@ -1,0 +1,12 @@
+[
+  {
+    "id": "53d3a65a-ef45-4977-a6cf-b15cf7a1e592",
+    "symbol": "LCS",
+    "name": "LocalCoinSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8"
+      }
+    }
+  }
+]

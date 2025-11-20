@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0c5164b2-daf2-40ef-b49a-66f43eaadb27",
+    "symbol": "AVN",
+    "name": "Avian Network",
+    "platforms": {
+      "avian-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

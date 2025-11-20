@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ba7f705c-b834-4c24-abe5-aea70fabac60",
+    "symbol": "JST",
+    "name": "JUST",
+    "platforms": {
+      "tron": {
+        "token_address": "tcfll5dx5zjdknwuesxxi1vpwjlvmwzzy9"
+      }
+    }
+  }
+]

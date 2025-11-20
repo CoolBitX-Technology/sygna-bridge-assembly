@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d00ba88d-4cbd-40c7-9517-caad69af772f",
+    "symbol": "AME",
+    "name": "AMEPAY",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x12513335ffd5dafc2334e98625d27c1ca84bff86"
+      }
+    }
+  }
+]

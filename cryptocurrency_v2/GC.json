@@ -1,0 +1,12 @@
+[
+  {
+    "id": "159a6061-7777-48d1-8445-7644294f8075",
+    "symbol": "GC",
+    "name": "Gric Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x486a72811ae65c4c814ba929d6da35497d21296f"
+      }
+    }
+  }
+]

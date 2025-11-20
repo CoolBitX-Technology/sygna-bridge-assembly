@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5a945d6c-aa9e-4b49-b522-7915abee8d2d",
+    "symbol": "AIOZ",
+    "name": "AIOZ",
+    "platforms": {
+      "aioz": {
+        "token_address": "native"
+      }
+    }
+  }
+]

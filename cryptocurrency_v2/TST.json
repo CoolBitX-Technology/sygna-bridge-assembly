@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ec10b1ae-0633-4e10-a760-eff7155d70eb",
+    "symbol": "TST",
+    "name": "Touch Social",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd9bae39c725a1864b1133ad0ef1640d02f79b78c"
+      }
+    }
+  }
+]

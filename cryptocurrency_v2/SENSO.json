@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4a773467-4a84-4888-b8ff-e2eca7635681",
+    "symbol": "SENSO",
+    "name": "SENSO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc19b6a4ac7c7cc24459f08984bbd09664af17bd1"
+      }
+    }
+  }
+]

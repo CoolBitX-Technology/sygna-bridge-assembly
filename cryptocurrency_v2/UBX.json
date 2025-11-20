@@ -1,0 +1,12 @@
+[
+  {
+    "id": "545f4bff-1723-4d8d-a80e-e981f78fbf48",
+    "symbol": "UBX",
+    "name": "UBIX.Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf5b5efc906513b4344ebabcf47a04901f99f09f3"
+      }
+    }
+  }
+]

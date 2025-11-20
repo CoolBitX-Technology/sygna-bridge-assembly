@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6633d2d0-932c-42db-af26-bc9437adf572",
+    "symbol": "CUSDC",
+    "name": "Compound USD Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x39aa39c021dfbae8fac545936693ac917d5e7563"
+      }
+    }
+  }
+]

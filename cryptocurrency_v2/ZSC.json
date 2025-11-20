@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e7a51673-0872-406f-93ad-b88abcdac73f",
+    "symbol": "ZSC",
+    "name": "Zeusshield",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9de527b8-68d6-48b7-98df-4968803844e7",
+    "symbol": "NYC",
+    "name": "NewYorkCoin",
+    "platforms": {
+      "newyorkcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

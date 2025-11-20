@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b35fb83f-1bef-4f99-9532-73b4ffdf663e",
+    "symbol": "BUX",
+    "name": "BUX Token",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x211ffbe424b90e25a15531ca322adf1559779e45"
+      }
+    }
+  }
+]

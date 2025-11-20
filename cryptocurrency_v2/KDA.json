@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7ff487e4-6634-4e8d-8b0f-06b4c4db93c5",
+    "symbol": "KDA",
+    "name": "Kadena",
+    "platforms": {
+      "kadena": {
+        "token_address": "native"
+      }
+    }
+  }
+]

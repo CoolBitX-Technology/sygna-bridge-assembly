@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f15be9c6-a1ef-46b7-ab6e-5ce9a31eac48",
+    "symbol": "CAP",
+    "name": "Cap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x43044f861ec040db59a7e324c40507addb673142"
+      }
+    }
+  }
+]

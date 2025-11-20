@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f37b374c-86d2-4a19-8f9e-9021b9df618b",
+    "symbol": "ARW",
+    "name": "ArrowChain",
+    "platforms": {
+      "arrowchain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

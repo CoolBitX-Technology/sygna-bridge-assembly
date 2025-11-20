@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dbe2dcee-efbc-4ea1-894f-41ad2bf51a2c",
+    "symbol": "DIVI",
+    "name": "Divi",
+    "platforms": {
+      "divi": {
+        "token_address": "native"
+      }
+    }
+  }
+]

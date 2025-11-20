@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f9472d6b-81e4-4cc2-9fdb-6e20161d434b",
+    "symbol": "STAR",
+    "name": "Starbase",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc"
+      }
+    }
+  }
+]

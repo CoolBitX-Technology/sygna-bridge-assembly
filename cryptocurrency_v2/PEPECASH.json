@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8d7bd950-adcf-44db-960f-e9a8d49ae5a0",
+    "symbol": "PEPECASH",
+    "name": "Pepe Cash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc08e7911ee27169967ed8ec252fee73048cc0dff"
+      }
+    }
+  }
+]

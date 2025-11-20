@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1712bebf-1a0d-4faa-ab85-57ea28489292",
+    "symbol": "SLT",
+    "name": "Social Lending Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x851017523ae205adc9195e7f97d029f4cfe7794c"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e2c8d37b-082a-4787-a217-35d9eedb3b16",
+    "symbol": "ZYRO",
+    "name": "Zyro",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1f6bd8766f8a8aa58f7441c8dd3709afa3a56202"
+      }
+    }
+  }
+]

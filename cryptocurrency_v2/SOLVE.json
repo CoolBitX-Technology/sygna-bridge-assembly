@@ -1,0 +1,12 @@
+[
+  {
+    "id": "07c78cf3-b0e4-4020-b439-401e901a4c1d",
+    "symbol": "SOLVE",
+    "name": "SOLVE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b9585597-5c5b-4d95-8fa6-8c7b3442e9e9",
+    "symbol": "KETH",
+    "name": "Krypton World",
+    "platforms": {
+      "krypton-world": {
+        "token_address": "native"
+      }
+    }
+  }
+]

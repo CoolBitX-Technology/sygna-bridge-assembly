@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fb3cffe1-ed37-47d0-9ca3-a878af67e965",
+    "symbol": "IFEX",
+    "name": "Interfinex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa891cf72aeda692570928efe1a832342e9783cdc"
+      }
+    }
+  }
+]

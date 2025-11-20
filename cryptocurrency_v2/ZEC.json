@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a5434189-7d31-4367-9e18-f6dff4e9b1b8",
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "platforms": {
+      "zcash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

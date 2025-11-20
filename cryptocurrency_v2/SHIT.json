@@ -1,0 +1,12 @@
+[
+  {
+    "id": "32fb7f68-58be-4721-bbb4-7c7c788ebe76",
+    "symbol": "SHIT",
+    "name": "Shitcoin",
+    "platforms": {
+      "shitcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

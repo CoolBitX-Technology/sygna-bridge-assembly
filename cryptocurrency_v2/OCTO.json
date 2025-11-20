@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c60635fe-90ff-460d-86ad-1c4c27d60db4",
+    "symbol": "OCTO",
+    "name": "OctoFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7240ac91f01233baaf8b064248e80feaa5912ba3"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a99fc6da-500e-4c8a-8ecf-f633f8c47135",
+    "symbol": "WVG0",
+    "name": "Wrapped Virgin Gen-0 CryptoKitties",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x25c7b64a93eb1261e130ec21a3e9918caa38b611"
+      }
+    }
+  }
+]

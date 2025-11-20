@@ -1,0 +1,12 @@
+[
+  {
+    "id": "03364ff6-cedf-475e-b37b-bf3fead17ed7",
+    "symbol": "DNT",
+    "name": "district0x",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0abdace70d3790235af448c88547603b945604ea"
+      }
+    }
+  }
+]

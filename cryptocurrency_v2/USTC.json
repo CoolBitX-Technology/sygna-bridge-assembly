@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6516ffae-c678-442d-ba36-fe48b003d668",
+    "symbol": "USTC",
+    "name": "TerraClassicUSD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd"
+      }
+    }
+  }
+]

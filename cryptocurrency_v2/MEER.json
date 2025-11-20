@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4ae7e37d-ec1a-4c0f-97e3-149056539376",
+    "symbol": "MEER",
+    "name": "Qitmeer",
+    "platforms": {
+      "qitmeer": {
+        "token_address": "native"
+      }
+    }
+  }
+]

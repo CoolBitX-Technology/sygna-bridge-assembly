@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e20d80cc-861c-4093-b2fe-0f06bd50871b",
+    "symbol": "MNX",
+    "name": "MinexCoin",
+    "platforms": {
+      "minexcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

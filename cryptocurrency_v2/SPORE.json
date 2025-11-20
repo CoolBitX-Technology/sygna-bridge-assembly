@@ -1,0 +1,12 @@
+[
+  {
+    "id": "35dcc702-0a9e-41ff-9315-c2c47b07cd85",
+    "symbol": "SPORE",
+    "name": "Spore Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa4bad5d040d4464ec5ce130987731f2f428c9307"
+      }
+    }
+  }
+]

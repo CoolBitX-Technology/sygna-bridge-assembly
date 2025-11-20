@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a1a3cf0b-11f7-47a9-980e-2c0ac4a60b32",
+    "symbol": "MAG",
+    "name": "Maggie",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x647f274b3a7248d6cf51b35f08e7e7fd6edfb271"
+      }
+    }
+  }
+]

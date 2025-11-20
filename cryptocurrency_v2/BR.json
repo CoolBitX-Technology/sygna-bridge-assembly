@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b796a8ed-5ed3-4c26-bb1e-55cbe2a0113b",
+    "symbol": "BR",
+    "name": "BR",
+    "platforms": {
+      "br": {
+        "token_address": "native"
+      }
+    }
+  }
+]

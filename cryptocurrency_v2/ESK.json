@@ -1,0 +1,12 @@
+[
+  {
+    "id": "22cc1ef4-976d-47ae-ac77-07d29d3b05e8",
+    "symbol": "ESK",
+    "name": "EskaCoin",
+    "platforms": {
+      "eskacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

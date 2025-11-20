@@ -1,0 +1,22 @@
+[
+  {
+    "id": "258ae266-ff75-4956-99ec-38dfbca2cdd5",
+    "symbol": "EDG",
+    "name": "Edgeless",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c"
+      }
+    }
+  },
+  {
+    "id": "1accc540-059c-4f9a-bd5a-c40ed46694e1",
+    "symbol": "EDG",
+    "name": "Edgeware",
+    "platforms": {
+      "edgeware": {
+        "token_address": "native"
+      }
+    }
+  }
+]

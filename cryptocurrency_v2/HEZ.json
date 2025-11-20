@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d930c8e3-cbfe-4848-9ff9-2074d73c1a2a",
+    "symbol": "HEZ",
+    "name": "Hermez Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeef9f339514298c6a857efcfc1a762af84438dee"
+      }
+    }
+  }
+]

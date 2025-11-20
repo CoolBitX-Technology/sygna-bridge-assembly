@@ -1,0 +1,12 @@
+[
+  {
+    "id": "246b56cf-c10b-426f-acf4-6fd0afaa8a7d",
+    "symbol": "AEON",
+    "name": "Aeon",
+    "platforms": {
+      "aeon": {
+        "token_address": "native"
+      }
+    }
+  }
+]

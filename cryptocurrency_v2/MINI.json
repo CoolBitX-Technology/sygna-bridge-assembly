@@ -1,0 +1,12 @@
+[
+  {
+    "id": "16be6cc4-c59d-4fb0-a6ed-3ee75ffae307",
+    "symbol": "MINI",
+    "name": "MiniSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4d953cf077c0c95ba090226e59a18fcf97db44ec"
+      }
+    }
+  }
+]

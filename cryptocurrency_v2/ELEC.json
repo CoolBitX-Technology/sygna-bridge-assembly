@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2103e623-dccf-41af-a96b-b92f191b39bb",
+    "symbol": "ELEC",
+    "name": "Electrify.Asia",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd49ff13661451313ca1553fd6954bd1d9b6e02b9"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e33b5c25-6233-471d-aa8d-8c8852e0964f",
+    "symbol": "NAS",
+    "name": "Nebulas",
+    "platforms": {
+      "nebulas": {
+        "token_address": "native"
+      }
+    }
+  }
+]

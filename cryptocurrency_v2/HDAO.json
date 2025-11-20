@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0482e8cd-61f9-4228-b7c2-28780cb9e353",
+    "symbol": "HDAO",
+    "name": "HyperDAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x74faab6986560fd1140508e4266d8a7b87274ffd"
+      }
+    }
+  }
+]

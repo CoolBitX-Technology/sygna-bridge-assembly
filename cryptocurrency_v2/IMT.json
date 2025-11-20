@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7fbd9de2-8ce9-4dbd-91b0-7b0425bdab1c",
+    "symbol": "IMT",
+    "name": "Imsmart",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x13119e34e140097a507b07a5564bde1bc375d9e6"
+      }
+    }
+  }
+]

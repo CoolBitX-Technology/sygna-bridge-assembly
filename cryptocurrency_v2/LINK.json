@@ -1,0 +1,12 @@
+[
+  {
+    "id": "df2dad8f-f1df-420f-acb8-12fa1331cf3a",
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+      }
+    }
+  }
+]

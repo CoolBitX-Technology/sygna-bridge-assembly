@@ -1,0 +1,12 @@
+[
+  {
+    "id": "40d3e5c4-45c4-4b4d-bd3c-936aa4313bc1",
+    "symbol": "TNT",
+    "name": "Tierion",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "db042770-78d6-4773-b5be-ed6646add73e",
+    "symbol": "BONK",
+    "name": "Bonk",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6d6506e6f438ede269877a0a720026559110b7d5"
+      }
+    }
+  }
+]

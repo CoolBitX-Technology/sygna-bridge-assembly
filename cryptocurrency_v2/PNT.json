@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2f04690d-3a0d-40a2-94c9-48817f8a4f63",
+    "symbol": "PNT",
+    "name": "pNetwork",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x53066cddbc0099eb6c96785d9b3df2aaeede5da3"
+      }
+    }
+  }
+]

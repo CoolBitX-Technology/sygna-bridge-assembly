@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c67d8778-fcca-4e0d-ba19-0abc3429aecf",
+    "symbol": "POLYX",
+    "name": "Polymesh",
+    "platforms": {
+      "polymesh": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1dc438ff-3c27-4960-806c-3ca4630acbd5",
+    "symbol": "CLX",
+    "name": "Celeum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9f8f7ea504588a58b8b24b832b5d25a4aeb4706f"
+      }
+    }
+  }
+]

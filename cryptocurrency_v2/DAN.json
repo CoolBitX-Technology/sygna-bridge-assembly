@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b1675378-0614-4365-bad4-1569c816c5f0",
+    "symbol": "DAN",
+    "name": "Daneel",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9b70740e708a083c6ff38df52297020f5dfaa5ee"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "86384561-80b9-453a-bab9-725a4916e40f",
+    "symbol": "FLASH",
+    "name": "Flash",
+    "platforms": {
+      "flash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

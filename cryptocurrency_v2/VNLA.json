@@ -1,0 +1,12 @@
+[
+  {
+    "id": "917b47fa-c2a5-48e5-b860-1c3216fcbefd",
+    "symbol": "VNLA",
+    "name": "Vanilla Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb97faf860045483e0c7f08c56acb31333084a988"
+      }
+    }
+  }
+]

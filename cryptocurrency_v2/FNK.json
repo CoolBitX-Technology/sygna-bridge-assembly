@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2633b792-acd3-4869-8786-ef0ab699fabd",
+    "symbol": "FNK",
+    "name": "FNK wallet",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x06404399e748cd83f25ab163711f9f4d61cfd0e6"
+      }
+    }
+  }
+]

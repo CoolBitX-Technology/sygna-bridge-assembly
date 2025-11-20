@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9fef53e3-2db0-4ede-9573-1538bc28b9f5",
+    "symbol": "GRID",
+    "name": "Grid+",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd"
+      }
+    }
+  }
+]

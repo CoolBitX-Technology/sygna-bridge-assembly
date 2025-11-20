@@ -1,0 +1,12 @@
+[
+  {
+    "id": "75ae882b-d5ce-4ebf-ac6c-d1a1bbd72676",
+    "symbol": "DOS",
+    "name": "DOS Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0a913bead80f321e7ac35285ee10d9d922659cb7"
+      }
+    }
+  }
+]

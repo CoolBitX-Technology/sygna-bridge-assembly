@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c2f3a1f8-657a-4b79-b6bc-c9bdd7c090b9",
+    "symbol": "PROPHET",
+    "name": "Prophet",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8d5db0c1f0681071cb38a382ae6704588d9da587"
+      }
+    }
+  }
+]

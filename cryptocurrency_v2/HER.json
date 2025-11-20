@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eedc8d87-8dd8-41c9-a33a-2468ae503c3f",
+    "symbol": "HER",
+    "name": "HeroNode",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x491c9a23db85623eed455a8efdd6aba9b911c5df"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "56539cea-a658-4cc4-b3ba-d625754059d9",
+    "symbol": "NSURE",
+    "name": "Nsure.Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x20945ca1df56d237fd40036d47e866c7dccd2114"
+      }
+    }
+  }
+]

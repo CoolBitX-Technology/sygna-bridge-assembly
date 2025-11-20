@@ -1,0 +1,12 @@
+[
+  {
+    "id": "88e43cdc-b1a5-4654-86fe-159c49d633c2",
+    "symbol": "RYO",
+    "name": "Ryo Currency",
+    "platforms": {
+      "ryo-currency": {
+        "token_address": "native"
+      }
+    }
+  }
+]

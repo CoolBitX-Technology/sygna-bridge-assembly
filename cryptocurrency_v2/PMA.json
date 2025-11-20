@@ -1,0 +1,12 @@
+[
+  {
+    "id": "519e1f48-c939-4fc2-aeff-d1906098ae3c",
+    "symbol": "PMA",
+    "name": "PumaPay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x846c66cf71c43f80403b51fe3906b3599d63336f"
+      }
+    }
+  }
+]

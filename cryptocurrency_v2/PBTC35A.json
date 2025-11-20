@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bdff57f3-8eec-4249-a07e-8e2ffe2b775e",
+    "symbol": "PBTC35A",
+    "name": "pBTC35A",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa8b12cc90abf65191532a12bb5394a714a46d358"
+      }
+    }
+  }
+]

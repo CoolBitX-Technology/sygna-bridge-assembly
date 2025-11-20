@@ -1,0 +1,12 @@
+[
+  {
+    "id": "719103c5-9aff-4acf-85a6-cf1a4e3b325b",
+    "symbol": "KBC",
+    "name": "Karatgold Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a"
+      }
+    }
+  }
+]

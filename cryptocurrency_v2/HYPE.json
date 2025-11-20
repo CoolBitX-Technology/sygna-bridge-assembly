@@ -1,0 +1,12 @@
+[
+  {
+    "id": "593cb148-905c-46e7-bddb-1ec23f980cbe",
+    "symbol": "HYPE",
+    "name": "Hype",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4ff7c227e1e7bd59351de8635381c379750a8040"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9ba65d54-8712-44ac-9cd5-d84d14e733de",
+    "symbol": "AGA",
+    "name": "AGA Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20"
+      }
+    }
+  }
+]

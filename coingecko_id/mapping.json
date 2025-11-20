@@ -537,7 +537,7 @@
     },
     {
         "currency_id": "sygna:0x80000266.0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-        "coingecko_id": "bridged-dai-stablecoin-linea"
+        "coingecko_id": "dai"
     },
     {
         "currency_id": "sygna:0x80000266",
@@ -545,7 +545,7 @@
     },
     {
         "currency_id": "sygna:0x80000266.native",
-        "coingecko_id": "bridged-binance-peg-ethereum-opbnb"
+        "coingecko_id": "ethereum"
     },
     {
         "currency_id": "sygna:0x80000267",
@@ -8217,7 +8217,7 @@
     },
     {
         "currency_id": "sygna:0x800002ca.0x55d398326f99059ff775485246999027b3197955",
-        "coingecko_id": "tether"
+        "coingecko_id": "bsc-usd"
     },
     {
         "currency_id": "sygna:0x800002ca.0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
@@ -8834,5 +8834,9 @@
     {
         "currency_id": "sygna:0x8000003c.0x56072c95faa701256059aa122697b133aded9279",
         "coingecko_id": "sky"
+    },
+     {
+        "currency_id": "sygna:joc",
+        "coingecko_id": "japan-open-chain"
     }
 ]

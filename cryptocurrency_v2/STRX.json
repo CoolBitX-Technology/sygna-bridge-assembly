@@ -1,0 +1,12 @@
+[
+  {
+    "id": "42745328-4153-4c66-a596-3c477993eb8c",
+    "symbol": "STRX",
+    "name": "sTRX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0944d2c41fef3088467287e208e5bbb622a0c09c"
+      }
+    }
+  }
+]

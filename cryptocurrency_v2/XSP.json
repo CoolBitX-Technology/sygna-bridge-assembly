@@ -1,0 +1,12 @@
+[
+  {
+    "id": "022646df-10ed-4938-b304-e8ba198f9e34",
+    "symbol": "XSP",
+    "name": "XSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9b06d48e0529ecf05905ff52dd426ebec0ea3011"
+      }
+    }
+  }
+]

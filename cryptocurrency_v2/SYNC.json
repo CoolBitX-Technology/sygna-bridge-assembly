@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6add8e38-efc2-4a7b-b0cb-a94ae749785b",
+    "symbol": "SYNC",
+    "name": "SYNC Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32"
+      }
+    }
+  }
+]

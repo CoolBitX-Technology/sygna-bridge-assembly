@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f1ea9ecc-3465-4ba2-9da2-7c3ebdb450a6",
+    "symbol": "MORE",
+    "name": "More Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x305de070488c8469dfac957226c9c900c4bfba22"
+      }
+    }
+  }
+]

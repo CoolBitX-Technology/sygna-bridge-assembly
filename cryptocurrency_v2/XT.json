@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b5f27d82-a6e5-4b93-86bd-4bdf23f7acd5",
+    "symbol": "XT",
+    "name": "ExtStock Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4be10da47a07716af28ad199fbe020501bddd7af"
+      }
+    }
+  }
+]

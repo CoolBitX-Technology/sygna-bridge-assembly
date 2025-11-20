@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2160fdac-4688-4fee-a28d-27846240f01a",
+    "symbol": "ADS",
+    "name": "Adshares",
+    "platforms": {
+      "adshares": {
+        "token_address": "native"
+      }
+    }
+  }
+]

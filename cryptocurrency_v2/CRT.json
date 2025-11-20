@@ -1,0 +1,15 @@
+[
+  {
+    "id": "e3b66292-1ec6-4521-933e-802eb964f482",
+    "symbol": "CRT",
+    "name": "Cryptonits",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x36a28c7c9b3dea22f07f4df67833cbe764feeeb4"
+      },
+      "tron": {
+        "token_address": "tz7evozdeet2p9e2dkf9ctkf6eayfwras3"
+      }
+    }
+  }
+]

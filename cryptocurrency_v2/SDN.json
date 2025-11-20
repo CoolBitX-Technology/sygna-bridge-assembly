@@ -1,0 +1,12 @@
+[
+  {
+    "id": "08f62e79-bf9d-44ba-9d75-35c99006fd1c",
+    "symbol": "SDN",
+    "name": "Shiden Network",
+    "platforms": {
+      "shiden-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

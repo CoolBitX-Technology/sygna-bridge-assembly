@@ -1,0 +1,12 @@
+[
+  {
+    "id": "22eff59c-b602-4060-9032-6801ad644721",
+    "symbol": "CVX",
+    "name": "Convex Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
+      }
+    }
+  }
+]

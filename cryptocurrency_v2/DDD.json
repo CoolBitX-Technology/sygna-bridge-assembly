@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d503816f-bf4b-495f-a822-5dbd3a3a76a8",
+    "symbol": "DDD",
+    "name": "Scry.info",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9f5f3cfd7a32700c93f971637407ff17b91c7342"
+      }
+    }
+  }
+]

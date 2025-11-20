@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e3f4f016-f00f-4827-83d9-bf33d4ba88f1",
+    "symbol": "BTCR",
+    "name": "Bitcurate",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0371f7b219fff864b437bcfb564810f323fffcca"
+      }
+    }
+  }
+]

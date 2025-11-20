@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b867c841-0584-4ae0-8ca0-8de645fd55d6",
+    "symbol": "YFL",
+    "name": "YF Link",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x28cb7e841ee97947a86b06fa4090c8451f64c0be"
+      }
+    }
+  }
+]

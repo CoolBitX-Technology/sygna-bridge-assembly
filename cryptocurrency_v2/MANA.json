@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b9fa088f-c608-46fb-b821-d1c8cd4962cf",
+    "symbol": "MANA",
+    "name": "Decentraland",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+      }
+    }
+  }
+]

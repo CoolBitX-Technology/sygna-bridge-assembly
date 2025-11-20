@@ -1,0 +1,12 @@
+[
+  {
+    "id": "53eea237-9924-4879-b9c1-a150252d587c",
+    "symbol": "NEX",
+    "name": "Nash Exchange",
+    "platforms": {
+      "neo": {
+        "token_address": "3a4acd3647086e7c44398aac0349802e6a171129"
+      }
+    }
+  }
+]

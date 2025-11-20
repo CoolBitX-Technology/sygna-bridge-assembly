@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9a2ab2d3-438a-4da6-b69b-45d98144859b",
+    "symbol": "NET",
+    "name": "NEXT",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf29226914595052a04f5afbe6410d0c3ed707548"
+      }
+    }
+  }
+]

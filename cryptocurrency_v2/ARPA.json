@@ -1,0 +1,12 @@
+[
+  {
+    "id": "06d28a98-ec15-4cae-9bec-b4929b843776",
+    "symbol": "ARPA",
+    "name": "ARPA Chain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a"
+      }
+    }
+  }
+]

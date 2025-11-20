@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d3eff74e-ccc3-40e4-b4aa-dec7652f2a90",
+    "symbol": "MICRO",
+    "name": "Micromines",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d"
+      }
+    }
+  }
+]

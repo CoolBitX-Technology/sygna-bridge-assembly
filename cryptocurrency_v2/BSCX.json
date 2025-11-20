@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f1b5bab0-f63a-49a9-9aa5-5e41e5d78725",
+    "symbol": "BSCX",
+    "name": "BSCEX",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x5ac52ee5b2a633895292ff6d8a89bb9190451587"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "44fccf79-7f38-42d2-9f6e-24f0d6c7c8f5",
+    "symbol": "GHST",
+    "name": "Aavegotchi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+      }
+    }
+  }
+]

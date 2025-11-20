@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d82034ae-ce21-45ee-b389-f9677f8ef048",
+    "symbol": "OWN",
+    "name": "OWNDATA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x170b275ced089fffaebfe927f445a350ed9160dc"
+      }
+    }
+  }
+]

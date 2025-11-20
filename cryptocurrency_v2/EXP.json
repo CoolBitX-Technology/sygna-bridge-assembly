@@ -1,0 +1,15 @@
+[
+  {
+    "id": "b16c03f3-75ac-4334-86ef-78f87a34662c",
+    "symbol": "EXP",
+    "name": "Expanse",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5330a5805b9db68ebcf5247bbc9097163c1c2442"
+      },
+      "expanse": {
+        "token_address": "native"
+      }
+    }
+  }
+]

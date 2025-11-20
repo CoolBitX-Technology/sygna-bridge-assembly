@@ -1,0 +1,12 @@
+[
+  {
+    "id": "22ce27fe-2c6d-461c-ab8c-22117c37c014",
+    "symbol": "MOBIC",
+    "name": "MobilityCoin",
+    "platforms": {
+      "mobilitycoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

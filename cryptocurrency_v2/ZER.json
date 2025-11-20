@@ -1,0 +1,12 @@
+[
+  {
+    "id": "50bdae57-d0f8-4fef-893b-f13f439d9fe6",
+    "symbol": "ZER",
+    "name": "Zero",
+    "platforms": {
+      "zero": {
+        "token_address": "native"
+      }
+    }
+  }
+]

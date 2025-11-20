@@ -1,0 +1,12 @@
+[
+  {
+    "id": "808269b5-b97a-46b2-9ed8-bdadb66fa5b0",
+    "symbol": "ZMT",
+    "name": "Zipmex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaa602de53347579f86b996d2add74bb6f79462b2"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "89ed03f4-d1eb-4df2-9615-212cf861d64c",
+    "symbol": "DOGZ",
+    "name": "Dogz",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x82a77710495a35549d2add797412b4a4497d33ef"
+      }
+    }
+  }
+]

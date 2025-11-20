@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d648a5f7-9298-4057-bd22-b9dc5da76911",
+    "symbol": "RATING",
+    "name": "DPRating",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe8663a64a96169ff4d95b4299e7ae9a76b905b31"
+      }
+    }
+  }
+]

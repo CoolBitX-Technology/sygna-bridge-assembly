@@ -1,0 +1,12 @@
+[
+  {
+    "id": "877b3cbf-f755-458e-bea6-98e29469f7a7",
+    "symbol": "YIELD",
+    "name": "Yield-Farming",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6768063279e2b185dc0c972b97f11f231d0b45ad"
+      }
+    }
+  }
+]

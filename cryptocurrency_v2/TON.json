@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f4dffdc7-0b52-47d8-8541-f30e6e253906",
+    "symbol": "TON",
+    "name": "Toncoin",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f"
+      },
+      "ethereum": {
+        "token_address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1"
+      },
+      "ton": {
+        "token_address": "native"
+      }
+    }
+  },
+  {
+    "id": "40062817-2859-4e25-861c-b080de135461",
+    "symbol": "TON",
+    "name": "Tokamak Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2be5e8c109e2197d077d13a82daead6a9b3433c5"
+      }
+    }
+  },
+  {
+    "id": "086c5ced-0e65-4231-bcab-5ef1ac1c3e82",
+    "symbol": "TON",
+    "name": "TON Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a"
+      }
+    }
+  }
+]

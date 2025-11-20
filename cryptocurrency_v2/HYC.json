@@ -1,0 +1,12 @@
+[
+  {
+    "id": "287e4e98-58dc-4259-ab2e-3f183460f59d",
+    "symbol": "HYC",
+    "name": "HYCON",
+    "platforms": {
+      "hycon": {
+        "token_address": "native"
+      }
+    }
+  }
+]

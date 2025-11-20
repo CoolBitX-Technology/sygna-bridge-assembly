@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6d095328-0052-4e91-bd36-1145da6c1393",
+    "symbol": "SWIFT",
+    "name": "SwiftCash",
+    "platforms": {
+      "swiftcash": {
+        "token_address": "native"
+      }
+    }
+  }
+]

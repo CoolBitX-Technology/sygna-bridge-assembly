@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8e324a77-6370-47cd-992a-d323278240e5",
+    "symbol": "PUT",
+    "name": "PutinCoin",
+    "platforms": {
+      "putincoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

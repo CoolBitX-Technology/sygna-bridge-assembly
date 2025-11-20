@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fb24b0e2-2042-4ce3-ba17-e7a89458ec57",
+    "symbol": "MSWAP",
+    "name": "MoneySwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc005204856ee7035a13d8d7cdbbdc13027afff90"
+      }
+    }
+  }
+]

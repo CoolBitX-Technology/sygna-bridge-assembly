@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a7bbb540-997f-4852-aaba-90830161e06a",
+    "symbol": "SFUEL",
+    "name": "SparkPoint Fuel",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x37ac4d6140e54304d77437a5c11924f61a2d976f"
+      }
+    }
+  }
+]

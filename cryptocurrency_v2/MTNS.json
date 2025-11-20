@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2fa310ed-d7c2-4d32-a4c3-3c9414b18642",
+    "symbol": "MTNS",
+    "name": "OmotenashiCoin",
+    "platforms": {
+      "omotenashicoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

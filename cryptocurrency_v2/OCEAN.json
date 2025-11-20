@@ -1,0 +1,12 @@
+[
+  {
+    "id": "912978e1-3140-41c3-8d4d-727a20bffab5",
+    "symbol": "OCEAN",
+    "name": "Ocean Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+      }
+    }
+  }
+]

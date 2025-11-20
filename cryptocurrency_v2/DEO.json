@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c02777a9-7295-40eb-860c-13fce1fff895",
+    "symbol": "DEO",
+    "name": "Destocoin",
+    "platforms": {
+      "destocoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "501aff9e-9986-4e25-a057-8b253f3d737b",
+    "symbol": "GO",
+    "name": "GoChain",
+    "platforms": {
+      "gochain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "94109cd0-897b-42e2-ac91-2c4acc2beb67",
+    "symbol": "DAPPT",
+    "name": "Dapp Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x386cabc0b14a507a4e024dea15554342865b20de"
+      }
+    }
+  }
+]

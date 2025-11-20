@@ -1,0 +1,12 @@
+[
+  {
+    "id": "097595e3-35c4-4639-9f56-ae77a416e768",
+    "symbol": "DRM",
+    "name": "DoDreamChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x89551b940e2a8ed8eccf509935bac9213fe30584"
+      }
+    }
+  }
+]

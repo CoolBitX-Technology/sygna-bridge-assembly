@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0515cdd5-6cc0-4cdf-8b10-891c8d5a834a",
+    "symbol": "MCP",
+    "name": "My Crypto Play",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2186ecb39f1b765ba7d78f1c43c2e9d7fc0c1eca"
+      }
+    }
+  }
+]

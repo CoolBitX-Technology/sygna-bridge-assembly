@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1aa0465a-71c7-4711-8bee-e3a680710701",
+    "symbol": "BHIG",
+    "name": "BuckHathCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x996229d0c6a485c7f4b52e092eaa907cb2def5c6"
+      }
+    }
+  }
+]

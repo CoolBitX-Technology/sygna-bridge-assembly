@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6c3a8307-335b-4b3b-bd9b-a3ab831cad8f",
+    "symbol": "EVX",
+    "name": "Everex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8"
+      }
+    }
+  }
+]

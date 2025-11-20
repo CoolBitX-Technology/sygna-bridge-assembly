@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f12081e5-2030-45f6-a52c-ad8f81829fe0",
+    "symbol": "BFX",
+    "name": "Bitfex",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdb096cc19b8227e2115855c5b39dcc247470013c"
+      }
+    }
+  }
+]

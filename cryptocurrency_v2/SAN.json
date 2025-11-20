@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e826b9fc-ae50-4709-8596-de34d0027aa3",
+    "symbol": "SAN",
+    "name": "Santiment Network Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098"
+      }
+    }
+  }
+]

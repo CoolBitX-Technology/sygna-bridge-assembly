@@ -1,0 +1,12 @@
+[
+  {
+    "id": "129f2137-66b5-4207-b14a-56ab8aa58008",
+    "symbol": "CTC",
+    "name": "Creditcoin",
+    "platforms": {
+      "creditcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

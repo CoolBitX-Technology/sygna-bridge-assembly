@@ -1,0 +1,12 @@
+[
+  {
+    "id": "30bf5cef-51e8-49d6-bee8-3bea415d1ee9",
+    "symbol": "COVAL",
+    "name": "Circuits of Value",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3d658390460295fb963f54dc0899cfb1c30776df"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e3ebe2f6-090b-4184-9005-a47c6f4cfc97",
+    "symbol": "ON",
+    "name": "OFIN Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822"
+      }
+    }
+  }
+]

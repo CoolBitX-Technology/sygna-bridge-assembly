@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9dc62173-04cf-4a1f-91c9-3ec714bb440b",
+    "symbol": "CDY",
+    "name": "Bitcoin Candy",
+    "platforms": {
+      "bitcoin-candy": {
+        "token_address": "native"
+      }
+    }
+  }
+]

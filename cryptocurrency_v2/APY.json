@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ec065a06-c0f7-47fe-82c0-0a1cf08decac",
+    "symbol": "APY",
+    "name": "APY.Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x95a4492f028aa1fd432ea71146b433e7b4446611"
+      }
+    }
+  }
+]

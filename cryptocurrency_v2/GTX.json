@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9964149c-7c47-4992-99a3-ef61e44d1296",
+    "symbol": "GTX",
+    "name": "GoalTime N",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x916885426255235da7a0bd90447986c00675f9ec"
+      }
+    }
+  }
+]

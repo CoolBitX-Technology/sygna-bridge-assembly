@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bcde1a2a-ab28-4fe8-a69e-9450a6604446",
+    "symbol": "PLT",
+    "name": "Add.xyz",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9fbfed658919a896b5dc7b00456ce22d780f9b65"
+      }
+    }
+  }
+]

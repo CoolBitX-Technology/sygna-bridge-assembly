@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1a7ed25c-6f21-403a-9faa-23e0714b5e8e",
+    "symbol": "DADI",
+    "name": "Edge",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfb2f26f266fb2805a387230f2aa0a331b4d96fba"
+      }
+    }
+  }
+]

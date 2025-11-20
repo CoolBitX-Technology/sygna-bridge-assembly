@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b4c6db37-98c0-4da6-b815-5bcbe84932ae",
+    "symbol": "UNN",
+    "name": "UNION Protocol Governance Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "12c8aba4-9305-4d6f-9b9c-5adc33c76bcd",
+    "symbol": "VETH",
+    "name": "Venus ETH",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8"
+      }
+    }
+  }
+]

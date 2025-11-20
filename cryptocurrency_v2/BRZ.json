@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e689c889-6a13-4066-9220-52bd0f8ccb22",
+    "symbol": "BRZ",
+    "name": "Brazilian Digital Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x420412e765bfa6d85aaac94b4f7b708c89be2e2b"
+      }
+    }
+  }
+]

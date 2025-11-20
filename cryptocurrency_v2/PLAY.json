@@ -1,0 +1,15 @@
+[
+  {
+    "id": "bf8db7f7-cb83-4aea-a5ea-b02e10704957",
+    "symbol": "PLAY",
+    "name": "Play Royal",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe477292f1b3268687a29376116b0ed27a9c76170"
+      },
+      "tron": {
+        "token_address": "tybszw3pqbwohc4ddyzfdjmd1hwenn6fkb"
+      }
+    }
+  }
+]

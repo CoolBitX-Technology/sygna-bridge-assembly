@@ -1,0 +1,12 @@
+[
+  {
+    "id": "de4f5483-f9d1-433a-a01d-52a78890cb6f",
+    "symbol": "BDG",
+    "name": "BitDegree",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1961b3331969ed52770751fc718ef530838b6dee"
+      }
+    }
+  }
+]

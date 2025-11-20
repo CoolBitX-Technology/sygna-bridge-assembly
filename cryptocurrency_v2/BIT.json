@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6ae97160-e216-4dda-9122-38a5d4e9f243",
+    "symbol": "BIT",
+    "name": "BitRewards",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x47da42696a866cdc61a4c809a515500a242909c1"
+      }
+    }
+  }
+]

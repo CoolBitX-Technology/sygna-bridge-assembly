@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5ce7aa45-3c22-4606-bd76-503294710623",
+    "symbol": "FLO",
+    "name": "FLO",
+    "platforms": {
+      "flo": {
+        "token_address": "native"
+      }
+    }
+  }
+]

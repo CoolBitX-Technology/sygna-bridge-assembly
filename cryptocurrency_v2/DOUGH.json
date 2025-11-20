@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0017b658-8458-4de0-a97a-e229b1ee86a8",
+    "symbol": "DOUGH",
+    "name": "PieDAO DOUGH v2",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xad32a8e6220741182940c5abf610bde99e737b2d"
+      }
+    }
+  }
+]

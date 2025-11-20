@@ -1,0 +1,12 @@
+[
+  {
+    "id": "98b4403e-9dc1-4007-992e-3b6236d57c42",
+    "symbol": "CEL",
+    "name": "Celsius",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
+      }
+    }
+  }
+]

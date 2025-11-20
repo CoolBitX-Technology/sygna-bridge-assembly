@@ -1,0 +1,12 @@
+[
+  {
+    "id": "983d0d7b-a065-46c2-bffc-3b7262f32be2",
+    "symbol": "MBRS",
+    "name": "Ember",
+    "platforms": {
+      "ember": {
+        "token_address": "native"
+      }
+    }
+  }
+]

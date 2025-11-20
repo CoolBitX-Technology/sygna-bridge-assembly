@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3dc8466b-b520-432b-841e-8d8862cf137c",
+    "symbol": "PLOT",
+    "name": "PlotX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb"
+      }
+    }
+  }
+]

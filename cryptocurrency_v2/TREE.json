@@ -1,0 +1,12 @@
+[
+  {
+    "id": "25f8da39-56ae-4ffe-8e8f-7d9a2fdb58d4",
+    "symbol": "TREE",
+    "name": "Tree",
+    "platforms": {
+      "tree": {
+        "token_address": "native"
+      }
+    }
+  }
+]

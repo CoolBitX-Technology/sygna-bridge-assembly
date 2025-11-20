@@ -1,0 +1,12 @@
+[
+  {
+    "id": "02fd0256-ef4a-485c-83fa-38cdf0aa56fa",
+    "symbol": "BTN",
+    "name": "BitNewChain",
+    "platforms": {
+      "bitnewchain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

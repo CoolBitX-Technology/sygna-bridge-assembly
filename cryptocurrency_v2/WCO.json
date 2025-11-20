@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f4bff848-0ce0-409a-a337-641009187d27",
+    "symbol": "WCO",
+    "name": "Winco",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd44bb6663936cab1310584a277f7daa6943d4904"
+      }
+    }
+  }
+]

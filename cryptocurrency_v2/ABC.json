@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bcd8c959-089a-4f96-88ca-71a89682b550",
+    "symbol": "ABC",
+    "name": "Abcmint",
+    "platforms": {
+      "abcmint": {
+        "token_address": "native"
+      }
+    }
+  }
+]

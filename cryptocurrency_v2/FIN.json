@@ -1,0 +1,15 @@
+[
+  {
+    "id": "9b079637-639c-4c22-98e3-0bb71bfd6cb0",
+    "symbol": "FIN",
+    "name": "DeFiner",
+    "platforms": {
+      "definer": {
+        "token_address": "native"
+      },
+      "ethereum": {
+        "token_address": "0x054f76beed60ab6dbeb23502178c52d6c5debe40"
+      }
+    }
+  }
+]

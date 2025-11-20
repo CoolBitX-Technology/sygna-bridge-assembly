@@ -1,0 +1,12 @@
+[
+  {
+    "id": "70042426-32cb-429b-b411-be143a6bea7e",
+    "symbol": "WOW",
+    "name": "Wownero",
+    "platforms": {
+      "wownero": {
+        "token_address": "native"
+      }
+    }
+  }
+]

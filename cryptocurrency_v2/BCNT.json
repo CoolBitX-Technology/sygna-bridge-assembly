@@ -1,0 +1,12 @@
+[
+  {
+    "id": "65c5c644-5805-4482-91b4-6dc3b013fe16",
+    "symbol": "BCNT",
+    "name": "Bincentive",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9669890e48f330acd88b78d63e1a6b3482652cd9"
+      }
+    }
+  }
+]

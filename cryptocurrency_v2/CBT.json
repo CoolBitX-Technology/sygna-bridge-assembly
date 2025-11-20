@@ -1,0 +1,12 @@
+[
+  {
+    "id": "935533f8-6d28-49e5-8c5c-0ec3a1a3573e",
+    "symbol": "CBT",
+    "name": "CommerceBlock",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x076c97e1c869072ee22f8c91978c99b4bcb02591"
+      }
+    }
+  }
+]

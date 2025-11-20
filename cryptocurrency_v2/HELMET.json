@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5313da7b-de3e-4889-8b6f-4a2e750cfab9",
+    "symbol": "HELMET",
+    "name": "Helmet.insure",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8"
+      }
+    }
+  }
+]

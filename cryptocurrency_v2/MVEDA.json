@@ -1,0 +1,12 @@
+[
+  {
+    "id": "79501566-f9e1-4bc2-81b5-8b64f4672dc9",
+    "symbol": "MVEDA",
+    "name": "Medicalveda",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcbe7142f5c16755d8683ba329efa1abf7b54482d"
+      }
+    }
+  }
+]

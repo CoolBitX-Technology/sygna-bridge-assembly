@@ -1,0 +1,12 @@
+[
+  {
+    "id": "089dd571-dbcc-4c1b-9d0c-fd6c3bbf5a12",
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "platforms": {
+      "bitcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

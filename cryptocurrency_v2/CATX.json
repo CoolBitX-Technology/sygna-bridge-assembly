@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9d9279bc-3636-474c-a32f-97ce1873283d",
+    "symbol": "CATX",
+    "name": "CAT.trade Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc7743bf0b300ec041e704cc34d4f43050942099e"
+      }
+    }
+  }
+]

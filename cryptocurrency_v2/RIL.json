@@ -1,0 +1,12 @@
+[
+  {
+    "id": "93a17f86-4f66-44e3-89ac-15bd44893f1f",
+    "symbol": "RIL",
+    "name": "Rilcoin",
+    "platforms": {
+      "rilcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

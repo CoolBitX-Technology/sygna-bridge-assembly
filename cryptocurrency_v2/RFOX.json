@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2a3288f5-b505-49e8-bebd-aec0245e4756",
+    "symbol": "RFOX",
+    "name": "RedFOX Labs",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa1d6df714f91debf4e0802a542e13067f31b8262"
+      }
+    }
+  }
+]

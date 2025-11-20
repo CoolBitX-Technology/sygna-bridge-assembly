@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3f818a16-f1c4-4add-b325-5de88a8cf5ec",
+    "symbol": "WAVES",
+    "name": "Waves",
+    "platforms": {
+      "waves": {
+        "token_address": "native"
+      }
+    }
+  }
+]

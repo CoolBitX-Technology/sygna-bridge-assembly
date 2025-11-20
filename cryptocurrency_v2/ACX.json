@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eeb0e610-f174-4761-86bd-3f0a5f7bc562",
+    "symbol": "ACX",
+    "name": "AC Index",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x47318c3aaa5e8da19765eb07d79d937629017980"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ccf624a7-27b7-4fee-a6e8-50971e6dc725",
+    "symbol": "SHARE",
+    "name": "Seigniorage Shares",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d"
+      }
+    }
+  }
+]

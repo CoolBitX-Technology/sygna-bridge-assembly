@@ -1,0 +1,12 @@
+[
+  {
+    "id": "669fbe38-dc2e-4ca0-9900-04c9112534e8",
+    "symbol": "AUTO",
+    "name": "Cube",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x622dffcc4e83c64ba959530a5a5580687a57581b"
+      }
+    }
+  }
+]

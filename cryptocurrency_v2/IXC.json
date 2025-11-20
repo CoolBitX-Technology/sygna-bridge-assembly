@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4d0e2300-f521-4624-8876-7f0c61c23786",
+    "symbol": "IXC",
+    "name": "Ixcoin",
+    "platforms": {
+      "ixcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

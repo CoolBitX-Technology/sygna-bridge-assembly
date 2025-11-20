@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0315404e-4bca-4ee1-9cd5-7f14a15afa99",
+    "symbol": "NEBO",
+    "name": "CSP DAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7f0c8b125040f707441cad9e5ed8a8408673b455"
+      }
+    }
+  }
+]

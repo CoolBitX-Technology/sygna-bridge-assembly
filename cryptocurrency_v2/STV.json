@@ -1,0 +1,12 @@
+[
+  {
+    "id": "57290357-943c-4d91-86a8-f31db1fafa4c",
+    "symbol": "STV",
+    "name": "STVKE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x226e390751a2e22449d611bac83bd267f2a2caff"
+      }
+    }
+  }
+]

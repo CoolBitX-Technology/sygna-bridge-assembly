@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a4145e17-da96-454c-b6db-63482cf78e57",
+    "symbol": "PAC",
+    "name": "pacprotocol",
+    "platforms": {
+      "pacprotocol": {
+        "token_address": "native"
+      }
+    }
+  }
+]

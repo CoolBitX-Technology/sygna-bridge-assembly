@@ -1,0 +1,12 @@
+[
+  {
+    "id": "32ed35e1-7ace-49e8-a951-8260fd7b0e09",
+    "symbol": "CTI",
+    "name": "ClinTex CTi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8c18d6a985ef69744b9d57248a45c0861874f244"
+      }
+    }
+  }
+]

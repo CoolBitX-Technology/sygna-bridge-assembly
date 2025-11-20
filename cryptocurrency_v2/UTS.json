@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fb9b1c47-5b6a-4db9-aa8c-8c9aa363758c",
+    "symbol": "UTS",
+    "name": "UTEMIS",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x979ebc09e55ea0ab563cf7175e4c4b1a03afc19a"
+      }
+    }
+  }
+]

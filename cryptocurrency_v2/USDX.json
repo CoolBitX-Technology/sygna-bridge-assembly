@@ -1,0 +1,12 @@
+[
+  {
+    "id": "efb2702a-2a40-4da6-b903-40844c32504b",
+    "symbol": "USDX",
+    "name": "dForce USDx",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3"
+      }
+    }
+  }
+]

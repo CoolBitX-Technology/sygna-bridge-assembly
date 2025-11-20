@@ -1,0 +1,12 @@
+[
+  {
+    "id": "49e9cd6f-ba5f-4e57-8cc0-d7c99c82920e",
+    "symbol": "MTN",
+    "name": "Medicalchain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3"
+      }
+    }
+  }
+]

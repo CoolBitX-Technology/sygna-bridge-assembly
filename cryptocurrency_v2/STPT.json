@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8f8b46be-4989-423c-b0a1-c19121aa9986",
+    "symbol": "STPT",
+    "name": "Standard Tokenization Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb"
+      }
+    }
+  }
+]

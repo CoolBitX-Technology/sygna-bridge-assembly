@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0c275e93-7ce6-4d73-ab87-0809826df469",
+    "symbol": "BSW",
+    "name": "Biswap",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x965f527d9159dce6288a2219db51fc6eef120dd1"
+      }
+    }
+  }
+]

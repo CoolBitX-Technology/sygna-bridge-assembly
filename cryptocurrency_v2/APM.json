@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5a7de724-f678-48e5-a1dc-acb76cc5b4ba",
+    "symbol": "APM",
+    "name": "apM Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c"
+      }
+    }
+  }
+]

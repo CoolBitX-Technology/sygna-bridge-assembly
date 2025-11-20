@@ -1,0 +1,12 @@
+[
+  {
+    "id": "407e4cd2-8c94-4b85-a982-8c29472d2b90",
+    "symbol": "SMARTCREDIT",
+    "name": "SmartCredit Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x72e9d9038ce484ee986fea183f8d8df93f9ada13"
+      }
+    }
+  }
+]

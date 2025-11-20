@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ca370122-5da5-4064-934e-589b5c3f5585",
+    "symbol": "REV",
+    "name": "Revain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9"
+      }
+    }
+  }
+]

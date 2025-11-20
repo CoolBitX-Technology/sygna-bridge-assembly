@@ -1,0 +1,12 @@
+[
+  {
+    "id": "117dfca3-c9af-4412-98a1-8b79149fefe9",
+    "symbol": "SWTH",
+    "name": "Switcheo",
+    "platforms": {
+      "neo": {
+        "token_address": "ab38352559b8b203bde5fddfa0b07d8b2525e132"
+      }
+    }
+  }
+]

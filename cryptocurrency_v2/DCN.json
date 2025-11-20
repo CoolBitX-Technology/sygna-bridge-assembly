@@ -1,0 +1,12 @@
+[
+  {
+    "id": "898e8205-0b30-4416-a12e-9da2947bc9cf",
+    "symbol": "DCN",
+    "name": "Dentacoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "43564830-f48f-4c59-bf23-07a0ef24a2be",
+    "symbol": "MUSE",
+    "name": "Muse",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81"
+      }
+    }
+  }
+]

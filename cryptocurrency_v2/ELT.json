@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a50a417f-dfb7-47c3-8935-a51d35474d5e",
+    "symbol": "ELT",
+    "name": "Elite Swap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x380291a9a8593b39f123cf39cc1cc47463330b1f"
+      }
+    }
+  }
+]

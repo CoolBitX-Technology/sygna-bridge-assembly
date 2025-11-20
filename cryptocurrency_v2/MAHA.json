@@ -1,0 +1,12 @@
+[
+  {
+    "id": "45427590-7092-43cf-8b35-a24e1c8fbea8",
+    "symbol": "MAHA",
+    "name": "MahaDAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb4d930279552397bba2ee473229f89ec245bc365"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0afd308f-a6e3-4fc4-99a7-1d69ebfec631",
+    "symbol": "FACE",
+    "name": "Faceter",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672"
+      }
+    }
+  }
+]

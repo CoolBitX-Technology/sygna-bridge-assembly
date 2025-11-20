@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1b77fc33-e851-4a97-9a85-8b727820bffb",
+    "symbol": "MBOX",
+    "name": "MOBOX",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377"
+      }
+    }
+  }
+]

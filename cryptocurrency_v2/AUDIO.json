@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f65ab4d5-cc86-42d7-abba-5c8ef4350224",
+    "symbol": "AUDIO",
+    "name": "Audius",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x18aaa7115705e8be94bffebde57af9bfc265b998"
+      }
+    }
+  }
+]

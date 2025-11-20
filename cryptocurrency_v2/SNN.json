@@ -1,0 +1,12 @@
+[
+  {
+    "id": "50fb8bb4-f31f-4897-9e8c-a04346189ff8",
+    "symbol": "SNN",
+    "name": "SeChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf5717f5df41ea67ef67dfd3c1d02f9940bcf5d08"
+      }
+    }
+  }
+]

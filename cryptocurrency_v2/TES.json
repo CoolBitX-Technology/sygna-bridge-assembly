@@ -1,0 +1,12 @@
+[
+  {
+    "id": "712b5ca5-933a-4c57-af42-dbbb9c5c18de",
+    "symbol": "TES",
+    "name": "Teslacoin",
+    "platforms": {
+      "teslacoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

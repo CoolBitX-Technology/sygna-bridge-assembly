@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0cba58d1-b8ab-4fe9-9532-892506999d38",
+    "symbol": "GNY",
+    "name": "GNY",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a590f176-a19e-4e18-a15f-44917c73fba4",
+    "symbol": "MAX",
+    "name": "MAX Exchange Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe7976c4efc60d9f4c200cc1bcef1a1e3b02c73e7"
+      }
+    }
+  }
+]

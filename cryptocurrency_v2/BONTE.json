@@ -1,0 +1,12 @@
+[
+  {
+    "id": "686f6187-d66e-4af5-ac6a-9c2e2329457d",
+    "symbol": "BONTE",
+    "name": "Bontecoin",
+    "platforms": {
+      "bontecoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

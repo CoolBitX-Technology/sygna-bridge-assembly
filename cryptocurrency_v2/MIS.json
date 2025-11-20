@@ -1,0 +1,22 @@
+[
+  {
+    "id": "2b274c8d-d0b6-4807-a190-c58765223538",
+    "symbol": "MIS",
+    "name": "Mithril Share",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4b4d2e899658fb59b1d518b68fe836b100ee8958"
+      }
+    }
+  },
+  {
+    "id": "0bdf0e57-303c-48f4-88dc-fed0fe8e73ed",
+    "symbol": "MIS",
+    "name": "Themis",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcd1cb16a67937ff8af5d726e2681010ce1e9891a"
+      }
+    }
+  }
+]

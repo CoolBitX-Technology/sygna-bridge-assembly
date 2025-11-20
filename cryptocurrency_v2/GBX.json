@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ec47d698-3fe6-4590-ba27-8f1efa86ed24",
+    "symbol": "GBX",
+    "name": "GoByte",
+    "platforms": {
+      "gobyte": {
+        "token_address": "native"
+      }
+    }
+  }
+]

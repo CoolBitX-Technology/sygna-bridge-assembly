@@ -1,0 +1,22 @@
+[
+  {
+    "id": "4789a15a-ae0a-487b-9992-8a962ec79ad5",
+    "symbol": "ONG",
+    "name": "SoMee.Social",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd341d1680eeee3255b8c4c75bcce7eb57f144dae"
+      }
+    }
+  },
+  {
+    "id": "05396c72-eeaf-4680-91f4-ef84ae64b586",
+    "symbol": "ONG",
+    "name": "Ontology Gas",
+    "platforms": {
+      "ontology": {
+        "token_address": "afmsevrdl9f9oyczzefl9tg6ubvhfrzmhj"
+      }
+    }
+  }
+]

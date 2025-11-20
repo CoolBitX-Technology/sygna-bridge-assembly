@@ -1,0 +1,12 @@
+[
+  {
+    "id": "225b195d-0a5a-4339-bab6-f9bbb69502bc",
+    "symbol": "UNT",
+    "name": "Unimonitor",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6dddf4111ad997a8c7be9b2e502aa476bf1f4251"
+      }
+    }
+  }
+]

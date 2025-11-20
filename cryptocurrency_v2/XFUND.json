@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0235a13d-fc5f-4b20-8fb6-cd44a2b4dcaa",
+    "symbol": "XFUND",
+    "name": "xFund",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881"
+      }
+    }
+  }
+]

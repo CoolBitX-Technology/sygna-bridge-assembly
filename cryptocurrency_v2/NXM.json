@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d9aae492-a517-48f5-a9e0-3a242bd315d7",
+    "symbol": "NXM",
+    "name": "NXM",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b"
+      }
+    }
+  }
+]

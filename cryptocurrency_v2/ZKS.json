@@ -1,0 +1,12 @@
+[
+  {
+    "id": "eecadab5-40e0-4671-95eb-bb0079aa8e17",
+    "symbol": "ZKS",
+    "name": "ZKSwap",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6"
+      }
+    }
+  }
+]

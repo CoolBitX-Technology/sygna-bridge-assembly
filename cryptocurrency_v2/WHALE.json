@@ -1,0 +1,12 @@
+[
+  {
+    "id": "9ce10663-b354-42c7-a9cc-a631c0672305",
+    "symbol": "WHALE",
+    "name": "WHALE",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9355372396e3f6daf13359b7b607a3374cc638e0"
+      }
+    }
+  }
+]

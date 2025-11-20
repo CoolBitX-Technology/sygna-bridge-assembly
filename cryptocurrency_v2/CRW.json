@@ -1,0 +1,12 @@
+[
+  {
+    "id": "10fd1945-febf-4947-a765-9af21352b77b",
+    "symbol": "CRW",
+    "name": "Crown",
+    "platforms": {
+      "crown": {
+        "token_address": "native"
+      }
+    }
+  }
+]

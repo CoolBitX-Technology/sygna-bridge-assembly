@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0a68c70c-1539-4394-b2d7-f17c03be70dc",
+    "symbol": "QUAI",
+    "name": "Quai Network",
+    "platforms": {
+      "quai-network": {
+        "token_address": "native"
+      }
+    }
+  }
+]

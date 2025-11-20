@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0fceaaaf-411a-4a89-9278-bef18ae33057",
+    "symbol": "MONK",
+    "name": "Monkey Project",
+    "platforms": {
+      "monkey-project": {
+        "token_address": "native"
+      }
+    }
+  }
+]

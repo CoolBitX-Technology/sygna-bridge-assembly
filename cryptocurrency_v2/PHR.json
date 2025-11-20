@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dd03efcb-8023-4ff6-bbb9-3929953eb879",
+    "symbol": "PHR",
+    "name": "Phore",
+    "platforms": {
+      "phore": {
+        "token_address": "native"
+      }
+    }
+  }
+]

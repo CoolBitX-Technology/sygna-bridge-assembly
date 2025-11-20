@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e7cdf2f5-2436-4dca-abd6-1db62a8876aa",
+    "symbol": "NENG",
+    "name": "Nengcoin",
+    "platforms": {
+      "nengcoin": {
+        "token_address": "native"
+      }
+    }
+  }
+]

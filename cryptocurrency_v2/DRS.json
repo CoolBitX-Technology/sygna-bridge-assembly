@@ -1,0 +1,12 @@
+[
+  {
+    "id": "516a1e43-0ac1-4362-a390-01b03098b9e9",
+    "symbol": "DRS",
+    "name": "Doctors Coin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbf13ff395d686ed7c705a5411cc8e4e21ff2ceb2"
+      }
+    }
+  }
+]

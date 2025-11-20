@@ -1,0 +1,12 @@
+[
+  {
+    "id": "00def785-12b8-4868-b773-0680b09dc7df",
+    "symbol": "UNISTAKE",
+    "name": "Unistake",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e"
+      }
+    }
+  }
+]

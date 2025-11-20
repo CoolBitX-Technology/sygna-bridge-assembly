@@ -1,0 +1,12 @@
+[
+  {
+    "id": "942aae50-7cfa-48dc-91d5-ce2d99c514f4",
+    "symbol": "NEXO",
+    "name": "Nexo Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2c962b3e-240d-4e97-a5d8-7e70e603bcde",
+    "symbol": "HVN",
+    "name": "Hiveterminal Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d"
+      }
+    }
+  }
+]

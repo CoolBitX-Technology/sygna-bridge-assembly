@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0cafbf63-ba5c-4c8f-aaed-0b7a0502fb8c",
+    "symbol": "CNB",
+    "name": "Coinsbit Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc538143202f3b11382d8606aae90a96b042a19db"
+      }
+    }
+  }
+]

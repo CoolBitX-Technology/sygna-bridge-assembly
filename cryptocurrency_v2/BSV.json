@@ -1,0 +1,12 @@
+[
+  {
+    "id": "afed289b-e094-4f03-bb4c-3e3e004b93ed",
+    "symbol": "BSV",
+    "name": "Bitcoin SV",
+    "platforms": {
+      "bitcoin-sv": {
+        "token_address": "native"
+      }
+    }
+  }
+]

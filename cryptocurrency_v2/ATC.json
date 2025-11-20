@@ -1,0 +1,12 @@
+[
+  {
+    "id": "34c72cd2-a21a-4ed5-815b-0e96024bd21b",
+    "symbol": "ATC",
+    "name": "Astosch",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xeaee3a142ac4e0494bfb60d493b804ca9a739339"
+      }
+    }
+  }
+]

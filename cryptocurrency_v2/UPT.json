@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aa8f605d-3c1a-4d55-8f07-b127311b75cf",
+    "symbol": "UPT",
+    "name": "Universal Protocol Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6ca88cc8d9288f5cad825053b6a1b179b05c76fc"
+      }
+    }
+  }
+]

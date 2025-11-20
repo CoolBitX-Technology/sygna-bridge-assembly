@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e76da5bf-3212-47a5-8347-d958fd185d1d",
+    "symbol": "STETH",
+    "name": "StakeHound Staked Ether",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+      }
+    }
+  }
+]

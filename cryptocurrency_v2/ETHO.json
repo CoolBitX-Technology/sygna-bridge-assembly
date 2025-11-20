@@ -1,0 +1,12 @@
+[
+  {
+    "id": "e60c4a79-3e91-43c3-8630-a2bf1ba525a1",
+    "symbol": "ETHO",
+    "name": "Ether-1",
+    "platforms": {
+      "ether-1": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d0ad8e11-3aed-4232-b6d8-e319ae40fcb4",
+    "symbol": "XPC",
+    "name": "eXPerience Chain",
+    "platforms": {
+      "experience-chain": {
+        "token_address": "native"
+      }
+    }
+  }
+]

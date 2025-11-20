@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7895245a-b014-4d64-a45d-037293fa1d80",
+    "symbol": "BLOC",
+    "name": "Blockcloud",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6f919d67967a97ea36195a2346d9244e60fe0ddb"
+      }
+    }
+  }
+]

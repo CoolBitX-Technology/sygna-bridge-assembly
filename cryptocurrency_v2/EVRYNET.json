@@ -1,0 +1,12 @@
+[
+  {
+    "id": "998b97f1-b1bb-4372-aca6-f91a8397a966",
+    "symbol": "EVRYNET",
+    "name": "Evrynet",
+    "platforms": {
+      "evrynet": {
+        "token_address": "native"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "39085273-6d1e-409a-ab43-e827c647e7e0",
+    "symbol": "DTA",
+    "name": "DATA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x69b148395ce0015c13e36bffbad63f49ef874e03"
+      }
+    }
+  }
+]

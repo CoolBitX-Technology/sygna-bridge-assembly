@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4cb5659f-f793-4120-9322-99b6e98ce416",
+    "symbol": "CYL",
+    "name": "Crystal Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x26cb3641aaa43911f1d4cb2ce544eb652aac7c47"
+      }
+    }
+  }
+]

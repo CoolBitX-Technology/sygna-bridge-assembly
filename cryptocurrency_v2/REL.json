@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a16c80ff-331c-452e-960e-9a2d412ce3ac",
+    "symbol": "REL",
+    "name": "Release Project",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x61bfc979ea8160ede9b862798b7833a97bafa02a"
+      }
+    }
+  },
+  {
+    "id": "acb054bf-0c38-4ea7-8d58-eaff55369642",
+    "symbol": "REL",
+    "name": "Relevant",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec"
+      }
+    }
+  }
+]

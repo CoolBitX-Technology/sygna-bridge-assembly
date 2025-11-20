@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1b10046b-e9bc-4b6a-8f3b-d4fd38a2b2f5",
+    "symbol": "KAI",
+    "name": "KardiaChain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093"
+      }
+    }
+  }
+]

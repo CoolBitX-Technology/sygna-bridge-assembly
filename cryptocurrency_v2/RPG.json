@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f50af869-e308-4e5c-9a69-6da4a35f00a5",
+    "symbol": "RPG",
+    "name": "RPG",
+    "platforms": {
+      "rpg": {
+        "token_address": "native"
+      }
+    }
+  }
+]

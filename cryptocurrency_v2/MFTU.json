@@ -1,0 +1,12 @@
+[
+  {
+    "id": "41043c40-13b2-4ebf-b440-f5a4f8da5a20",
+    "symbol": "MFTU",
+    "name": "Mainstream For The Underground",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xba745513acebcbb977497c569d4f7d340f2a936b"
+      }
+    }
+  }
+]

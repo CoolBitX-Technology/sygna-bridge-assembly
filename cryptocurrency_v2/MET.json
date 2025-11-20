@@ -1,0 +1,12 @@
+[
+  {
+    "id": "54168ae0-24f1-449c-b2ae-7111b82edb9e",
+    "symbol": "MET",
+    "name": "Metronome",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "53a4a6a7-c108-4cee-9e7f-27a533f3abfd",
+    "symbol": "VRX",
+    "name": "VEROX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x87de305311d5788e8da38d19bb427645b09cb4e5"
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "db93a2ae-e125-4927-98b4-b14157d28ee0",
+    "symbol": "DFT",
+    "name": "DigiFinexToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1"
+      }
+    }
+  }
+]

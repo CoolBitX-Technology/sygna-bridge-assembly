@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ebd5b05a-5882-4c00-85e2-a5c71b826ca9",
+    "symbol": "FOXT",
+    "name": "Fox Trading",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfbe878ced08132bd8396988671b450793c44bc12"
+      }
+    }
+  }
+]

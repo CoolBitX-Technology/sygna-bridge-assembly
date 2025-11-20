@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a46638c2-469f-47be-af03-471d865cbcf5",
+    "symbol": "NUTS",
+    "name": "Squirrel Finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x84294fc9710e1252d407d3d80a84bc39001bd4a8"
+      }
+    }
+  }
+]

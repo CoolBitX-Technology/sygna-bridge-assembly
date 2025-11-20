@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4fe891fa-2c13-4a48-8680-507471ead39c",
+    "symbol": "COMB",
+    "name": "Combine.finance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7d36cce46dd2b0d28dde12a859c2ace4a21e3678"
+      }
+    }
+  }
+]
