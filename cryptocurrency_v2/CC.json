@@ -1,0 +1,12 @@
+[
+  {
+    "id": "c46d9157-8433-4bf4-bf57-ff9bb9c8f0ae",
+    "symbol": "CC",
+    "name": "Canton",
+    "platforms": {
+      "canton": {
+        "token_address": "native"
+      }
+    }
+  }
+]

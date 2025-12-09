@@ -8126,5 +8126,9 @@
   {
     "currency_id": "58e03cc8-3695-4d3e-86d5-9e2b3f112809",
     "coingecko_id": "japan-open-chain"
+  },
+  {
+    "currency_id": "c46d9157-8433-4bf4-bf57-ff9bb9c8f0ae",
+    "coingecko_id": "canton"
   }
 ]
