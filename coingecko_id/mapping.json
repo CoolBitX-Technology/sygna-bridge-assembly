@@ -8838,5 +8838,9 @@
      {
         "currency_id": "sygna:joc",
         "coingecko_id": "japan-open-chain"
+    },
+    {
+        "currency_id": "sygna:canton",
+        "coingecko_id": "canton"
     }
 ]
