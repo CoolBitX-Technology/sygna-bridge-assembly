@@ -1,4 +1,13 @@
 
+## [1.43.0-alpha.1]
+> 2025-12-09
+
+[ec09ab5](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/ec09ab5) feat: [SYGN-17602](https://app.clickup.com/t/25577573/SYGN-17602)   add CC
+
+
+[1.43.0-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.43.0-alpha.1
+
+
 ## [1.42.0-alpha.3]
 > 2025-11-13
 
