@@ -2,10 +2,20 @@
   {
     "id": "9847c015-dc75-418d-a6a9-40bd1adc5032",
     "symbol": "CGT",
-    "name": "Curio Governance",
+    "name": "CACHE Gold",
     "platforms": {
       "ethereum": {
         "token_address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0"
+      }
+    }
+  },
+  {
+    "id": "fad6ad5f-c059-4b56-9c15-025b323404cc",
+    "symbol": "CGT",
+    "name": "Curio Governance",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a"
       }
     }
   }

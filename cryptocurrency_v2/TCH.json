@@ -2,10 +2,40 @@
   {
     "id": "dbef787e-e8cc-4da9-be67-49873be94698",
     "symbol": "TCH",
-    "name": "Tchain",
+    "name": "Thore Cash",
     "platforms": {
       "ethereum": {
         "token_address": "0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5"
+      }
+    }
+  },
+  {
+    "id": "d5c74545-4606-4456-825c-7402fd18f2c5",
+    "symbol": "TCH",
+    "name": "Tchain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623"
+      }
+    }
+  },
+  {
+    "id": "141eb987-dfde-4b26-84e3-07e8f4cfa585",
+    "symbol": "TCH",
+    "name": "TigerCash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9b39a0b97319a9bd5fed217c1db7b030453bac91"
+      }
+    }
+  },
+  {
+    "id": "bd5d2d11-dbd9-4cc1-97df-df4adf3f43c9",
+    "symbol": "TCH",
+    "name": "THECASH",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b"
       }
     }
   }

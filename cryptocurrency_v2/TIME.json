@@ -2,10 +2,20 @@
   {
     "id": "ef4e6a37-57f7-4377-a429-345d7b47f18e",
     "symbol": "TIME",
-    "name": "TimeMiner",
+    "name": "Chrono.tech",
     "platforms": {
       "ethereum": {
         "token_address": "0x485d17a6f1b8780392d53d64751824253011a260"
+      }
+    }
+  },
+  {
+    "id": "c4697fa3-a65f-4d71-866f-e12e21951254",
+    "symbol": "TIME",
+    "name": "TimeMiner",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa54c67bd320da4f9725a6f585b7635a0c09b122e"
       }
     }
   }

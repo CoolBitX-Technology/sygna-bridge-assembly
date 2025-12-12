@@ -8,5 +8,15 @@
         "token_address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d"
       }
     }
+  },
+  {
+    "id": "e7b305d1-10e4-4aed-8adf-edf814f63025",
+    "symbol": "OM",
+    "name": "MANTRA DAO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2"
+      }
+    }
   }
 ]

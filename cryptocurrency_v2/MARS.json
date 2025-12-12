@@ -2,7 +2,7 @@
   {
     "id": "2930c41a-a201-4223-aa32-727ffa9075b6",
     "symbol": "MARS",
-    "name": "Mars",
+    "name": "Mars Network",
     "platforms": {
       "ethereum": {
         "token_address": "0xedd8da5c20eb014e550008df3304213dde5e29f0"
@@ -16,6 +16,16 @@
     "platforms": {
       "marscoin": {
         "token_address": "native"
+      }
+    }
+  },
+  {
+    "id": "65f53fcf-e8e0-4d0f-9cd8-61340b265fa8",
+    "symbol": "MARS",
+    "name": "Mars",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7"
       }
     }
   }

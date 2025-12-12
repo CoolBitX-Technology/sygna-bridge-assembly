@@ -2,10 +2,20 @@
   {
     "id": "85310d2c-c317-4e71-a3ea-51ea2e3e0e4e",
     "symbol": "UOS",
-    "name": "Ultra",
+    "name": "UOS Network",
     "platforms": {
       "ethereum": {
         "token_address": "0x430bd07726423a54f6d82ab0f578ce62a3b8054d"
+      }
+    }
+  },
+  {
+    "id": "225f0340-00ef-489e-bdb0-2278cda72359",
+    "symbol": "UOS",
+    "name": "Ultra",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c"
       }
     }
   }

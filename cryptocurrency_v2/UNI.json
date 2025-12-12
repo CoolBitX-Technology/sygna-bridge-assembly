@@ -12,10 +12,20 @@
   {
     "id": "0638635b-002d-4c16-b060-fb62c4698a22",
     "symbol": "UNI",
-    "name": "UNICORN Token",
+    "name": "UNI COIN",
     "platforms": {
       "ethereum": {
         "token_address": "0xe6877ea9c28fbdec631ffbc087956d0023a76bf2"
+      }
+    }
+  },
+  {
+    "id": "6ca343df-1c97-4952-9df0-702e250210d4",
+    "symbol": "UNI",
+    "name": "UNICORN Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2730d6fdc86c95a74253beffaa8306b40fedecbb"
       }
     }
   }

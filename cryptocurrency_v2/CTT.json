@@ -2,10 +2,20 @@
   {
     "id": "7513955f-ea56-4add-886d-7705b00f930a",
     "symbol": "CTT",
-    "name": "Castweet",
+    "name": "CITEX Token",
     "platforms": {
       "ethereum": {
         "token_address": "0x13c2b7f851e756415cf7d51d04dcf4f94a5b382e"
+      }
+    }
+  },
+  {
+    "id": "6cbbf8d3-f226-405c-81d3-a1c1e75b29d1",
+    "symbol": "CTT",
+    "name": "Castweet",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235"
       }
     }
   }

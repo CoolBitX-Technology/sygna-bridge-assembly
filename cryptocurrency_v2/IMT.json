@@ -2,10 +2,20 @@
   {
     "id": "7fbd9de2-8ce9-4dbd-91b0-7b0425bdab1c",
     "symbol": "IMT",
-    "name": "Imsmart",
+    "name": "Moneytoken",
     "platforms": {
       "ethereum": {
         "token_address": "0x13119e34e140097a507b07a5564bde1bc375d9e6"
+      }
+    }
+  },
+  {
+    "id": "7b74df6f-f3cf-4e52-99cd-abd0f21e1132",
+    "symbol": "IMT",
+    "name": "Imsmart",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbfe03707adb75b478add9a01978057803f480e44"
       }
     }
   }

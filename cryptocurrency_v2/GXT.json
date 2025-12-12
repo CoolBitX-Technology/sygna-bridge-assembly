@@ -2,10 +2,20 @@
   {
     "id": "d3905947-5c40-476f-a6d9-9d2f82ee12fd",
     "symbol": "GXT",
-    "name": "Global X Change Token",
+    "name": "Gem Exchange And Trading",
     "platforms": {
       "ethereum": {
         "token_address": "0x28d3e409bb9bc58f1ca6e009f8fc78a1db85e6b7"
+      }
+    }
+  },
+  {
+    "id": "f411bb1e-6755-4f97-870a-eb24af6b44a0",
+    "symbol": "GXT",
+    "name": "Global X Change Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x60c87297a1feadc3c25993ffcadc54e99971e307"
       }
     }
   }

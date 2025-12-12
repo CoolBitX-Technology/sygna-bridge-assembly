@@ -2,10 +2,20 @@
   {
     "id": "97d42598-d021-4c60-8ba5-c42b642f7bcc",
     "symbol": "KNT",
-    "name": "Knekted",
+    "name": "Kora Network Token",
     "platforms": {
       "ethereum": {
         "token_address": "0xff5c25d2f40b47c4a37f989de933e26562ef0ac0"
+      }
+    }
+  },
+  {
+    "id": "87793cfb-b9f8-4482-9078-87a216e3cf75",
+    "symbol": "KNT",
+    "name": "Knekted",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x7cc62d8e80be9bea3947f3443ad136f50f75b505"
       }
     }
   }

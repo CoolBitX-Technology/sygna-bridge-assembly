@@ -2,10 +2,20 @@
   {
     "id": "c05ab448-6bf6-4219-9777-608867f82794",
     "symbol": "YAM",
-    "name": "YAM v3",
+    "name": "YAM v1",
     "platforms": {
       "ethereum": {
         "token_address": "0x0e2298e3b3390e3b945a5456fbf59ecc3f55da16"
+      }
+    }
+  },
+  {
+    "id": "c330921c-8e1a-41e0-912b-2baccf5fd304",
+    "symbol": "YAM",
+    "name": "YAM v3",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0aacfbec6a24756c20d41914f2caba817c0d8521"
       }
     }
   }

@@ -8,5 +8,15 @@
         "token_address": "0xa22525aad7a794d5b923ecb036ced9eb66d7d5ed"
       }
     }
+  },
+  {
+    "id": "94aafc4e-6908-4d28-81cc-13f228bafb5e",
+    "symbol": "ALLBI",
+    "name": "ALL BEST ICO",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x65ac08c55f21d4a73ca1d429a17a6872b23bfd55"
+      }
+    }
   }
 ]

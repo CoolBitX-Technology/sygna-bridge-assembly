@@ -2,10 +2,20 @@
   {
     "id": "5434a305-70d7-4d57-a723-33179b424168",
     "symbol": "INX",
-    "name": "INMAX",
+    "name": "Insight Protocol",
     "platforms": {
       "ethereum": {
         "token_address": "0x84fe25f3921f3426395c883707950d0c00367576"
+      }
+    }
+  },
+  {
+    "id": "0ebd4c80-9198-4ac8-90b8-dc2c103aacd9",
+    "symbol": "INX",
+    "name": "INMAX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x018d7d179350f1bb9853d04982820e37cce13a92"
       }
     }
   }

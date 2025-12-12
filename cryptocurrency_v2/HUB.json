@@ -2,10 +2,20 @@
   {
     "id": "d634c122-01a5-4dc9-a2ff-50cdd81898f4",
     "symbol": "HUB",
-    "name": "Hubi Token",
+    "name": "Hub - Human Trust Protocol",
     "platforms": {
       "ethereum": {
         "token_address": "0xba358b6f5b4c0215650444b8c30d870b55050d2d"
+      }
+    }
+  },
+  {
+    "id": "fe050cab-ef3d-419d-80b7-412ad8802ab3",
+    "symbol": "HUB",
+    "name": "Hubi Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xba5160ba66b286f1b9b6f3a57a6abcfa440e7aa2"
       }
     }
   }

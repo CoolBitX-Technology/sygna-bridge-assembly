@@ -2,10 +2,30 @@
   {
     "id": "748e87f2-66b8-4723-90f9-883f8406a3c2",
     "symbol": "GRT",
-    "name": "Golden Ratio Token",
+    "name": "Global Rental Token",
     "platforms": {
       "ethereum": {
         "token_address": "0x620fa2993046a53df1f365fa3fdc9e6c7763af96"
+      }
+    }
+  },
+  {
+    "id": "f5f9fc3d-25c0-4154-9b4c-57c22960a96e",
+    "symbol": "GRT",
+    "name": "The Graph",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+      }
+    }
+  },
+  {
+    "id": "669db7fa-eb25-4ecd-8fb5-45ae38f00664",
+    "symbol": "GRT",
+    "name": "Golden Ratio Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb83cd8d39462b761bb0092437d38b37812dd80a2"
       }
     }
   }

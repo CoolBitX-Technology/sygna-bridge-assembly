@@ -2,10 +2,20 @@
   {
     "id": "51849969-4ded-4b92-8ac8-24307b7faee2",
     "symbol": "WRC",
-    "name": "Worldcore",
+    "name": "WhiteRockCasino",
     "platforms": {
       "ethereum": {
         "token_address": "0x7c9d8fb3bde3d9ea6e89170618c2dc3d16695d36"
+      }
+    }
+  },
+  {
+    "id": "595b3d6c-ec81-45cc-bb37-fe294045143b",
+    "symbol": "WRC",
+    "name": "Worldcore",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x72adadb447784dd7ab1f472467750fc485e4cb2d"
       }
     }
   }

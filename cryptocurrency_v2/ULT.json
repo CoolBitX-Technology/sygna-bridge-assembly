@@ -2,10 +2,20 @@
   {
     "id": "4877024d-f283-4a85-9dca-a58534de750d",
     "symbol": "ULT",
-    "name": "Ultiledger",
+    "name": "Shardus",
     "platforms": {
       "ethereum": {
         "token_address": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
+      }
+    }
+  },
+  {
+    "id": "ef0e3910-325b-48c3-b3cd-f86797b3c5a3",
+    "symbol": "ULT",
+    "name": "Ultiledger",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe884cc2795b9c45beeac0607da9539fd571ccf85"
       }
     }
   }

@@ -8,5 +8,15 @@
         "token_address": "0xec213f83defb583af3a000b1c0ada660b1902a0f"
       }
     }
+  },
+  {
+    "id": "ec95c516-f9a0-4d90-9506-3b3d68756125",
+    "symbol": "PRE",
+    "name": "Presearch",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa"
+      }
+    }
   }
 ]

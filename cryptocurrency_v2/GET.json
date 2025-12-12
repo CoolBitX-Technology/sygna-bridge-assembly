@@ -2,10 +2,20 @@
   {
     "id": "72073da9-68f7-4b76-823d-9d3ae3f40965",
     "symbol": "GET",
-    "name": "GET Protocol",
+    "name": "Themis",
     "platforms": {
       "ethereum": {
         "token_address": "0x60c68a87be1e8a84144b543aacfa77199cd3d024"
+      }
+    }
+  },
+  {
+    "id": "cacb0ede-983e-4257-b380-52d261ca2a1f",
+    "symbol": "GET",
+    "name": "GET Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8a854288a5976036a725879164ca3e91d30c6a1b"
       }
     }
   }

@@ -2,10 +2,20 @@
   {
     "id": "54e3d241-4ac8-4be0-8729-c7e6d94d71d1",
     "symbol": "WIS",
-    "name": "Experty Wisdom Token",
+    "name": "Wish Coin",
     "platforms": {
       "ethereum": {
         "token_address": "0xfa12040497bc7b6077ea125bad27daa8b74e7edc"
+      }
+    }
+  },
+  {
+    "id": "ac750abb-0c44-4016-a0a7-3b545a3794d9",
+    "symbol": "WIS",
+    "name": "Experty Wisdom Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdecade1c6bf2cd9fb89afad73e4a519c867adcf5"
       }
     }
   }

@@ -8,5 +8,15 @@
         "token_address": "0xc87f95aa269dd300d9f1ce49d8e1fd8119a10456"
       }
     }
+  },
+  {
+    "id": "f1c77933-f5ec-4d6d-8e17-f1e14b7a9471",
+    "symbol": "BDCC",
+    "name": "BDCC Bitica COIN",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x3a3547d62e9f9e76f99d51d5ab4f07aae0db2dbb"
+      }
+    }
   }
 ]

@@ -2,10 +2,20 @@
   {
     "id": "9015fa4e-e834-4610-b17c-a48ac7a3dc09",
     "symbol": "NDX",
-    "name": "nDEX",
+    "name": "Indexed Finance",
     "platforms": {
       "ethereum": {
         "token_address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83"
+      }
+    }
+  },
+  {
+    "id": "6f50c20b-178b-4a94-ae26-0a45b75fc9b4",
+    "symbol": "NDX",
+    "name": "nDEX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x1966d718a565566e8e202792658d7b5ff4ece469"
       }
     }
   }
