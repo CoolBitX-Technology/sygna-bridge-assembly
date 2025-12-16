@@ -8,5 +8,15 @@
         "token_address": "0xf344490abd414dafa97f34c8ca501b0aa5bf8873"
       }
     }
+  },
+  {
+    "id": "c40de74f-0187-43a3-87d3-ba4caed8bce9",
+    "symbol": "WEB",
+    "name": "Webcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x840fe75abfadc0f2d54037829571b2782e919ce4"
+      }
+    }
   }
 ]

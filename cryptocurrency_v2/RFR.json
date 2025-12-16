@@ -2,10 +2,20 @@
   {
     "id": "85521d81-db1b-4e2c-baee-89c7f1a5755c",
     "symbol": "RFR",
-    "name": "Refract",
+    "name": "Refereum",
     "platforms": {
       "ethereum": {
         "token_address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c"
+      }
+    }
+  },
+  {
+    "id": "c920d80e-192b-41b3-9d4e-307809808fa7",
+    "symbol": "RFR",
+    "name": "Refract",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xe0bdaafd0aab238c55d68ad54e616305d4a21772"
       }
     }
   }

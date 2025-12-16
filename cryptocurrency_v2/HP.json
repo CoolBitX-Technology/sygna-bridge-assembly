@@ -2,10 +2,20 @@
   {
     "id": "53862953-cd32-4133-ba72-34064d30fa83",
     "symbol": "HP",
-    "name": "HeartBout Pay",
+    "name": "Healing Plus",
     "platforms": {
       "ethereum": {
         "token_address": "0xab55bdef7057b76482914e79f037999f4ebb6bf1"
+      }
+    }
+  },
+  {
+    "id": "7faae026-bd3d-4be4-a98d-acb66c3ae03a",
+    "symbol": "HP",
+    "name": "HeartBout Pay",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5a4b14aea23a605abc463f04a6b8aaf52dd3e7c6"
       }
     }
   }

@@ -2,10 +2,20 @@
   {
     "id": "30b33019-8a97-44f1-bdd3-daed8eb4af2c",
     "symbol": "YLD",
-    "name": "YIELD App",
+    "name": "Yield",
     "platforms": {
       "ethereum": {
         "token_address": "0xdcb01cc464238396e213a6fdd933e36796eaff9f"
+      }
+    }
+  },
+  {
+    "id": "288d319b-1af5-42ed-9aa9-6d2b85630333",
+    "symbol": "YLD",
+    "name": "YIELD App",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf94b5c5651c888d928439ab6514b93944eee6f48"
       }
     }
   }

@@ -2,10 +2,20 @@
   {
     "id": "c9f3115e-c596-4eeb-b8a8-1fcae7f9c060",
     "symbol": "OPT",
-    "name": "Opus",
+    "name": "Open Predict Token",
     "platforms": {
       "ethereum": {
         "token_address": "0x4fe5851c9af07df9e5ad8217afae1ea72737ebda"
+      }
+    }
+  },
+  {
+    "id": "cb666270-752e-4078-a284-381da899839b",
+    "symbol": "OPT",
+    "name": "Opus",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x4355fc160f74328f9b383df2ec589bb3dfd82ba0"
       }
     }
   }

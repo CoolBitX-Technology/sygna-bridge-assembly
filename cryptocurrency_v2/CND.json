@@ -2,10 +2,20 @@
   {
     "id": "19c320be-b94d-40f2-84f3-7d94c0603ce2",
     "symbol": "CND",
-    "name": "Cindicator",
+    "name": "Cannadrix",
     "platforms": {
       "ethereum": {
         "token_address": "0x91e84ec6101547c1fa39dd565dd8b020e3c20cf2"
+      }
+    }
+  },
+  {
+    "id": "f3428680-4495-4a2a-9c6e-b3f1e689d280",
+    "symbol": "CND",
+    "name": "Cindicator",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa"
       }
     }
   }
