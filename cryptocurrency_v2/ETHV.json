@@ -2,10 +2,20 @@
   {
     "id": "66dd6980-3c6f-422b-9b14-9673d70a11c3",
     "symbol": "ETHV",
-    "name": "Ethereum Vault",
+    "name": "Ethverse",
     "platforms": {
       "ethereum": {
         "token_address": "0xeeeeeeeee2af8d0e1940679860398308e0ef24d6"
+      }
+    }
+  },
+  {
+    "id": "1a6e4d2c-0033-450b-b949-0b4e7640701f",
+    "symbol": "ETHV",
+    "name": "Ethereum Vault",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x5072a7580a9a83394acd3387609772ebaaa4ab60"
       }
     }
   }

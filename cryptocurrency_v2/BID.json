@@ -2,10 +2,20 @@
   {
     "id": "8993b49f-9227-4cf9-98ba-c880290c76bc",
     "symbol": "BID",
-    "name": "Bidao",
+    "name": "DeFi Bids",
     "platforms": {
       "ethereum": {
         "token_address": "0x1da01e84f3d4e6716f274c987ae4bee5dc3c8288"
+      }
+    }
+  },
+  {
+    "id": "731d9201-b11d-4fb2-a1ec-cabef2e29350",
+    "symbol": "BID",
+    "name": "Bidao",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa"
       }
     }
   }

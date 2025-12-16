@@ -2,10 +2,20 @@
   {
     "id": "bca2877f-5813-487a-9654-391f475ba730",
     "symbol": "ODE",
-    "name": "ODEM",
+    "name": "ODE",
     "platforms": {
       "ethereum": {
         "token_address": "0x6f6d15e2dabd182c7c0830db1bdff1f920b57ffa"
+      }
+    }
+  },
+  {
+    "id": "2b2c0264-0bcf-4cdc-85f0-5420d8c65550",
+    "symbol": "ODE",
+    "name": "ODEM",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a"
       }
     }
   }

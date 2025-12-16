@@ -2,10 +2,20 @@
   {
     "id": "2f04690d-3a0d-40a2-94c9-48817f8a4f63",
     "symbol": "PNT",
-    "name": "pNetwork",
+    "name": "Penta",
     "platforms": {
       "ethereum": {
         "token_address": "0x53066cddbc0099eb6c96785d9b3df2aaeede5da3"
+      }
+    }
+  },
+  {
+    "id": "6d98e35c-838e-447d-907c-d985fc68731e",
+    "symbol": "PNT",
+    "name": "pNetwork",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed"
       }
     }
   }

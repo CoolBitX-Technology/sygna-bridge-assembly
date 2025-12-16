@@ -2,10 +2,20 @@
   {
     "id": "0749c34b-2db3-46c1-9eea-669a051cb7d5",
     "symbol": "BIRD",
-    "name": "Bird.Money",
+    "name": "Birdchain",
     "platforms": {
       "ethereum": {
         "token_address": "0x026e62dded1a6ad07d93d39f96b9eabd59665e0d"
+      }
+    }
+  },
+  {
+    "id": "3f707d5b-7dc3-4579-8db7-da14596465dc",
+    "symbol": "BIRD",
+    "name": "Bird.Money",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x70401dfd142a16dc7031c56e862fc88cb9537ce0"
       }
     }
   }

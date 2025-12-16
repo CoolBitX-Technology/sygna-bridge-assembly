@@ -2,10 +2,20 @@
   {
     "id": "6c1d8f23-e586-4998-8365-115448ba935c",
     "symbol": "ALA",
-    "name": "ALA",
+    "name": "AladiEx",
     "platforms": {
       "ethereum": {
         "token_address": "0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8"
+      }
+    }
+  },
+  {
+    "id": "97075b21-e12f-49dc-9e15-4662f70ed3af",
+    "symbol": "ALA",
+    "name": "ALA",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xbcc7026cde024c6a97d2df6e40613217d946279c"
       }
     }
   }

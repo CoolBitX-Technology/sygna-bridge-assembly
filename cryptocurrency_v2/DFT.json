@@ -2,10 +2,20 @@
   {
     "id": "db93a2ae-e125-4927-98b4-b14157d28ee0",
     "symbol": "DFT",
-    "name": "DigiFinexToken",
+    "name": "DeFiat",
     "platforms": {
       "ethereum": {
         "token_address": "0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1"
+      }
+    }
+  },
+  {
+    "id": "d3fec059-8394-4cfd-b7e0-95eaa5be9b33",
+    "symbol": "DFT",
+    "name": "DigiFinexToken",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a"
       }
     }
   }

@@ -8,5 +8,15 @@
         "token_address": "0x4200000000000000000000000000000000000042"
       }
     }
+  },
+  {
+    "id": "6725e034-0823-4b14-87ad-c6a0d0f42baf",
+    "symbol": "OP",
+    "name": "Optimism on Optimism",
+    "platforms": {
+      "optimism": {
+        "token_address": "native"
+      }
+    }
   }
 ]

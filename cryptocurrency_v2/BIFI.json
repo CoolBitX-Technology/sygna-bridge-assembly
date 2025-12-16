@@ -21,5 +21,15 @@
         "token_address": "native"
       }
     }
+  },
+  {
+    "id": "c93d16ac-3cc7-44c3-ab0a-7acd0575820c",
+    "symbol": "BIFI",
+    "name": "BiFi",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x2791bfd60d232150bff86b39b7146c0eaaa2ba81"
+      }
+    }
   }
 ]

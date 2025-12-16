@@ -2,10 +2,20 @@
   {
     "id": "40ee257f-aded-45d5-9ede-7558adc02566",
     "symbol": "CRE",
-    "name": "Cybereits",
+    "name": "Carry",
     "platforms": {
       "ethereum": {
         "token_address": "0x115ec79f1de567ec68b7ae7eda501b406626478e"
+      }
+    }
+  },
+  {
+    "id": "f8b7480e-0558-4f08-8701-8a3ba400cd85",
+    "symbol": "CRE",
+    "name": "Cybereits",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x61f33da40594cec1e3dc900faf99f861d01e2e7d"
       }
     }
   }

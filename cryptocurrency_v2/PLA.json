@@ -2,7 +2,7 @@
   {
     "id": "bd20c2fc-21ca-41ea-9a39-50cbecece348",
     "symbol": "PLA",
-    "name": "PlayChip",
+    "name": "PLANET",
     "platforms": {
       "ethereum": {
         "token_address": "0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4"
@@ -16,6 +16,16 @@
     "platforms": {
       "ethereum": {
         "token_address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430"
+      }
+    }
+  },
+  {
+    "id": "4503a7bb-204a-4828-90ca-41174e8fa518",
+    "symbol": "PLA",
+    "name": "PlayChip",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0198f46f520f33cd4329bd4be380a25a90536cd5"
       }
     }
   }

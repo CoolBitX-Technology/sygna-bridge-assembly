@@ -2,10 +2,20 @@
   {
     "id": "e76da5bf-3212-47a5-8347-d958fd185d1d",
     "symbol": "STETH",
-    "name": "StakeHound Staked Ether",
+    "name": "stETH (Lido)",
     "platforms": {
       "ethereum": {
         "token_address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+      }
+    }
+  },
+  {
+    "id": "75cad2a7-1f72-4289-a7ac-a41c6076a80b",
+    "symbol": "STETH",
+    "name": "StakeHound Staked Ether",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d"
       }
     }
   }
