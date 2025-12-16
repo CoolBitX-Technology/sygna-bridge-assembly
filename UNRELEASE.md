@@ -1,4 +1,13 @@
 
+## [1.43.1-alpha.1]
+> 2025-12-16
+
+[1bd5e16](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/1bd5e16) fix:   add missing tokens when converting to new currency
+
+
+[1.43.1-alpha.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.43.1-alpha.1
+
+
 ## [1.43.0-alpha.1]
 > 2025-12-09
 
