@@ -1,4 +1,13 @@
 
+## [1.43.1-alpha.2]
+> 2025-12-18
+
+[0305250](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/0305250) fix:   update new_to_old_mapping
+
+
+[1.43.1-alpha.2]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.43.1-alpha.2
+
+
 ## [1.43.1-alpha.1]
 > 2025-12-16
 
