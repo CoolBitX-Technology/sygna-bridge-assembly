@@ -910,9 +910,6 @@
   "1f888961-8820-40c9-830d-399f2c440db3": {
     "saham": "sygna:0x8000005f"
   },
-  "1f94da58-86a6-42f7-9580-cc14973c7300": {
-    "arbitrum": "sygna:0x80000266.0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
-  },
   "1fcaf694-d65a-4e04-acfe-04190f2268ef": {
     "ethereum": "sygna:0x8000003c.0x58002a6b6e659a16de9f02f529b10536e307b0d9"
   },
@@ -4410,6 +4407,9 @@
   },
   "9e1a5386-b498-4f1a-8de6-0e496292af07": {
     "ethereum": "sygna:0x8000003c.0x61fd1c62551850d0c04c76fce614cbced0094498"
+  },
+  "9e1d167c-b1dc-4c27-a787-0aaac9c10ac4": {
+    "ethereum": "sygna:0x8000003c.0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d"
   },
   "9e6d8be6-3842-4296-a32c-bf8e900f66fa": {
     "ethereum": "sygna:0x8000003c.0xe5dada80aa6477e85d09747f2842f7993d0df71c"
