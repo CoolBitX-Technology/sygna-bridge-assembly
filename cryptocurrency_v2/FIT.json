@@ -2,11 +2,28 @@
   {
     "id": "eb316b78-84e5-4f13-8f64-e9e6d452c23b",
     "symbol": "FIT",
-    "name": "FIRST INTERCHANGEABLE TOKEN",
+    "name": "FINANCIAL INVESTMENT TOKEN",
     "platforms": {
       "ethereum": {
         "token_address": "0xaf79c4c4106b7c35c2fec72d130783524f821d89"
-      },
+      }
+    }
+  },
+  {
+    "id": "45790966-e6a7-4c50-8cdb-5ad857bd1730",
+    "symbol": "FIT",
+    "name": "FIRST INTERCHANGEABLE TOKEN",
+    "platforms": {
+      "tron": {
+        "token_address": "tn55klypngfescp8bhf1zg2w3m7gvywwwz"
+      }
+    }
+  },
+  {
+    "id": "aa35f39e-c578-42ea-9782-b7064c11d1e6",
+    "symbol": "FIT",
+    "name": "FIRST INTERCHANGEABLE TOKEN",
+    "platforms": {
       "tron": {
         "token_address": "tpmstdkfvscbxhowvechjarskqn5qpvwd9"
       }

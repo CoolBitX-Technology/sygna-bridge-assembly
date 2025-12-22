@@ -4,11 +4,28 @@
     "symbol": "SBTC",
     "name": "Super Bitcoin",
     "platforms": {
-      "ethereum": {
-        "token_address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6"
-      },
       "super-bitcoin": {
         "token_address": "native"
+      }
+    }
+  },
+  {
+    "id": "d6abe362-b8ba-4a2d-af1c-bda9b0ca5551",
+    "symbol": "SBTC",
+    "name": "Soft Bitcoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x309013d55fb0e8c17363bcc79f25d92f711a5802"
+      }
+    }
+  },
+  {
+    "id": "b79b3d06-8144-489d-8838-e9aa7da40198",
+    "symbol": "SBTC",
+    "name": "Synth sBTC",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6"
       }
     }
   }

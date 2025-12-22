@@ -2,10 +2,20 @@
   {
     "id": "0a8abbae-6d9b-4f14-8869-fcbd7f63548a",
     "symbol": "IETH",
-    "name": "iEthereum",
+    "name": "iETH",
     "platforms": {
       "ethereum": {
         "token_address": "0xa9859874e1743a32409f75bb11549892138bba1e"
+      }
+    }
+  },
+  {
+    "id": "c5965a58-712c-4468-95c9-88254be6d1f4",
+    "symbol": "IETH",
+    "name": "iEthereum",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b"
       }
     }
   }

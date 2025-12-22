@@ -8130,5 +8130,13 @@
   {
     "currency_id": "c46d9157-8433-4bf4-bf57-ff9bb9c8f0ae",
     "coingecko_id": "canton"
+  },
+  {
+    "currency_id": "aa717b98-80eb-48aa-b885-86cdf978f1e5",
+    "coingecko_id": "stakecube"
+  },
+  {
+    "currency_id": "21976900-992d-48fe-a88e-a5b6dfaf36eb",
+    "coingecko_id": "billionhappiness"
   }
 ]

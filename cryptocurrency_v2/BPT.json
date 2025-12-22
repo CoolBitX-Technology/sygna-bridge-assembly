@@ -2,10 +2,30 @@
   {
     "id": "fda44cdb-a637-47d2-b683-30b2b44f42be",
     "symbol": "BPT",
-    "name": "BUX Token",
+    "name": "Bitpayer Token",
     "platforms": {
       "ethereum": {
         "token_address": "0x283669123bd83da2536bb534e20512101c18e5d8"
+      }
+    }
+  },
+  {
+    "id": "83cd3876-d334-476f-862f-b76d70ff1804",
+    "symbol": "BPT",
+    "name": "Bitpumps Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa44d9f50b0decb13713fc5f0df44b4eb5fb300ca"
+      }
+    }
+  },
+  {
+    "id": "1cacd827-686b-4116-8f9a-f46fe8cce73a",
+    "symbol": "BPT",
+    "name": "BUX Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x327682779bab2bf4d1337e8974ab9de8275a7ca8"
       }
     }
   }

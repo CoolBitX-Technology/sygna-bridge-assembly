@@ -8,5 +8,15 @@
         "token_address": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c"
       }
     }
+  },
+  {
+    "id": "06c6492c-df93-44b0-bc09-f792e14b9504",
+    "symbol": "COCOS",
+    "name": "Cocos-BCX",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0c6f5f7d555e7518f6841a79436bd2b1eef03381"
+      }
+    }
   }
 ]

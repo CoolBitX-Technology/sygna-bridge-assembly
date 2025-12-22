@@ -2,10 +2,20 @@
   {
     "id": "79148aba-0bb3-445d-b827-da866a7e5946",
     "symbol": "HOT",
-    "name": "Hydro Protocol",
+    "name": "Holo",
     "platforms": {
       "ethereum": {
         "token_address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+      }
+    }
+  },
+  {
+    "id": "05a0d8b9-f960-496f-92d3-ad230a8417bb",
+    "symbol": "HOT",
+    "name": "Hydro Protocol",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x9af839687f6c94542ac5ece2e317daae355493a1"
       }
     }
   }

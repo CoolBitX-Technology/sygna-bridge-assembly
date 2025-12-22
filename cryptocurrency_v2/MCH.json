@@ -2,10 +2,20 @@
   {
     "id": "7250e39e-fba0-404e-9a88-5211e1c4566b",
     "symbol": "MCH",
-    "name": "MeconCash",
+    "name": "MEME CASH",
     "platforms": {
       "ethereum": {
         "token_address": "0xa4e7414fcba1af15203030c6daac630df8f16aea"
+      }
+    }
+  },
+  {
+    "id": "4f9245bc-0033-440e-83ff-6ae66879810f",
+    "symbol": "MCH",
+    "name": "MeconCash",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xa5e262ec733051b14b38901901a82f2684637e78"
       }
     }
   }

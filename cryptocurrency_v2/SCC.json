@@ -2,16 +2,40 @@
   {
     "id": "1933fd28-cc65-4df8-b3ee-6354a64916a2",
     "symbol": "SCC",
+    "name": "STEM CELL COIN",
+    "platforms": {
+      "neo": {
+        "token_address": "323571cfc42a40d48d64832a7da594039fbac76a"
+      }
+    }
+  },
+  {
+    "id": "a49e8ea5-595d-43f7-ac57-2bace5e88b3e",
+    "symbol": "SCC",
+    "name": "SiaCashCoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x74fd51a98a4a1ecbef8cc43be801cce630e260bd"
+      }
+    }
+  },
+  {
+    "id": "aa717b98-80eb-48aa-b885-86cdf978f1e5",
+    "symbol": "SCC",
     "name": "StakeCubeCoin",
+    "platforms": {
+      "stakecube": {
+        "token_address": "native"
+      }
+    }
+  },
+  {
+    "id": "a2bf7ed1-0e01-42d7-93e3-7f5e13ae3b58",
+    "symbol": "SCC",
+    "name": "StockChain",
     "platforms": {
       "ethereum": {
         "token_address": "0x355a458d555151d3b27f94227960ade1504e526a"
-      },
-      "neo": {
-        "token_address": "323571cfc42a40d48d64832a7da594039fbac76a"
-      },
-      "stakecubecoin": {
-        "token_address": "native"
       }
     }
   }

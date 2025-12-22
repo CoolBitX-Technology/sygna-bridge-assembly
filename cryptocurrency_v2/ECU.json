@@ -2,10 +2,20 @@
   {
     "id": "ad471a4c-e144-47be-be6c-2e25934799d2",
     "symbol": "ECU",
-    "name": "Decurian",
+    "name": "ECOSC",
     "platforms": {
       "ethereum": {
         "token_address": "0x8fc9b6354e839ab1c8b31f4afa53607092b8c2e5"
+      }
+    }
+  },
+  {
+    "id": "6ca05466-1548-4f1b-b27f-66e632a272ba",
+    "symbol": "ECU",
+    "name": "Decurian",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xd3cdc4e75750dc1e59f8342200742b6b29490e70"
       }
     }
   }
