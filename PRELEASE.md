@@ -1,4 +1,20 @@
 
+## [1.43.1-beta.1]
+> 2025-12-22
+
+
+[f0ee93c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/f0ee93c) feat: [SYGN-17630](https://app.clickup.com/t/25577573/SYGN-17630)   add NIDT
+
+
+[0305250](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/0305250) fix:   update new_to_old_mapping
+
+
+[1bd5e16](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/1bd5e16) fix:   add missing tokens when converting to new currency
+
+
+[1.43.1-beta.1]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.43.1-beta.1
+
+
 ## [1.43.0-beta.1]
 > 2025-12-10
 
