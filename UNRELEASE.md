@@ -1,4 +1,13 @@
 
+## [1.43.1-alpha.3]
+> 2025-12-22
+
+[f0ee93c](https://github.com/CoolBitX-Technology/sygna-bridge-assembly/commit/f0ee93c) feat: [SYGN-17630](https://app.clickup.com/t/25577573/SYGN-17630)   add NIDT
+
+
+[1.43.1-alpha.3]: https://github.com/CoolBitX-Technology/sygna-bridge-assembly/releases/tag/1.43.1-alpha.3
+
+
 ## [1.43.1-alpha.2]
 > 2025-12-18
 
