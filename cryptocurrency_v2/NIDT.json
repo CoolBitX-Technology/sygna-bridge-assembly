@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bcb611cd-0208-482b-ba91-6ef7e7077f2f",
+    "symbol": "NIDT",
+    "name": "Nippon Idol Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x8ca328bb08b0ab920e792e5c67b718de4330fc9d"
+      }
+    }
+  }
+]
