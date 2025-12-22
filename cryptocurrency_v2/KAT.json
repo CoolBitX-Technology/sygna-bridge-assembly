@@ -8,5 +8,15 @@
         "token_address": "0xa858bc1b71a895ee83b92f149616f9b3f6afa0fb"
       }
     }
+  },
+  {
+    "id": "9e0bd66a-42b1-4a2e-8f86-8f209bd9a508",
+    "symbol": "KAT",
+    "name": "Kambria",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x14da230d6726c50f759bc1838717f8ce6373509c"
+      }
+    }
   }
 ]

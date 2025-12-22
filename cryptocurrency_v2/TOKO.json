@@ -8,5 +8,15 @@
         "token_address": "0xa0f0546eb5e3ee7e8cfc5da12e5949f3ae622675"
       }
     }
+  },
+  {
+    "id": "0df12510-5d66-40a1-8329-04218b84f816",
+    "symbol": "TOKO",
+    "name": "Tokoin",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0c963a1b52eb97c5e457c7d76696f8b95c3087ed"
+      }
+    }
   }
 ]

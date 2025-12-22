@@ -2,10 +2,20 @@
   {
     "id": "62db7eaa-7f6b-4f6b-a227-a03e52e37970",
     "symbol": "BOND",
-    "name": "BarnBridge",
+    "name": "Bonded Finance",
     "platforms": {
       "ethereum": {
         "token_address": "0x5dc02ea99285e17656b8350722694c35154db1e8"
+      }
+    }
+  },
+  {
+    "id": "c45945e8-1e14-463a-a309-91f5894a9261",
+    "symbol": "BOND",
+    "name": "BarnBridge",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x0391d2021f89dc339f60fff84546ea23e337750f"
       }
     }
   }

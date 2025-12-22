@@ -2,10 +2,20 @@
   {
     "id": "9397b473-9720-47c2-83b5-2a9ce2d7795d",
     "symbol": "GENE",
-    "name": "Parkgene",
+    "name": "Gene Source Code Chain",
     "platforms": {
       "ethereum": {
         "token_address": "0x884181554dfa9e578d36379919c05c25dc4a15bb"
+      }
+    }
+  },
+  {
+    "id": "9e1d167c-b1dc-4c27-a787-0aaac9c10ac4",
+    "symbol": "GENE",
+    "name": "Parkgene",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d"
       }
     }
   }

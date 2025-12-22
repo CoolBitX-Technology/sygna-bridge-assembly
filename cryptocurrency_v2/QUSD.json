@@ -8,5 +8,15 @@
         "token_address": "0xd6875274b000462f59e9327cbde2cef637914569"
       }
     }
+  },
+  {
+    "id": "ab9ad560-b1ba-48b5-84d3-48b3c0154beb",
+    "symbol": "QUSD",
+    "name": "QUSD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x59d4ccc94a9c4c3d3b4ba2aa343a9bdf95145dd1"
+      }
+    }
   }
 ]

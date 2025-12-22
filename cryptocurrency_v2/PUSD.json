@@ -2,10 +2,20 @@
   {
     "id": "408629ef-9988-4809-b9df-96f3003403bc",
     "symbol": "PUSD",
-    "name": "PayUSD",
+    "name": "PegsUSD",
     "platforms": {
       "ethereum": {
         "token_address": "0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a"
+      }
+    }
+  },
+  {
+    "id": "d5d97360-cb96-40d1-b623-6ead5aeee420",
+    "symbol": "PUSD",
+    "name": "PayUSD",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x38d389c300357a26beec198f3893fba54fde69c5"
       }
     }
   }

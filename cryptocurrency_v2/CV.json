@@ -8,5 +8,15 @@
         "token_address": "0xda6cb58a0d0c01610a29c5a65c303e13e885887c"
       }
     }
+  },
+  {
+    "id": "16580dcc-b9ea-4259-9aa6-5b4fcb8891d3",
+    "symbol": "CV",
+    "name": "carVertical",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x50bc2ecc0bfdf5666640048038c1aba7b7525683"
+      }
+    }
   }
 ]

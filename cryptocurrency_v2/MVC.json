@@ -2,10 +2,20 @@
   {
     "id": "4d398dd8-b724-4673-ba32-506655615ef5",
     "symbol": "MVC",
-    "name": "Maverick Chain",
+    "name": "MileVerse",
     "platforms": {
       "ethereum": {
         "token_address": "0x581911b360b6eb3a14ef295a83a91dc2bce2d6f7"
+      }
+    }
+  },
+  {
+    "id": "2d5ac545-e3ba-400e-b69c-1079d40667d5",
+    "symbol": "MVC",
+    "name": "Maverick Chain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3"
       }
     }
   }

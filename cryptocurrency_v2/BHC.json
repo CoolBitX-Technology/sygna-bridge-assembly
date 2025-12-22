@@ -4,11 +4,28 @@
     "symbol": "BHC",
     "name": "BHEX Token",
     "platforms": {
-      "binance-smart-chain": {
-        "token_address": "0xa6381c6fd8f40a44721ef4f61edc1a8ccca7bf3d"
-      },
       "ethereum": {
         "token_address": "0xfc29b6e626b67776675fff55d5bc0452d042f434"
+      }
+    }
+  },
+  {
+    "id": "0454f140-4ce7-487d-9995-f0e19c0db0ca",
+    "symbol": "BHC",
+    "name": "BillionHappiness",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4"
+      }
+    }
+  },
+  {
+    "id": "21976900-992d-48fe-a88e-a5b6dfaf36eb",
+    "symbol": "BHC",
+    "name": "BillionHappiness[old]",
+    "platforms": {
+      "binance-smart-chain": {
+        "token_address": "0xa6381c6fd8f40a44721ef4f61edc1a8ccca7bf3d"
       }
     }
   }

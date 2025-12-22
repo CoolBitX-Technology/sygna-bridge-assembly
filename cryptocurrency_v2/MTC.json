@@ -2,10 +2,20 @@
   {
     "id": "39889d50-9def-456f-861a-c94f26512f29",
     "symbol": "MTC",
-    "name": "MTC Mesh Network",
+    "name": "DOC.COM",
     "platforms": {
       "ethereum": {
         "token_address": "0x905e337c6c8645263d3521205aa37bf4d034e745"
+      }
+    }
+  },
+  {
+    "id": "351e740a-0205-4f1a-a78d-67236b3654e7",
+    "symbol": "MTC",
+    "name": "MTC Mesh Network",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088"
       }
     }
   }

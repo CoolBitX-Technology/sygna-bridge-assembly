@@ -8,5 +8,15 @@
         "token_address": "0x7d85e23014f84e6e21d5663acd8751bef3562352"
       }
     }
+  },
+  {
+    "id": "153c9b69-eae6-4f3c-8519-860d061144d9",
+    "symbol": "AXN",
+    "name": "Axion",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x71f85b2e46976bd21302b64329868fd15eb0d127"
+      }
+    }
   }
 ]

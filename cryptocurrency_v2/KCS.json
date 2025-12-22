@@ -2,10 +2,20 @@
   {
     "id": "3210d68e-9a0f-49e8-81f5-bdba88f322d4",
     "symbol": "KCS",
-    "name": "KuCoin Token",
+    "name": "KuCoin Shares",
     "platforms": {
       "ethereum": {
         "token_address": "0x039b5649a59967e3e936d7471f9c3700100ee1ab"
+      }
+    }
+  },
+  {
+    "id": "0acc7ce3-7145-407a-bd48-26eeb24ac940",
+    "symbol": "KCS",
+    "name": "KuCoin Token",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811"
       }
     }
   }

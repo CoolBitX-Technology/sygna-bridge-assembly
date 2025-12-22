@@ -2,10 +2,30 @@
   {
     "id": "c2670393-7e4a-4989-b0c4-bcf09b7b8b0c",
     "symbol": "ORC",
-    "name": "Oracle System",
+    "name": "Originate Coin",
     "platforms": {
       "ethereum": {
         "token_address": "0x1c09ef4493465569f6d704a5cc4f9864bcd2e56a"
+      }
+    }
+  },
+  {
+    "id": "f9110b2c-2d3b-4de9-b5a3-f4f7fd5b54dc",
+    "symbol": "ORC",
+    "name": "Orbit Chain",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x662b67d00a13faf93254714dd601f5ed49ef2f51"
+      }
+    }
+  },
+  {
+    "id": "25daafe0-7763-4d54-b3e5-4d6f20cc9702",
+    "symbol": "ORC",
+    "name": "Oracle System",
+    "platforms": {
+      "ethereum": {
+        "token_address": "0x324af2d5353f2dd138e234b359d30d67c64b1b20"
       }
     }
   }
